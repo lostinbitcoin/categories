@@ -1,5 +1,5 @@
 ---
-title: With #Bitcoin, it's possible to take an ownership stake in the entire Internet of Value
+title: 「価値のインターネット」の基盤を購入する千載一遇のチャンス
 taxonomy:
     category:
         - foundation
@@ -7,13 +7,11 @@ taxonomy:
         - beginner
 ---
 
-#「価値のインターネット」の基盤を購入する千載一遇のチャンス
-
 ![ビットコインは「価値のインターネット」の基盤](/_images/with-bitcoin-it-is-possible-to-take-an-ownership-stake-in-the-entire-lov.png)
 
 ##ビットコインを所有することは「価値のインターネット」が構築される基盤を区画所有すること
 
-|  ![Category](_images/category.png)  |  ビットコインの基礎知識  |  ![Tag](_images/tag.png)  |  初級  | ![Time](_images/timer.png)  |  1分  |
+|  ![Category](_images/category-img.png)  |  ビットコインの基礎知識  |  ![Tag](_images/tag-img.png)  |  初級  | ![Time](_images/timer-img.png)  |  1分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は [Croesus](https://twitter.com/Croesus_BTC) 氏著「[With #Bitcoin, it's possible to take an ownership stake in the entire Internet of Value.](https://twitter.com/Croesus_BTC/status/1367165017280237569)」（2021年3月4日公開）を [Kan@kankichi77](https://twitter.com/kankichi77) が翻訳、[Teruko@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
