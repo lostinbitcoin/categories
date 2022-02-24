@@ -13,6 +13,7 @@ img[alt*="Tag"],
 img[alt*="Time"] {
     width:30px;
     height:30px;
+    object-fit: cover;
 }
 p {
     color: #3d362d;
