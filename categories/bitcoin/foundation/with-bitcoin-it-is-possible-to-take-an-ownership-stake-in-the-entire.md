@@ -18,7 +18,7 @@ p {
     color: #3d362d;
 }
 a {
-    #ff9f1c;
+    color: #ff9f1c;
 }
 a:hover {
     color: #2ec4b6;
