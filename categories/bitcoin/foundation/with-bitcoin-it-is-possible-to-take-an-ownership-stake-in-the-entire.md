@@ -9,6 +9,8 @@ taxonomy:
 
 ![ビットコインは「価値のインターネット」の基盤](/_images/with-bitcoin-it-is-possible-to-take-an-ownership-stake-in-the-entire-lov.png)
 
+<img style="width:30px;height:30px" src="/_images/category.png" alt="альтернативный текст" />
+
 ##ビットコインを所有することは「価値のインターネット」が構築される基盤を区画所有すること
 
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  1分  |
