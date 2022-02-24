@@ -8,9 +8,20 @@ taxonomy:
 ---
 
 <style>
-img[src*="#size"] {
-   width:30px;
-   height:30px;
+img[alt*="Category"], 
+img[alt*="Tag"], 
+img[alt*="Time"] {
+    width:30px;
+    height:30px;
+}
+p {
+    color: #3d362d;
+}
+a {
+    #ff9f1c;
+}
+a:hover {
+    color: #2ec4b6;
 }
 </style>
 
@@ -18,7 +29,7 @@ img[src*="#size"] {
 
 ##ビットコインを所有することは「価値のインターネット」が構築される基盤を区画所有すること
 
-|  ![Category](/_images/category.png#size)  |  ビットコインの基礎知識  |  ![Tag](/_images/tag.png#size)  |  初級  | ![Time](/_images/timer.png#size)  |  1分  |
+|  ![Category](/_images/category.png)  |  ビットコインの基礎知識  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  1分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は [Croesus](https://twitter.com/Croesus_BTC) 氏著「[With #Bitcoin, it's possible to take an ownership stake in the entire Internet of Value.](https://twitter.com/Croesus_BTC/status/1367165017280237569)」（2021年3月4日公開）を [Kan@kankichi77](https://twitter.com/kankichi77) が翻訳、[Teruko@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
