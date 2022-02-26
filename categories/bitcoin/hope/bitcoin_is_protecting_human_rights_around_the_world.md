@@ -28,7 +28,7 @@ a:hover {
 }
 </style>
 
-<center><video src="https://youtu.be/xLYYh4aPXAM.mp4" type="video/mp4" controls playsinline webkit-playsinline></video></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/xLYYh4aPXAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ##ビットコインは専制主義国家から逃れる非常口
 
