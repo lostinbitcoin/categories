@@ -18,6 +18,9 @@ img[alt*="Time"] {
 p {
     color: #3d362d;
 }
+p img {
+    text-align:center;
+}
 a {
     color: #ff9f1c;
 }
@@ -45,23 +48,23 @@ $(document).ready( function () {
  
 米ドルは年２％のインフレ目標の下、必要に応じて供給量が増やされます。供給上限はありません。
 
-<center>![米ドル（現在）](/_images/comparison_of_dollars_gold_and_bitcoin_1.png)</center>
+![米ドル（現在）](/_images/comparison_of_dollars_gold_and_bitcoin_1.png)
 
 ２％のインフレ目標を達成するために、米ドルの総供給量は意図的に増やされます。１年後、１単位（１ドル）当たりの購買力は<２％低下します。
 
 米ドルの供給は2010年以降、毎年<８％増えています（出典：[https://fred.stlouisfed.org/series/M2](https://fred.stlouisfed.org/series/M2)）。
 
-<center>![米ドル（１年後）](/_images/comparison_of_dollars_gold_and_bitcoin_2.png)</center>
+![米ドル（１年後）](/_images/comparison_of_dollars_gold_and_bitcoin_2.png)
 
 米ドルと異なり、金の採掘は自由裁量に任されています。供給調整が自由市場に委ねられた結果、金の総供給量は毎年<２%増え続けています。供給上限は不明です。
 
-<center>![金（現在）](/_images/comparison_of_dollars_gold_and_bitcoin_3.png)</center>
+![金（現在）](/_images/comparison_of_dollars_gold_and_bitcoin_3.png)
 
 グローバルGDPの成長率も<２％と金の総供給量の増加率と同程度なため、１年後も１単位（１グラム）当たりの購買力は横ばいです。
 
 購買力を維持する金は、米ドルよりは価値を保存する媒体として優れています（出典：[https://www.macrotrends.net/countries/WLD/world/gdp-growth-rate](https://www.macrotrends.net/countries/WLD/world/gdp-growth-rate)）。
 
-<center>![金（１年後）](/_images/comparison_of_dollars_gold_and_bitcoin_4.png)</center>
+![金（１年後）](/_images/comparison_of_dollars_gold_and_bitcoin_4.png)
 
 供給上限のない米ドルや不明な金と異なり、ビットコインの供給上限はあらかじめ決まっています。ビットコインは人類史上初の供給量を人為的に増やすことができない貨幣なのです。
 
@@ -69,4 +72,4 @@ $(document).ready( function () {
 
 苦労して稼いだお金の価値、あなたならどの貨幣に貯蔵しますか？
 
-<center>![ビットコイン](/_images/comparison_of_dollars_gold_and_bitcoin_5.png)</center>
+![ビットコイン](/_images/comparison_of_dollars_gold_and_bitcoin_5.png)
