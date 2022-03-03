@@ -45,9 +45,6 @@ $(document).ready( function () {
  
 米ドルは年２％のインフレ目標の下、必要に応じて供給量が増やされます。供給上限はありません。
 
-<p align="center">
-    <img src="https://lostinbitcoin.jp/wp-content/uploads/2022/03/comparison_of_dollars_gold_and_bitcoin_1.png" alt="米ドル（現在）">
-</p>
 
 ２％のインフレ目標を達成するために、米ドルの総供給量は意図的に増やされます。１年後、１単位（１ドル）当たりの購買力は<２％低下します。
 
