@@ -28,6 +28,13 @@ a:hover {
 }
 </style>
 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']").attr('target', '_blank');
+})
+</script>
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/xLYYh4aPXAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ##ビットコインは専制主義国家から逃れる非常口

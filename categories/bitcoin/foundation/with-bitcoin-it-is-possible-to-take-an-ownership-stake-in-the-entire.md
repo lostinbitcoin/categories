@@ -18,6 +18,9 @@ img[alt*="Time"] {
 p {
     color: #3d362d;
 }
+p img {
+    text-align:center;
+}
 a {
     color: #ff9f1c;
 }
@@ -25,6 +28,13 @@ a:hover {
     color: #2ec4b6;
 }
 </style>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']").attr('target', '_blank');
+})
+</script>
 
 ![ビットコインは「価値のインターネット」の基盤](/_images/with-bitcoin-it-is-possible-to-take-an-ownership-stake-in-the-entire-lov.png)
 

@@ -18,6 +18,9 @@ img[alt*="Time"] {
 p {
     color: #3d362d;
 }
+p img {
+    text-align:center;
+}
 a {
     color: #ff9f1c;
 }
@@ -26,9 +29,16 @@ a:hover {
 }
 </style>
 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']").attr('target', '_blank');
+})
+</script>
+
 ##ビットコインは「国家と貨幣の分離」という悲願達成への唯一の希望、しかも、このプロセスはもう後戻りできないところまで来ています。
 
-|  ![Category](/_images/category.png)  |  ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  x分  |
+|  ![Category](/_images/category.png)  |  ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  8分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事はKnoxの開発者 [Thibaud Maréchal](https://twitter.com/thibm_) 氏が [Bitcoin Magazine](https://bitcoinmagazine.com/) に寄稿した「[THE GREAT PLAGUE OF SHITCOINERY](https://bitcoinmagazine.com/culture/the-great-plague-of-shitcoinery)」（2020年10月5日公開）を [Aki T. @akipponn](https://twitter.com/akipponn) が翻訳、[Teruko@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
