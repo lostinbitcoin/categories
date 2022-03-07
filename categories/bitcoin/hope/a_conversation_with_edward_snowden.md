@@ -47,4 +47,4 @@ $(document).ready( function () {
 
 xxx
 
-<center><video src="https://www.youtube.com/watch?v=w7XpI0fRnIg.mp4" type="video/mp4" controls playsinline webkit-playsinline></video></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/w7XpI0fRnIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
