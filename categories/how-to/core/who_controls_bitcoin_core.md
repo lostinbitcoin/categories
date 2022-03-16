@@ -44,7 +44,7 @@ $(document).ready( function () {
 
 _本記事は [Casa](https://keys.casa/) の共同創設者＆最高技術責任者　[JAMESON LOPP](https://twitter.com/lopp) 氏著「 [Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/) 」（2018年12月15日公開）を [Katakoto](https://twitter.com/katakoto) が翻訳、[Teruko@TerukoNeriki](https://twitter.com/TerukoNeriki)  が一部加筆修正したものです。_
 
-![ビットコインノード（2018/12/09）](images/who_controls_bitcoin_core_1.png)
+![ビットコインノード（2018/12/09）](/_images/who_controls_bitcoin_core_1.png)
 
 
 [Bitcoin Core](https://bitcoincore.org/) の [GitHub](https://github.com/bitcoin/bitcoin) リポジトリにコード変更をマージする権限は一体誰が持っているのか？これは非常によくある質問です。長年、関係者の間では、マージ権限がビットコインプロトコルの「管理中枢」とされてきました。しかし、私はこの質問自体が権威主義的で的外れだと考えます。私の主張に賛同する人は少ないでしょう。そこで本記事では、 Bitcoin Core の開発現場、さらにはビットコインプロトコルの進化過程を解説します。
@@ -148,7 +148,7 @@ Bitcoin Core にはテストコードが多数用意されており、すべて�
 
 または Marco Flake がホストしているカバレッジレポートを[こちら](https://marcofalke.github.io/btc_cov/test_bitcoin.coverage/index.html)から確認できます。
 
-![コードカバレッジレポート](images/who_controls_bitcoin_core_2.png)
+![コードカバレッジレポート](/_images/who_controls_bitcoin_core_2.png)
 
 コードカバレッジ・レポート
 
@@ -158,7 +158,7 @@ Bitcoin Core にはテストコードが多数用意されており、すべて�
 
 「テストとはソフトウェアのテストです。ではテストのテストとは？テストをテストするには、ソフトウェアを壊さなければなりません。」—  Greg Maxwell 
 
-[Greg Maxwell: A Deep Dive Into Bitcoin Core 0.15](https://www.youtube.com/watch?v=nSRoEeqYtJA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nSRoEeqYtJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # 自由な市場競争
@@ -167,7 +167,7 @@ BitMEX がビットコイン実装のエコシステムについて[素晴らし
 
 本記事執筆時点で、アクセス可能なビットコインノードの96％は Bitcoin Core のいずれかのバージョンを実行しています。なぜ Bitcoin Core がここまで優勢なのでしょうか？他の実装への乗り換えコストがゼロに近い場合、Bitcoin Core が独占的地位を維持できる理由は何でしょう？答えは、他の実装も結局はその大半が Bitcoin Core と互換性があるか、少なくとも Bitcoin Core に非常に類似した RPC API を提供しているからです。
 
-![ビットコインノード（2018/12/09）](images/who_controls_bitcoin_core_1.png)
+![ビットコインノード（2018/12/09）](/_images/who_controls_bitcoin_core_1.png)
 
 これは Bitcoin Core が開発のフォーカルポイントであることの証明だと私は考えています。 Bitcoin Core は他の実装と比べて開発者のレベルの高さと数の多さが桁違いなため、Bitcoin Core のソフトウェアはパフォーマンス、堅牢性、安全性が最も高い傾向にあります。ノード運用者は大切なお金を管理するのに、わざわざ２番目に優れたソフトウェアを選ばないでしょう。またビットコインはコンセンサスソフトウェアであり、ビットコインプロトコルには公式仕様が存在しません（この点についてのコンセンサスはないですが）。なぜなら仕様を決める権限を持つ人がいないからです。こうした状況では、フォーカルポイントの実装を選ぶ方が安全です。バグまで含めて他のネットワーク参加ノードと互換性を保てる可能性が高いためです。この意味において、開発フォーカルポイントのコードは実質的に公式仕様に最も近いと言えます。
 
