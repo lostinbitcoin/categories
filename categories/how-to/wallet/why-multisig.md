@@ -1,0 +1,85 @@
+<!-----
+Conversion notes:
+
+* Docs to Markdown version 1.0β33
+* Thu Mar 10 2022 23:58:26 GMT-0800 (PST)
+* Source doc: マルチシグを推奨する理由
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+
+# マルチシグを推奨する理由
+
+
+## シングルシグとマルチシグ、それぞれの仕組みと利点
+
+_本記事は [Unchained Capital](https://unchained.com/) のブログ記事「[Multisig Series Part I: Why Multisig?](https://unchained.com/blog/why-multisig/)」（2021年2月20日公開）を[葉@cryptohinomaru](https://twitter.com/cryptohinomaru) が翻訳、[Teruko@TerukoNeriki](https://twitter.com/TerukoNeriki)が一部加筆修正したものです。_
+
+弊社ブログでは、これまで[経済学](https://unchained.com/blog/category/gradually-then-suddenly/)、[データサイエンス](https://unchained.com/blog/category/data-science/)、[天文学](https://unchained.com/blog/category/bitcoin-astronomy/)といった幅広い視点からビットコインを考察してきました。本記事はマルチシグをテーマに、その仕組みや利点を説明します。３回目の半減期が近づき、ビットコイン保有者も着実に増えている今、ビットコイン管理の安全性を高める技術であるマルチシグに関する包括的情報のニーズを感じています。ビットコインは今後更なる価値上昇が予測されるため、その安全な管理法もますます重要になっていきます。
+
+
+## ビットコイン管理、自分でするか、第三者に託すか
+
+ビットコインの誕生により、私たちは自分のお金を誰にも頼らず、誰からも干渉されず、自身で管理するという新たな選択肢を手にしました。ビットコインの所有権を主張するには、秘密鍵を自ら管理する必要があります。秘密鍵はビットコインの送金を承認する印鑑のようなものです。秘密鍵の管理を第三者に任せる場合、そのビットコインの送金権限を持つのはあなたではなく、秘密鍵を持つ第三者になります。つまり、そのビットコインはあなたのものではなく、第三者のものです。秘密鍵の自己管理を放棄することは、ビットコインの存在理由を否定することに等しいのです。とはいえ、ビットコイン管理は容易ではなく、修行のようなものなので、初めから完璧を目指すより、段階的に理想に近づくのが現実的です。ほとんどの人は中央集権型取引所でビットコインを購入し、購入したビットコインをそのまま取引所で保管するところから始めます。
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+
+
+保有者が自己管理していると思われるビットコインは1,250万 BTC。出典：[Coinmetrics](https://coinmetrics.substack.com/p/coin-metrics-state-of-the-network-41d), [Coinshares](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb), [HODL Waves](https://unchained.com/hodlwaves/)
+
+ビットコインを自分で管理する方法にハードウェアウォレット（ビットコインの秘密鍵を保管するための専用デバイス）の利用があります。ハードウェアウォレットを介して秘密鍵を物理的に保有することで、ビットコイン送金の際、取引所による送金の検閲や差止めといった金融プライバシーや財産権の侵害を回避できます。また、第三者にビットコインの保管を託す場合に想定すべきリスク、いわゆるカストディリスクも排除できます。通常、中央集権型取引所は顧客にログインIDやパスワードを管理させる上に二段階認証を求めたりと、アカウント単位の安全性を担保する責任を顧客に押しつけます。しかし、こうした認証技術は暗号学に基づく秘密鍵に比べて安全性で劣る上、秘密鍵管理と比べてユーザー負担を軽減するわけでもありません。また、中央集権型取引所は顧客のビットコインを大量保管するため、ハッカーにとっては絶好の標的です（世界最大の取引所Coinbaseが保管するビットコインは100万 BTCを超えると言われます）。ビットコインを自分で管理すれば、取引所がハッカーから攻撃を受けても、あなたのビットコインが盗まれることはありません。さらに、もし取引所が破産しても、口座や残高が凍結されてビットコインにアクセスできなくなる事態を避けられます。
+
+そうはいっても、ビットコインの自己管理は責任が重すぎると感じる人も多いでしょう。秘密鍵の適切な管理法や運用面でのリスクを十分理解していないと、自己管理することで逆にセキュリティが下がる可能性もあります。ビットコインを自己管理する場合は、以下４つを秘密裏かつ安全に管理することが求められます。
+
+
+
+1. 秘密鍵を保管するハードウェアウォレット
+2. PINコード
+ハードウェアウォレットにアクセスするために必要なもの
+3. シードフレーズ（別名ニモニック、リカバリーフレーズ、復元フレーズなど） 
+盗難、破損、紛失等でハードウェアウォレットにアクセスできなくなった場合、ウォレットで管理していたビットコインに別のウォレットからアクセスできるようにするもの
+4. パスフレーズ
+２のシードフレーズを使ってウォレット残高へのアクセスを回復するときに必要なもの。（パスフレーズの設定と利用はオプションなので、設定していない場合は不要。）
+
+自由と責任は表裏一体です。ビットコインを使うことで得られる自由には自己管理という責任が伴います。ビットコインの自己管理では、ハッカーからの攻撃だけではなく、自らの落ち度でビットコインを失うリスクも想定して対策を講じる必要があります。ありがたいことに、自己管理に伴うリスクは正しい知識を得ることで回避可能です。一方のカストディリスクは、取引所などの第三者機関が抱える単一障害点に起因するため回避不可能です。これこそが、第三者に管理を託すよりも自己管理の方が安全な理由です。
+
+
+## シングルシグとマルチシグ
+
+ビットコインの自己管理には２つの手法があり、それぞれ送金に必要な秘密鍵（で行う署名）の数が異なります。１つの秘密鍵（の署名）で送金できる方法をシングルシグ（シングルシグネチャーの略で１つの署名という意味）と呼びます。シングルシグでは、秘密鍵とそのバックアップであるシードフレーズ（パスフレーズを設定した場合はパスフレーズも）が単一障害点になるため、どちらかが流出するとビットコインを失うことになります。以下の状況を想像してみてください。
+
+
+
+* ハードウェアウォレットが悪意ある人の手に渡り、総当たり攻撃でPINコードが割り出された
+* ハードウェアウォレットを紛失してしまったが、シードフレーズを紙に書いていなかった、あるいは書いた紙をどこに保管したのか思い出せない
+* 知らぬ間にシードフレーズを書いた紙が盗まれていた
+* パスフレーズを設定したけど、忘れてしまった
+* ビットコイン管理法を家族に伝える前に、あなたに万が一のことが起きた
+
+シングルシグは、こうした取り返しのつかないミスと常に隣り合わせです。損害に気づいた時には後の祭りです。一方、シングルシグには手軽に送金できる、秘密裏かつ安全に管理すべきアイテムが少ないというメリットがあります。利便性とのトレードオフで、リスクを許容できる人もいるでしょう。しかし、送金頻度の少ない人、ビットコインを大量保有する人には、単一障害点を持つシングルシグはリスクが大きすぎます。こういう人にはマルチシグというソリューションがおすすめです。
+
+
+## マルチシグを推奨する理由
+
+マルチシグの利点は秘密鍵管理に冗長性を持たせられることです。１つの秘密鍵（による署名）で送金できてしまうシングルシグと異なり、マルチシグは送金に複数の秘密鍵（による署名）を必要とします。（マルチシグはマルチシグネチャーの略で複数の署名という意味です。）例えるなら、マルチシグは同時に複数の鍵で解錠しなければ開かない扉のようなものです。
+
+[https://twitter.com/unchainedcap/status/1154417352278204418?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1154417352278204418%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Funchained.com%2Fblog%2Fwhy-multisig%2F](https://twitter.com/unchainedcap/status/1154417352278204418?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1154417352278204418%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Funchained.com%2Fblog%2Fwhy-multisig%2F)
+
+マルチシグアドレスは利用者のニーズに合わせて柔軟に構築可能です。例えば、２-of-３や３-of-５のように、M-of-N（送金にN個の秘密鍵のうちM個を必要とする設定）のMとNを任意に組み合わせることができます。Mを１より大きくすることで、送金に複数の秘密鍵が必要となるため、秘密鍵が単一障害点になりません。２-of-３マルチシグの秘密鍵の１つを家族や Unchained Capital のような事業者に預けることも可能です。この場合でも、送金権限、つまりビットコインの所有権は独占的に保持できます。
+
+秘密鍵の喪失がビットコインの喪失に直結するシングルシグとは異なり、マルチシグでは秘密鍵の１つを失くしてもビットコインは無事です。また、マルチシグの一部の秘密鍵を家族や事業者など信用できる第三者に預ける場合でも、ビットコインの所有権を維持できます。マルチシグで管理するビットコインを送金するには、複数の秘密鍵（による署名）と秘密鍵以外のメタデータ（Redeem Script、拡張公開鍵または公開鍵）が求められます。マルチシグは安全性が高いというメリットがありますが、送金および情報管理が煩雑になるというデメリットがあることも覚えておいてください。
