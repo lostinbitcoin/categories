@@ -40,6 +40,9 @@ $(document).ready( function () {
 
 ### ビットコインの自己管理においてすべきことと、してはいけないこと
 
+|  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  10分  |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+
 _本記事は  [Casa](https://keys.casa/) の共同創業者で最高技術責任者 [Jameson Lopp](https://twitter.com/lopp) 氏著「[The dos and don'ts of Bitcoin key management](https://blog.keys.casa/the-dos-and-donts-of-bitcoin-key-management/)」（2020年6月6日公開）を [@akipponn](https://twitter.com/akipponn) が翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。_
 
 ビットコインはユーザーに自分の資産に対して非常に高いレベルの主権を提供します。「自分の資産は自分で守れ」（be your own bank）という言い回しを聞いたことがある人もいるかもしれません。これはビットコインが所有者に与える力をうまく表現しています。一方で資産を自ら守るには多大な責任を伴います。ビットコインの価値の源泉とも言える特徴（誰でも自由に参加できるオープンな決済ネットワーク、送金の検閲や資産の押収が困難なことなど）は、悪意のある攻撃者にとっても魅力的なものです。攻撃者はビットコイン所有者を騙して資産を奪うべくさまざまな罠を考案し、ビットコインの安全管理を困難にしています。インターネットは危険な場所です。でもご心配なく。自分の身と資産を守るためのツールはあります！
