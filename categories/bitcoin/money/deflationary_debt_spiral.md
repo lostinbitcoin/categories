@@ -28,16 +28,13 @@ a:hover {
 }
 </style>
 
-[![ ](/_images/deflationary_debt_spiral_1.jpeg)](https://blog.bitmex.com/ja_jp-bitcoin-economics-part-3/)
-
-![ ](/_images/deflationary_debt_spiral_2.png)
-
-[続きを読む](https://blog.bitmex.com/ja_jp-bitcoin-economics-part-3/)
-
+###経済学者はなぜビットコインのデフレ的性質を批判するのか？貨幣と債務を分断するビットコインはデフレスパイラルの解決策となりうるか？
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  中級、経済学  | ![Time](/_images/timer.png)  |  5分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は [BitMEX](https://www.bitmex.com/) が2018年6月10日に公開したものです。*
 
-経済学者がビットコインのデフレ的性質を批判する根拠、貨幣と債務を分断するビットコインがデフレスパイラル問題を解決する可能性などを考察。
+[![ ](/_images/deflationary_debt_spiral_1.jpeg)](https://blog.bitmex.com/ja_jp-bitcoin-economics-part-3/)
+
+[続きを読む](https://blog.bitmex.com/ja_jp-bitcoin-economics-part-3/)

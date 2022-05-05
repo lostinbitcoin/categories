@@ -2,6 +2,7 @@
 title: ハードマネー、1971年に一体何が起きたのか？
 taxonomy:
     category:
+        - bitcoin
         - money
     post_tag:
         - beginner
@@ -28,14 +29,12 @@ a:hover {
 }
 </style>
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/433038852?h=0e6926713b" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-##簡単かつ安価に際限なく発行できるお金が引き起こす深刻な問題
+###簡単かつ安価に際限なく発行できるお金が引き起こす深刻な問題
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級、経済学、政治  | ![Time](/_images/timer.png)  |  35分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本動画は [Richard James](https://twitter.com/rjames_BTC)氏が制作した「[HARD MONEY](https://www.hardmoneyfilm.com/)」（2020年7月公開）を [@btc_dakara](https://twitter.com/btc_dakara) が翻訳したものです。*
+*本動画は [Richard James](https://twitter.com/rjames_BTC)氏が制作した「[HARD MONEY](https://www.hardmoneyfilm.com/)」（2020年7月公開）を [@btc_dakara](https://twitter.com/btc_dakara) さんが翻訳したものです。*
 
 米ドルと金の兌換が突然停止された1971年のニクソンショックで始まった現在の法定通貨制度を検証するドキュメンタリー映画。
 
@@ -44,3 +43,5 @@ a:hover {
 金が法定通貨に代替された経緯、法定通貨制度のからくり、インフレという打出の小槌を手にしながら課税を続ける理由、インフレを前提とした経済の当然の結果として私たちが今直面する問題などが30分で学べます。時代を象徴する映像と音楽が効果的に使われたビットコインアート作品。
 
 「CC/Subtitle」ボタンをクリックして日本語字幕を選んでください。
+
+<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/433038852?h=0e6926713b" width="640" height="360" frameborder="0" allowfullscreen></iframe></center>

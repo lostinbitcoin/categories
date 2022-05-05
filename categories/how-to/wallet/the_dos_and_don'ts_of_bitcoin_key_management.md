@@ -37,13 +37,12 @@ $(document).ready( function () {
 })
 </script>
 
+### ビットコインの自己管理においてすべきこと、してはいけないこと
 
-### ビットコインの自己管理においてすべきことと、してはいけないこと
-
-|  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  10分  |
+|  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  16分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-_本記事は  [Casa](https://keys.casa/) の共同創業者で最高技術責任者 [Jameson Lopp](https://twitter.com/lopp) 氏著「[The dos and don'ts of Bitcoin key management](https://blog.keys.casa/the-dos-and-donts-of-bitcoin-key-management/)」（2020年6月6日公開）を [@akipponn](https://twitter.com/akipponn) が翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。_
+_本記事は  [Casa](https://keys.casa/) の共同創業者＆最高技術責任者 [Jameson Lopp](https://twitter.com/lopp) 氏著「[The dos and don'ts of Bitcoin key management](https://blog.keys.casa/the-dos-and-donts-of-bitcoin-key-management/)」（2020年6月6日公開）を [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。_
 
 ビットコインはユーザーに自分の資産に対して非常に高いレベルの主権を提供します。「自分の資産は自分で守れ」（be your own bank）という言い回しを聞いたことがある人もいるかもしれません。これはビットコインが所有者に与える力をうまく表現しています。一方で資産を自ら守るには多大な責任を伴います。ビットコインの価値の源泉とも言える特徴（誰でも自由に参加できるオープンな決済ネットワーク、送金の検閲や資産の押収が困難なことなど）は、悪意のある攻撃者にとっても魅力的なものです。攻撃者はビットコイン所有者を騙して資産を奪うべくさまざまな罠を考案し、ビットコインの安全管理を困難にしています。インターネットは危険な場所です。でもご心配なく。自分の身と資産を守るためのツールはあります！
 
@@ -149,7 +148,7 @@ Tor ブラウザを使ってビットコインの送金先アドレスを表示�
 ブレインウォレット（秘密鍵やシードフレーズを暗記すること）は避けてください。人間はエントロピー生成が苦手です。よく使う英単語を並べたシードフレーズで復元できるブレインウォレットに送金したビットコインは、数秒後には盗まれてしまうでしょう。
 
 [DEF CON 23 - Ryan Castellucci - ブレインウォレットをハックする](https://www.youtube.com/watch?v=foil0hzl4Pg)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/foil0hzl4Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/foil0hzl4Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 シャミアの秘密分散法には以下ブログ記事で詳しく説明した通り、欠点が多いため使わないでください。
 
@@ -158,7 +157,7 @@ Tor ブラウザを使ってビットコインの送金先アドレスを表示�
 シードフレーズを分割して分散保管するのは避けてください。総当たり攻撃への耐性が大幅に低下します。
 
 [ビットコイン Q&A： シードフレーズを分割してはいけない理由](https://www.youtube.com/watch?v=p5nSibpfHYE)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p5nSibpfHYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/p5nSibpfHYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 シードフレーズのバックアップに創造性は不要です。独自に考案したバックアップ方法は総じて安全性が低く、ウォレットを復元できなくなるリスクがあります。具体的なリスクについては以下記事をご参照ください。
 
@@ -169,7 +168,7 @@ Tor ブラウザを使ってビットコインの送金先アドレスを表示�
 ペーパーウォレットは使わないでください。ペーパーウォレットを安全に使うのは難しく、付随するリスクを十分に理解していないとビットコインを誤って失うことになるでしょう。 
 
 [ビットコイン Q&A： ペーパーウォレットのメリットとデメリット](https://www.youtube.com/watch?v=cKehFazo8Pw)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKehFazo8Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/cKehFazo8Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 弊社 Casa の新規顧客の共通点に、ハードウェアウォレットやペーパーウォレットなど複数のシングルシグウォレットにビットコインを分散保管していることがあります。これはビットコインを全て失うという致命的リスクを下げるものの、一部を失うリスクを高めます。_単一障害点を持つ複数のウォレットに秘密鍵を分散保管しても安全性は向上しません。_
 

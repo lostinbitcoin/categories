@@ -2,6 +2,7 @@
 title: 草コインという​​大疫病
 taxonomy:
     category:
+        - bitcoin
         - crypto
     post_tag:
         - beginner
@@ -36,12 +37,12 @@ $(document).ready( function () {
 })
 </script>
 
-##ビットコインは「国家と貨幣の分離」という悲願達成への唯一の希望、しかも、このプロセスはもう後戻りできないところまで来ています。
+###ビットコインは「国家と貨幣の分離」という悲願達成への唯一の希望、しかも、このプロセスはもう後戻りできないところまで来ています。
 
 |  ![Category](/_images/category.png)  |  ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  8分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本記事はKnoxの開発者 [Thibaud Maréchal](https://twitter.com/thibm_) 氏が [Bitcoin Magazine](https://bitcoinmagazine.com/) に寄稿した「[THE GREAT PLAGUE OF SHITCOINERY](https://bitcoinmagazine.com/culture/the-great-plague-of-shitcoinery)」（2020年10月5日公開）を [Aki T. @akipponn](https://twitter.com/akipponn) が翻訳、[Teruko@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
+*本記事はKnoxの開発者 [Thibaud Maréchal](https://twitter.com/thibm_) 氏が [Bitcoin Magazine](https://bitcoinmagazine.com/) に寄稿した「[THE GREAT PLAGUE OF SHITCOINERY](https://bitcoinmagazine.com/culture/the-great-plague-of-shitcoinery)」（2020年10月5日公開）を [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
 
 ![草コインという​​大疫病](/_images/the_great_plague_of_shitconery_1.webp)
 

@@ -37,13 +37,12 @@ $(document).ready( function () {
 })
 </script>
 
-
 ### 貨幣と国家の分離、オープンで透明性の高い代替金融システムの構築を目指すビットコイニズムとは
 
 |  ![Category](/_images/category.png)  |  ビットコインは希望、ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  16分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-_本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パートナー、[COIN METRICS](https://coinmetrics.io/#) 共同設立者 [NIC CARTER](https://twitter.com/nic__carter) 氏著「[A MOST PEACEFUL REVOLUTION](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)」（2019年9月8日公開）を [Teruko@TerukoNeriki](https://twitter.com/TerukoNeriki) が翻訳、一部加筆修正したものです。_
+_本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パートナー、[COIN METRICS](https://coinmetrics.io/#) 共同設立者 [NIC CARTER](https://twitter.com/nic__carter) 氏著「[A MOST PEACEFUL REVOLUTION](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)」（2019年9月8日公開）を [@TerukoNeriki](https://twitter.com/TerukoNeriki) が翻訳、一部加筆修正したものです。_
 
 ![ ](/_images/a_most_peaceful_revolution_1.PNG)
 

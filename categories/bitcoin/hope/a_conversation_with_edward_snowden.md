@@ -2,6 +2,7 @@
 title: プライバシー保護ツールとしてのビットコイン
 taxonomy:
     category:
+        - bitcoin
         - hope
     post_tag:
         - beginner
@@ -38,13 +39,13 @@ $(document).ready( function () {
 })
 </script>
 
-##やましいことなんてないからプライバシーは不要？
+###やましいことなんてないからプライバシーは不要？
 
-|  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  2分  |
+|  ![Category](/_images/category.png)  |  ビットコインは希望  |  ![Tag](/_images/tag.png)  |  初級、人権、政治  | ![Time](/_images/timer.png)  |  39分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本動画は2019年6月にサンフランシスコで開催された Bitcoin 2019 カンファレンスにおける [Edward Snowden](https://twitter.com/Snowden) 氏と [BTC Inc](https://b.tc/) CEO [David Bailey](https://twitter.com/DavidFBailey) の対談を  [Aki T. @akipponn](https://twitter.com/akipponn) が翻訳、[Teruko@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
+*本動画は2019年6月にサンフランシスコで開催された Bitcoin 2019 カンファレンスにおける [Edward Snowden](https://twitter.com/Snowden) 氏と [BTC Inc](https://b.tc/) CEO [David Bailey](https://twitter.com/DavidFBailey) 氏の対談を  [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
 
-xxx
+「隠すような、やましいことはしてないからプライバシーなんて要らない」と言うのは、「言いたいことがないから言論の自由なんて要らない」と言っているようなもの。プライバシーはあなたが思っている以上に大切なものかもしれません。
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/w7XpI0fRnIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

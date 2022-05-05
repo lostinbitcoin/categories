@@ -2,6 +2,7 @@
 title: 価値貯蔵手段としての米ドル、金、ビットコインの比較
 taxonomy:
     category:
+        - bitcoin
         - money
     post_tag:
         - beginner
@@ -36,12 +37,12 @@ $(document).ready( function () {
 })
 </script>
 
-##あなたが苦労して稼いだお金の価値を守ってくれる媒体はどれ？
+###あなたが苦労して稼いだお金の価値を守ってくれる媒体はどれ？
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  2分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本記事は [Croesus](https://twitter.com/Croesus_BTC) 氏著「[Comparison of dollars, gold, and Bitcoin as savings technologies](https://twitter.com/Croesus_BTC/status/1327685971685478400?s=20&t=lXmX35FxebqIi4sbx3Bukg)」（2020年11月15日公開）を [cryptophile₿](https://twitter.com/cryptophile_btc) が翻訳、[Teruko@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
+*本記事は [Croesus](https://twitter.com/Croesus_BTC) 氏著「[Comparison of dollars, gold, and Bitcoin as savings technologies](https://twitter.com/Croesus_BTC/status/1327685971685478400?s=20&t=lXmX35FxebqIi4sbx3Bukg)」（2020年11月15日公開）を [cryptophile₿](https://twitter.com/cryptophile_btc) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
 
 米ドル、金、ビットコインのうち、価値の貯蔵に適した貨幣財はどれでしょうか？
 どれも基本的には世界経済の成長とともに価値は上昇しますが、その価値上昇メカニズムは同じではありません。
