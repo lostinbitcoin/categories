@@ -43,7 +43,11 @@ $(document).ready( function () {
 
 _本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パートナー、[COIN METRICS](https://coinmetrics.io/#) 共同設立者 [NIC CARTER](https://twitter.com/nic__carter) 氏著「[A MOST PEACEFUL REVOLUTION](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)」（2019年9月8日公開）を [@TerukoNeriki](https://twitter.com/TerukoNeriki) が翻訳、一部加筆修正したものです。_
 
+<p align="center">
+  <img src="https://github.com/lostinbitcoin/categories/blob/078dd8b227a4d7a57399d32c60165a1e5c44aa03/_images/a_most_peaceful_revolution_1.png" />
+</p>
 <p align="center"><img src="images/a_most_peaceful_revolution_1.PNG"></p>
+
 <center>Jason Benjamin (@perfecthue)制作</center>
 
 
@@ -72,7 +76,7 @@ _本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パート�
 
 米国はビットコインを決済手段とする自由市場「シルクロード」の創設者[ロス・ウルブリヒト](https://rossulbricht.medium.com/who-deserves-this-6cff48f62b6f)に仮釈放なしの終身刑プラス懲役40年という判決を下した。中国はビットコイン取引を禁じ、インドはビットコイン所有を違法とする法案を検討している。
 
-<center>![ ](/_images/a_most_peaceful_revolution_2.PNG)</center>
+![ ](/_images/a_most_peaceful_revolution_2.PNG)
 <center>ビットコインの法的地位 ー 緑: 合法; 黄: 一部制限あり; ピンク: 審議中; 赤: 違法（[出典](https://commons.wikimedia.org/wiki/File:Legal_status_of_bitcoin_(new).png)）</center>
 
 今、世界が目撃しているのは戦争の兆候ではない。戦争はもうすでに始まっている。もちろん、20世紀のように兵士が気高く前線で対峙し、どちらかの戦力が尽きるまで撃ち合いをする戦争とは異なる。現在進行中の戦争は、反政府活動、爆弾テロ、経済制裁、ドローン攻撃、スタックスネットのような戦略的インフラを標的としたサイバー攻撃である。戦争でさえ仮想空間で行われる時代、反乱が仮想空間を舞台としてもおかしくないだろう。
@@ -84,7 +88,7 @@ _本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パート�
 
 16世紀にプロテスタントがカトリック教会の教義とローマ法王の権限に疑問を投げかけたように、サイファーパンク（政治、社会の変革手段として暗号技術利用を推進する活動家）も現状に疑問を呈している。インフレは本当に必要なのか？中央銀行が一存で通貨価値を操作できる環境を自由経済と呼べるのか？国家は国民の経済活動に対して自由裁量権を持つべきなのか？預金者は銀行（銀行が破綻した場合は最終的に納税者）が預金払い戻しに応じると盲目的に信用するしかないのか？銀行のデータベースに入力される数字は一体何の意味があるのか？
 
-<center> ![ ](/_images/a_most_peaceful_revolution_3.PNG)</center>
+![ ](/_images/a_most_peaceful_revolution_3.PNG)
 <center>物理的形態をとるビットコインというレアな画像</center>
 
 真の暗号資産、すなわち、代替貨幣制度は、政府とその腰巾着にとって大きな脅威である。インフレとシニョリッジという打ち出の小槌で自在に運営資金を調達できる政府の最大特権に対して、ビットコインは異議を申し立てているのだ。彼らがビットコインを冒涜的で検討にすら値しないと必死に切り捨てるのも無理はない。
@@ -102,7 +106,7 @@ _本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パート�
 
 例えば、ベネズエラでは、通貨ボリバルの非公式レート（市場レート）の発信が違法とされている。政府は為替レートを都合よく操作することで利益を得ているからだ。ベネズエラで最も人気がある為替レート情報サイト、DolarToday（アメリカのマイアミが運営拠点）は、ボリバルの対ドルレートをLocalBitcoins（ビットコインのP2P取引所）の取引情報を参考に算出している。
 
-<center>![ ](/_images/a_most_peaceful_revolution_4.PNG)</center>
+![ ](/_images/a_most_peaceful_revolution_4.PNG)
 <center>出典：[https://dolartoday.com/](https://dolartoday.com/)</center>
 
 ビットコインのP2P取引が盛んな市場が資本規制採用国、ハイパーインフレ国、政情不安定国に集中している事実は驚くことではない。LocalBitcoinsのデータを使った[Matt Ahlborg](https://medium.com/@mattahlborg)の[分析](https://medium.com/@mattahlborg/nuanced-analysis-of-localbitcoins-data-suggests-bitcoin-is-working-as-satoshi-intended-d8b04d3ac7b2)では、国民一人当たりのビットコイン取引が多い国として、ロシア、ベネズエラ、コロンビア、ナイジェリア、ケニア、ペルーが挙げられている。
