@@ -39,7 +39,7 @@ $(document).ready( function () {
 |  ![Category](/_images/category.png)  |  ビットコインよくある誤解  |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  |  11分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本動画は [ビットコイナー反省会](https://www.youtube.com/channel/UCRP9Ij6gL9IViB7MS3Ez9aw) が2021年6月に制作、公開したものです。*
+*本動画は [ビットコイナー反省会](https://www.youtube.com/channel/UCRP9Ij6gL9IViB7MS3Ez9aw) が制作、2021年6月に公開したものです。*
 
 ビットコイン定番FUD（不安・疑念・不信）の一つ、量子コンピュータが出たら暗号が破られてビットコインが盗まれるという説を検証。
 

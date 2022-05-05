@@ -39,7 +39,7 @@ $(document).ready( function () {
 |  ![Category](/_images/category.png)  |  ビットコインよくある誤解  |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  |  34分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本動画は [ビットコイナー反省会](https://www.youtube.com/channel/UCRP9Ij6gL9IViB7MS3Ez9aw) が2021年6月に制作、公開したものです。*
+*本動画は [ビットコイナー反省会](https://www.youtube.com/channel/UCRP9Ij6gL9IViB7MS3Ez9aw) が制作、2021年6月に公開したものです。*
 
 51%攻撃で出来ることと、出来ないこと、被害に遭わないための対策、ビットコインにとって果たして本当に脅威なのか、などを解説。
 

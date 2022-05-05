@@ -40,7 +40,7 @@ $(document).ready( function () {
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識  |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  | 12分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本動画は [ビットコイナー反省会](https://www.youtube.com/channel/UCRP9Ij6gL9IViB7MS3Ez9aw) が2021年6月に制作、公開したものです。*
+*本動画は [ビットコイナー反省会](https://www.youtube.com/channel/UCRP9Ij6gL9IViB7MS3Ez9aw) が制作、2021年6月に公開したものです。*
 
 ビットコインのフルノードの役割、重要性、フルノードと軽量ノードの違い、ノードの運用方法と費用などを解説。
 

@@ -39,7 +39,7 @@ $(document).ready( function () {
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  6分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本動画は [Coinbase Japan](https://www.coinbase.com/ja) が2021年10月28日に公開したものです。*
+*本動画は [Coinbase Japan](https://www.coinbase.com/ja) が制作、2021年10月28日に公開したものです。*
 
 ビットコインは多面的なので、人によって定義、魅力を感じる特性、期待することは十人十色。本動画では、「ビットコイン・スタンダード」翻訳者が考えるビットコイン・スタンダード（ビットコイン本位制）の定義、法定通貨制度の問題点、ビットコイン本位性の優位性を解説。
 
