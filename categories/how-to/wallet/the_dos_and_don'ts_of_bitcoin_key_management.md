@@ -146,7 +146,7 @@ Tor ブラウザを使ってビットコインの送金先アドレスを表示�
 
 ブレインウォレット（秘密鍵やシードフレーズを暗記すること）は避けてください。人間はエントロピー生成が苦手です。よく使う英単語を並べたシードフレーズで復元できるブレインウォレットに送金したビットコインは、数秒後には盗まれてしまうでしょう。
 
-<center>[DEF CON 23 - Ryan Castellucci - ブレインウォレットをハックする](https://www.youtube.com/watch?v=foil0hzl4Pg)</center>
+<center>DEF CON 23 - Ryan Castellucci - ブレインウォレットをハックする</center>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/foil0hzl4Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 シャミアの秘密分散法には以下ブログ記事で詳しく説明した通り、欠点が多いため使わないでください。
@@ -155,7 +155,7 @@ Tor ブラウザを使ってビットコインの送金先アドレスを表示�
 
 シードフレーズを分割して分散保管するのは避けてください。総当たり攻撃への耐性が大幅に低下します。
 
-[ビットコイン Q&A： シードフレーズを分割してはいけない理由](https://www.youtube.com/watch?v=p5nSibpfHYE)
+<center>ビットコイン Q&A： シードフレーズを分割してはいけない理由</center>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/p5nSibpfHYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 シードフレーズのバックアップに創造性は不要です。独自に考案したバックアップ方法は総じて安全性が低く、ウォレットを復元できなくなるリスクがあります。具体的なリスクについては以下記事をご参照ください。
@@ -166,7 +166,7 @@ Tor ブラウザを使ってビットコインの送金先アドレスを表示�
 
 ペーパーウォレットは使わないでください。ペーパーウォレットを安全に使うのは難しく、付随するリスクを十分に理解していないとビットコインを誤って失うことになるでしょう。 
 
-[ビットコイン Q&A： ペーパーウォレットのメリットとデメリット](https://www.youtube.com/watch?v=cKehFazo8Pw)
+<center>ビットコイン Q&A： ペーパーウォレットのメリットとデメリット</center>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/cKehFazo8Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 弊社 Casa の新規顧客の共通点に、ハードウェアウォレットやペーパーウォレットなど複数のシングルシグウォレットにビットコインを分散保管していることがあります。これはビットコインを全て失うという致命的リスクを下げるものの、一部を失うリスクを高めます。_単一障害点を持つ複数のウォレットに秘密鍵を分散保管しても安全性は向上しません。_

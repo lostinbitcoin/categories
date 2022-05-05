@@ -29,6 +29,12 @@ a:hover {
 }
 </style>
 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+})
+</script>
 ###簡単かつ安価に際限なく発行できるお金が引き起こすさまざまな問題
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級、経済学、政治  | ![Time](/_images/timer.png)  |  35分  |

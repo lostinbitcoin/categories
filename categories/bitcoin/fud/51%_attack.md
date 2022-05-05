@@ -28,6 +28,12 @@ a:hover {
 }
 </style>
 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+})
+</script>
 ###51％攻撃はビットコインにとって大きな脅威なのか？
 
 |  ![Category](/_images/category.png)  |  ビットコインよくある誤解  |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  |  34分  |

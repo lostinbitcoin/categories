@@ -27,16 +27,19 @@ a:hover {
 }
 </style>
 
-###一人前のビットコイナーになるまでの13ステップ
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+})
+</script>
+
+###一人前のビットコイナーになるまでの13ステップを踏んで自由と主権を回復しましょう！
 
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  5分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は [@libertariman](https://twitter.com/libertariman) さんが2018年6月10日に投稿したものです。*
-
-ビットコインは多面的で奥が深いです。情報量や複雑さに圧倒されてしまうかもしれませんが、今では専門家とみなされている人も、当然ですが最初は初心者でした。一気に追いつこうと焦る必要はありません。１段１段、階段を昇るようにレベルアップしていけば良いのです。
-
-一人前のビットコイナーに成長して自由と主権を回復しましょう！
 
 ![ ](/_images/how_to_become_a_bitcoiner_１.jpeg)
 

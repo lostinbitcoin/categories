@@ -36,6 +36,12 @@ $(document).ready( function () {
 })
 </script>
 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+})
+</script>
 ###ビットコインは専制主義国家から逃れる非常口
 
 |  ![Category](/_images/category.png)  |  ビットコインは希望  |  ![Tag](/_images/tag.png)  |  初級、人権、政治  | ![Time](/_images/timer.png)  |  6分  |

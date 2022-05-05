@@ -28,6 +28,13 @@ a:hover {
 }
 </style>
 
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+})
+</script>
+
 ###ビットコインは再生可能エネルギーの利用を拡大し、持続可能な社会への転換を後押しする
 
 |  ![Category](/_images/category.png)  |  ビットコインとエネルギー・環境問題  |  ![Tag](/_images/tag.png)  |  初級、中級  | ![Time](/_images/timer.png)  |  37分  |

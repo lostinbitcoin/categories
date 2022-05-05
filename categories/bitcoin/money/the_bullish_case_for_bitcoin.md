@@ -31,7 +31,12 @@ a:hover {
 }
 </style>
 
-
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+})
+</script>
 ### ビットコインのどこが従来貨幣より優れているのか？、ビットコインはどのように貨幣へと進化していくのか？、知っておくべきビットコインのリスクとは？
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  35分  |
