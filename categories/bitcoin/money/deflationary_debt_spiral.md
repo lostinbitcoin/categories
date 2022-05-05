@@ -28,7 +28,13 @@ a:hover {
 }
 </style>
 
-###経済学者はなぜビットコインのデフレ的性質を批判するのか？貨幣と債務を分断するビットコインはデフレスパイラルの解決策となりうるか？
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+})
+</script>
+###ビットコインのデフレ的性質は経済にとってマイナス？貨幣と債務を分断するビットコインはデフレスパイラルの解決策となりうるか？
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  中級、経済学  | ![Time](/_images/timer.png)  |  5分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |

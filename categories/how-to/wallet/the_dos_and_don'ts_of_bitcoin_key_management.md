@@ -36,7 +36,6 @@ $(document).ready( function () {
    $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
 })
 </script>
-
 ### ビットコインの自己管理においてすべきこと、してはいけないこと
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  16分  |
@@ -147,7 +146,7 @@ Tor ブラウザを使ってビットコインの送金先アドレスを表示�
 
 ブレインウォレット（秘密鍵やシードフレーズを暗記すること）は避けてください。人間はエントロピー生成が苦手です。よく使う英単語を並べたシードフレーズで復元できるブレインウォレットに送金したビットコインは、数秒後には盗まれてしまうでしょう。
 
-[DEF CON 23 - Ryan Castellucci - ブレインウォレットをハックする](https://www.youtube.com/watch?v=foil0hzl4Pg)
+<center>[DEF CON 23 - Ryan Castellucci - ブレインウォレットをハックする](https://www.youtube.com/watch?v=foil0hzl4Pg)</center>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/foil0hzl4Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 シャミアの秘密分散法には以下ブログ記事で詳しく説明した通り、欠点が多いため使わないでください。
