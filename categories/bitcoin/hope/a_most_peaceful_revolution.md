@@ -36,7 +36,6 @@ $(document).ready( function () {
    $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
 })
 </script>
-
 ### 貨幣と国家の分離、オープンで透明性の高い代替金融システムの構築を目指すビットコイニズムとは
 
 |  ![Category](/_images/category.png)  |  ビットコインは希望、ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  16分  |
