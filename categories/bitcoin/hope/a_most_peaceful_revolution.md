@@ -43,7 +43,7 @@ $(document).ready( function () {
 
 _本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パートナー、[COIN METRICS](https://coinmetrics.io/#) 共同設立者 [NIC CARTER](https://twitter.com/nic__carter) 氏著「[A MOST PEACEFUL REVOLUTION](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)」（2019年9月8日公開）を [@TerukoNeriki](https://twitter.com/TerukoNeriki) が翻訳、一部加筆修正したものです。_
 
-<center>![ ](/_images/a_most_peaceful_revolution_1.PNG)</center>
+<p align="center"><img src="images/a_most_peaceful_revolution_1.PNG"></p>
 <center>Jason Benjamin (@perfecthue)制作</center>
 
 
