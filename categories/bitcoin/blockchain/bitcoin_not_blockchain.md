@@ -4,6 +4,7 @@ taxonomy:
     category:
         - bitcoin
         - blockchain
+        - foundation
     post_tag:
         - beginner
 ---
@@ -39,7 +40,7 @@ $(document).ready( function () {
 
 ###実際にはビットコインなくしてブロックチェーンは成立しませんし、逆もまた然りです。
 
-|  ![Category](/_images/category.png)  |  ブロックチェーンはバズワード  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  22分  |
+|  ![Category](/_images/category.png)  |  ブロックチェーンはバズワード、ビットコインの基礎知識  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  22分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 _本記事は [Unchained Capital](https://unchained.com/) の事業開発担当 [Parker Lewis](https://twitter.com/parkeralewis) 氏著「[Bitcoin, Not Blockchain](https://unchained.com/blog/bitcoin-not-blockchain/)」（2019年9月6日公開）を [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。_
@@ -80,7 +81,7 @@ _本記事は [Unchained Capital](https://unchained.com/) の事業開発担当 
 2. ビットコインのトランザクション → 未承認トランザクションの清算（所有権のステータス変更）
 3. ブロック報酬（コインベース）トランザクション + トランザクション手数料 → ネットワークを守るマイナーへの報酬付与
 
-![ ](/_images/bitcoin_not_blockchain_3.png)")
+![ ](/_images/bitcoin_not_blockchain_3.png)
 
 マイナーはブロックを処理するために、エネルギーを消費してプルーフオブワークと呼ばれるプロセスに従事します。ノードにブロックを承認してもらうには、入力値が有効であるだけでなく、ネットワークの最新難易度を満たす必要があります。マイナーはビットコインの暗号学的ハッシュ関数（SHA-256）を使って、ナンスと呼ばれる乱数値をブロックに加えたデータセットのハッシュ値を求めます。ネットワークの難易度を満たすハッシュ値が得られるまで、ナンスを変えて計算を繰り返します。この作業は単純な推測と検証ですが、有効なブロックを見つけるには、確率的に数兆回繰り返す必要があります。ブロックにナンスを追加するのは無駄な作業だと思うかもしれません。しかし、この作業があるからこそ、マイナーはブロック生成に膨大なエネルギーを費やさざるを得ないのです。このプルーフオブワークのおかげで、ネットワークの攻撃コストは大幅に高まり、ネットワークの安全性が向上するのです。
 

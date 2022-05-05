@@ -42,7 +42,7 @@ $(document).ready( function () {
 |  ![Category](/_images/category.png)  |  ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  9分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-_本記事は [Bitcoin Magazine](https://bitcoinmagazine.com/) の編集者で [Kraken](https://www.kraken.com/) の寄稿者でもある [Pete Rizzo](https://twitter.com/pete_rizzo_) 氏が [Forbes](https://www.forbes.com/) に寄稿した「[Against Cryptocurrency: The Ethical Argument for Bitcoin Maximalism](https://www.forbes.com/sites/peterizzo/2021/09/29/against-cryptocurrency-the-ethical-argument-for-bitcoin-maximalism/?sh=4e8ed850371b)」（2021年9月29日公開）を [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。_
+*本記事は [Bitcoin Magazine](https://bitcoinmagazine.com/) の編集者で [Kraken](https://www.kraken.com/) の寄稿者でもある [Pete Rizzo](https://twitter.com/pete_rizzo_) 氏が [Forbes](https://www.forbes.com/) に寄稿した「[Against Cryptocurrency: The Ethical Argument for Bitcoin Maximalism](https://www.forbes.com/sites/peterizzo/2021/09/29/against-cryptocurrency-the-ethical-argument-for-bitcoin-maximalism/?sh=4e8ed850371b)」（2021年9月29日公開）を [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
 
 ![ ](/_images/against_cryptocurrency.png)
 <center>夜空に投影されるビットコインのロゴ（制作 MATTHEW KNUDSEN 氏）</center>
