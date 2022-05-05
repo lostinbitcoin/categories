@@ -104,4 +104,4 @@ Seigniorage（シニョリッジ、通貨発行益）は「seigneurage」と表�
 ![ ](/_images/the_great_plague_of_shitconery_7.webp)
 *[出典](https://medium.com/bull-bitcoin/the-world-is-waking-up-to-bitcoin-5d532a1188ce)*
 
-*本記事は Thibaud Meréchal による寄稿です。本記事中の意見は著者のものであり、必ずしも BTC Inc または Bitcoin Magazine の意見を反映したものではありません。*
+*本記事は Thibaud Meréchal 氏による寄稿です。本記事中の意見は著者のものであり、必ずしも BTC Inc または Bitcoin Magazine の意見を反映したものではありません。*

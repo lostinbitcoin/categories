@@ -44,7 +44,7 @@ $(document).ready( function () {
 
 ### シングルシグとマルチシグ、それぞれの仕組みと利点
 
-_本記事は [Unchained Capital](https://unchained.com/) のブログ記事「[Multisig Series Part I: Why Multisig?](https://unchained.com/blog/why-multisig/)」（2021年2月20日公開）を[@cryptohinomaru](https://twitter.com/cryptohinomaru) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki)が一部加筆修正したものです。_
+_本記事は [Unchained Capital](https://unchained.com/) のブログ記事「[Multisig Series Part I: Why Multisig?](https://unchained.com/blog/why-multisig/)」（2021年2月20日公開）を[@cryptohinomaru](https://twitter.com/cryptohinomaru) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。_
 
 弊社ブログでは、これまで[経済学](https://unchained.com/blog/category/gradually-then-suddenly/)、[データサイエンス](https://unchained.com/blog/category/data-science/)、[天文学](https://unchained.com/blog/category/bitcoin-astronomy/)といった幅広い視点からビットコインを考察してきました。本記事はマルチシグをテーマに、その仕組みや利点を説明します。３回目の半減期が近づき、ビットコイン保有者も着実に増えている今、ビットコイン管理の安全性を高める技術であるマルチシグに関する包括的情報のニーズを感じています。ビットコインは今後更なる価値上昇が予測されるため、その安全な管理法もますます重要になっていきます。
 
@@ -87,7 +87,7 @@ _本記事は [Unchained Capital](https://unchained.com/) のブログ記事「[
 
 マルチシグの利点は秘密鍵管理に冗長性を持たせられることです。１つの秘密鍵（による署名）で送金できてしまうシングルシグと異なり、マルチシグは送金に複数の秘密鍵（による署名）を必要とします。（マルチシグはマルチシグネチャーの略で複数の署名という意味です。）例えるなら、マルチシグは同時に複数の鍵で解錠しなければ開かない扉のようなものです。
 
-[https://twitter.com/unchainedcap/status/1154417352278204418?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1154417352278204418%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Funchained.com%2Fblog%2Fwhy-multisig%2F](https://twitter.com/unchainedcap/status/1154417352278204418?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1154417352278204418%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Funchained.com%2Fblog%2Fwhy-multisig%2F)
+>[東方正教会の修道士は貴重な遺品を保管するのに4-of-4のマルチシグを採用しています。](https://twitter.com/unchainedcap/status/1154417352278204418?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1154417352278204418%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Funchained.com%2Fblog%2Fwhy-multisig%2F)
 
 マルチシグアドレスは利用者のニーズに合わせて柔軟に構築可能です。例えば、２-of-３や３-of-５のように、M-of-N（送金にN個の秘密鍵のうちM個を必要とする設定）のMとNを任意に組み合わせることができます。Mを１より大きくすることで、送金に複数の秘密鍵が必要となるため、秘密鍵が単一障害点になりません。２-of-３マルチシグの秘密鍵の１つを家族や Unchained Capital のような事業者に預けることも可能です。この場合でも、送金権限、つまりビットコインの所有権は独占的に保持できます。
 
