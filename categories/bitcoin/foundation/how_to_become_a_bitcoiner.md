@@ -39,7 +39,7 @@ $(document).ready( function () {
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  5分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本記事は [@libertariman](https://twitter.com/libertariman) さんが2018年6月10日に投稿したものです。*
+*本記事は [@libertariman](https://twitter.com/libertariman) さんが2018年6月10日にTwitterに投稿したスレッドです。*
 
 ![ ](/_images/how_to_become_a_bitcoiner_１.jpeg)
 
