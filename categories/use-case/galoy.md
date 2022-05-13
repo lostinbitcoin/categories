@@ -41,6 +41,4 @@ $(document).ready( function () {
 
 *本記事は [@TerukoNeriki](https://twitter.com/TerukoNeriki) が2022年4月に執筆したものです。*
 
-[![ ](/_images/galoy.png)](https://coinpost.jp/?p=346521)
-
 [続きを読む](https://coinpost.jp/?p=346521)

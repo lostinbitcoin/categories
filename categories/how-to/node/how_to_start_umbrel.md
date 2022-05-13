@@ -41,6 +41,4 @@ $(document).ready( function () {
 
 *本記事は [gottsu](https://twitter.com/nemkd12) さんが2021年7月4日に公開したものです。*
 
-[![ ](/_images/how_to_start_umbrel.png)](https://spotlight.soy/detail?article_id=mt5fbuvg7)
-
 [続きを読む](https://spotlight.soy/detail?article_id=mt5fbuvg7)
