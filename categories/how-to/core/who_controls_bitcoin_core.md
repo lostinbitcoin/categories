@@ -2,7 +2,7 @@
 title: Bitcoin Core のプロジェクトマネージャーは誰？
 taxonomy:
     category:
-        - bitcoin
+        - how-to
         - core
     post_tag:
         - beginner
@@ -39,7 +39,7 @@ $(document).ready( function () {
 
 ### ビットコインの開発現場は誰がどのように運営管理しているのか？
 
-|  ![Category](/_images/category.png)  |  ビットコインコア開発に参加するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  17分  |
+|  ![Category](/_images/category.png)  |  ハウツー、ビットコインコア開発に参加するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  17分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 _本記事は [Casa](https://keys.casa/) の共同創設者＆最高技術責任者　[JAMESON LOPP](https://twitter.com/lopp) 氏著「 [Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/) 」（2018年12月15日公開）を [Katakoto](https://twitter.com/katakoto) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki)  が一部加筆修正したものです。_
