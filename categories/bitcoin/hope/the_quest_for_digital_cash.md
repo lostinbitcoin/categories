@@ -50,7 +50,7 @@ $(document).ready( function () {
 
 > *ビットコインは突然現れたわけでも、偶然の産物でもない。デジタルキャッシュの必要性を痛感した先人たちによる40年間の研究開発の賜物なのだ。*
 
-![ビットコイン前史(/_images/the_quest_for_digital_cash_1.PNG)
+![ビットコイン前史](/_images/the_quest_for_digital_cash_1.PNG)
 
 本記事では、ビットコイン誕生に寄与したサイファーパンクと彼らの偉業を [Alex Gladstein](https://twitter.com/gladstein) 氏が [Bitcoin Magazine](https://bitcoinmagazine.com/) に寄稿した “[The Quest for Digital Cash](https://bitcoinmagazine.com/culture/bitcoin-adam-back-and-digital-cash)”（デジタルキャッシュを追い求めて）を基に振り返ります。
 
