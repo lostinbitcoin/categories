@@ -48,4 +48,6 @@ $(document).ready( function () {
 
 「隠すような、やましいことはしてないからプライバシーなんて要らない」と言うのは、「言いたいことがないから言論の自由なんて要らない」と言っているようなもの。プライバシーはあなたが思っている以上に大切なものです。
 
+**字幕 CC をクリックして有効化すると日本語字幕が表示されます。**
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/vmRmeBG7ZMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

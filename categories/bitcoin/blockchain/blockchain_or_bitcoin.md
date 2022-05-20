@@ -46,4 +46,6 @@ $(document).ready( function () {
 
 ビットコインがインターネットだとしたら、「ブロックチェーン」はイントラネット。イノベーションは技術そのものよりも、それが社会にもたらすインパクト。かと言って、「ブロックチェーン」が全く無意味なわけではありません。そして今のビットコインが今後も主座を守れるかは誰にもわかりません。
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mRQs9Y6CUSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+**字幕 CC をクリックして有効化すると日本語字幕が表示されます。**
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ugB8o0QByio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

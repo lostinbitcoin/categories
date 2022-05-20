@@ -51,4 +51,6 @@ $(document).ready( function () {
 
 当然のように銀行口座やクレジットカードを持ち、正当な理由なく財産を没収される心配とはほぼ無縁に暮らす私たちには想像し難いですが、世界にはこうした特権を持たない人が大勢います。お金を国民を監視・支配する道具として使い、通貨切り下げで国民の財産を不当に奪う専制主義国家によって金融プライバシーや財産権を侵害されている人が世界には42億人もいるのです。彼らにとって、政府に知られることなく匿名で貯蓄や決済できるビットコインとは、奪われた「自由」を回復するためのパワフルなツールなのです。
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/xLYYh4aPXAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+**字幕 CC をクリックして有効化すると日本語字幕が表示されます。**
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/1AZI-9bOE9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
