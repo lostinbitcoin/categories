@@ -46,6 +46,6 @@ $(document).ready( function () {
 
 *本動画は2019年6月にサンフランシスコで開催された Bitcoin 2019 カンファレンスにおける [Edward Snowden](https://twitter.com/Snowden) 氏と [BTC Inc](https://b.tc/) CEO [David Bailey](https://twitter.com/DavidFBailey) 氏の対談を  [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
 
-「隠すような、やましいことはしてないからプライバシーなんて要らない」と言うのは、「言いたいことがないから言論の自由なんて要らない」と言っているようなもの。プライバシーはあなたが思っている以上に大切なものかもしれません。
+「隠すような、やましいことはしてないからプライバシーなんて要らない」と言うのは、「言いたいことがないから言論の自由なんて要らない」と言っているようなもの。プライバシーはあなたが思っている以上に大切なものです。
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/w7XpI0fRnIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/vmRmeBG7ZMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
