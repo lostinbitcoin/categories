@@ -8,7 +8,7 @@ https://lostinbitcoin.jp/
 - 迷宮ビットコインはWordPressでつくられています
 - [Git it Write plugin](https://ja.wordpress.org/plugins/git-it-write/
 )により、本リポジトリ内のMarkdownファイルが記事として反映されるようになっています
-- 
+
 
 ## 構成
 
@@ -58,13 +58,15 @@ taxonomy:
 ```
 
 ### 画像
-拡張子pngのPNG形式に対応します
+拡張子pngのPNG形式に対応します。
 
 
 ## サイト改善にご協力ください
-- 新規コンテンツを提案したい、機能追加を要望したい - Issueを投稿してください
+- 新規コンテンツ（記事）を提案したい - Markdownファイルを作成し、Pull Requestを投稿してください
+- 新規コンテンツ（記事以外）を提案したい - Issueにて内容をご案内ください
 - 既存コンテンツ（記事）を修正したい - Pull Requestを投稿してください
 - 既存コンテンツ（記事以外）を修正したい - Issueにて内容をご指摘ください
+- 機能追加を要望したい - Issueを投稿してください
 - その他 - Issueを投稿してください
 
 詳しくはWiki(TENTATIVE)をご参照ください。
