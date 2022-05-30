@@ -1,11 +1,11 @@
-# 迷宮ビットコイン
+# ロストイン・ビットコイン 迷宮ビットコインの歩き方
 
 https://lostinbitcoin.jp/
 
-迷宮ビットコインのコンテンツ管理のためのリポジトリです。
+ロストイン・ビットコインのコンテンツ管理のためのリポジトリです。
 
 ## 概要
-- 迷宮ビットコインはWordPressでつくられています
+- ロストイン・ビットコインはWordPressでつくられています
 - [Git it Write plugin](https://ja.wordpress.org/plugins/git-it-write/
 )により、本リポジトリ内のMarkdownファイルが記事として反映されるようになっています
 
@@ -14,7 +14,7 @@ https://lostinbitcoin.jp/
 
 - `/_images/` - 記事内から参照する画像データ
 - `/categories/` - 記事データ
-- `/categories/bitcoin/` - 迷宮ビットコイン / ビットコイン
+- `/categories/bitcoin/` - ロストイン・ビットコイン / ビットコイン
 - `/categories/bitcoin/blockchain/` - ブロックチェーンはバズワード
 - `/categories/bitcoin/crypto/` - ビットコイン ≠ クリプト
 - `/categories/bitcoin/environment/` - ビットコインとエネルギー・環境問題
@@ -22,13 +22,13 @@ https://lostinbitcoin.jp/
 - `/categories/bitcoin/fud/` - ビットコインよくある誤解
 - `/categories/bitcoin/hope` - ビットコインは希望
 - `/categories/bitcoin/money` - ビットコインは最強のお金
-- `/categories/how-to/` - 迷宮ビットコイン / ビットコインは最強のお金
+- `/categories/how-to/` - ロストイン・ビットコイン / ハウツー
 - `/categories/how-to/core/` - ビットコインコア開発に参加するには
 - `/categories/how-to/exchange/` - ビットコインの入手方法
 - `/categories/how-to/node/` - ノードを運用してみよう
 - `/categories/how-to/wallet/` - ビットコインを安全に管理するには
-- `/categories/lightning/` - 迷宮ビットコイン / ライトニング
-- `/categories/use-case/` - 迷宮ビットコイン / 事例
+- `/categories/lightning/` - ロストイン・ビットコイン / ライトニング
+- `/categories/use-case/` - ロストイン・ビットコイン / 事例
 
 ## フォーマット
 ### 記事
