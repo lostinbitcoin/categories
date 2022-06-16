@@ -4,7 +4,7 @@ taxonomy:
     category:
         - bitcoin
         - foundation
-    post_tag:<!--- wikiの「2-3. タグの一覧」から該当するものを選び、slugを入力（複数選択可） --->
+    post_tag:
         - beginner
 ---
 
