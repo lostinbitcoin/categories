@@ -41,8 +41,9 @@ $(document).ready( function () {
 
 *本記事は [@libertariman](https://twitter.com/libertariman) さんが2018年6月10日にTwitterに投稿したスレッドです。*
 
-![ ](/_images/how_to_become_a_bitcoiner_１.jpeg)
-
 [![ ](/_images/how_to_become_a_bitcoiner_２.png)](https://twitter.com/libertariman/status/1335437254181810176?s=20)
 
 [続きを読む](https://twitter.com/libertariman/status/1335437254181810176?s=20)
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
