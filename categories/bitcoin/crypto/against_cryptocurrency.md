@@ -144,3 +144,7 @@ Buterin 氏[お気に入りの](https://vitalik.ca/general/2017/03/14/forks_and_
 著者 [Pete Rizzo について](https://www.forbes.com/sites/peterizzo/)
 
 暗号通貨分野で最長キャリアを持つライターの一人で、2013年よりビットコイン専門ジャーナリストとして活躍中。現在は Bitcoin Magazine 編集者を務めるかたわら暗号通貨取引所 Kraken にも記事を寄稿。ビットコインの歴史を研究し、その発展に大きな影響を与えた人物や出来事を整理、紹介する活動にも従事。CoinDesk 創業時にライター兼編集者として参加、2014年から2019年にかけては編集長を務め、Blockstream 最高経営責任者の Adam Back 氏、TechCrunch 創設者の Michael Arrington 氏、Binance 最高経営責任者の Changpeng Zhao 氏といった業界有力者とともにイベント登壇した経験も。
+
+
+### 著作権等について 
+[利用規約 B](https://lostinbitcoin.jp/copyright/#uab)
