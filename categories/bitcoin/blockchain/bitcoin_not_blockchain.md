@@ -154,3 +154,6 @@ _「私たちが健全な貨幣を再び手にするには、政府の手から�
 本記事をレビューしフィードバックをくれた Will Cole 氏、Phil Geiger 氏、Adam Tzagournis 氏に感謝します。また、素晴らしい本を書いてくれたSaifedean Ammous 氏、Yan Pritzker 氏、Andreas Antonopolous 氏にも敬意を表します。
 
 本記事は著者の個人的見解であり、Unchained Capital や著者の同僚の見解ではありません。
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
