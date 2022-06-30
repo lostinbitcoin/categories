@@ -44,3 +44,7 @@ $(document).ready( function () {
 [![ ](/_images/galoy_interview.png)](https://coinpost.jp/?p=346521)
 
 [続きを読む](https://coinpost.jp/?p=346521)
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

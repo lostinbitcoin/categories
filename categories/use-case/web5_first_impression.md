@@ -42,3 +42,7 @@ $(document).ready( function () {
 [![ ](/_images/web5_first_impression.png)](https://teatwo.hatenablog.com/entry/2022/06/23/221218)
 
 [続きを読む](https://teatwo.hatenablog.com/entry/2022/06/23/221218)
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

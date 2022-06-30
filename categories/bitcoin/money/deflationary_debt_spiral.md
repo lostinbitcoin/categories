@@ -44,3 +44,7 @@ $(document).ready( function () {
 [![ ](/_images/deflationary_debt_spiral_1.jpeg)](https://blog.bitmex.com/ja_jp-bitcoin-economics-part-3/)
 
 [続きを読む](https://blog.bitmex.com/ja_jp-bitcoin-economics-part-3/)
+
+
+### 著作権等について
+[利用規約 B](https://lostinbitcoin.jp/copyright/#uab)

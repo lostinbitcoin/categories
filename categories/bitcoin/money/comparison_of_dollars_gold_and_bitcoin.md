@@ -74,3 +74,7 @@ $(document).ready( function () {
 苦労して稼いだお金の価値、あなたならどの貨幣に貯蔵しますか？
 
 ![ビットコイン](/_images/comparison_of_dollars_gold_and_bitcoin_5.png)
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

@@ -48,3 +48,7 @@ $(document).ready( function () {
 「CC/Subtitle」ボタンをクリックして日本語字幕を選んでください。
 
 <center><iframe title="vimeo-player" src="https://player.vimeo.com/video/433038852?h=0e6926713b" width="640" height="360" frameborder="0" allowfullscreen></iframe></center>
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
