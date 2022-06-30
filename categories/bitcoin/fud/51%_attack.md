@@ -44,3 +44,7 @@ $(document).ready( function () {
 51%攻撃で出来ることと、出来ないこと、被害に遭わないための対策、ビットコインにとって果たして本当に脅威なのか、などを解説。
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/hdbrbHIR0F8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

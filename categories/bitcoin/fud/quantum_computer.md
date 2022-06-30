@@ -44,3 +44,7 @@ $(document).ready( function () {
 ビットコイン定番FUD（不安・疑念・不信）の一つ、量子コンピュータが出たら暗号が破られてビットコインが盗まれるという説を検証。
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/2L9CCVp5z7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

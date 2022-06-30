@@ -50,7 +50,6 @@ $(document).ready( function () {
 
 > *ビットコインは突然現れたわけでも、偶然の産物でもない。デジタルキャッシュの必要性を痛感した先人たちによる40年間の研究開発の賜物なのだ。*
 
-![ビットコイン前史](/_images/the_quest_for_digital_cash_1.PNG)
 
 本記事では、ビットコイン誕生に寄与したサイファーパンクと彼らの偉業を [Alex Gladstein](https://twitter.com/gladstein) 氏が [Bitcoin Magazine](https://bitcoinmagazine.com/) に寄稿した “[The Quest for Digital Cash](https://bitcoinmagazine.com/culture/bitcoin-adam-back-and-digital-cash)”（デジタルキャッシュを追い求めて）を基に振り返ります。
 
@@ -123,3 +122,7 @@ Hashcash がなければ、非中央集権型電子キャッシュシステム�
 10月31日のビットコイン13回目の誕生日を祝福する意味でビットコイン前史を振り返ってみましたが、いかがだったでしょう？
 
 個人的には、サトシ以前にインターネット上のプライバシーを死守するために国家権力に挑戦し続けたサイファーパンクの存在と、彼らのデジタルキャッシュへの熱意を知ることで、ビットコインへの感謝の念が深まりました。同時に、彼らが必死に守ろうとしたプライバシーの重要性を再認識し、ビットコインのプライバシー技術をしっかり勉強して使いこなせるようになろうと決意を新たにしました。
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

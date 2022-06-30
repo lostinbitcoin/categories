@@ -41,10 +41,7 @@ $(document).ready( function () {
 |  ![Category](/_images/category.png)  |  ビットコインは希望、ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  20分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-_本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パートナー、[COIN METRICS](https://coinmetrics.io/#) 共同設立者 [NIC CARTER](https://twitter.com/nic__carter) 氏著「[A MOST PEACEFUL REVOLUTION](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)」（2019年9月8日公開）を [@TerukoNeriki](https://twitter.com/TerukoNeriki) が翻訳、一部加筆修正したものです。_
-
-![ ](/_images/a_most_peaceful_revolution_1.PNG)
-<center>Jason Benjamin (@perfecthue)制作</center>
+_本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パートナー、[COIN METRICS](https://coinmetrics.io/#) 共同設立者 [Nic Carter](https://twitter.com/nic__carter) 氏著「[A Most Peaceful Revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)」（2019年9月8日公開）を [@TerukoNeriki](https://twitter.com/TerukoNeriki) が翻訳、一部加筆修正したものです。カバーイメージは [Jason Benjamin](https://twitter.com/PerfectHue) 氏制作。_
 
 
 > *国民が政府を恐れるのはおかしい。政府が国民を恐れるべきなのだ。*
@@ -220,3 +217,7 @@ _本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パート�
 それまで、そのシステムは淡々と動き続ける。
 
 ![ ](/_images/a_most_peaceful_revolution_6.PNG)
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

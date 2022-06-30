@@ -47,7 +47,6 @@ $(document).ready( function () {
 
 _本記事は [Human Rights Foundation](https://hrf.org/) の最高戦略責任者 [Alex Gladstein](https://twitter.com/gladstein) 氏が [Bitcoin Magazine](https://bitcoinmagazine.com/) に寄稿した「[BITCOIN IS A TROJAN HORSE FOR FREEDOM](https://bitcoinmagazine.com/culture/bitcoin-is-a-trojan-horse-for-freedom)」（2021年4月15日公開）を [@cryptohinomaru](https://twitter.com/cryptohinomaru) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。_
 
-![ ](/_images/bitcoin_is_a_trojan_horse_for_freedom.PNG)
 
 ウェルギリウスの叙事詩「[アエネーイス](http://faculty.sgc.edu/rkelley/The%20Aeneid.pdf)」第2巻では、ギリシア神話のトロイ戦争でトロイ陥落の決め手となった有名な策略が描かれています。トロイ包囲戦が10年にもおよび、攻撃が手詰まりになったギリシア軍はユリシーズが企てた巧妙な策を実行します。
 
@@ -114,3 +113,7 @@ _本記事は [Human Rights Foundation](https://hrf.org/) の最高戦略責任�
 ビットコインというトロイの木馬に何が隠されているか既に気づいた独裁者もいるかもしれません。ラオコーンやカッサンドラのように、木馬のからくりを見抜いて警告する人もいます。しかし、トロイ軍が警告を無視したように、彼らに耳を傾ける人はいません。
 
 これまで見たこともない大きくて立派な木馬の贈り物を突き返すのは、あまりにも難しいのです。
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
