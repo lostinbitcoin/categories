@@ -45,3 +45,7 @@ $(document).ready( function () {
 [![　](/_images/bitcoin_optech_newsletters.png)](https://bitcoinops.org/ja/newsletters/)
 
 [続きを読む](https://bitcoinops.org/ja/newsletters/)
+
+
+### 著作権等について
+[利用規約 B](https://lostinbitcoin.jp/copyright/#uab)

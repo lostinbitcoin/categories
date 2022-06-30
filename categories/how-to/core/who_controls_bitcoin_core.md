@@ -44,7 +44,6 @@ $(document).ready( function () {
 
 _本記事は [Casa](https://keys.casa/) の共同創設者＆最高技術責任者　[JAMESON LOPP](https://twitter.com/lopp) 氏著「 [Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/) 」（2018年12月15日公開）を [Katakoto](https://twitter.com/katakoto) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki)  が一部加筆修正したものです。_
 
-![ビットコインノード（2018/12/09）](/_images/who_controls_bitcoin_core_1.png)
 
 
 [Bitcoin Core](https://bitcoincore.org/) の [GitHub](https://github.com/bitcoin/bitcoin) リポジトリにコード変更をマージする権限は一体誰が持っているのか？これは非常によくある質問です。長年、関係者の間では、マージ権限がビットコインプロトコルの「管理中枢」とされてきました。しかし、私はこの質問自体が権威主義的で的外れだと考えます。私の主張に賛同する人は少ないでしょう。そこで本記事では、 Bitcoin Core の開発現場、さらにはビットコインプロトコルの進化過程を解説します。
@@ -251,3 +250,7 @@ Core 開発者 [Eric Lombrozo](https://medium.com/@elombrozo) も Core リポジ
 ビットコインをコントロールする者はいません。
 
 ビットコイン開発のフォーカルポイントをコントロールする者もいないのです。
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

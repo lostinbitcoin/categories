@@ -44,3 +44,7 @@ $(document).ready( function () {
 [![ ](/_images/umbrel_setup.png)](https://spotlight.soy/detail?article_id=mt5fbuvg7)
 
 [続きを読む](https://spotlight.soy/detail?article_id=mt5fbuvg7)
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

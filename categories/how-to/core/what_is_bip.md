@@ -42,3 +42,7 @@ $(document).ready( function () {
 *本動画は [ビットコイナー反省会](https://www.youtube.com/channel/UCRP9Ij6gL9IViB7MS3Ez9aw) が制作、2021年8月に公開したものです。*
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/GyYlC-KJHtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
