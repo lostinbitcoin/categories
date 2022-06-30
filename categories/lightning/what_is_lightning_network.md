@@ -43,3 +43,7 @@ $(document).ready( function () {
 ライトニングネットワークはビットコインというベースレイヤーの上に構築されたセカンドレイヤー。その仕組みとメリットを解説。
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/j8PGg-cttxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)

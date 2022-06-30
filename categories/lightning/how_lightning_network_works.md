@@ -40,8 +40,11 @@ $(document).ready( function () {
 
 *本記事は [株式会社Nayuta](https://nayuta.co/ja) の [上野 寛](https://twitter.com/nayuta_ueno) 氏が執筆、[Thin IT](https://thinkit.co.jp/) が2018年7月20日に公開したものです。*
 
-![ ](/_images/how_lightning_network_works_1.jpeg)
 
 [![ ](/_images/how_lightning_network_works_2.jpeg)](https://thinkit.co.jp/article/14548)
 
 [続きを読む](https://thinkit.co.jp/article/14548)
+
+
+### 著作権等について
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
