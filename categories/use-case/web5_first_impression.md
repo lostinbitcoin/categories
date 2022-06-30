@@ -37,7 +37,6 @@ $(document).ready( function () {
 |  ![Category](/_images/category.png)  |  事例  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  10分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-
 *本記事は [@studioTeaTwo](https://twitter.com/studioTeaTwo/) さんが2022年6月23日にブログ[悠々自適](https://teatwo.hatenablog.com/)で公開した記事です。*
 
 [![ ](/_images/web5_first_impression.png)](https://teatwo.hatenablog.com/entry/2022/06/23/221218)
