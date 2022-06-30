@@ -44,8 +44,6 @@ $(document).ready( function () {
 
 *本記事は [Bitcoin Magazine](https://bitcoinmagazine.com/) の編集者で [Kraken](https://www.kraken.com/) の寄稿者でもある [Pete Rizzo](https://twitter.com/pete_rizzo_) 氏が [Forbes](https://www.forbes.com/) に寄稿した「[Against Cryptocurrency: The Ethical Argument for Bitcoin Maximalism](https://www.forbes.com/sites/peterizzo/2021/09/29/against-cryptocurrency-the-ethical-argument-for-bitcoin-maximalism/?sh=4e8ed850371b)」（2021年9月29日公開）を [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
 
-![ ](/_images/against_cryptocurrency.png)
-<center>夜空に投影されるビットコインのロゴ（制作 MATTHEW KNUDSEN 氏）</center>
 
 本記事はビットコイン支持者とアルトコイン支持者の間にある分断を埋めることを意図したものなので、まずは両者の合意点から見ていくのが妥当でしょう。
 

@@ -44,7 +44,6 @@ $(document).ready( function () {
 
 *本記事はKnoxの開発者 [Thibaud Maréchal](https://twitter.com/thibm_) 氏が [Bitcoin Magazine](https://bitcoinmagazine.com/) に寄稿した「[THE GREAT PLAGUE OF SHITCOINERY](https://bitcoinmagazine.com/culture/the-great-plague-of-shitcoinery)」（2020年10月5日公開）を [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
 
-![草コインという​​大疫病](/_images/the_great_plague_of_shitconery_1.webp)
 
 ### 現代のシニョリッジの不可避な末路
 
