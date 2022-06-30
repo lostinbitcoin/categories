@@ -49,3 +49,8 @@ $(document).ready( function () {
 **字幕 CC をクリックして有効化すると日本語字幕が表示されます。**
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ugB8o0QByio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+
+### 著作権等について
+[利用規約 B](https://lostinbitcoin.jp/copyright/#uab)
