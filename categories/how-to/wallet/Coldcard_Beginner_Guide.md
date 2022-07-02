@@ -36,7 +36,9 @@ $(document).ready( function () {
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  5分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-本記事は Coldcard 公式サイト「Guide For Bitcoin Beginners」を @katakoto が翻訳、一部加筆修正したものです。
+
+
+*本記事は [Coldcard 公式サイト](https://coldcard.com/)「[Guide For Bitcoin Beginners](https://coldcard.com/docs/beginner)」を [@katakoto](https://twitter.com/katakoto)が翻訳、一部加筆修正したものです。*
 
 
 # ビットコイン初心者用ガイド
