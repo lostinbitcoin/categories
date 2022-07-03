@@ -1,4 +1,4 @@
-# Coldcard Guide01
+# 【入門】COLDCARD 101
 
 ビットコイナー御用達ハードウェアウォレット
 
