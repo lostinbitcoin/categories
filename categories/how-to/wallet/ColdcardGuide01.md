@@ -39,7 +39,7 @@ $(document).ready( function () {
 
 # ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう
 
-LedgerTrezorではなくCOLDCARDをおすすめする理由
+Ledger,TrezorではなくCOLDCARDをおすすめする理由
 
 ---
 
