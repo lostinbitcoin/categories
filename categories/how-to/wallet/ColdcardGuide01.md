@@ -34,12 +34,11 @@ $(document).ready( function () {
 })
 </script>
 
+### Ledger、Trezor ではなく、COLDCARD をおすすめする理由
+
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  10分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-### Ledger,TrezorではなくCOLDCARDをおすすめする理由
-
----
 
 皆さんは大切なビットコインを管理するのに、どんなハードウェアウォレットを使っていますか？
 
