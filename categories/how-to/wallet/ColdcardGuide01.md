@@ -1,5 +1,5 @@
 ---
-title: COLDCARDでビットコインを安全に管理しよう
+title: ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう⓵
 taxonomy:
     category:
         - how-to
@@ -37,9 +37,9 @@ $(document).ready( function () {
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  10分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-# COLDCARDでビットコインを安全に管理しよう
+# ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう
 
-ビットコイナー御用達ハードウェアウォレット
+Ledger,TrezorではなくCOLDCARDをおすすめする理由
 
 ---
 
@@ -71,7 +71,7 @@ SATOSHILABS社の[Trezor](https://trezor.io/)？それともフランスLedger�
 
 筆者自身は長年のTrezor愛用者ですし、Ledgerもクリプト初心者に大変人気の高いハードウェアウォレットです。特にLedgerはフランス発ということもあってか、製品のデザインセンスも高く、最近ではFendi社とのコラボ製品を発表するなど、クリプトのマスアダプションに向け高級ブランドまでをも巻き込んでの快進撃を続けています。このキラキラ度合がまぶしすぎるあまり、日陰に生きる僕の視界からはいつの間にか見えなくなってしまいましたが（こうした現象をクリプト陽キャによるハレーション効果と呼びます。）どちらも、普段使いには何ら問題のない素晴らしい製品です。使いやすさだけで言うなら、現状はColdcardよりもこれらの製品に圧倒的に分があると言ってしまってもよいと思います。
 
-[https://twitter.com/Fendi/status/1482426260676567041](https://twitter.com/Fendi/status/1482426260676567041)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Powering the Web3 revolution with <a href="https://twitter.com/Ledger?ref_src=twsrc%5Etfw">@Ledger</a>. Discover the <a href="https://twitter.com/hashtag/FendiXLedger?src=hash&amp;ref_src=twsrc%5Etfw">#FendiXLedger</a> collection, unveiled on the <a href="https://twitter.com/hashtag/FendiFW22?src=hash&amp;ref_src=twsrc%5Etfw">#FendiFW22</a> men’s runway. <a href="https://t.co/BfvZGQvROs">pic.twitter.com/BfvZGQvROs</a></p>&mdash; Fendi (@Fendi) <a href="https://twitter.com/Fendi/status/1482426260676567041?ref_src=twsrc%5Etfw">January 15, 2022</a></blockquote>
 
 しかしここに普段からセキュリティやプライバシーに並々ならぬ関心を寄せ、「トラストレス」を人生の至上命令として生きるビットコイナー的視点が加わると、それまでのわかりやすくてキラキラと輝いていた平和な世界は、瞬く間に別の様相を表し始めるのです。
 
@@ -99,7 +99,7 @@ Trezor社は、ハードウェアのデザイン上、改善のしようがな�
 
 その点、Coinkite社のセキュリティへの意識とその取り組みは他社を大きく先行しています。例えば、注文時に必要な個人情報の扱いに関しては、法的に保管が必要な120日が経過後、自動的に削除されることを早くから公言していますし、最新モデルのMK4では、多くのハードウェアウォレットにたいてい一つだけ実装されているセキュアエレメント（秘密鍵が保存されるチップ）が、贅沢にも2つ使われており、外部からの解析攻撃がほぼ不可能な設計になっています。しかもそれぞれあえて違うメーカーのものを搭載し、メーカー固有のバグにも備える徹底ぶりです。
 
-[https://twitter.com/COLDCARDwallet/status/1341073190815207424](https://twitter.com/COLDCARDwallet/status/1341073190815207424)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Starting today customer records will be blanked after 120 days of activity auto-magicaly🧙‍♂️ (i.e. since shipping)<br><br>It&#39;s a very big DB, we don&#39;t want to be marked as spammers so the email notification roll-out will take a couple weeks<br><br>Subject: Protecting Your Privacy: Data Blanked <a href="https://t.co/Rr7mV4nhhr">pic.twitter.com/Rr7mV4nhhr</a></p>&mdash; COLDCARD (@COLDCARDwallet) <a href="https://twitter.com/COLDCARDwallet/status/1341073190815207424?ref_src=twsrc%5Etfw">December 21, 2020</a></blockquote>
 
 > Coinkiteでは、お客様のプライバシーを守るため、顧客情報は自動的にデータベースから削除しています。2020/12/21
 >
@@ -145,7 +145,7 @@ Trezor社は、ハードウェアのデザイン上、改善のしようがな�
 
 こうした強い思いに基づくてんこ盛りの機能や、何層にもはりめぐらされたセキュリティー対策と扱い方のクセが、Coldcardの使いにくさ＆わかりにくさに繋がり、初心者を露頭に迷わせてしまう原因であるのは否めません。しかし逆に言えば、それら一つ一つを学んで自分のものにしていけば、それはそのまま未来永劫ビットコインを安全に保管するための知識となって、自分の中に蓄積されていきます。
 
-[https://twitter.com/AantonopQuotes/status/1480265733170819077?s=20&t=SOJEljWbVVEQoeXw2bHo4g](https://twitter.com/AantonopQuotes/status/1480265733170819077?s=20&t=SOJEljWbVVEQoeXw2bHo4g)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「私が何度も何度も繰り返し人々にアドバイスしているのは“このテクノロジーの理解に投資しなさいという事”“このテクノロジーのスキルに投資しなさいという事”“このテクノロジーの教育と、知識に投資しなさいという事” なぜなら、それらの価値は週末に40％も下落したりしないからです。」<a href="https://twitter.com/hashtag/BTC?src=hash&amp;ref_src=twsrc%5Etfw">#BTC</a></p>&mdash; aantonop_quotes (@AantonopQuotes) <a href="https://twitter.com/AantonopQuotes/status/1480265733170819077?ref_src=twsrc%5Etfw">January 9, 2022</a></blockquote>
 
 ビットコインはピュアな「情報」に他なりません。それゆえビットコインを正しく「所有する」ということは、ビットコインを正しく「知る」ことに等しいのです。
 
