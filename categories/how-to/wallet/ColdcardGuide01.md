@@ -33,18 +33,12 @@ $(document).ready( function () {
    $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
 })
 </script>
+### Ledger、Trezor ではなく、COLDCARD をおすすめする理由
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  10分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は[@katakoto](https://twitter.com/katakoto) が制作、2022年7月に公開したものです。*
-
-
-# ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう
-
-Ledger,TrezorではなくCOLDCARDをおすすめする理由
-
----
 
 皆さんは大切なビットコインを管理するのに、どんなハードウェアウォレットを使っていますか？
 
@@ -70,7 +64,7 @@ SATOSHILABS社の[Trezor](https://trezor.io/)？それともフランスLedger�
 
 この連載では、そんなCOLDCARDの魅力を皆さんにもっと知ってもらうべく、購入方法から基本的なセットアップ、使い方までを徹底解説して行きます！
 
-# Why COLDCARD(なぜ僕らはCOLDCARDを使うのか)
+### Why COLDCARD(なぜ僕らはCOLDCARDを使うのか)
 
 筆者自身は長年のTrezor愛用者ですし、Ledgerもクリプト初心者に大変人気の高いハードウェアウォレットです。特にLedgerはフランス発ということもあってか、製品のデザインセンスも高く、最近ではFendi社とのコラボ製品を発表するなど、クリプトのマスアダプションに向け高級ブランドまでをも巻き込んでの快進撃を続けています。このキラキラ度合がまぶしすぎるあまり、日陰に生きる僕の視界からはいつの間にか見えなくなってしまいましたが（こうした現象をクリプト陽キャによるハレーション効果と呼びます。）どちらも、普段使いには何ら問題のない素晴らしい製品です。使いやすさだけで言うなら、現状はColdcardよりもこれらの製品に圧倒的に分があると言ってしまってもよいと思います。
 
