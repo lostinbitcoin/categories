@@ -33,36 +33,14 @@ https://lostinbitcoin.jp/
 ## フォーマット
 ### 記事
 拡張子mdのMarkdown形式に対応します。
-
-ファイル内のヘッダー部分には、下記のような管理用のための特殊なコードが挿入されます。ここはいじらないようお願いします。
-
-```
----
-title: ブロックチェーンは革新的だけど、ビットコインは微妙？
-taxonomy:
-    category:
-        - bitcoin
-        - blockchain
-        - foundation
-    post_tag:
-        - beginner
----
-
-<style>
-...
-</style>
-
-<script
-...
-</script>
-```
+コンテンツの作成・提案にあたっては、Wikiに掲載のテンプレートをご利用ください。
 
 ### 画像
 対応拡張子: png, jpg, jpeg, gif, webp
 
 
 ## サイト改善にご協力ください
-- 新規コンテンツ（記事）を提案したい - Markdownファイルを作成し、Pull Requestを投稿してください
+- 新規コンテンツ（記事）を提案したい - Wikiに掲載のテンプレートを使ってMarkdownファイルを作成し、Pull Requestを投稿してください
 - 新規コンテンツ（記事以外）を提案したい - Issueにて内容をご案内ください
 - 既存コンテンツ（記事）を修正したい - Pull Requestを投稿してください
 - 既存コンテンツ（記事以外）を修正したい - Issueにて内容をご指摘ください
