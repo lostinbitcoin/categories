@@ -1,14 +1,13 @@
 ---
-title: ライトニングネットワーク概観 <!--- タイトルを入力 --->
+title: ライトニングネットワーク概観
 taxonomy:
-    category:<!--- wikiの「2-2. カテゴリ & サブカテゴリの一覧」から該当するものを選び、slugを入力（複数選択可） --->
+    category:
         - lightning
         - use-case
-    post_tag:<!--- wikiの「2-3. タグの一覧」から該当するものを選び、slugを入力（複数選択可） --->
+    post_tag:
         - beginner
 ---
 
-<!--- 以下、<style> から サブタイトル直前の </script> までは変更しないでください --->
 <style>
 img[alt*="Category"], 
 img[alt*="Tag"], 
