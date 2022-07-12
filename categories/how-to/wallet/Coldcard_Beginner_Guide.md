@@ -302,5 +302,4 @@ PIN コードとマスターシードが確立されると、Coldcard は日常�
 [テレグラムグループ](https://t.me/coldcard)に参加して、より多くのサポートを得たり、コミュニティ意識を高めましょう！
 
 ***
-All rights reserved to [Coinkite.com](https://coinkite.com/)
-コンテンツの著作権は[Coinkite.com](https://coinkite.com/)に帰属します。二次利用の可否は権利者にご確認ください。
+コンテンツの著作権は[Coinkite.com](https://coinkite.com/)に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to [Coinkite.com](https://coinkite.com/)
