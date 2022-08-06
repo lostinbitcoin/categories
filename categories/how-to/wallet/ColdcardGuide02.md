@@ -35,7 +35,7 @@ $(document).ready( function () {
 </script>
 ### COLDCARDを公式サイトからダイレクトに手に入れよう！
 
-|  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  15分  |
+|  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  15分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は[@katakoto](https://twitter.com/katakoto) が制作、2022年8月に公開したものです。*
