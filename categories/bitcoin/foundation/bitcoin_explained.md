@@ -41,9 +41,9 @@ $(document).ready( function () {
 *本記事は [Upfolio](https://www.upfolio.com/) の「 [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) 」を [btc_dakara](https://twitter.com/btc_dakara)さんが翻訳したものです。*
 
 
-[![ ](/_images/bitcoin_explained.png)](https://note.com/btc_dakara/n/ndfeca2c1c3e4#QSo6P)
+[![ ](/_images/bitcoin_explained.png)](https://note.com/btc_dakara/n/ndfeca2c1c3e4)
 
-[続きを読む](https://note.com/btc_dakara/n/ndfeca2c1c3e4#QSo6P)
+[続きを読む](https://note.com/btc_dakara/n/ndfeca2c1c3e4)
 
 
 ### 著作権等について
