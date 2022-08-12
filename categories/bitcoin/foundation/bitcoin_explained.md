@@ -33,12 +33,12 @@ $(document).ready( function () {
    $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
 })
 </script>
-###Bこれを読めばビットコインについて理解できる！
+###これを読めばビットコインについて理解できる！
 
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  12分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本記事は [Upfolio](https://www.upfolio.com/) の「 [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) 」を　　[btc_dakara](https://twitter.com/btc_dakara)　さんが翻訳したものです。*
+*本記事は [Upfolio](https://www.upfolio.com/) の「 [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) 」を [btc_dakara](https://twitter.com/btc_dakara) さんが翻訳したものです。*
 
 
 [![ ](/_images/bitcoin_explained.png)](https://note.com/btc_dakara/n/ndfeca2c1c3e4)
