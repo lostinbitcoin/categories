@@ -5,8 +5,8 @@ taxonomy:
         - bitcoin
         - money
     post_tag:
+        - economics
         - beginner
-		- economics
 ---
 
 <style>
@@ -19,6 +19,9 @@ img[alt*="Time"] {
 }
 p {
     color: #3d362d;
+}
+p img {
+    text-align:center;
 }
 a {
     color: #ff9f1c;
@@ -35,7 +38,6 @@ $(document).ready( function () {
 })
 </script>
 ### 世界中の中央銀行による量的緩和によって、法定通貨でモノの価値を正確に測ることができなくなった。絶対的希少性が担保された改変不可能な新たな資産クラスであるビットコインは、次世代の金融システムで価値尺度となる可能性を秘めている。
-
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  15分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
