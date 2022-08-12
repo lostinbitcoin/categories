@@ -44,7 +44,7 @@ $(document).ready( function () {
 
 *本記事は [@cryptophile_btc](https://twitter.com/cryptophile_btc/) さんが2020年11月20日に[Medium](https://medium.com/@cryptophile-btc/%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3-ee927070ae32)で公開した記事です。*
 
-[![ ](/_images/bitcoin_is_inevitable_1.png)](https://medium.com/@cryptophile-btc/%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3-ee927070ae32)
+[![ ](/_images/bitcoin_is_inevitable_2.png)](https://medium.com/@cryptophile-btc/%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3-ee927070ae32)
 
 [続きを読む](https://medium.com/@cryptophile-btc/%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3-ee927070ae32)
 
