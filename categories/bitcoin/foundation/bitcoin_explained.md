@@ -33,7 +33,7 @@ $(document).ready( function () {
    $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
 })
 </script>
-###これを読めばビットコインについて理解できる！
+### これを読めばビットコインについて理解できる！
 
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  12分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
