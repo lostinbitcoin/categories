@@ -9,8 +9,6 @@ taxonomy:
         - beginner
         - economics
 ---
-
-<!--- 以下、<style> から サブタイトル直前の </script> までは変更しないでください --->
 <style>
 img[alt*="Category"], 
 img[alt*="Tag"], 
