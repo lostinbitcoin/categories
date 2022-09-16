@@ -8,37 +8,7 @@ taxonomy:
         - beginner
 ---
 
-<!--- 以下、<style> から </script> までは変更しないでください --->
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-p img {
-    text-align:center;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-
-### まだビットコインを持っていないあなたへの手紙
+## まだビットコインを持っていないあなたへの手紙
 
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  20分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -58,7 +28,7 @@ A letter to all of you who still have no bitcoin.](https://dergigi.com/2020/04/2
 ### プランB
 もう既に、みなさんはビットコインについて耳にしたことがあるでしょう。ビットコインは人気ニュースチャンネル（あなたのことですよ、CNBC）で頻繁に取り上げられる他、人気アニメやドラマ（ [シンプソンズ](https://web.archive.org/web/20190628072140/https://www.ccn.com/bitcoin-finally-mentioned-foxs-simpsons/) 、 [ミスター・ロボット](https://youtu.be/gHOAKWzDH-Q)、[シリコンバレー](https://www.youtube.com/watch?v=28IpiLraUoc) 、 [ビッグバン セオリー](https://www.youtube.com/watch?v=Cc-Hbklizzk) 、 [グレイズ・アナトミー](https://www.cyberscoop.com/greys-anatomy-attempts-bring-ransomware-attacks-public-audience/) 、 [ファミリー・ガイ](https://www.youtube.com/watch?v=6HFtk29k7-Y) 、またまた [シンプソンズ](https://youtu.be/ovyMzT8rS8w) ）にも登場しています。あなたがビットコインについて知っていること、あるいは知っていると思っていることが何であれ、ビットコインはあなたが思っている以上に面白いですよ。
 
-![cnn](/_images/dear_family_dear_friends_2.jpg)
+![](/_images/dear_family_dear_friends_2.jpg)
 
 ビットコインは主要メディアで、かなりの頻度で取り上げられているものの、ビットコインとは何か、そして世界でどんな役割を果たすのかは、まだ広くは知られていません。誤解している人も多いです。しかし、世界中の中央銀行が実施した無謀な金融政策の副作用が現れ始めたこともあり、主要メディアのビットコインについての語り口にも変化が見られます。ビットコインはもはや犯罪やダークネットで使われる怪しいお金の代名詞ではありません。今日では、ビットコインといえば、 [健全な貨幣](https://21lessons.com/14/) （生産の難易度とコストが高く、簡単には供給量を増やせない貨幣）、現行の金融システム崩壊に備える保険、自由を手にするための投票行動、新しいパラダイムの代名詞になりつつあります。
 
@@ -137,7 +107,7 @@ A letter to all of you who still have no bitcoin.](https://dergigi.com/2020/04/2
 
 この手紙を書いている時点で、1ドルは14,488 satoshiです。70ドルで1,014,160 satoshiを買えば、あなたはsatoshiミリオネアになれるのです。（訳注：翻訳時点の2022年6月では１ドル 4,908 satoshisなので、ミリオネアになるには204ドル必要です。）ビットコインは高いですが、satoshiは安いのです。
 
-<figure><img src="https://dergigi.com/assets/images/bitcoin/2020-04-27-dear-family-dear-friends/sat.png"></figure>
+<figure><img src="https://dergigi.com/assets/images/bitcoin/2020-04-27-dear-family-dear-friends/sat.png" alt=""></figure>
 <figcaption>「例文：ドルコスト平均法を自動実践してくれるサービスを使って、毎日satsを積立貯金しています。」</figcaption><br>
 
 前述したように、ビットコインは可分性が高く、極めて少額に分割可能です。繰り返になりますが、ビットコインという単位と１ビットコイン当たりの価格に惑わされないでください。ビットコインの発行上限は2,100万ですが、satoshiに換算すると2,100兆です。世界人口は80億人に満たないので、世界中のすべての人に行き渡るのに十分な量です。ビットコインを一度に大量に買おうとすると、どうしても市場動向を見極めて買うタイミングを計ろうとします。自動で定期的にsatsを買い増すことで、この心理的重圧を軽減できます。定期的にsatsを買い増す作業を自動化できるサービスが今ではたくさんあります。一度設定すれば、あとは自動的にsatsが貯まっていきます。必死に価格をチェックして最適なタイミングを計る必要もなく、カストディアン・リスクにさらされることもありません（訳注：カストディアン・リスクとは、取引所などビットコインを預かる保管機関がハッキングされたり、倒産したりして、預けてあるビットコインを回収できなくなるリスクです。カストディアン・リスクを回避するには、購入したsatsを取引所から自身のウォレットにこまめに引き出す必要があります。）。
@@ -189,7 +159,7 @@ Satsはまだ呆れるほど安いです。１ドルで何万ものsatsを買え
 
 ビットコインは未来への投資であるものの、私は必ずしも投機的なとは考えていません。また、ビットコインを最終的にドルやユーロ、円に戻すことも考えていません。ミームじゃありませんが、ビットコインは売るものではないとがわかる日が、あなたにもいずれ訪れるかもしれません。
 
-![ ](/_images/dear_family_dear_friends_5.jpg)
+![](/_images/dear_family_dear_friends_5.jpg)
 <figcaption>（訳注：ネオ「どういう意味？いつか私のビットコインが百万ドル以上で売れるということ？」モーフィアス「違うんだ、ネオ。君の準備ができたら、売らなくていいということだよ」）ネオはオレンジ・ピルを飲み、ラビット・ホール（訳注：直訳はうさぎの巣穴ですが、あることに夢中になりすぎて底なし沼に落ちていく様を指します。）を転げ落ちていった。</figcaption>
 <br>
 ### あなたが準備できるまで待っています
