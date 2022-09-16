@@ -7,37 +7,7 @@ taxonomy:
     post_tag:
         - beginner
 ---
-
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-p img {
-    text-align:center;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-
-###あなたが苦労して稼いだお金の価値を守ってくれる媒体はどれ？
+##あなたが苦労して稼いだお金の価値を守ってくれる媒体はどれ？
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  2分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -49,23 +19,23 @@ $(document).ready( function () {
  
 米ドルは年２％のインフレ目標の下、必要に応じて供給量が増やされます。供給上限はありません。
 
-![米ドル（現在）](/_images/comparison_of_dollars_gold_and_bitcoin_1.png)
+![](/_images/comparison_of_dollars_gold_and_bitcoin_1.png)
 
 ２％のインフレ目標を達成するために、米ドルの総供給量は意図的に増やされます。１年後、１単位（１ドル）当たりの購買力は<２％低下します。
 
 米ドルの供給は2010年以降、毎年<８％増えています（出典：[https://fred.stlouisfed.org/series/M2](https://fred.stlouisfed.org/series/M2)）。
 
-![米ドル（１年後）](/_images/comparison_of_dollars_gold_and_bitcoin_2.png)
+![](/_images/comparison_of_dollars_gold_and_bitcoin_2.png)
 
 米ドルと異なり、金の採掘は自由裁量に任されています。供給調整が自由市場に委ねられた結果、金の総供給量は毎年<２%増え続けています。供給上限は不明です。
 
-![金（現在）](/_images/comparison_of_dollars_gold_and_bitcoin_3.png)
+![](/_images/comparison_of_dollars_gold_and_bitcoin_3.png)
 
 グローバルGDPの成長率も<２％と金の総供給量の増加率と同程度なため、１年後も１単位（１グラム）当たりの購買力は横ばいです。
 
 購買力を維持する金は、米ドルよりは価値を保存する媒体として優れています（出典：[https://www.macrotrends.net/countries/WLD/world/gdp-growth-rate](https://www.macrotrends.net/countries/WLD/world/gdp-growth-rate)）。
 
-![金（１年後）](/_images/comparison_of_dollars_gold_and_bitcoin_4.png)
+![](/_images/comparison_of_dollars_gold_and_bitcoin_4.png)
 
 供給上限のない米ドルや不明な金と異なり、ビットコインの供給上限はあらかじめ決まっています。ビットコインは人類史上初の供給量を人為的に増やすことができない貨幣なのです。
 
@@ -73,7 +43,7 @@ $(document).ready( function () {
 
 苦労して稼いだお金の価値、あなたならどの貨幣に貯蔵しますか？
 
-![ビットコイン](/_images/comparison_of_dollars_gold_and_bitcoin_5.png)
+![](/_images/comparison_of_dollars_gold_and_bitcoin_5.png)
 
 
 ### 著作権等について
