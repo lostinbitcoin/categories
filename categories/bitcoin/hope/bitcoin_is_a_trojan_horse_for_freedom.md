@@ -11,36 +11,7 @@ taxonomy:
         - economics
 ---
 
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-p img {
-    text-align:center;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-
-###ビットコインは「儲けたい」という誰もが持つ欲求に訴える NGU（価格上昇）技術を装った FGU（自由拡散）技術
+##ビットコインは「儲けたい」という誰もが持つ欲求に訴える NGU（価格上昇）技術を装った FGU（自由拡散）技術
 
 |  ![Category](/_images/category.png)  |  ビットコインは希望  |  ![Tag](/_images/tag.png)  |  初級、人権、政治、経済  | ![Time](/_images/timer.png)  |  11分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
