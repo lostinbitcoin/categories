@@ -10,32 +10,7 @@ taxonomy:
         - politics
 ---
 
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-###簡単かつ安価に際限なく発行できるお金が引き起こすさまざまな問題
+##簡単かつ安価に際限なく発行できるお金が引き起こすさまざまな問題
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級、経済学、政治  | ![Time](/_images/timer.png)  |  35分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -47,7 +22,7 @@ $(document).ready( function () {
 
 「CC/Subtitle」ボタンをクリックして日本語字幕を選んでください。
 
-<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/433038852?h=0e6926713b" width="640" height="360" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/433038852?h=0e6926713b" width="640" height="360" frameborder="0" allowfullscreen=""></iframe></center>
 
 
 ### 著作権等について
