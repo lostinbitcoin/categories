@@ -8,36 +8,7 @@ taxonomy:
         - beginner
 ---
 
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-p img {
-    text-align:center;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-
-###マルチシグ、シングルシグにはそれぞれメリットとデメリットがあります。それらを理解して、自分に合ったビットコイン管理法を実践しましょう。
+##マルチシグ、シングルシグにはそれぞれメリットとデメリットがあります。それらを理解して、自分に合ったビットコイン管理法を実践しましょう。
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  7分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -53,7 +24,7 @@ _本記事は [Unchained Capital](https://unchained.com/) のブログ記事「[
 
 ビットコインの誕生により、私たちは自分のお金を誰にも頼らず、誰からも干渉されず、自身で管理するという新たな選択肢を手にしました。ビットコインの所有権を主張するには、秘密鍵を自ら管理する必要があります。秘密鍵はビットコインの送金を承認する印鑑のようなものです。秘密鍵の管理を第三者に任せる場合、そのビットコインの送金権限を持つのはあなたではなく、秘密鍵を持つ第三者になります。つまり、そのビットコインはあなたのものではなく、第三者のものです。秘密鍵の自己管理を放棄することは、ビットコインの存在理由を否定することに等しいのです。とはいえ、ビットコイン管理は容易ではなく、修行のようなものなので、初めから完璧を目指すより、段階的に理想に近づくのが現実的です。ほとんどの人は中央集権型取引所でビットコインを購入し、購入したビットコインをそのまま取引所で保管するところから始めます。
 
-![発行済みビットコインの内訳](/_images/why_multisig.png)
+![](/_images/why_multisig.png)
 保有者が自己管理していると思われるビットコインは1,250万 BTC。出典：[Coinmetrics](https://coinmetrics.substack.com/p/coin-metrics-state-of-the-network-41d), [Coinshares](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb), [HODL Waves](https://unchained.com/hodlwaves/)
 
 ビットコインを自分で管理する方法にハードウェアウォレット（ビットコインの秘密鍵を保管するための専用デバイス）の利用があります。ハードウェアウォレットを介して秘密鍵を物理的に保有することで、ビットコイン送金の際、取引所による送金の検閲や差止めといった金融プライバシーや財産権の侵害を回避できます。また、第三者にビットコインの保管を託す場合に想定すべきリスク、いわゆるカストディリスクも排除できます。通常、中央集権型取引所は顧客にログインIDやパスワードを管理させる上に二段階認証を求めたりと、アカウント単位の安全性を担保する責任を顧客に押しつけます。しかし、こうした認証技術は暗号学に基づく秘密鍵に比べて安全性で劣る上、秘密鍵管理と比べてユーザー負担を軽減するわけでもありません。また、中央集権型取引所は顧客のビットコインを大量保管するため、ハッカーにとっては絶好の標的です（世界最大の取引所Coinbaseが保管するビットコインは100万 BTCを超えると言われます）。ビットコインを自分で管理すれば、取引所がハッカーから攻撃を受けても、あなたのビットコインが盗まれることはありません。さらに、もし取引所が破産しても、口座や残高が凍結されてビットコインにアクセスできなくなる事態を避けられます。
