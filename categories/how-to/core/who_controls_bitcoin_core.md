@@ -8,36 +8,7 @@ taxonomy:
         - beginner
 ---
 
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-p img {
-    text-align:center;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-
-### ビットコインの開発現場は誰がどのように運営管理しているのか？
+## ビットコインの開発現場は誰がどのように運営管理しているのか？
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインコア開発に参加するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  17分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -147,7 +118,7 @@ Bitcoin Core にはテストコードが多数用意されており、すべて�
 
 または Marco Flake がホストしているカバレッジレポートを[こちら](https://marcofalke.github.io/btc_cov/test_bitcoin.coverage/index.html)から確認できます。
 
-![コードカバレッジレポート](/_images/who_controls_bitcoin_core_2.png)
+![](/_images/who_controls_bitcoin_core_2.png)
 
 コードカバレッジ・レポート
 
@@ -157,7 +128,7 @@ Bitcoin Core にはテストコードが多数用意されており、すべて�
 
 「テストとはソフトウェアのテストです。ではテストのテストとは？テストをテストするには、ソフトウェアを壊さなければなりません。」—  Greg Maxwell 
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/nSRoEeqYtJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/nSRoEeqYtJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 
 ### 自由な市場競争
@@ -166,7 +137,7 @@ BitMEX がビットコイン実装のエコシステムについて[素晴らし
 
 本記事執筆時点で、アクセス可能なビットコインノードの96％は Bitcoin Core のいずれかのバージョンを実行しています。なぜ Bitcoin Core がここまで優勢なのでしょうか？他の実装への乗り換えコストがゼロに近い場合、Bitcoin Core が独占的地位を維持できる理由は何でしょう？答えは、他の実装も結局はその大半が Bitcoin Core と互換性があるか、少なくとも Bitcoin Core に非常に類似した RPC API を提供しているからです。
 
-![ビットコインノード（2018/12/09）](/_images/who_controls_bitcoin_core_1.png)
+![](/_images/who_controls_bitcoin_core_1.png)
 
 これは Bitcoin Core が開発のフォーカルポイントであることの証明だと私は考えています。 Bitcoin Core は他の実装と比べて開発者のレベルの高さと数の多さが桁違いなため、Bitcoin Core のソフトウェアはパフォーマンス、堅牢性、安全性が最も高い傾向にあります。ノード運用者は大切なお金を管理するのに、わざわざ２番目に優れたソフトウェアを選ばないでしょう。またビットコインはコンセンサスソフトウェアであり、ビットコインプロトコルには公式仕様が存在しません（この点についてのコンセンサスはないですが）。なぜなら仕様を決める権限を持つ人がいないからです。こうした状況では、フォーカルポイントの実装を選ぶ方が安全です。バグまで含めて他のネットワーク参加ノードと互換性を保てる可能性が高いためです。この意味において、開発フォーカルポイントのコードは実質的に公式仕様に最も近いと言えます。
 
@@ -219,7 +190,7 @@ Bitcoin Core はテクノクラシーや象牙の塔のように参加ハード�
 
 私たちは皆、サトシなのです。
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DjYbsq3FXfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DjYbsq3FXfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 
 ### Bitcoin Core に貢献するには
@@ -245,7 +216,7 @@ Core 開発者 [Eric Lombrozo](https://medium.com/@elombrozo) も Core リポジ
 
 これは説明するのも理解するのも難しいですが、これこそがビットコインの反脆弱性にとって非常に重要な側面です。もし管理中枢があったら、それはビットコインの成功に怯える個人や組織に悪用される単一障害点になり得ます。最終的には、ノード運営者が各々、他のネットワーク参加者が合意規則に違反していないことを確認することで、自らを管理しているのです。この[セキュリティモデル](https://www.coindesk.com/markets/2016/11/13/bitcoins-security-model-a-deep-dive/)が、ビットコインのボトムアップガバナンスの基礎です。
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_IMzSCSeM68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_IMzSCSeM68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 ビットコインをコントロールする者はいません。
 
