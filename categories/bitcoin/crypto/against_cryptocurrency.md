@@ -8,36 +8,7 @@ taxonomy:
         - beginner
 ---
 
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-p img {
-    text-align:center;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-
-###倫理的見地からのビットコインマキシマリズム賛成論
+##倫理的見地からのビットコインマキシマリズム賛成論
 
 |  ![Category](/_images/category.png)  |  ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  9分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
