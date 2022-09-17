@@ -8,35 +8,7 @@ taxonomy:
         - beginner
 ---
 
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-p img {
-    text-align:center;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-### ビットコインの自己管理においてすべきこと、してはいけないこと
+## ビットコインの自己管理においてすべきこと、してはいけないこと
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  16分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -92,7 +64,7 @@ $(document).ready( function () {
 
 インターネットに接続しているコンピュータやスマートフォン、特にウェブブラウザには決してシードフレーズを入力しないこと！専用ハードウェアで秘密鍵を保管する人が増えた今、ハッカーが狙っているのはハードウェアウォレット所有者です。
 
-![Trezorの偽サイト）](/_images/the_dos_and_don'ts_of_bitcoin_key_management_1.jpeg)
+![](/_images/the_dos_and_don'ts_of_bitcoin_key_management_1.jpeg)
 
 
 あまり知られていない攻撃手法に**タイポスクワッティング**があります。ハッカーはビットコイン所有者がビットコイン関連サービスサイトにアクセスする際にURLのタイプミスでアクセスしそうなドメインを購入し、獲物を待ちます。こうした悪意ある偽サイトに誤ってアクセスするのを防ぐため、金融関連サービスのウェブサイトはあらかじめブックマークしておき、常にブックマークからアクセスしましょう。
@@ -103,7 +75,7 @@ $(document).ready( function () {
 
 タイポスクワッティングと似た攻撃に、検索エンジンに広告料を支払って悪意ある偽サイトを正規サイトより上位に表示させる手法があります。正規サイトよりも先に表示される偽サイトに誘導してビットコインを盗もうとするものです。これは前述のウェブサイトへのアクセスをブックマーク経由に限定する方法で回避できます
 
-![正規サイトより上位に表示される偽サイト）](/_images/the_dos_and_don'ts_of_bitcoin_key_management_2.png)
+![](/_images/the_dos_and_don'ts_of_bitcoin_key_management_2.png)
 
 
 
@@ -123,7 +95,7 @@ QR コードを生成するサイト、特に「ビットコイン QR コード�
 
 > [ビットコインアドレスを QR コードに変換するというこのサイト、何を入力してもサイト運営者のアドレスを出力する。 詐欺サイト以外の何者でもない。](https://www.reddit.com/r/Bitcoin/comments/gtr2p4/this_website_claims_to_turn_your_addresseinto_a/?ref=share&ref_source=embed&utm_content=media&utm_medium=post_embed&utm_name=24092cb1606a4f2fb8b2cfbefc02e560&utm_source=embedly&utm_term=gtr2p4)
 > 
-> ![正規サイトより上位に表示される偽サイト）](/_images/the_dos_and_don'ts_of_bitcoin_key_management_3.jpeg)
+> ![](/_images/the_dos_and_don'ts_of_bitcoin_key_management_3.jpeg)
 
 可能なら、ソフトウェアはインストール前に正規版かどうか検証、つまり、ダウンロードしたバイナリのファイルハッシュと GPG 署名を確認しましょう。秘密鍵を管理するソフトウェアについては、例えば、サードパーティが管理するAWSイメージを実行するなど動作検証が不可能な場合、インストールを見合わせてください。
 
@@ -147,7 +119,7 @@ Tor ブラウザを使ってビットコインの送金先アドレスを表示�
 ブレインウォレット（秘密鍵やシードフレーズを暗記すること）は避けてください。人間はエントロピー生成が苦手です。よく使う英単語を並べたシードフレーズで復元できるブレインウォレットに送金したビットコインは、数秒後には盗まれてしまうでしょう。
 
 <center>DEF CON 23 - Ryan Castellucci - ブレインウォレットをハックする</center>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/foil0hzl4Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/foil0hzl4Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 シャミアの秘密分散法には以下ブログ記事で詳しく説明した通り、欠点が多いため使わないでください。
 
@@ -156,7 +128,7 @@ Tor ブラウザを使ってビットコインの送金先アドレスを表示�
 シードフレーズを分割して分散保管するのは避けてください。総当たり攻撃への耐性が大幅に低下します。
 
 <center>ビットコイン Q&A： シードフレーズを分割してはいけない理由</center>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/p5nSibpfHYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/p5nSibpfHYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 シードフレーズのバックアップに創造性は不要です。独自に考案したバックアップ方法は総じて安全性が低く、ウォレットを復元できなくなるリスクがあります。具体的なリスクについては以下記事をご参照ください。
 
@@ -167,7 +139,7 @@ Tor ブラウザを使ってビットコインの送金先アドレスを表示�
 ペーパーウォレットは使わないでください。ペーパーウォレットを安全に使うのは難しく、付随するリスクを十分に理解していないとビットコインを誤って失うことになるでしょう。 
 
 <center>ビットコイン Q&A： ペーパーウォレットのメリットとデメリット</center>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/cKehFazo8Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/cKehFazo8Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 弊社 Casa の新規顧客の共通点に、ハードウェアウォレットやペーパーウォレットなど複数のシングルシグウォレットにビットコインを分散保管していることがあります。これはビットコインを全て失うという致命的リスクを下げるものの、一部を失うリスクを高めます。_単一障害点を持つ複数のウォレットに秘密鍵を分散保管しても安全性は向上しません。_
 
