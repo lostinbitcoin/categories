@@ -8,36 +8,7 @@ taxonomy:
         - beginner
 ---
 
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-p img {
-    text-align:center;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-
-###ビットコインは「国家と貨幣の分離」という悲願達成への唯一の希望、しかも、このプロセスはもう後戻りできないところまで来ています。
+##ビットコインは「国家と貨幣の分離」という悲願達成への唯一の希望、しかも、このプロセスはもう後戻りできないところまで来ています。
 
 |  ![Category](/_images/category.png)  |  ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  8分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -47,14 +18,14 @@ $(document).ready( function () {
 
 ### 現代のシニョリッジの不可避な末路
 
-![ ](/_images/the_great_plague_of_shitconery_2.webp)
+![](/_images/the_great_plague_of_shitconery_2.webp)
 *[出典](https://www.nationalgeographic.fr/histoire/2020/04/rapide-et-fatale-comment-la-peste-noire-devaste-leurope-au-14e-siecle)*
 
 Seigniorage（シニョリッジ、通貨発行益）は「seigneurage」と表記されることもあり、もともとはフランスの古語です。領主（seigneur）が通貨を発行する権利を独占し、通貨発行から莫大な利益を得ていたことに由来します。当時、市民が商取引で使う通貨を入手するには、金銀などの貴金属を造幣局に持ち込み、金貨や銀貨を鋳造してもらう必要がありました。その際、領主や君主は「貨幣鋳造費」と呼ばれる手数料を徴収していました。この特権は立法権と行政権に加えて武器を持つエリートだけに与えられたものでした。
 
 今日、この特権を持つのは中央銀行です。政府は部分準備銀行制度の下、中央銀行や商業銀行と連携して国債（という債務貨幣）を発行します。課税という有権者に不評な手段を回避できるため、シニョリッジは[世界中の政府に好都合な歳入源として多用されています](https://nymag.com/intelligencer/2020/05/were-paying-for-coronavirus-stimulus-by-printing-money.html)。米ドル、ユーロ、円といった国家通貨は法律で強制通用力を付与した法定通貨、つまり特定法域で金銭債務の弁済手段として認められた財です。また、国民は納税手段や商取引の交換手段として法定通貨の利用を強制されています。国民が法定通貨を利用するのは合法的選択肢が他にないためです。法定通貨制度では、通貨発行コストはほぼゼロなので、発行体である国が得る利益は莫大です。コストが発行抑止力にならないため、通貨供給は際限なく拡大し、発行済み通貨の価値は下がる一方です。あなたが保有する通貨の購買力は蒸発するが如く消えているのです。
 
-![ ](/_images/the_great_plague_of_shitconery_3.webp)
+![](/_images/the_great_plague_of_shitconery_3.webp)
 *[出典](https://www.preciousmetals.com/pub/media/mageplaza/blog/post/uploads/2015/02/Seigniorage-printing-american-currency.jpg)*
 
 ### 独占体制の崩壊
@@ -74,14 +45,14 @@ Seigniorage（シニョリッジ、通貨発行益）は「seigneurage」と表�
 ### 混乱の渦
 [世界中に拡散するフェイクニュース](https://themanifest.com/digital-marketing/state-fake-news-social-media-2019)、既存金融の行き詰まり、[若者が多額の負債を抱えて経済的苦境に喘ぐ現状](https://www.businessinsider.fr/us/personal-finance/millennials-debt-stressed-generation-2019-10)は、どれもアルトコインにとって好都合です。ゲートキーパーであるはずの取引所は、金融や貨幣史の知識のない投資初心者である顧客に率先して誤解を招く情報や明らかな嘘を吹き込んでいるのです。[既存金融に対する不信感](https://www.cnbc.com/2019/01/16/banks-millennials-trust-jp-morgan-chase-goldman-bank-of-america.html)が高まる中、デジタルネイティブ世代、特にZ世代とミレニアル世代にとって、銀行は時代遅れの無用の長物です。[福祉国家](https://www.bbc.com/news/uk-politics-45356189)で自己責任とは無縁に甘やかされて育った彼らの夢は、投資で大儲けして25歳でリタイアすることです。最近の経済実態を伴わない個人投資家主導の異常な[株価暴騰](https://tradesmith.com/news/the-robinhood-retail-mania-has-now-gone-global/)はその最たる例です。
 
-![ ](/_images/the_great_plague_of_shitconery_4.webp)
+![](/_images/the_great_plague_of_shitconery_4.webp)
 *[出典](https://s3.amazonaws.com/headstuffuploads/2014/07/Crassus-NLB.jpg)*
 
 草コインは強欲という人間の内面に潜む最も邪悪な性質に訴えかけます。強欲は心を蝕みますが、大半の人は自尊心が邪魔して問題を抱えることを認められないでいます。賢明な正直者さえ、強欲のせいで近視眼的な利己主義者、一攫千金に成功したインフルエンサーの盲信者に変貌してしまいます。不確実な将来に対する私たちの不安と恐怖が次第に強欲へと姿を変えます。草コインは永遠の富という幻想を売るための媒体であり、叶うはずのない夢に他なりません。
 
 草コインはトークン、ネットワーク、プロトコル設計に欠陥を抱え、コインの流通構造も詐欺的です。しかも、こうした問題の大半は[意図的に仕組まれた](https://hackernoon.com/tuur-demeesters-bearish-case-for-ethereum-66555e205c00)ものです。非中央集権性はバイナリー（イエスまたはノーのどちらか）であり、多くの草コイナーが説くようなスペクトラム（度合い）ではありません。非中央集権型か中央集権型の二者択一です。中央集権の度合いはコンピュータネットワークにおける主従関係のように相対的に変わることはありますが、これは本件には該当しません。何が言いたいかというと、草コイン開発者はコインの通貨政策に対する大きな影響力を持っています。つまり、草コイン保有者は開発者がコインの価値を毀損するような通貨政策は採らないと信用する必要があります。この第３者を信用する必要性を排除すること、これこそがビットコインが十数年前に達成した偉業なのです。
 
-[![ ](/_images/the_great_plague_of_shitconery_5.png)](https://twitter.com/100trillionUSD/status/1091364644344791040?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1091478810426597376%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Fbitcoinmagazine.com%2Fculture%2Fthe-great-plague-of-shitcoinery)
+[![](/_images/the_great_plague_of_shitconery_5.png)](https://twitter.com/100trillionUSD/status/1091364644344791040?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1091478810426597376%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Fbitcoinmagazine.com%2Fculture%2Fthe-great-plague-of-shitcoinery)
 
 ### 残酷な貨幣進化論
 ビットコインはインターネット、暗号学、ネットワークコンピューティングなどを活用して、どの国にも属さない国際中立的造幣局を創るプロジェクトです。ビットコインプロトコルに使われている技術は、その大半が数十年前に開発された、いわゆる枯れた技術です。実社会での利用の中でさまざまな不具合が検証、修正され、知見が蓄積された安定性の高い技術と言えます。デジタル貨幣創造に挑んだのはビットコインが最初ではありません。ビットコイン以前にE-Gold、DigiCash、Liberty Reserve、B-Moneyなどがありました。どれも失敗に終わりましたが、それぞれの挑戦で得られた教訓無くしてビットコインの誕生はありませんでした。ビットコインの成功要因として、絶対的な非中央集権性、完璧な設計、正体不明の考案者が挙げられます。これらはビットコインと草コインを隔てる根本的違いでもあります。ビットコインには圧力や攻撃を加える対象も、経営陣も、単一障害点もありません。ビットコインは敵対的環境での運用を前提に開発されており、攻撃を受ける度に改修が加えられ強靭化してきました。ビットコインは試練を糧に成長する生き物のようであり、反脆弱性の具現化です。
@@ -94,13 +65,13 @@ Seigniorage（シニョリッジ、通貨発行益）は「seigneurage」と表�
 
 ビットコインは長期的視点を持つ時間選好の低い人を引きつけます。サトシ（ビットコインの小単位で１サトシは１億分の１ビットコイン）に法定通貨にはない安心感を見出す人は、ビットコインを「一攫千金スキーム」ではなく「ジリ貧回避技術」、つまり現代の悪魔、通貨インフレに対する自衛手段と捉えています。
 
-[![ ](/_images/the_great_plague_of_shitconery_6.png)](https://twitter.com/ODELL/status/1158435530360721409?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1158435530360721409%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fbitcoinmagazine.com%2Fculture%2Fthe-great-plague-of-shitcoinery)
+[![](/_images/the_great_plague_of_shitconery_6.png)](https://twitter.com/ODELL/status/1158435530360721409?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1158435530360721409%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fbitcoinmagazine.com%2Fculture%2Fthe-great-plague-of-shitcoinery)
 
 長期展望に立って将来に備えましょう。ビットコインを選択し、現制度からオプトアウト（脱退）しましょう。欲に身をまかせた者は時間選好を高めた挙句、[ギャンブルで身を滅ぼす](https://www.reddit.com/r/Buttcoin/comments/akgq8l/degenerate_crypto_gambler_blew_20k/)という末路しかないことは歴史が証明済みです。
 
 [ビットコインは必然](https://medium.com/bull-bitcoin/the-world-is-waking-up-to-bitcoin-5d532a1188ce)です。残酷な貨幣進化論は草コインの存続を許さないでしょう。賢い選択をしましょう。
 
-![ ](/_images/the_great_plague_of_shitconery_7.webp)
+![](/_images/the_great_plague_of_shitconery_7.webp)
 *[出典](https://medium.com/bull-bitcoin/the-world-is-waking-up-to-bitcoin-5d532a1188ce)*
 
 *本記事は Thibaud Meréchal 氏による寄稿です。本記事中の意見は著者のものであり、必ずしも BTC Inc または Bitcoin Magazine の意見を反映したものではありません。*
