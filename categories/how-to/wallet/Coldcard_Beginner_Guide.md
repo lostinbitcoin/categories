@@ -8,33 +8,7 @@ taxonomy:
         - beginner
 ---
 
-<style>
-img[alt*="Category"], 
-img[alt*="Tag"], 
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-
-### COLDCARD 初心者向けガイド
+## COLDCARD 初心者向けガイド
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  5分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -198,7 +172,7 @@ Electrumは、オープンソースのプロジェクトであり、常に変化
 
 袋の内側に、シリアルナンバー入りの一片が同封されています。この一片を使って、袋の横幅を再確認してください。また虫眼鏡を使って、一片のミシン目が袋と一致しているのを確認することもできます。袋の底に、つなぎ目がないのを確認することも重要です。
 
-![cc_beginner_guide1.png](/_images/cc_beginner_guide1.png)　
+![](/_images/cc_beginner_guide1.png)　
 
 
 #### 電源オン
@@ -210,7 +184,7 @@ Electrumは、オープンソースのプロジェクトであり、常に変化
 
 最初に表示される画面はこのようなものです。
 
-![cc_beginner_guide2.png](/_images/cc_beginner_guide2.png)
+![](/_images/cc_beginner_guide2.png)
 
 画面の右端をよく見ると、小さなスクロールバーと下向きの矢印があるのがわかります。5キーと8キーを使って上下に移動し、メッセージの全文を見ることができます。
 
@@ -221,7 +195,7 @@ Electrumは、オープンソースのプロジェクトであり、常に変化
 
 ビットコイン・シードフレーズが生成される前に、最初のPINを選択する必要があります。これは、あなたが近くにいない時に、不特定の人々があなたの Coldcard を使おうとする事態への主な防御方法です。ぜひ効果的なPINコードを選択してください。
 
-![cc_beginner_guide3](/_images/cc_beginner_guide3.png)
+![](/_images/cc_beginner_guide3.png)
 
 Coldcardでは、PINは以下の例のように2つの部分から成ります。
 
@@ -239,7 +213,7 @@ Coldcardでは、PINは以下の例のように2つの部分から成ります�
 
 PIN プレフィックス (PINの最初の部分) によって、フィッシング防止のための単語が決まります。アンチフィッシング防止のための単語は、Coldcard が危険にさらされた場合に PIN 全体が漏れないように、サフィックス (PINの2番目の部分) を入力しても安全であることを確認するためのものです。
 
-![cc_beginner_guide4](/_images/cc_beginner_guide4.png)
+![](/_images/cc_beginner_guide4.png)
 
 PIN コードを選択すると、PIN プレフィックスに関連するフィッシング防止用の単語が表示されます。これらの単語は、Coldcard ごとに固有です。楽しい単語や印象的な単語を見つけるまで、数種類のPINプレフィックスを試してみるのもよいでしょう。Coldcardにログインするたびに、PIN の2番目部分に進む前に、これらの単語の確認作業が重要になるため、これらの単語を覚えておく必要があります。
 
@@ -262,7 +236,7 @@ PIN コードを選択すると、PIN プレフィックスに関連するフィ
 
 **「New Wallet」**を選ぶと、[BIP-39](https://coldcard.com/docs/glossary#bip39)の単語リストを使って24個の単語が生成されます。
 
-![cc_beginner_guide5](/_images/cc_beginner_guide5.png)
+![](/_images/cc_beginner_guide5.png)
 
 そして、それらの単語が表示されます。シードとなる単語を順番に、付属のカードなどに書き留めてください。この段階で注意することは、それぞれの単語が100％正しく記録されていることを確認することです。この際、手書きで複製を作っておくとよいでしょう。（つまり、バックアップをとっておく）
 
@@ -270,7 +244,7 @@ PIN コードを選択すると、PIN プレフィックスに関連するフィ
 
 単語を書き留めたら、OK(✔)を押してクイズに進みます。Coldcardが、それぞれの単語が何であるかをランダムな順番で尋ねてきます。これは、あなたのバックアップが正しいかどうかを確認するためです。わからない単語があった場合、OK(✔)を押すと、もう一度見ることができます。
 
-![cc_beginner_guide7](/_images/cc_beginner_guide7.png)
+![](/_images/cc_beginner_guide7.png)
 
 クイズに成功すると、単語が保存され、新しい Coldcard を使用できるようになります。
 
