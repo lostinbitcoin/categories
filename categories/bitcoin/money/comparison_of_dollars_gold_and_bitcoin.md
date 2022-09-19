@@ -7,7 +7,7 @@ taxonomy:
     post_tag:
         - beginner
 ---
-##あなたが苦労して稼いだお金の価値を守ってくれる媒体はどれ？
+## あなたが苦労して稼いだお金の価値を守ってくれる媒体はどれ？
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  2分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
