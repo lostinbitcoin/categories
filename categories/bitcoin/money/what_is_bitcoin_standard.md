@@ -9,7 +9,7 @@ taxonomy:
         - economics
 ---
 
-##ビットコインとは？ビットコイン・スタンダードとは？
+## ビットコインとは？ビットコイン・スタンダードとは？
 
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  6分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
