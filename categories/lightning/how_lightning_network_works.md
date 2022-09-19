@@ -16,7 +16,7 @@ taxonomy:
 *本記事は [株式会社Nayuta](https://nayuta.co/ja) の [上野 寛](https://twitter.com/nayuta_ueno) 氏が執筆、[Thin IT](https://thinkit.co.jp/) が2018年7月20日に公開したものです。*
 
 
-[![Lightning Networkが動作する仕組み - Think IT](/_images/how_lightning_network_works_2.jpeg)](https://thinkit.co.jp/article/14548)
+[![Lightning Networkが動作する仕組み - Think IT](/_images/how_lightning_network_works_2.png)](https://thinkit.co.jp/article/14548)
 
 [続きを読む](https://thinkit.co.jp/article/14548)
 
