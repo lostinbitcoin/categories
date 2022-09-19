@@ -9,7 +9,7 @@ taxonomy:
         - tech
 ---
 
-##51％攻撃はビットコインにとって大きな脅威なのか？
+## 51％攻撃はビットコインにとって大きな脅威なのか？
 
 |  ![Category](/_images/category.png)  |  ビットコインよくある誤解  |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  |  34分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
