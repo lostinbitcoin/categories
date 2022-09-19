@@ -9,7 +9,7 @@ taxonomy:
         - tech
 ---
 
-##ハードウェアウォレットの仕組みや購入時の注意点、LedgerとTrezorの違いなどを解説
+## ハードウェアウォレットの仕組みや購入時の注意点、LedgerとTrezorの違いなどを解説
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  |  35分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
