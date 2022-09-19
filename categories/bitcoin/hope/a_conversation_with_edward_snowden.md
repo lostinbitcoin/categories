@@ -10,7 +10,7 @@ taxonomy:
         - politics
 ---
 
-##やましいことなんてないからプライバシーは不要？
+## やましいことなんてないからプライバシーは不要？
 
 |  ![Category](/_images/category.png)  |  ビットコインは希望  |  ![Tag](/_images/tag.png)  |  初級、人権、政治  | ![Time](/_images/timer.png)  |  39分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
