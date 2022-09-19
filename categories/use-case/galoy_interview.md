@@ -7,7 +7,7 @@ taxonomy:
         - beginner
 ---
 
-##エルサルバドルのビットコイン循環経済圏を技術面で支えるフランスのGaloyに直撃取材！
+## エルサルバドルのビットコイン循環経済圏を技術面で支えるフランスのGaloyに直撃取材！
 
 |  ![Category](/_images/category.png)  |  事例  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  8分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
