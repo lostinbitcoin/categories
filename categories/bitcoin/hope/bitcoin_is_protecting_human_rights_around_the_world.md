@@ -10,7 +10,7 @@ taxonomy:
         - politics
 ---
 
-##ビットコインは専制主義国家から逃れる非常口
+## ビットコインは専制主義国家から逃れる非常口
 
 |  ![Category](/_images/category.png)  |  ビットコインは希望  |  ![Tag](/_images/tag.png)  |  初級、人権、政治  | ![Time](/_images/timer.png)  |  6分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
