@@ -7,7 +7,7 @@ taxonomy:
         - beginner
 ---
 
-##Block社（旧Square）のTBDが発表した Web5 は、単なるWeb3のディスりなのか、それともガチの提案なのか？
+## Block社（旧Square）のTBDが発表した Web5 は、単なるWeb3のディスりなのか、それともガチの提案なのか？
 
 |  ![Category](/_images/category.png)  |  事例  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  10分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
