@@ -8,7 +8,7 @@ taxonomy:
         - beginner
 ---
 
-##ブロックチェーンとは何たるかを知らない人が陥るアルトコインの罠
+## ブロックチェーンとは何たるかを知らない人が陥るアルトコインの罠
 
 |  ![Category](/_images/category.png)  |  ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  2分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
