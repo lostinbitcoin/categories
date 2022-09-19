@@ -9,7 +9,7 @@ taxonomy:
         - tech
 ---
 
-##量子コンピュータはビットコインの暗号を解読できるのか？
+## 量子コンピュータはビットコインの暗号を解読できるのか？
 
 |  ![Category](/_images/category.png)  |  ビットコインよくある誤解  |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  |  11分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
