@@ -8,7 +8,7 @@ taxonomy:
         - beginner
 ---
 
-##倫理的見地からのビットコインマキシマリズム賛成論
+## 倫理的見地からのビットコインマキシマリズム賛成論
 
 |  ![Category](/_images/category.png)  |  ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  9分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
