@@ -15,7 +15,7 @@ taxonomy:
 
 *本記事は [BitMEX](https://www.bitmex.com/) が2018年6月10日に公開したものです。*
 
-[![ビットコイン経済学 – 負債デフレによるスパイラル（パート３）- BitMEX](/_images/deflationary_debt_spiral_1.jpeg)](https://blog.bitmex.com/ja_jp-bitcoin-economics-part-3/)
+[![ビットコイン経済学 – 負債デフレによるスパイラル（パート３）- BitMEX](/_images/deflationary_debt_spiral_1.png)](https://blog.bitmex.com/ja_jp-bitcoin-economics-part-3/)
 
 [続きを読む](https://blog.bitmex.com/ja_jp-bitcoin-economics-part-3/)
 
