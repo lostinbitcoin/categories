@@ -18,73 +18,92 @@ taxonomy:
 ### ビットコイン用語集
 #### 索引
 
-#### あ　か　さ　た　な　は　ま　や　ら　わ　＃
+#### [あ](https://lostinbitcoin.jp/glossary/glossary-a/#a)　[か](https://lostinbitcoin.jp/glossary/glossary-ka/#ka)　[さ](https://lostinbitcoin.jp/glossary/glossary-sa/#sa)　[た](https://lostinbitcoin.jp/glossary/glossary-ta/#ta)　[な](https://lostinbitcoin.jp/glossary/glossary-na/#na)　[は](https://lostinbitcoin.jp/glossary/glossary-ha/#ha)　[ま](https://lostinbitcoin.jp/glossary/glossary-ma/#ma)　[や](https://lostinbitcoin.jp/glossary/glossary-ya/#ya)　[ら](https://lostinbitcoin.jp/glossary/glossary-ra/#ra)　[わ](https://lostinbitcoin.jp/glossary/glossary-wa/#wa)　[英数字](https://lostinbitcoin.jp/glossary/glossary-number/#number)
 --
 
 ### [あ](https://lostinbitcoin.jp/glossary/glossary-a/#a)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|[アダプター署名](https://lostinbitcoin.jp/glossary/glossary-a/#adaptor_signature)|[アトミック・マルチパス・ペイメント (AMP)](https://lostinbitcoin.jp/glossary/glossary-a/#amp)|[アドレス](https://lostinbitcoin.jp/glossary/glossary-a/#address)|
-|[イニシャル・ブロック・ダウンロード (IBD)](https://lostinbitcoin.jp/glossary/glossary-a/#ibd)|[ASIC](https://lostinbitcoin.jp/glossary/glossary-a/#asic)|[オーファン・ブロック](https://lostinbitcoin.jp/glossary/glossary-a/#orphan_block)|
-|[オフチェーン](https://lostinbitcoin.jp/glossary/glossary-a/#off_chain)|[オンチェーン](https://lostinbitcoin.jp/glossary/glossary-a/#on_chain)|
+|アドレス|イニシャル・ブロック・ダウンロード (IBD)|ウォレット|
+|オフチェーン|オンチェーン||
 
-### か
+### [か](https://lostinbitcoin.jp/glossary/glossary-ka/#ka)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|||
+|カストディアル|価値尺度|価値貯蔵手段| 
+|可分性|カンティロン効果|希少性|
+|グレシャムの法則|携帯性|検閲耐性|
+|検証性|公開鍵|交換手段|
+|コインジョイン|コインベース・トランザクション|コールドストレージ|
+|コンセンサス|||
 
-### さ
+### [さ](https://lostinbitcoin.jp/glossary/glossary-sa/#sa)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|||
+|サイドチェーン|サイファーパンク|サトシ|
+|サトシ・ナカモト|ジェネシス・ブロック|時間選好|
+|シード|シビル攻撃|シュノア署名|
+|承認|ステーブルコイン|ストック・フロー比率|
+|スマートコントラクト|送金手数料|ソフトフォーク|
 
-### た
+### [た](https://lostinbitcoin.jp/glossary/glossary-ta/#ta)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|||
+|耐久性|代替性|タイムロック|
+|ダスト|ダスト攻撃|タップルート|
+|チェンジ・アウトプット|チェーン分析|匿名性|
+|トランザクション|トランザクションID（TXID）||
 
-### な
+### [な](https://lostinbitcoin.jp/glossary/glossary-na/#na)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|||
+|難易度|二重支払い|ニモニック|
+|ノード|ノンカストディアル||
 
-### は
+### [は](https://lostinbitcoin.jp/glossary/glossary-ha/#ha)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|Base58|Base64|Basis of Lightning Technology (BOLT)|
-|Batching|Bech32|Bech32m|
-|BIP 125 (Replace-by-Fee)|BIP 16 (P2SH)|BIP 174 (PSBT)|
-|BIP 32 (Hierarchical Deterministic Wallets)|BIP 340 (Schnorr Signatures)|BIP 341 (Taproot)|
-|BIP 342 (Tapscript)|BIP 39 (Mnemonic Phrases)|BIP 44 (Derivation Paths for P2PKH)|
-|BIP 49 (Derivation Paths for Wrapped Segwit)|BIP 8 (Soft Fork Activation)|BIP 84 (Derivation Paths for Native Segwit)|
-|BIP 9 (Soft Fork Activation)|Bit|Bitcoin|
-|Bitcoin Core|Bitcoin Implementations|Bitcoin Improvement Proposal (BIP)|
-|Bitcoin-Qt|Bitcoind|Block|
-|Block Explorer|Block Header|Block Height|
-|Block Reward|Block Size|Block Subsidy|
-|Block Weight|Blockchain|Bloom Filter|
-|BTC|Byzantine Fault Tolerance (BFT)|Byzantine Generals Problem|
+|ハッシュ関数|ハッシュ関数|バッチ|
+|ハードウェアウォレット|ハードキャップ|ハードフォーク|
+|半減期|ピアツーピア（P2P）|ビザンチン障害耐性|
+|ビザンチン将軍問題|ビットコイン|ビットコインコア|
+|ビットコイン改善提案 (BIP)|ビットコイン実装|ビットコインノード|
+|秘密鍵|プルーフオブワーク（PoW）|ブロック|
+|ブロックエクスプローラ|ブロックサイズ|ブロック高|
+|ブロックチェーン|ブロック報酬|不変性|
+|プロトコル|法定通貨|フォーク|
+|ホットウォレット|ボルト (BOLD)|ホワイトペーパー|
 
-### ま
+### [ま](https://lostinbitcoin.jp/glossary/glossary-ma/#ma)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|||
+|マイニング|マイニングプール|マイニング報酬|
+|マリアビリティ|マルチシグ|ミキシング|
+|未使用トランザクションアウトプット（UTXO）|メンプール（メモリープール）||
 
-### や
+### [や](https://lostinbitcoin.jp/glossary/glossary-ya/#ya)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|||
 
-### ら
+### [ら](https://lostinbitcoin.jp/glossary/glossary-ra/#ra)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|||
+|ライトニング・インボイス|ライトニング実装|ライトニング・チャネル|
+|ライトニング・ネットワーク|レイヤー||
 
-### わ
+### [わ](https://lostinbitcoin.jp/glossary/glossary-wa/#wa)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|||
 
+### [英数字](https://lostinbitcoin.jp/glossary/glossary-number/#number)
+|<!-- -->|<!-- -->|<!-- -->|
+| ---- | ---- | ---- |
+|51%攻撃|ASIC (特定用途向け集積回路)|BIP 125 (RBF)|
+|BIP 174 (PSBT)|BIP 32 (階層型決定性ウォレット)|BIP 39 (ニモニックフレーズ)|
+|BTC|DEX (分散型取引所)|ECDSA|
+|HTLC (ハッシュタイムロックコントラクト)|HODL|RBF (Replace-By-Fee)|
+|UASF|UTXO|UTXOセット|
+|vByte|||
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
