@@ -24,7 +24,7 @@ taxonomy:
 ### <a id="a"></a>[あ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#a)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|アドレス|イニシャル・ブロック・ダウンロード (IBD)|ウォレット|
+|[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#address)|イニシャル・ブロック・ダウンロード (IBD)|ウォレット|
 |オフチェーン|オンチェーン||
 
 ### <a id="ka"></a>[か](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#ka)
