@@ -21,13 +21,13 @@ taxonomy:
 #### [あ](#a)　[か](#ka)　[さ](#sa)　[た](#ta)　[な](#na)　[は](#ha)　[ま](#ma)　[や](#ya)　[ら](#ra)　[わ](#wa)　[英数字](#number)
 --
 
-### [あ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#a) {#a}
+### <a id="a"></a>[あ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#a)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |アドレス|イニシャル・ブロック・ダウンロード (IBD)|ウォレット|
 |オフチェーン|オンチェーン||
 
-### [か](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#ka) {#ka}
+### <a id="ka"></a>[か](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#ka)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |カストディアル|価値尺度|価値貯蔵手段| 
@@ -37,7 +37,7 @@ taxonomy:
 |コインジョイン|コインベース・トランザクション|コールドストレージ|
 |コンセンサス|||
 
-### [さ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#sa) {#sa}
+### <a id="sa"></a>[さ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#sa)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |サイドチェーン|サイファーパンク|サトシ|
@@ -46,7 +46,7 @@ taxonomy:
 |承認|ステーブルコイン|ストック・フロー比率|
 |スマートコントラクト|送金手数料|ソフトフォーク|
 
-### [た](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#ta) {#ta}
+### <a id="ta"></a>[た](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#ta)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |耐久性|代替性|タイムロック|
@@ -54,13 +54,13 @@ taxonomy:
 |チェンジ・アウトプット|チェーン分析|匿名性|
 |トランザクション|トランザクションID（TXID）||
 
-### [な](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#na) {#na}
+### <a id="na"></a>[な](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#na)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |難易度|二重支払い|ニモニック|
 |ノード|ノンカストディアル||
 
-### [は](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#ha) {#ha}
+### <a id="ha"></a>[は](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#ha)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |ハッシュ関数|ハッシュ関数|バッチ|
@@ -74,28 +74,28 @@ taxonomy:
 |プロトコル|法定通貨|フォーク|
 |ホットウォレット|ボルト (BOLD)|ホワイトペーパー|
 
-### [ま](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#ma) {#ma}
+### <a id="ma"></a>[ま](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#ma)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |マイニング|マイニングプール|マイニング報酬|
 |マリアビリティ|マルチシグ|ミキシング|
 |未使用トランザクションアウトプット（UTXO）|メンプール（メモリープール）||
 
-### [や](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ya/#ya) {#ya}
+### <a id="ya"></a>[や](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ya/#ya)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 
-### [ら](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ra/#ra) {#ra}
+### <a id="ra"></a>[ら](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ra/#ra)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |ライトニング・インボイス|ライトニング実装|ライトニング・チャネル|
 |ライトニング・ネットワーク|レイヤー||
 
-### [わ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-wa/#wa) {#wa}
+### <a id="wa"></a>[わ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-wa/#wa)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 
-### [英数字](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#number) {#number}
+### <a id="number"></a>[英数字](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#number)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |51%攻撃|ASIC (特定用途向け集積回路)|BIP 125 (RBF)|
