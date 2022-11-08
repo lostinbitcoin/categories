@@ -18,16 +18,16 @@ taxonomy:
 ### ビットコイン用語集
 #### 索引
 
-#### [あ](https://lostinbitcoin.jp/glossary/glossary-a/#a)　[か](https://lostinbitcoin.jp/glossary/glossary-ka/#ka)　[さ](https://lostinbitcoin.jp/glossary/glossary-sa/#sa)　[た](https://lostinbitcoin.jp/glossary/glossary-ta/#ta)　[な](https://lostinbitcoin.jp/glossary/glossary-na/#na)　[は](https://lostinbitcoin.jp/glossary/glossary-ha/#ha)　[ま](https://lostinbitcoin.jp/glossary/glossary-ma/#ma)　[や](https://lostinbitcoin.jp/glossary/glossary-ya/#ya)　[ら](https://lostinbitcoin.jp/glossary/glossary-ra/#ra)　[わ](https://lostinbitcoin.jp/glossary/glossary-wa/#wa)　[英数字](https://lostinbitcoin.jp/glossary/glossary-number/#number)
+#### [あ](#a)　[か](#ka)　[さ](#sa)　[た](#ta)　[な](#na)　[は](#ha)　[ま](#ma)　[や](#ya)　[ら](#ra)　[わ](#wa)　[英数字](#number)
 --
 
-### [あ](https://lostinbitcoin.jp/glossary/glossary-a/#a)
+### [あ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#a) {#a}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |アドレス|イニシャル・ブロック・ダウンロード (IBD)|ウォレット|
 |オフチェーン|オンチェーン||
 
-### [か](https://lostinbitcoin.jp/glossary/glossary-ka/#ka)
+### [か](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#ka) {#ka}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |カストディアル|価値尺度|価値貯蔵手段| 
@@ -37,7 +37,7 @@ taxonomy:
 |コインジョイン|コインベース・トランザクション|コールドストレージ|
 |コンセンサス|||
 
-### [さ](https://lostinbitcoin.jp/glossary/glossary-sa/#sa)
+### [さ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#sa) {#sa}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |サイドチェーン|サイファーパンク|サトシ|
@@ -46,7 +46,7 @@ taxonomy:
 |承認|ステーブルコイン|ストック・フロー比率|
 |スマートコントラクト|送金手数料|ソフトフォーク|
 
-### [た](https://lostinbitcoin.jp/glossary/glossary-ta/#ta)
+### [た](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#ta) {#ta}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |耐久性|代替性|タイムロック|
@@ -54,13 +54,13 @@ taxonomy:
 |チェンジ・アウトプット|チェーン分析|匿名性|
 |トランザクション|トランザクションID（TXID）||
 
-### [な](https://lostinbitcoin.jp/glossary/glossary-na/#na)
+### [な](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#na) {#na}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |難易度|二重支払い|ニモニック|
 |ノード|ノンカストディアル||
 
-### [は](https://lostinbitcoin.jp/glossary/glossary-ha/#ha)
+### [は](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#ha) {#ha}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |ハッシュ関数|ハッシュ関数|バッチ|
@@ -74,28 +74,28 @@ taxonomy:
 |プロトコル|法定通貨|フォーク|
 |ホットウォレット|ボルト (BOLD)|ホワイトペーパー|
 
-### [ま](https://lostinbitcoin.jp/glossary/glossary-ma/#ma)
+### [ま](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#ma) {#ma}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |マイニング|マイニングプール|マイニング報酬|
 |マリアビリティ|マルチシグ|ミキシング|
 |未使用トランザクションアウトプット（UTXO）|メンプール（メモリープール）||
 
-### [や](https://lostinbitcoin.jp/glossary/glossary-ya/#ya)
+### [や](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ya/#ya) {#ya}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 
-### [ら](https://lostinbitcoin.jp/glossary/glossary-ra/#ra)
+### [ら](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ra/#ra) {#ra}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |ライトニング・インボイス|ライトニング実装|ライトニング・チャネル|
 |ライトニング・ネットワーク|レイヤー||
 
-### [わ](https://lostinbitcoin.jp/glossary/glossary-wa/#wa)
+### [わ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-wa/#wa) {#wa}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 
-### [英数字](https://lostinbitcoin.jp/glossary/glossary-number/#number)
+### [英数字](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#number) {#number}
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |51%攻撃|ASIC (特定用途向け集積回路)|BIP 125 (RBF)|
