@@ -24,8 +24,8 @@ taxonomy:
 ### <a id="a"></a>[あ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#a)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#address)|イニシャル・ブロック・ダウンロード (IBD)|ウォレット|
-|オフチェーン|オンチェーン||
+|[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#address)|[イニシャル・ブロック・ダウンロード (IBD)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#ibd)|[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)|
+|[オフチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#off_chain)|[オンチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#on_chain)||
 
 ### <a id="ka"></a>[か](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#ka)
 |<!-- -->|<!-- -->|<!-- -->|
@@ -63,7 +63,7 @@ taxonomy:
 ### <a id="ha"></a>[は](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#ha)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|ハッシュ関数|ハッシュ関数|バッチ|
+|[ハッシュ関数](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#hash_function)|ハッシュ関数|バッチ|
 |ハードウェアウォレット|ハードキャップ|ハードフォーク|
 |半減期|ピアツーピア（P2P）|ビザンチン障害耐性|
 |ビザンチン将軍問題|ビットコイン|ビットコインコア|
@@ -98,7 +98,7 @@ taxonomy:
 ### <a id="number"></a>[英数字](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#number)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|51%攻撃|ASIC (特定用途向け集積回路)|BIP 125 (RBF)|
+|[51%攻撃](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#51_attack)|ASIC (特定用途向け集積回路)|BIP 125 (RBF)|
 |BIP 174 (PSBT)|BIP 32 (階層型決定性ウォレット)|BIP 39 (ニモニックフレーズ)|
 |BTC|DEX (分散型取引所)|ECDSA|
 |HTLC (ハッシュタイムロックコントラクト)|HODL|RBF (Replace-By-Fee)|
