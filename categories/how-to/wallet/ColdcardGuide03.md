@@ -8,32 +8,7 @@ taxonomy:
         - beginner
 ---
 
-<style>
-img[alt*="Category"],
-img[alt*="Tag"],
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-### COLDCARDをセットアップして基本的な使い方を覚えよう！
+## COLDCARDをセットアップして基本的な使い方を覚えよう！
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  25分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -56,7 +31,7 @@ COLDCARDの一番の売りとして、日常的な操作において本体をパ
 
 **”Don’t trust, Verify!”**（信用するな、検証しろ！）は、開封の段階からすでに始まっているのです。
 
-## 不正開封防止袋チェック
+### 不正開封防止袋チェック
 
 ![ColdCardGuide03_2.jpg](/_images/ColdCardGuide03_2.jpg)
 
@@ -80,7 +55,7 @@ COLDCARDは味気ないほどの簡易包装であなたの元に届いたかと
 
 この他に、出荷直前に袋から切り離して同梱されたプラスチック袋の切れ端が入っているはずです。ここに印刷されているシリアルナンバーが、袋表面に表示してあるシリアルナンバーと同じであることを確認してください。（この番号は、あとでまた本体の確認でも使います。）よりパラノイドな人は、袋と切れ端のミシン目が一致するのを確かめると良いそうです。
 
-## 電源オン
+### 電源オン
 
 いよいよ待ちに待った電源オンです。
 
@@ -113,7 +88,7 @@ USB-タイプCケーブルをCOLDCARD上部に接続し、USB側をパソコン�
 
 お疲れさまでした。これによってCoinkiteの工場から一切の改変なくあなたの元に商品が届けられたことがVerifyされました。
 
-## ファームウェア・アップグレード
+### ファームウェア・アップグレード
 
 次は、ファームウェアのアップグレードを行います。COLDCARDに限らずハードウェアウォレットの購入直後には、必ず行うことを推奨します。万が一、入手経路段階でファームウェアにマルウェアなどを仕込まれていた場合でも、公式から最新版のファームウェアを取得しアップグレードすることで、クラッカーによる攻撃を無効化することができます。
 
@@ -129,7 +104,7 @@ USB-タイプCケーブルをCOLDCARD上部に接続し、USB側をパソコン�
 
 ※ファームウェアアップグレードにはMicroSDカードが必要です。事前に準備しましょう。上記のバーチャルデスク機能を有効化すれば、MicroSDカード不要でアップグレードすることもできます。
 
-### アップグレード手順
+#### アップグレード手順
 
 1. **Advanced/Tools > Upgrade Firmware > Show Version** から現在のバージョンを確認する。
 2. 公式サイト [coldcard.com/docs/upgrade](https://coldcard.com/docs/upgrade) にてMK4用最新バージョンを確認する。
@@ -151,7 +126,7 @@ USB-タイプCケーブルをCOLDCARD上部に接続し、USB側をパソコン�
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">COLDCARD Firmware Upgrade動画（NGテイク）<br><br>NG理由：途中で赤子が泣き出したため。 <a href="https://t.co/WEQGZFQb0t">pic.twitter.com/WEQGZFQb0t</a></p>&mdash; katakoto (@katakoto) <a href="https://twitter.com/katakoto/status/1561138231302754304?ref_src=twsrc%5Etfw">August 20, 2022</a></blockquote>
 
-## PINセットアップ
+### PINセットアップ
 
 さあ、ここからがCOLDCARDセットアップの本番です。PINの設定に取り掛かります。PINは一度設定してしまうと、あなた以外の誰も知ることはできません。COLDCARDにはいわゆる”工場出荷状態にリセット”するための設定はないため、PINを忘却・紛失してしまった時点で、デバイスが使用不能になってしまいます。それゆえこの設定には少しばかりの緊張感が必要です。
 
@@ -218,7 +193,7 @@ PINとアンチ・フィッシングワードに問題がなければ、**✓ボ
 **”前半のPIN入力”→”アンチ・フィッシングワードを確認”→”後半のPIN入力”**
 の流れを確認してみてください。
 
-## ウォレット作成
+### ウォレット作成
 
 PINの設定が終わり、ついに待ちに待ったBitcoinウォレットの作成に取りかかります。
 
@@ -262,7 +237,7 @@ PINの設定が終わり、ついに待ちに待ったBitcoinウォレットの�
 
 ![ColdCardGuide03_23.png](/_images/ColdCardGuide03_23.png)
 
-## SparrowWalletセットアップ
+### SparrowWalletセットアップ
 
 お気づきでしょうか。この時点まであなたのCOLDCARDはまだ一度もインターネットに触れていないことに。Bitcoinのウォレットを使い始めるのには、Bitcoinネットワークどころかインターネットにすら接続する必要がないのです。
 
@@ -277,7 +252,7 @@ PINの設定が終わり、ついに待ちに待ったBitcoinウォレットの�
 
 今回は、プライバシーにフォーカスした多機能ウォレットでありながら、わかりやすいUI/UXで初心者でも使いやすい**Sparrow Wallet**を利用して解説します。
 
-### インストール
+#### インストール
 
 公式サイト [sparrowwallet.com](https://sparrowwallet.com/download/) から自分のOSにあったバージョンをダウンロードし、インストールしてください。
 
@@ -347,7 +322,7 @@ Sparrow Walletのデフォルトでは、米ドルでビットコインの目安
 
 ![ColdCardGuide03_36.png](/_images/ColdCardGuide03_36.png)
 
-## ビットコインを受け取る
+### ビットコインを受け取る
 
 今後ビットコインを受け取るには、もうこの段階からCOLDCARDをSparrow Walletに接続する必要はありません。これから一生かかっても使いきれないであろう無限のビットコインアドレスが既にあなたのものです。”無限”は言い過ぎました。86億個のビットコインアドレスが今やあなたのものになりました。
 
@@ -363,7 +338,7 @@ Sparrow Walletのデフォルトでは、米ドルでビットコインの目安
 
 ![ColdCardGuide03_38.png](/_images/ColdCardGuide03_38.png)
 
-## ビットコインを送金する
+### ビットコインを送金する
 
 受け取る時と違って、ビットコインを他のアドレス宛に送金する際には、毎回COLDCARDの接続が必要になります。なぜならビットコインの送金には、必ずそのトランザクションにGOサインを出すための”署名”が必要であり、その”署名”には秘密鍵が必要になるからです。
 
