@@ -63,7 +63,7 @@ taxonomy:
 ### <a id="ha"></a>[は](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#ha)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|[ハッシュ関数](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hash_function)|ハッシュ関数|バッチ|
+|ハッシュ|[ハッシュ関数](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hash_function)|バッチ|
 |ハードウェアウォレット|ハードキャップ|ハードフォーク|
 |半減期|ピアツーピア（P2P）|ビザンチン障害耐性|
 |ビザンチン将軍問題|ビットコイン|ビットコインコア|
