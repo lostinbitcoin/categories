@@ -15,8 +15,6 @@ taxonomy:
 
 *本記事は[@katakoto](https://twitter.com/katakoto) が制作、2022年9月に公開したものです。*
 
-# ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう⓷～セットアップ編～
-
 ![ColdCardGuide03_1.JPG](/_images/ColdCardGuide03_1.jpg)
 
 さあ前回の[購入編](https://lostinbitcoin.jp/how-to/coldcardguide02/)を経て、皆さまの手元に無事COLDCARDが届きましたでしょうか。
