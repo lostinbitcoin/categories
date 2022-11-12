@@ -52,7 +52,7 @@ taxonomy:
 |耐久性|代替性|タイムロック|
 |ダスト|ダスト攻撃|タップルート|
 |チェンジ・アウトプット|チェーン分析|[匿名性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#anonymity)|
-|トランザクション|トランザクションID（TXID）||
+|[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)|トランザクションID（TXID）||
 
 ### <a id="na"></a>[な](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#na)
 |<!-- -->|<!-- -->|<!-- -->|
