@@ -66,7 +66,7 @@ taxonomy:
 |[ハッシュ関数](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hash_function)|ハッシュレート|バッチ|
 |ハードウェアウォレット|ハードキャップ|ハードフォーク|
 |半減期|ピアツーピア（P2P）|ビザンチン障害耐性|
-|ビザンチン将軍問題|ビットコイン|ビットコインコア|
+|ビザンチン将軍問題|[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)|[ビットコインコア](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin_core)|
 |ビットコイン改善提案 (BIP)|ビットコイン実装|ビットコインノード|
 |秘密鍵|プルーフオブワーク（PoW）|ブロック|
 |ブロックエクスプローラ|ブロックサイズ|ブロック高|
