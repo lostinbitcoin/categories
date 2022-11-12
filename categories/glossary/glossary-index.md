@@ -72,7 +72,7 @@ taxonomy:
 |ブロックエクスプローラ|ブロックサイズ|ブロック高|
 |ブロックチェーン|ブロック報酬|不変性|
 |プロトコル|法定通貨|フォーク|
-|ホットウォレット|ボルト (BOLT)|ホワイトペーパー|
+|ホットウォレット|[ボルト (BOLT)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bolt)|ホワイトペーパー|
 
 ### <a id="ma"></a>[ま](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#ma)
 |<!-- -->|<!-- -->|<!-- -->|
