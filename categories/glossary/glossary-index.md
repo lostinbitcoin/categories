@@ -77,7 +77,7 @@ taxonomy:
 ### <a id="ma"></a>[ま](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#ma)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|[マイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/mining)|マイニングプール|マイニング報酬|
+|[マイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#mining)|マイニングプール|マイニング報酬|
 |マリアビリティ|マルチシグ|ミキシング|
 |未使用トランザクションアウトプット（UTXO）|メンプール（メモリープール）||
 
