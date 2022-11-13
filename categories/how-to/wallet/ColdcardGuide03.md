@@ -421,3 +421,6 @@ Web3、NFT、DAO、そんな空虚なバズワードを掲げていれば、見�
 次回は、この辺りの不安を徹底的に解消すべく「COLDCARDバックアップ・リカバリ編」をお届けします。あなたのビットコインのセキュリティをもうワンレイヤーアップさせる"パスフレーズ"に関してもお話します。
 
 ![ColdCardGuide03_49.jpg](/_images/ColdCardGuide03_49.jpg)
+
+***
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
