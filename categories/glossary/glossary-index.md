@@ -16,9 +16,7 @@ taxonomy:
 
 --
 ### ビットコイン用語集
-#### 索引
-
-#### [あ](#a)　[か](#ka)　[さ](#sa)　[た](#ta)　[な](#na)　[は](#ha)　[ま](#ma)　[や](#ya)　[ら](#ra)　[わ](#wa)　[英数字](#number)
+#### 索引　[あ](#a)　[か](#ka)　[さ](#sa)　[た](#ta)　[な](#na)　[は](#ha)　[ま](#ma)　[や](#ya)　[ら](#ra)　[わ](#wa)　[英数字](#number)
 --
 
 ### <a id="a"></a>[あ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#a)
