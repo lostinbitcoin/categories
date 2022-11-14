@@ -113,7 +113,7 @@ USB-タイプCケーブルをCOLDCARD上部に接続し、USB側をパソコン�
 
 ※ここでももう誰のことも信じられないビットコイナー用に、ダウンロードしたファイルが本物であることを検証する”Don’t trust, verify”ステップが別途発生しますが、この説明では割愛します。詳細は[こちら](https://coldcard.com/docs/upgrade#dont-trust-verify-the-firmware)。
 
-4. MicroSDカードをCOLDCARDに挿入し、`**Advanced/Tools > Upgrade Firmware > From MicroSD**`を選択。
+4. MicroSDカードをCOLDCARDに挿入し、**Advanced/Tools > Upgrade Firmware > From MicroSD** を選択。
 5. **✓ボタン**を押すと、MicroSDカード内に保存したファイルが表示される。
 6. ファイル名（この例では**2022-07-29T1816-v5.0.6-mk4-coldcard.dfu**)を選択し**✓ボタン**を押す。
 7. 確認画面が表示されるので**✓ボタン**を押す。
