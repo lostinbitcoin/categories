@@ -32,7 +32,7 @@ taxonomy:
 |可分性|カンティロン効果|希少性|
 |グレシャムの法則|携帯性|検閲耐性|
 |検証性|公開鍵|交換手段|
-|コインジョイン|コインベース・トランザクション|コールドストレージ|
+|コインジョイン|コインベース・トランザクション|[コールドストレージ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#cold_storage)|
 |コンセンサス|||
 
 ### <a id="sa"></a>[さ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#sa)
