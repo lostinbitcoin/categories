@@ -40,7 +40,7 @@ taxonomy:
 | ---- | ---- | ---- |
 |サイドチェーン|サイファーパンク|サトシ|
 |サトシ・ナカモト|ジェネシス・ブロック|時間選好|
-|シード|シビル攻撃|シュノア署名|
+|[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)|シビル攻撃|シュノア署名|
 |承認|ステーブルコイン|ストック・フロー比率|
 |スマートコントラクト|送金手数料|ソフトフォーク|
 
@@ -55,7 +55,7 @@ taxonomy:
 ### <a id="na"></a>[な](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#na)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|難易度|二重支払い|ニモニック|
+|難易度|二重支払い|[ニモニック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#mnemonic)|
 |ノード|ノンカストディアル||
 
 ### <a id="ha"></a>[は](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#ha)
@@ -65,8 +65,8 @@ taxonomy:
 |[ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)|ハードキャップ|ハードフォーク|
 |半減期|ピアツーピア（P2P）|ビザンチン障害耐性|
 |ビザンチン将軍問題|[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)|[ビットコインコア](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin_core)|
-|ビットコイン改善提案 (BIP)|ビットコイン実装|ビットコインノード|
-|[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#private_key)|プルーフオブワーク（PoW）|ブロック|
+|[ビットコイン改善提案 (BIP)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bip)|ビットコイン実装|ビットコインノード|
+|[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#private_key)|[プルーフオブワーク（PoW）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#pow)|[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block)|
 |ブロックエクスプローラ|ブロックサイズ|ブロック高|
 |ブロックチェーン|ブロック報酬|不変性|
 |プロトコル|法定通貨|フォーク|
