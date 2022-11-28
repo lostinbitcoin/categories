@@ -12,7 +12,7 @@ taxonomy:
 
 ## ビットコインの交換手段への進化は、ビットコインの他に選択肢のない途上国の人々が推し進める
 
-|  ![Category](/_images/category.png)  |  ライトニング、ビットコインは最強のお金 |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  xx分  |
+|  ![Category](/_images/category.png)  |  ライトニング、ビットコインは最強のお金 |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  15分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は2022年8月6日に[Lyn Alden](https://twitter.com/LynAldenContact) 氏が発表した「[A Look At the Lightning Network](https://www.swanbitcoin.com/a-look-at-the-lightning-network/)」を [@slashweb3_mk](https://twitter.com/slashweb3_mk) さんが翻訳、[@Haruko_Maruyama](https://twitter.com/Haruko_Maruyama) さんが一部加筆修正したものです。*
