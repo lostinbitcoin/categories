@@ -16,7 +16,7 @@ taxonomy:
 
 *本サイトは [Diamond Hands](https://www.diamondhandsnode.com/) が2022年11月に公開し、Diamond Hands コミュニティの有志メンバーによって維持管理されています。*
 
-![Diamond Hands Wiki contents](/_images/diamond_hands_wiki_2.png)(https://dhwiki.notion.site/dhwiki/Diamond-Hands-Wiki-09b471dc2f8c4fbba097fee110d20676)
+[![Diamond Hands Wiki contents](/_images/diamond_hands_wiki_2.png)](https://dhwiki.notion.site/dhwiki/Diamond-Hands-Wiki-09b471dc2f8c4fbba097fee110d20676)
 
 [サイトに移動](https://dhwiki.notion.site/dhwiki/Diamond-Hands-Wiki-09b471dc2f8c4fbba097fee110d20676)
 
