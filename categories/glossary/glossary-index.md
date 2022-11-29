@@ -31,8 +31,8 @@ taxonomy:
 |カストディアル|価値尺度|価値貯蔵手段| 
 |可分性|カンティロン効果|希少性|
 |グレシャムの法則|携帯性|検閲耐性|
-|検証性|公開鍵|交換手段|
-|コインジョイン|コインベース・トランザクション|[コールドストレージ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#cold_storage)|
+|検証性|[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#public_key)|交換手段|
+|コインジョイン|[コインベース・トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#coinbase_transaction)|[コールドストレージ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#cold_storage)|
 |コンセンサス|||
 
 ### <a id="sa"></a>[さ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#sa)
@@ -41,8 +41,8 @@ taxonomy:
 |サイドチェーン|サイファーパンク|サトシ|
 |サトシ・ナカモト|ジェネシス・ブロック|時間選好|
 |[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)|シビル攻撃|シュノア署名|
-|承認|ステーブルコイン|ストック・フロー比率|
-|スマートコントラクト|送金手数料|ソフトフォーク|
+|[承認](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#confirmation)|ステーブルコイン|ストック・フロー比率|
+|スマートコントラクト|[送金手数料](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#transaction_fee)|ソフトフォーク|
 
 ### <a id="ta"></a>[た](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#ta)
 |<!-- -->|<!-- -->|<!-- -->|
@@ -56,7 +56,7 @@ taxonomy:
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |難易度|二重支払い|[ニモニック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#mnemonic)|
-|ノード|ノンカストディアル||
+|[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#node)|ノンカストディアル||
 
 ### <a id="ha"></a>[は](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#ha)
 |<!-- -->|<!-- -->|<!-- -->|
@@ -67,7 +67,7 @@ taxonomy:
 |ビザンチン将軍問題|[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)|[ビットコインコア](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin_core)|
 |[ビットコイン改善提案 (BIP)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bip)|ビットコイン実装|ビットコインノード|
 |[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#private_key)|[プルーフオブワーク（PoW）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#pow)|[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block)|
-|ブロックエクスプローラ|ブロックサイズ|ブロック高|
+|[ブロックエクスプローラ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_explorer)|[ブロックサイズ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_size)|ブロック高|
 |ブロックチェーン|ブロック報酬|不変性|
 |プロトコル|法定通貨|フォーク|
 |ホットウォレット|[ボルト (BOLT)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bolt)|ホワイトペーパー|
