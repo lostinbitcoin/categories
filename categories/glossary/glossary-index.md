@@ -28,7 +28,7 @@ taxonomy:
 ### <a id="ka"></a>[か](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#ka)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|カストディアル|価値尺度|価値貯蔵手段| 
+|[カストディアル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#custodial)|価値尺度|価値貯蔵手段| 
 |可分性|カンティロン効果|希少性|
 |グレシャムの法則|携帯性|検閲耐性|
 |検証性|[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#public_key)|交換手段|
