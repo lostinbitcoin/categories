@@ -68,7 +68,7 @@ taxonomy:
 |[ビットコイン改善提案 (BIP)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bip)|ビットコイン実装|ビットコインノード|
 |[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#private_key)|[プルーフオブワーク（PoW）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#pow)|[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block)|
 |[ブロックエクスプローラ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_explorer)|[ブロックサイズ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_size)|ブロック高|
-|ブロックチェーン|ブロック報酬|不変性|
+|[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#blockchain)|[ブロック報酬](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_subsidy)|不変性|
 |プロトコル|法定通貨|フォーク|
 |ホットウォレット|[ボルト (BOLT)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bolt)|ホワイトペーパー|
 
