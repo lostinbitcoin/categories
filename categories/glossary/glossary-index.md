@@ -87,7 +87,7 @@ taxonomy:
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |ライトニング・インボイス|[ライトニング実装](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ra/#lightning_implementations)|ライトニング・チャネル|
-|ライトニング・ネットワーク|レイヤー||
+|[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ra/#lightning_network)|レイヤー||
 
 ### <a id="wa"></a>[わ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-wa/#wa)
 |<!-- -->|<!-- -->|<!-- -->|
