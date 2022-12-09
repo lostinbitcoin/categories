@@ -56,7 +56,7 @@ taxonomy:
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |難易度|二重支払い|[ニモニック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#mnemonic)|
-|[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#node)|[ノンカストディアル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#non-custodial)||
+|[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#node)|[ノンカストディアル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#non_custodial)||
 
 ### <a id="ha"></a>[は](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#ha)
 |<!-- -->|<!-- -->|<!-- -->|
