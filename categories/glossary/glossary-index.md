@@ -100,7 +100,7 @@ taxonomy:
 |BIP 174 (PSBT)|[BIP 32 (階層型決定性ウォレット)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#bip32)|[BIP 39 (ニモニックフレーズ)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#bip39)|
 |BTC|DEX (分散型取引所)|ECDSA|
 |HTLC (ハッシュタイムロックコントラクト)|HODL|RBF (Replace-By-Fee)|
-|UASF|UTXO|UTXOセット|
+|UASF| [UTXO](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#utxo)|UTXOセット|
 |vByte|||
 
 ---
