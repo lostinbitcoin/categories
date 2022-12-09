@@ -56,28 +56,28 @@ taxonomy:
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |難易度|二重支払い|[ニモニック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#mnemonic)|
-|[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#node)|ノンカストディアル||
+|[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#node)|[ノンカストディアル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#non-custodial)||
 
 ### <a id="ha"></a>[は](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#ha)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|[ハッシュ関数](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hash_function)|[ハッシュレート](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hash_rate)|バッチ|
-|[ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)|ハードキャップ|ハードフォーク|
-|半減期|ピアツーピア（P2P）|ビザンチン障害耐性|
-|ビザンチン将軍問題|[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)|[ビットコインコア](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin_core)|
-|[ビットコイン改善提案 (BIP)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bip)|ビットコイン実装|ビットコインノード|
+|[ハッシュ関数](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hash_function)|[ハッシュレート](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hash_rate)|[バッチ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#batching)|
+|[ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)|[ハードキャップ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hard_cap)|[ハードフォーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hard_fork)|
+|[半減期](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#halving)|[ピアツーピア（P2P）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#p2p)|[ビザンチン障害耐性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bft)|
+|[ビザンチン将軍問題](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#byzantine_generals_problem)|[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)|[ビットコインコア](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin_core)|
+|[ビットコイン改善提案 (BIP)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bip)|[ビットコイン実装](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin_implementations)|[ビットコインノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin_node)|
 |[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#private_key)|[プルーフオブワーク（PoW）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#pow)|[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block)|
-|[ブロックエクスプローラ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_explorer)|[ブロックサイズ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_size)|ブロック高|
+|[ブロックエクスプローラ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_explorer)|[ブロックサイズ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_size)|[ブロック高](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_height)|
 |[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#blockchain)|[ブロック報酬](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_subsidy)|不変性|
 |プロトコル|法定通貨|フォーク|
-|ホットウォレット|[ボルト (BOLT)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bolt)|ホワイトペーパー|
+|[ホットウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hot_wallet)|[ボルト (BOLT)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bolt)|ホワイトペーパー|
 
 ### <a id="ma"></a>[ま](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#ma)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[マイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#mining)|マイニングプール|マイニング報酬|
 |マリアビリティ|マルチシグ|ミキシング|
-|未使用トランザクションアウトプット（UTXO）|メンプール（メモリープール）||
+|[未使用トランザクションアウトプット（UTXO）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#utxo)|[メンプール（メモリープール）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#mempool)||
 
 ### <a id="ya"></a>[や](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ya/#ya)
 |<!-- -->|<!-- -->|<!-- -->|
@@ -97,7 +97,7 @@ taxonomy:
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[51%攻撃](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#51_attack)|ASIC (特定用途向け集積回路)|BIP 125 (RBF)|
-|BIP 174 (PSBT)|BIP 32 (階層型決定性ウォレット)|BIP 39 (ニモニックフレーズ)|
+|BIP 174 (PSBT)|[BIP 32 (階層型決定性ウォレット)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#bip32)|[BIP 39 (ニモニックフレーズ)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#bip39)|
 |BTC|DEX (分散型取引所)|ECDSA|
 |HTLC (ハッシュタイムロックコントラクト)|HODL|RBF (Replace-By-Fee)|
 |UASF|UTXO|UTXOセット|
