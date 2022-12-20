@@ -4,13 +4,14 @@ taxonomy:
     category:
         - bitcoin
         - blockchain
+        - foundation
     post_tag:
         - beginner
 ---
 
 ## ブロックチェーンの意義について改めて考えましょう。
 
-|  ![Category](/_images/category.png)  |  ブロックチェーンはバズワード |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  12分  |
+|  ![Category](/_images/category.png)  |  ブロックチェーンはバズワード、ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  12分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は [@sishamo_moyashi](https://twitter.com/sishamo_moyashi) さんが2022年12月12日に[Read BTC](https://readbtc.substack.com/)で公開した記事です。*
