@@ -24,4 +24,4 @@ taxonomy:
 
 
 ### 著作権等について
-[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uab)
+[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa)
