@@ -28,7 +28,7 @@ taxonomy:
 ### <a id="ka"></a>[か](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#ka)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|[カストディアル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#custodial)|価値尺度|価値貯蔵手段| 
+|[カストディアル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#custodial)|[価値尺度](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#unit_of_account)|[価値貯蔵手段](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#sov)| 
 |可分性|カンティロン効果|希少性|
 |グレシャムの法則|携帯性|検閲耐性|
 |検証性|[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#public_key)|交換手段|
@@ -38,7 +38,7 @@ taxonomy:
 ### <a id="sa"></a>[さ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#sa)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|サイドチェーン|サイファーパンク|サトシ|
+|[サイドチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#sidechain)|[サイファーパンク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#cypherpunk)|[サトシ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#satoshi)|
 |サトシ・ナカモト|ジェネシス・ブロック|時間選好|
 |[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)|シビル攻撃|シュノア署名|
 |[承認](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#confirmation)|ステーブルコイン|ストック・フロー比率|
@@ -69,14 +69,14 @@ taxonomy:
 |[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#private_key)|[プルーフオブワーク（PoW）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#pow)|[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block)|
 |[ブロックエクスプローラ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_explorer)|[ブロックサイズ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_size)|[ブロック高](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_height)|
 |[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#blockchain)|[ブロック報酬](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_subsidy)|[不変性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#immutability)|
-|[プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#protocol)|[法定通貨](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#fiat_currency)|フォーク|
-|[ホットウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hot_wallet)|[ボルト (BOLT)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bolt)|ホワイトペーパー|
+|[プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#protocol)|[法定通貨](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#fiat_currency)|[フォーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#fork)|
+|[ホットウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hot_wallet)|[ボルト (BOLT)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bolt)|[ホワイトペーパー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#whitepaper)|
 
 ### <a id="ma"></a>[ま](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#ma)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|[マイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#mining)|マイニングプール|マイニング報酬|
-|マリアビリティ|マルチシグ|ミキシング|
+|[マイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#mining)|[マイニングプール](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#mining_pool)|[マイニング報酬](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#block_reward)|
+|マリアビリティ|[マルチシグ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#multisig)|[ミキシング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#mixing)|
 |[未使用トランザクションアウトプット（UTXO）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#utxo)|[メンプール（メモリープール）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#mempool)||
 
 ### <a id="ya"></a>[や](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ya/#ya)
