@@ -17,7 +17,7 @@ taxonomy:
 
 海外で定着しつつある「ビットコインとクリプトは別物である」というナラティブを無視して独自路線をひた走る日本。ビットコインとクリプトの隔たりが今後ますます広がると予測されるからこそ、今、伝えておきたいこと。
 
-[![Koji Higashi さんの記事](/_images/bitcoin_and_crypto-web3_are_completely_different_2.png)](https://diamondhandscommunity.substack.com/p/web3ftx)
+[![Koji Higashi さんの記事](/_images/bitcoin_and_crypto-web3_are_completely_different_2.jpg)](https://diamondhandscommunity.substack.com/p/web3ftx)
 
 [続きを読む](https://diamondhandscommunity.substack.com/p/web3ftx)
 
