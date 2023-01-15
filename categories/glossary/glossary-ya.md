@@ -21,8 +21,8 @@ taxonomy:
 
 ### <a id="ya"></a>や
 
-|  用語  |  英語表記  |  説明  |  報酬  |
-| ---- | ---- | ---- |---- |
+|  用語<br>英語表記<br>報酬  |  説明  |
+| ---- | ---- |
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
