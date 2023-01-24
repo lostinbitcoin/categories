@@ -30,7 +30,7 @@ taxonomy:
 | ---- | ---- | ---- |
 |[カストディアル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#custodial)|[価値尺度](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#unit_of_account)|[価値貯蔵手段](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#sov)| 
 |[可分性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#divisibility)|[カンティロン効果](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#cantillon_effect)|[希少性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#scarcity)|
-|グレシャムの法則|携帯性|検閲耐性|
+|[グレシャムの法則](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#greshams_law)|携帯性|検閲耐性|
 |検証性|[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#public_key)|交換手段|
 |コインジョイン|[コインベース・トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#coinbase_transaction)|[コールドストレージ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#cold_storage)|
 |コンセンサス|||
