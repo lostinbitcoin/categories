@@ -14,6 +14,11 @@ taxonomy:
 |  ![Category](/_images/category.png)  |  ブロックチェーンはバズワード、ビットコインの基礎知識  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  22分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
+<div class="text-reader">
+    <span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください。</span><br>
+    <button id="btn-readAloud" onclick="readAloud();">読み上げ開始 &#x25B6</button><button id="btn-deleteQueue" onclick="deleteQueue();">停止 &#x23F9</button>
+</div>
+
 _本記事は [Unchained Capital](https://unchained.com/) の事業開発担当 [Parker Lewis](https://twitter.com/parkeralewis) 氏著「[Bitcoin, Not Blockchain](https://unchained.com/blog/bitcoin-not-blockchain/)」（2019年9月6日公開）を [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。_
 
 頭のよさそうな友人が「ビットコインは微妙だけど、ブロックチェーンは革新的」と言うのを聞いたことはありませんか？これは「飛行機は革新的だけど、翼は微妙」と言っているようなもので、こんなことを言う人はビットコインもブロックチェーンも理解していない場合がほとんどです。実際、両者は相互依存関係にありますが、ビットコインと出会ったばかりの人にとって、その仕組みと全体像は非常にわかりづらいです。ビットコインは複雑かつ壮大なプロジェクトです。関連情報をすべてを検証するのは時間的に不可能です。ビットコイン初心者が膨大な情報量とその難解さに圧倒されるのは当然です。効率的に学ぶ方法はありますが、その方法にたどり着くのがそもそも至難の業です。暗号通貨やブロックチェーンのプロジェクトは無数にあります。しかし、重要なプロジェクトは唯一ビットコインだけです。ビットコイン以外のプロジェクトは一切無視してください。まずはビットコインの存在理由と仕組みを理解することです。ビットコインの基礎的な理解なくして、その他の暗号通貨やブロックチェーンの全体像を把握することは到底不可能です。
