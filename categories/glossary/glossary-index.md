@@ -30,8 +30,8 @@ taxonomy:
 | ---- | ---- | ---- |
 |[カストディアル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#custodial)|[価値尺度](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#unit_of_account)|[価値貯蔵手段](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#sov)| 
 |[可分性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#divisibility)|[カンティロン効果](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#cantillon_effect)|[希少性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#scarcity)|
-|[グレシャムの法則](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#greshams_law)|携帯性|検閲耐性|
-|検証性|[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#public_key)|交換手段|
+|[グレシャムの法則](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#greshams_law)|[携帯性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#portability)|[検閲耐性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#censorship_resistance)|
+|[検証性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#verifiability)|[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#public_key)|[交換手段](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#medium_of_exchange)|
 |コインジョイン|[コインベース・トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#coinbase_transaction)|[コールドストレージ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#cold_storage)|
 |コンセンサス|||
 
@@ -47,7 +47,7 @@ taxonomy:
 ### <a id="ta"></a>[た](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#ta)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|耐久性|代替性|タイムロック|
+|[耐久性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#durability)|代替性|タイムロック|
 |ダスト|ダスト攻撃|タップルート|
 |チェンジ・アウトプット|チェーン分析|[匿名性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#anonymity)|
 |[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)|[トランザクションID（TXID）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#txid)||
