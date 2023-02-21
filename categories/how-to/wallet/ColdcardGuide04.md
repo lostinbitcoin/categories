@@ -60,7 +60,7 @@ $(document).ready( function () {
 
 ![ColdCardGuide04_1.jpg](/_images/ColdCardGuide04_1.jpg)
 
-今回はColdcardのセットアップ時に、言われるがままに書き留めたこの24単語(もしくは12単語)、シードフレーズの扱い方、正しい保管方法とそのリカバリについてのお話です。
+今回はCOLDCARDのセットアップ時に、言われるがままに書き留めたこの24単語(もしくは12単語)、シードフレーズの扱い方、正しい保管方法とそのリカバリについてのお話です。
 
 Bitcoinの世界では、今まで聞いたことのないような新しい用語の数々であふれています。
 
@@ -315,7 +315,7 @@ COLDCARDに電源を入れ、PINコードを入力した状態では常に
 
 ![ColdcardGuide04_28.jpg](/_images/ColdcardGuide04_28.jpg)
 
-- **“Advanced/Tools” → “View Identity”** を選択します。
+- **“Advanced/Tools” → “View Identity”** (ID確認)を選択します。
 
 ![ColdcardGuide04_29.jpg](/_images/ColdcardGuide04_29.jpg)
 
