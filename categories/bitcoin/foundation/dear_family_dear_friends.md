@@ -13,6 +13,11 @@ taxonomy:
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  20分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
+<div class="text-reader">
+    <span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください。</span><br>
+    <button id="btn-readAloud" onclick="readAloud();">読み上げ開始 &#x25B6</button><button id="btn-deleteQueue" onclick="deleteQueue();">停止 &#x23F9</button>
+</div>
+
 <!--- 以下の例のように、オリジナルコンテンツの説明（著作権者、公開日時、公開媒体など）、邦訳文や日本語字幕を作成した場合は訳者、検証者を斜体で記載 --->
 *本記事は [@Gigi](https://twitter.com/dergigi) 氏著「 [Dear Family, Dear Friends
 A letter to all of you who still have no bitcoin.](https://dergigi.com/2020/04/27/dear-family-dear-friends/) 」（2020年4月27日公開）を [@fuuuumin](https://twitter.com/fuuuumin314) さんが翻訳、  [@TerukoNeriki](https://twitter.com/TerukoNeriki) が 一部加筆修正したものです。*
