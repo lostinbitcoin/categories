@@ -8,41 +8,16 @@ taxonomy:
         - beginner
 ---
 
-<style>
-img[alt*="Category"],
-img[alt*="Tag"],
-img[alt*="Time"] {
-    width:30px;
-    height:30px;
-    object-fit: cover;
-}
-p {
-    color: #3d362d;
-}
-a {
-    color: #ff9f1c;
-}
-a:hover {
-    color: #2ec4b6;
-}
-</style>
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script language="JavaScript">
-$(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
-})
-</script>
-### COLDCARDをセットアップして基本的な使い方を覚えよう！
+## COLDCARDをセットアップして基本的な使い方を覚えよう！
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  25分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は[@katakoto](https://twitter.com/katakoto) が制作、2023年2月に公開したものです。*
 
-# ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう④～バックアップ＆リカバリ編～
+### ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう④～バックアップ＆リカバリ編～
 
-[前回の記事](https://lostinbitcoin.jp/how-to/coldcardguide03/)で、COLDCARDの開封からセットアップ、Sparrow Walletを利用したBitcoinの受け取り・送金の方法を一通り解説しました。
+[前回の記事](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide03/)で、COLDCARDの開封からセットアップ、Sparrow Walletを利用したBitcoinの受け取り・送金の方法を一通り解説しました。
 
 皆さんの大事なBitcoinも、ビットコイナーいち押しのハードウェア・ウォレットCOLDCARDに保管され、まずは一安心といった所でしょうか。
 
@@ -56,7 +31,7 @@ $(document).ready( function () {
 
 ですが、この連載においてBitcoinの**セルフ・カストディ（自己管理）**において最も重要なポイントが、いまだカバーされておりませんでした。そうそれは
 
-## シードフレーズ（12もしくは24英単語）って結局何なのさ？
+### シードフレーズ（12もしくは24英単語）って結局何なのさ？
 
 ![ColdCardGuide04_1.jpg](/_images/ColdCardGuide04_1.jpg)
 
@@ -141,7 +116,7 @@ COLDCARDも当然これらの業界スタンダードに準拠しているウォ
 
 そんな時、多くのビットコイナーが選んでいる方法はシンプルにズバリ
 
-## **シードフレーズを鋼に刻む**
+### **シードフレーズを鋼に刻む**
 
 です。この方法はメタル・ウォレットと呼ばれ、すでにいくつかのプロダクトが販売され人気を博しています。
 
@@ -170,7 +145,7 @@ Source：[https://blog.lopp.net/metal-bitcoin-seed-storage-stress-tests-round-v/
 
 これが、Bitcoinをセルフカストディする際の最も基本となる考え方となります。そして、この重要なシードフレーズを、一切のネット環境に触れることなく作成、保管まで行えるのがCOLDCARDを使う最大の利点とも言えます。
 
-## シードフレーズからのリカバリ
+### シードフレーズからのリカバリ
 
 では、さっそくあなたの魂に刻んだシードフレーズをCOLDCARDで復元してみましょう。
 
@@ -209,13 +184,13 @@ Source：[https://blog.lopp.net/metal-bitcoin-seed-storage-stress-tests-round-v/
 
 それがあるんです。その対策の名は
 
-## パスフレーズ
+### パスフレーズ
 
 また新たな用語の登場にうんざりしているかもしれませんが、頑張ってついてきてください。
 
 **シードフレーズ＋パスフレーズ**を自在に使いこなせれば、Bitcoinの自己管理時のセキュリティを格段にアップさせることができるようになります。
 
-## Bitcoin管理のセキュリティを強化するパスフレーズとは？
+### Bitcoin管理のセキュリティを強化するパスフレーズとは？
 
 COLDCARDにパスフレーズを設定すると、既存のシードフレーズと組み合わせて、まったく新しいウォレットを生成することができます。COLDCARDのパスフレーズは、アルファベットの大文字、小文字 - 数字 - 記号を自由に組み合わせて使うことができ、最長100文字まで設定可能です。
 
@@ -239,7 +214,7 @@ COLDCARDにパスフレーズを設定すると、既存のシードフレーズ
 
 では早速、COLDCARDにパスフレーズを設定してみましょう。
 
-### パスフレーズの作成
+#### パスフレーズの作成
 
 ![ColdcardGuide04_14.jpg](/_images/ColdcardGuide04_14.jpg)
 
@@ -283,7 +258,7 @@ BIP-39のシードワードにパスフレーズを追加することができ�
 
 - 再度、**”Edit Phrase”**を押して自分の利用したいパスフレーズと相違ないかを確認しましょう。注意点としてはスペース（ディスプレイ内で**␣**で表示）も一文字として認識されるので、きちんと自分の意図したパスフレーズになっているかを確認が必要です。
 
-### パスフレーズの適用
+#### パスフレーズの適用
 
 では、作成したパスフレーズをウォレットに適用して、新たなウォレットを開いてみましょう。
 
@@ -299,7 +274,7 @@ BIP-39のシードワードにパスフレーズを追加することができ�
 
 - この画面で表示されている**”fingerprint”**（指紋）が、現在、自分がどのウォレットを開いているのかを確認する際に必要な情報です。巨木の例えで言うなら、木々を識別するための年輪のようなものになります。
 
-### ウォレットの確認
+#### ウォレットの確認
 
 COLDCARDに電源を入れ、PINコードを入力した状態では常に
 
@@ -331,7 +306,7 @@ COLDCARDに電源を入れ、PINコードを入力した状態では常に
 
 ![ColdcardGuide04_29.jpg](/_images/ColdcardGuide04_29.jpg)
 
-## Sparrow Walletでマルチウォレット管理
+### Sparrow Walletでマルチウォレット管理
 
 では、ベースになるシードフレーズにパスフレーズを適用して作られた新しいウォレットは、どのように管理したらよいでしょうか。この場合にも、前回の記事で利用した[Sparrow Wallet](https://sparrowwallet.com/)を利用すれば簡単です。
 
@@ -419,4 +394,4 @@ Source：[https://twitter.com/Annonymal_btc/status/1602279499701297152](https://
 
 
 ***
-[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
+[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa)
