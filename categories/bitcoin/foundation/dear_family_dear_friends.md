@@ -1,5 +1,5 @@
 ---
-title: 親愛なる家族と友へ
+title: 親愛なる家族と友へ \[🔊 オーディオ記事\]
 taxonomy:
     category:
         - bitcoin
