@@ -391,7 +391,7 @@ Source：[https://twitter.com/Annonymal_btc/status/1602279499701297152](https://
 
 * [Mnemonic Seed(シードフレーズ確認用)](https://learnmeabitcoin.com/technical/mnemonic)
 
-
+* [COLDCARD 初心者向けガイド(公式)](https://lostinbitcoin.jp/how-to/coldcard_beginner_guide/)
 
 ***
 [利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa)
