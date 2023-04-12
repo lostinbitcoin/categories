@@ -12,7 +12,7 @@ taxonomy:
 
 ## ビットコインのスケーリング方法および価値貯蔵手段から交換手段への進化を、歴史やアルトコインの失敗を参考に考察
 
-|  ![Category](/_images/category.png)  |  ライトニング、ビットコインは最強のお金 |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  15分  |
+|  ![Category](/_images/category.png)  |  ライトニング、ビットコインは最強のお金 |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  65分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 <div class="text-reader">
