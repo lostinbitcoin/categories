@@ -17,7 +17,18 @@ taxonomy:
 
 <div class="text-reader">
     <span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください。</span><br>
-    <button id="btn-readAloud" onclick="readAloud();">読み上げ開始 &#x25B6</button><button id="btn-deleteQueue" onclick="deleteQueue();">停止 &#x23F9</button><form name="form">速度：<input type="range" name="rate" max="70" min="-10" step="20" list="scale" value="10"><datalist id="scale"><option value="-10"></option><option value="10"></option><option value="30"></option><option value="50"></option><option value="70"></option></datalist></form>
+    <button id="btn-readAloud" onclick="readAloud();">読み上げ開始 &#x25B6</button>
+    <button id="btn-deleteQueue" onclick="deleteQueue();">停止 &#x23F9</button>
+    <form name="form" style="display:inline;">
+        速度：<input type="range" name="rate" max="70" min="-10" step="20" list="scale" value="10">
+        <datalist id="scale">
+            <option value="-10"></option>
+            <option value="10"></option>
+            <option value="30"></option>
+            <option value="50"></option>
+            <option value="70"></option>
+        </datalist>
+    </form>
 </div>
 
 *本記事は2022年8月6日に[Lyn Alden](https://twitter.com/LynAldenContact) 氏が発表した「[A Look At the Lightning Network](https://www.swanbitcoin.com/a-look-at-the-lightning-network/)」を[@slashweb3_mk](https://twitter.com/slashweb3_mk) さんが翻訳、[@Haruko_Maruyama](https://twitter.com/Haruko_Maruyama) が一部加筆修正したものです。*
