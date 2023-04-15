@@ -15,7 +15,7 @@ taxonomy:
 |  ![Category](/_images/category.png)  |  ライトニング、ビットコインは最強のお金 |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  65分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-<table class="text-reader sticky"><tr><td colspan="3">記事を読み上げるには「読み上げ開始」ボタンをクリック</td></tr><tr><td class="td-button"><button id="btn-readAloud" onclick="readAloud();">読み上げ開始 ▶</button></td><td class="td-button"><button id="btn-deleteQueue" onclick="deleteQueue();">停止 ⏹</button></td><td><form name="form">&nbsp&nbsp速度：<input type="range" name="rate" max="40" min="0" step="5" list="scale" value="10"><datalist id="scale"><option value="0"></option><option value="10"></option><option value="20"></option><option value="30"></option><option value="40"></option></datalist></form></td></tr></table>
+<table class="text-reader sticky"><tr><td colspan="3">記事を読み上げるには「読み上げ開始」ボタンをクリック</td></tr><tr><td class="td-button1"><button id="btn-readAloud" onclick="readAloud();">読み上げ開始 ▶</button></td><td class="td-button2"><button id="btn-deleteQueue" onclick="deleteQueue();">停止 ⏹</button></td><td><form name="form">速度：<input type="range" name="rate" max="40" min="0" step="2.5" list="scale" value="10"><datalist id="scale"><option value="0"></option><option value="10"></option><option value="20"></option><option value="30"></option><option value="40"></option></datalist></form></td></tr></table>
 
 *本記事は2022年8月6日に[Lyn Alden](https://twitter.com/LynAldenContact) 氏が発表した「[A Look At the Lightning Network](https://www.swanbitcoin.com/a-look-at-the-lightning-network/)」を[@slashweb3_mk](https://twitter.com/slashweb3_mk) さんが翻訳、[@Haruko_Maruyama](https://twitter.com/Haruko_Maruyama) が一部加筆修正したものです。*
 
