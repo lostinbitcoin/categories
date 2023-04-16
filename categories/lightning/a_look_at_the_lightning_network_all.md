@@ -18,7 +18,7 @@ taxonomy:
 <span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください</span>
 <table class="text-reader sticky"><tr><td class="td-btn1"><button id="btn-readAloud" onclick="readAloud();">読み上げ開始 ▶</button></td><td class="td-btn2"><button id="btn-deleteQueue" onclick="deleteQueue();">停止 ⏹</button></td><td><form name="form"><span>速度：</span><input type="range" name="rate" max="30" min="0" step="2.5" list="scale" value="10"><datalist id="scale"><option value="0"></option><option value="10"></option><option value="20"></option><option value="30"></option></datalist></form></td></tr></table>
 
-*本記事は2022年8月6日に[Lyn Alden](https://twitter.com/LynAldenContact) 氏が発表した「[A Look At the Lightning Network](https://www.swanbitcoin.com/a-look-at-the-lightning-network/)」を[@slashweb3_mk](https://twitter.com/slashweb3_mk) さんが翻訳、[@Haruko_Maruyama](https://twitter.com/Haruko_Maruyama) が一部加筆修正したものです。*
+*本記事は2022年8月6日に[Lyn Alden](https://twitter.com/LynAldenContact) 氏が発表した「[A Look At the Lightning Network](https://www.swanbitcoin.com/a-look-at-the-lightning-network/)」を[@slashweb3_mk](https://twitter.com/slashweb3_mk) さんが翻訳、[@Haruko_Maruyama](https://twitter.com/Haruko_Maruyama) さんが一部加筆修正したものです。*
 
 この記事では、貨幣財の価値貯蔵手段と交換手段という2つの機能の関係を考察します。
 
