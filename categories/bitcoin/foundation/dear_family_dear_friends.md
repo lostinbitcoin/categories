@@ -13,10 +13,8 @@ taxonomy:
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  20分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-<div class="text-reader">
-    <span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください。</span><br>
-    <button id="btn-readAloud" onclick="readAloud();">読み上げ開始 &#x25B6</button><button id="btn-deleteQueue" onclick="deleteQueue();">停止 &#x23F9</button>
-</div>
+<span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください</span>
+<table class="text-reader sticky"><tr><td class="td-btn1"><button id="btn-readAloud" onclick="readAloud();">読み上げ開始 ▶</button></td><td class="td-btn2"><button id="btn-deleteQueue" onclick="deleteQueue();">停止 ⏹</button></td><td><form name="form"><span>速度：</span><input type="range" name="rate" max="30" min="0" step="2.5" list="scale" value="10"><datalist id="scale"><option value="0"></option><option value="10"></option><option value="20"></option><option value="30"></option></datalist></form></td></tr></table>
 
 <!--- 以下の例のように、オリジナルコンテンツの説明（著作権者、公開日時、公開媒体など）、邦訳文や日本語字幕を作成した場合は訳者、検証者を斜体で記載 --->
 *本記事は [@Gigi](https://twitter.com/dergigi) 氏著「 [Dear Family, Dear Friends

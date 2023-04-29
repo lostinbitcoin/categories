@@ -13,10 +13,8 @@ taxonomy:
 |  ![Category](/_images/category.png)  |  ビットコインは希望、ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  20分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-<div class="text-reader">
-    <span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください。</span><br>
-    <button id="btn-readAloud" onclick="readAloud();">読み上げ開始 &#x25B6</button><button id="btn-deleteQueue" onclick="deleteQueue();">停止 &#x23F9</button>
-</div>
+<span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください</span>
+<table class="text-reader sticky"><tr><td class="td-btn1"><button id="btn-readAloud" onclick="readAloud();">読み上げ開始 ▶</button></td><td class="td-btn2"><button id="btn-deleteQueue" onclick="deleteQueue();">停止 ⏹</button></td><td><form name="form"><span>速度：</span><input type="range" name="rate" max="30" min="0" step="2.5" list="scale" value="10"><datalist id="scale"><option value="0"></option><option value="10"></option><option value="20"></option><option value="30"></option></datalist></form></td></tr></table>
 
 _本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パートナー、[COIN METRICS](https://coinmetrics.io/#) 共同設立者 [Nic Carter](https://twitter.com/nic__carter) 氏著「[A Most Peaceful Revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)」（2019年9月8日公開）を [@TerukoNeriki](https://twitter.com/TerukoNeriki) が翻訳、一部加筆修正したものです。カバーイメージは [Jason Benjamin](https://twitter.com/PerfectHue) 氏制作。_
 
