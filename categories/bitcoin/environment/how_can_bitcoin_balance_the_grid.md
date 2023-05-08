@@ -1,5 +1,5 @@
 ---
-title: ビットコインが電力システムの安定に寄与する仕組み
+title: ビットコインマイニング基礎講座②〜ビットコインは電力システムの安定に寄与
 taxonomy:
     category:
         - bitcoin
@@ -9,9 +9,9 @@ taxonomy:
         - beginner
 ---
 
-## ビットコインマイニングとは？
+## ビットコインが電力システムの安定に寄与する仕組み
 
-|  ![Category](/_images/category.png)  |  ビットコインとエネルギー・環境問題、ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  3分  |
+|  ![Category](/_images/category.png)  |  ビットコインとエネルギー・環境問題、ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  1分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 本記事は [@Dennis_Porter_](https://twitter.com/Dennis_Porter_) 氏著「 [How Can Bitcoin Balance the Grid?](https://www.satoshiaction.io/post/how-can-bitcoin-balance-the-grid) 」（2022年12月4日公開）を [@fuuuumin](https://twitter.com/fuuuumin314) さんが翻訳、  [@TerukoNeriki](https://twitter.com/TerukoNeriki) が 一部加筆修正したものです。
