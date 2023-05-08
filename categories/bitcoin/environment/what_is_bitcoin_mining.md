@@ -1,5 +1,5 @@
 ---
-title: ビットコインマイニングとは？
+title: ビットコインマイニング基礎講座①〜ビットコインマイニングとは？
 taxonomy:
     category:
         - bitcoin
