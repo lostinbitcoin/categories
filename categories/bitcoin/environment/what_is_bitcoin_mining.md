@@ -1,5 +1,5 @@
-----
-title: ビットコインマイニングとは？⛏️
+---
+title: ビットコインマイニング基礎講座①〜ビットコインマイニングとは？
 taxonomy:
     category:
         - bitcoin
@@ -11,7 +11,7 @@ taxonomy:
 
 ## ビットコインマイニングとは？
 
-|  ![Category](/_images/category.png)  |  ビットコインとエネルギー・環境問題、ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  16分  |
+|  ![Category](/_images/category.png)  |  ビットコインとエネルギー・環境問題、ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  1分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 本記事は [@Dennis_Porter_](https://twitter.com/Dennis_Porter_) 氏著「 [What is Bitcoin Mining?](https://www.satoshiaction.io/post/what-is-bitcoin-mining) 」（2022年12月22日公開）を [@fuuuumin](https://twitter.com/fuuuumin314) さんが翻訳、  [@TerukoNeriki](https://twitter.com/TerukoNeriki) が 一部加筆修正したものです。
@@ -27,4 +27,4 @@ taxonomy:
 ビットコインマイニングは競争が激しく、膨大な計算能力を要します。このため、個人が単独で行って利益を出すのは実質不可能です。大半のマイナーはブロックを見つけて報酬を獲得する確率を高めるため、マイニングプールに参加します。
 
 ### 著作権等について
-[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa)
+[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
