@@ -23,7 +23,7 @@ taxonomy:
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#address)|[イニシャル・ブロック・ダウンロード (IBD)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#ibd)|[インフレーション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#inflation)|
-|[インフレーションヘッジ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#inflation_hedge)|ウォッチタワー|[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)|
+|[インフレーションヘッジ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#inflation_hedge)|[ウォッチタワー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#watchtower)|[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)|
 |オーファン (孤立) ブロック|[オフチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#off_chain)|[オンチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#on_chain)||
 |オラクル問題|||
 
