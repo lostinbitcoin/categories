@@ -1,29 +1,23 @@
 ---
-title:ルガーノにおけるビットコイン導入の現状 - 2022年12月<!--- タイトルを入力 --->
+title:ビットコインを法定通貨に採用したスイス、ルガーノ市の狙いと戦略とは？
 taxonomy:
-    category:lightning,use-case<!--- wikiの「1-2-2. カテゴリ & サブカテゴリの一覧」から該当するものを選び、slugを入力（複数選択可） --->
-        - bitcoin
-        - hope
-    post_tag:beginner<!--- wikiの「1-2-3. タグの一覧」から該当するものを選び、slugを入力（複数選択可） --->
+    category:lightning,use-case
+        - use-case
+        - lightning
+    post_tag:beginner
         - beginner
-        - humanrights
-        - politics
 ---
 
-## サブタイトル <!--- サブタイトルを入力 --->
+## 世界で最も豊かな先進的国家スイスで進行中の「ビットコインで経済振興する」社会実験。地元企業への聞き取り調査から、実験の進捗、成功の見込みを考察。
 
-|  ![ライトニング 事例](/_images/category.png)  | <!--- 選択したカテゴリslugに対応する名称を入力 ---> |  ![初級](/_images/tag.png)  | <!--- 選択したタグslugに対応する名称を入力 ---> | ![12](/_images/timer.png)  | <!--- コンテンツ消費にかかる時間を入力（記事は700文字/分で計算、動画は再生時間） --->分  |
+|  ![ライトニング 事例](/_images/category.png)  | 事例、ライトニング |  ![初級](/_images/tag.png)  | 初級 | ![12](/_images/timer.png)  | 16分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-<!--- 以下の例のように、オリジナルコンテンツの説明（著作権者、公開日時、公開媒体など）、邦訳文や日本語字幕を作成した場合は訳者、検証者を *斜体* で記載 --->
-*本記事は [@Mars](https://twitter.com/Il_Mars_) 氏が執筆した[The State of Bitcoin Adoption in Lugano — December 2022](https://medium.com/@Il_Mars_/the-state-of-bitcoin-adoption-in-lugano-december-2022-ce30aec530a6)(2021年12月14日公開) を  [@yutaro](https://twitter.com/yutaro21jp) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
+*本記事は [@Mars](https://twitter.com/Il_Mars_) 氏が執筆した "[The State of Bitcoin Adoption in Lugano — December 2022](https://medium.com/@Il_Mars_/the-state-of-bitcoin-adoption-in-lugano-december-2022-ce30aec530a6)" (2021年12月14日公開) を  [@yutaro](https://twitter.com/yutaro21jp) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
 
 この記事は [イタリア語](https://medium.com/@Il_Mars_/a-che-punto-%C3%A8-ladozione-di-bitcoin-a-lugano-dicembre-2022-6e231126da70) でもご覧いただけます。
 
-<!--- 画像の表示法: 画像を /_images/ にアップロード後、alt属性と相対パスを入力 --->
-[![](/_images/the_state_of_bitcoin_adoption_in_lugano_december_2022.png.webp <!--- 相対パス --->)]
-<!--- 画像にリンク先がある場合はalt属性を入力、そうでない場合はalt属性を空欄にする --->
-[![Newsletters - Bitcoin Optech <!--- alt属性 --->](/_imagesthe_state_of_bitcoin_adoption_in_lugano_december_2022.png)](https://bitcoinops.org/ja/newsletters/)
+[![Lugano PlanB](/_images/the_state_of_bitcoin_adoption_in_lugano_december_2022.webp)]
 
 ## はじめに
 2021年6月、世界は中央アメリカの小さな国の存在を知った。ブケレ大統領が自国でビットコインを法定通貨に採用したいと発表する前、多くの人はエルサルバドルという国を知らなかったし、聞いたことがある人もギャングや内戦のイメージしか持っていなかった。傲慢に聞こえるかもしれないが、それが現実だ。ブケレ大統領の発表は大きな反響を呼び、世界中のビットコイナーから喝采を浴びた。エルサルバドルはビットコインのユースケースとして、ほぼ完璧に見えた：発展途上で比較的貧しく、銀行口座を持たない人が多い国だったからだ。しかし、疑念を抱かせる要素がひとつあった： **エルサルバドルはドル化されている**。エルサルバドルには自国通貨がなく、法定通貨である米ドルはハイパーインフレを起こしていない（いまのところ？）。とはいえ、ビットコインコミュニティの誰もがブケレ大統領の社会実験を歓迎し、エルサルバドルは一躍人気を博した。ビットコイン法が施行されてから1年後のエルサルバドルの状況について詳しく知りたい方は、 [Bitcoin Explorers によるブログ](https://bitcoinitaliapodcast.it/missione-centro-america-2022) Mission Central America 2022 シリーズに目を通してほしい。
@@ -96,5 +90,8 @@ Go Crypto社のウェブサイトでも説明しているように、POS端末�
 ・・・
 
 最後まで読んでいただき、ありがとうございました！もしこの記事が役に立ったなら、多くの人に読んでもらえるよう、ぜひシェアしてください。他にもビットコイン関連のコンテンツをいろいろ作成しているので、ぜひ [Twitter](https://twitter.com/Il_Mars_) でもフォローしてください。
-### 著作権等について <!--- A、Bのうち該当する利用規約を残し、他方を削除 --->
-[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa) <!--- クリエイター（邦訳コンテンツはオリジナルコンテンツのクリエイター）に利用許可を得ている場合 --->
+
+・・・
+
+### 著作権等について
+[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa) 
