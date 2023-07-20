@@ -1,10 +1,10 @@
 ---
 title: ビットコインを法定通貨に採用したスイス、ルガーノ市の狙いと戦略とは？
 taxonomy:
-    category:<!--- wikiの「1-2-2. カテゴリ & サブカテゴリの一覧」から該当するものを選び、slugを入力（複数選択可） --->
+    category:
         - use-case
         - lightning
-    post_tag:<!--- wikiの「1-2-3. タグの一覧」から該当するものを選び、slugを入力（複数選択可） --->
+    post_tag:
         - beginner
 ---
 
@@ -17,7 +17,7 @@ taxonomy:
 
 この記事は [イタリア語](https://medium.com/@Il_Mars_/a-che-punto-%C3%A8-ladozione-di-bitcoin-a-lugano-dicembre-2022-6e231126da70) でもご覧いただけます。
 
-[![Lugano PlanB](/_images/the_state_of_bitcoin_adoption_in_lugano_december_2022.webp)]
+![Lugano PlanB](/_images/the_state_of_bitcoin_adoption_in_lugano_december_2022.webp)
 
 ## はじめに
 2021年6月、世界は中央アメリカの小さな国の存在を知った。ブケレ大統領が自国でビットコインを法定通貨に採用したいと発表する前、多くの人はエルサルバドルという国を知らなかったし、聞いたことがある人もギャングや内戦のイメージしか持っていなかった。傲慢に聞こえるかもしれないが、それが現実だ。ブケレ大統領の発表は大きな反響を呼び、世界中のビットコイナーから喝采を浴びた。エルサルバドルはビットコインのユースケースとして、ほぼ完璧に見えた：発展途上で比較的貧しく、銀行口座を持たない人が多い国だったからだ。しかし、疑念を抱かせる要素がひとつあった： **エルサルバドルはドル化されている**。エルサルバドルには自国通貨がなく、法定通貨である米ドルはハイパーインフレを起こしていない（いまのところ？）。とはいえ、ビットコインコミュニティの誰もがブケレ大統領の社会実験を歓迎し、エルサルバドルは一躍人気を博した。ビットコイン法が施行されてから1年後のエルサルバドルの状況について詳しく知りたい方は、 [Bitcoin Explorers によるブログ](https://bitcoinitaliapodcast.it/missione-centro-america-2022) Mission Central America 2022 シリーズに目を通してほしい。
