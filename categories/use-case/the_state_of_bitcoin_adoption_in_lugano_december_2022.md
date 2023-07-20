@@ -38,7 +38,7 @@ taxonomy:
 プランBの主要コンポーネントは、ルガーノ市が商業施設に提供する[Go Crypto](https://gocrypto.com/blog/luganos-plan-building-the-next-bitcoin-city)社製の決済システムだ。プランBへの参加を決めた店舗には、ビットコイン、USDT（Polygon利用）、LVGA決済に対応したPOS端末が順次無料で配布される。一般的なPOS端末と外観は同じで、決済フローも実にシンプルだ：USDTまたはビットコインで支払いを受けるには、端末で**「Bitfinex Pay」を選択後、USDTあるいはビットコインのライトニング決済を指定する。支払金額を入力すると端末にQRコードが表示されるので、それを顧客に見せる。** これだけだ。通常のPOS端末よりも簡単かもしれない。このシンプルな使い勝手の良さが、プランBの成否を左右する重要要因になる。
 
 <!--- Tweetの埋め込み法: Tweetの右上にある「•••」→「ツイートを埋め込む」を選択してコピーしたリンクを貼り付けて、末尾の<script>タグを削除 --->
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Come to Lugano and have a pizza paying with <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoin</a> at Commercio! 🍕<a href="https://twitter.com/hashtag/LuganoPlanB?src=hash&amp;ref_src=twsrc%5Etfw">#LuganoPlanB</a> <a href="https://t.co/hRSgkXJLac">pic.twitter.com/hRSgkXJLac</a></p>&mdash; Lugano Plan ₿ (@LuganoPlanB) <a href="https://twitter.com/LuganoPlanB/status/1593197420237754370?ref_src=twsrc%5Etfw">November 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Come to Lugano and have a pizza paying with <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoin</a> at Commercio! 🍕<a href="https://twitter.com/hashtag/LuganoPlanB?src=hash&amp;ref_src=twsrc%5Etfw">#LuganoPlanB</a> <a href="https://t.co/hRSgkXJLac">pic.twitter.com/hRSgkXJLac</a></p>&mdash; Lugano Plan ₿ (@LuganoPlanB) <a href="https://twitter.com/LuganoPlanB/status/1593197420237754370?ref_src=twsrc%5Etfw">November 17, 2022</a></blockquote>
 
 Go Crypto社のウェブサイトでも説明しているように、POS端末を導入した店舗には何の義務も発生しない。ビットコインとUSDTによる決済は、いつでも好きなときに自由に開始、停止できる。POS端末導入に際し、店舗側には一切コストが発生しない。つまり、**無料で**導入できる。さらに、支払いで受け取ったビットコインとUSDTは、その何％（0〜100％）を即時に自動でスイスフランに交換するよう設定できる。ただし、交換には1％の手数料がかかる（交換はBitfinexが行うようだ）。ビットコインやUSDTのままで保有したい場合、カストディアル型ウォレットに保管されるが、いつでも自分で管理するウォレットに送金できる。
 ## プランB参加店の反応
@@ -69,7 +69,7 @@ Go Crypto社のウェブサイトでも説明しているように、POS端末�
 ほとんどのエルサルバドル人にとって、ビットコインはChivoであり、Chivoはビットコインである。そのため、Chivoが使いにくいなら、ビットコインも使いにくい。Chivoは初期設定が煩雑な上、支払いや送金が頻繁に差し止められる。こんなシステムを喜んで使う人などいない。
 
 <!--- Tweetの埋め込み法: Tweetの右上にある「•••」→「ツイートを埋め込む」を選択してコピーしたリンクを貼り付けて、末尾の<script>タグを削除 --->
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The problem is not <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoin</a>, the problem is <a href="https://twitter.com/chivowallet?ref_src=twsrc%5Etfw">@chivowallet</a>. <a href="https://t.co/ha7uTk0Fyk">pic.twitter.com/ha7uTk0Fyk</a></p>&mdash; Forever Laura (@Laurastacksats) <a href="https://twitter.com/Laurastacksats/status/1590755596206501888?ref_src=twsrc%5Etfw">November 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The problem is not <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoin</a>, the problem is <a href="https://twitter.com/chivowallet?ref_src=twsrc%5Etfw">@chivowallet</a>. <a href="https://t.co/ha7uTk0Fyk">pic.twitter.com/ha7uTk0Fyk</a></p>&mdash; Forever Laura (@Laurastacksats) <a href="https://twitter.com/Laurastacksats/status/1590755596206501888?ref_src=twsrc%5Etfw">November 10, 2022</a></blockquote>
 
 エルサルバドル政府はビットコインを法定通貨に採用後、なぜビットコインが必要なのか、国民への説明責任を十分に果たしておらず、教育にも力を入れていない。[Mi Primer Bitcoin](https://miprimerbitcoin.io/en/about-us/) のように、ビットコイン教育に特化した民間プロジェクトはよく耳にするが、課題は山積みだ。
 
