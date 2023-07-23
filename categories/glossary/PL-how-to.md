@@ -20,7 +20,8 @@ taxonomy:
 1. <b>GitHubアカウントの作成:</b> [GitHub](https://github.com/)のアカウントを持っていない場合は、GitHubでアカウントを作成します。
 1. <b>プロジェクトのリポジトリを開く:</b> GitHub上にある[ロストイン・ビットコインのリポジトリ]( https://github.com/lostinbitcoin/categories/)（ファイルや変更履歴ためておくデータベースのようなもの）を開きます。
 1. <b>フォークの作成:</b> リポジトリのページの右上にある「Fork」ボタンをクリックすると、自分のアカウントの下にロストイン・ビットコインのリポジトリのコピー（fork、フォーク）が作成されます。
-＜画像 PL_how_to-fork＞
+[![](/images/the_great_plague_of_shitconery_1.webp <!--- 相対パス --->)]
+
 1. <b>リポジトリの選択:</b>自分のリポジトリのリスト（https://github.com/<GitHubのユーザー名>?tab=repositories）から、前のステップでフォークしたリポジトリ（https://github.com/<GitHubのユーザー名>/categories）を選びます。
 1. <b>ブランチの作成:</b> ブランチのドロップダウンメニューをクリックします。新しいブランチ名（例えば、「XXXの翻訳」など）を入力すると、「Create branch: [ブランチ名]」と表示され、クリックするとブランチが作成されます。＜画像 PL_how_to-make_branch＞
 1. <b>ファイルの編集:</b> 作成したブランチで翻訳したいファイルを選択し、「Edit」ボタンをクリックし、ファイルの内容を編集します。どのブランチで作業しているのかは、画面左のメニューなどで確認できるほか、ファイルのURLでも確認できます。 ＜画像 PL_how_to-edit＞
