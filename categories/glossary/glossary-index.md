@@ -114,9 +114,9 @@ taxonomy:
 |HODL|Howeyテスト|HTLC (ハッシュタイムロックコントラクト)|
 |Liquidネットワーク|LNURL|M-of-N|
 |MuSig|PTLC (ポイントタイムロックコントラクト)|RBF (Replace-By-Fee)|
-|SegWit|SHA-256|SPV|
-|UASF| [UTXO](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#utxo)|UTXOセット|
-|vByte|||
+|[Sat (Sats)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#sat)|SegWit|SHA-256|
+|SPV|UASF| [UTXO](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#utxo)|
+|UTXOセット|vByte||
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
