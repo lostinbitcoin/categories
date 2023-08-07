@@ -53,7 +53,7 @@ taxonomy:
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[耐久性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#durability)|代替性|大統領令6102号|
-|タイムロック|ダスト|ダスト攻撃|
+|タイムロック|[ダスト](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#dust)|ダスト攻撃|
 |タップルート|チェンジ・アウトプット|チェーン分析|
 |[匿名性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#anonymity)|導出パス|[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)|
 |[トランザクションID（TXID）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#txid)|||
