@@ -9,6 +9,7 @@ taxonomy:
 ---
 
 ## 「廃棄物→エネルギー→ビットコイン」というアップサイクルを実践する世界一かっこいいマイニング施設
+<button class="zap-button" data-npub="npub19x0h8jm3mnwzhv4tpq62zta05er0qlyge73m0pwsp7h666khkd9qev2ree">Zap Me ⚡</button><button class="zap-button" data-npub="npub1f3maxrcsh7ep5kcfjcvu7zl85far4qdjfgk7nz83gksr3k73r9hqaelayw">Zap Me ⚡</button>
 
 |  ![Category](/_images/category.png)  |  事例  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  4分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
