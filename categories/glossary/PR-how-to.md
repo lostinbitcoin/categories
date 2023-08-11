@@ -1,17 +1,8 @@
 ---
 title: 用語集の翻訳・修正提案プルリクエストの送り方
-taxonomy:
-    category:<!--- wikiの「1-2-2. カテゴリ & サブカテゴリの一覧」から該当するものを選び、slugを入力（複数選択可） --->
-        - xx
-    post_tag:<!--- wikiの「1-2-3. タグの一覧」から該当するものを選び、slugを入力（複数選択可） --->
-        - xx
 ---
 
-|  ![Category](/_images/category.png)  | <!--- 選択したカテゴリslugに対応する名称を入力 ---> |  ![Tag](/_images/tag.png)  | <!--- 選択したタグslugに対応する名称を入力 ---> | ![Time](/_images/timer.png)  | <!--- コンテンツ消費にかかる時間を入力（記事は700文字/分で計算、動画は再生時間） --->分  |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-
-<!--- 以下の例のように、オリジナルコンテンツの説明（著作権者、公開日時、公開媒体など）、邦訳文や日本語字幕を作成した場合は訳者、検証者を *斜体* で記載 --->
-*本記事は[lostinbitcoin.jpの用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の翻訳・修正提案プルリクエストをGitHubで送る方法を説明するもので、[@akipponn](https://twitter.com/akipponn) が草稿を執筆し、[@XXX](XXX) さんが一部加筆修正したものです。*
+*以下、[lostinbitcoin.jpの用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の翻訳・修正提案プルリクエストをGitHubで送る方法です。[@akipponn](https://twitter.com/akipponn) さん、ガイド作成ありがとうございます。*
 
 <!--- コンテンツの意図や要約文（省略可） --->
 [lostinbitcoin.jpの用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の用語の訳文の変更履歴の管理には、プログラムのソースコードのバージョン管理に利用されることの多いGitHubを利用しています。本記事では、GitHub上で翻訳・修正提案を作成し、送信する方法を説明します。
@@ -45,7 +36,3 @@ taxonomy:
 1. <b>リポジトリの同期:</b> 自分のアカウントの下にフォークしたリポジトリで、「Sync fork」をクリックして、ロストイン・ビットコインのリポジトリと同期します。
 ![](/_images/PR_how_to-sync.png)
 1. 初回作業の「ブランチの作成」から「プルリクエストの詳細を記入・送信」までを行います。
-
-
-### 著作権等について
-[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa)
