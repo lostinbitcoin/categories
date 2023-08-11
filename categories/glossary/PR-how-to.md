@@ -1,8 +1,8 @@
 ---
-title: 用語集の翻訳・修正提案プルリクエストの送り方
+title: GitHubでプルリクエストを送る方法
 ---
 
-*以下、[lostinbitcoin.jpの用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の翻訳・修正提案プルリクエストをGitHubで送る方法です。*<br>
+以下、[lostinbitcoin.jpの用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の翻訳・修正提案を例に、GitHubでプルリクエストを送る手順を説明します。<br>
 （[@akipponn](https://twitter.com/akipponn) さん、ガイド作成ありがとうございます。）
 
 <!--- コンテンツの意図や要約文（省略可） --->
