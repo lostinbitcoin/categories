@@ -2,7 +2,8 @@
 title: 用語集の翻訳・修正提案プルリクエストの送り方
 ---
 
-*以下、[lostinbitcoin.jpの用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の翻訳・修正提案プルリクエストをGitHubで送る方法です。[@akipponn](https://twitter.com/akipponn) さん、ガイド作成ありがとうございます。*
+*以下、[lostinbitcoin.jpの用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の翻訳・修正提案プルリクエストをGitHubで送る方法です。*<br>
+（[@akipponn](https://twitter.com/akipponn) さん、ガイド作成ありがとうございます。）
 
 <!--- コンテンツの意図や要約文（省略可） --->
 [lostinbitcoin.jpの用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の用語の訳文の変更履歴の管理には、プログラムのソースコードのバージョン管理に利用されることの多いGitHubを利用しています。本記事では、GitHub上で翻訳・修正提案を作成し、送信する方法を説明します。
