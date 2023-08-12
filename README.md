@@ -40,6 +40,9 @@ https://lostinbitcoin.jp/
 
 
 ## サイト改善にご協力ください
+
+*GitHubの使い方やPull Requestの投稿方法は[こちら](https://lostinbitcoin.jp/other/pr-how-to/)をご参照ください。*
+
 - 新規コンテンツ（記事）を提案したい - [Wiki](https://github.com/lostinbitcoin/categories/wiki)に掲載のテンプレートを使ってMarkdownファイルを作成し、Pull Requestを投稿してください
 - 新規コンテンツ（記事以外）を提案したい - Issueにて内容をご案内ください
 - 既存コンテンツ（記事）を修正したい - Pull Requestを投稿してください
