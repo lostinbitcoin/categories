@@ -1,12 +1,18 @@
 ---
 title: GitHubでプルリクエストを送る方法
+taxonomy:
+    category:<!--- wikiの「1-2-2. カテゴリ & サブカテゴリの一覧」から該当するものを選び、slugを入力（複数選択可） --->
+        - other
+    post_tag:<!--- wikiの「1-2-3. タグの一覧」から該当するものを選び、slugを入力（複数選択可） --->
+        - beginner
 ---
 
-以下、[lostinbitcoin.jpの用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の翻訳・修正提案を例に、GitHubでプルリクエストを送る手順を説明します。<br>
+## [用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の翻訳・修正提案を例に、GitHubでプルリクエストを送る手順を解説
+---
 （[@akipponn](https://twitter.com/akipponn) さん、ガイド作成ありがとうございます。）
 
 <!--- コンテンツの意図や要約文（省略可） --->
-[lostinbitcoin.jpの用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の用語の訳文の変更履歴の管理には、プログラムのソースコードのバージョン管理に利用されることの多いGitHubを利用しています。本記事では、GitHub上で翻訳・修正提案を作成し、送信する方法を説明します。
+[用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の用語の訳文の変更履歴の管理には、プログラムのソースコードのバージョン管理に利用されることの多いGitHubを利用しています。本記事では、GitHub上で翻訳・修正提案を作成し、送信する方法を説明します。
 
 ## 用語の説明
 はじめに、Git/GitHubの用語を説明します。
