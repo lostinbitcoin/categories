@@ -2,7 +2,7 @@
 title: GitHubでプルリクエストを送る方法
 taxonomy:
     category:<!--- wikiの「1-2-2. カテゴリ & サブカテゴリの一覧」から該当するものを選び、slugを入力（複数選択可） --->
-        - other
+        - tutorial
     post_tag:<!--- wikiの「1-2-3. タグの一覧」から該当するものを選び、slugを入力（複数選択可） --->
         - beginner
 ---
