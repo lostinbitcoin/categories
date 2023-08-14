@@ -33,20 +33,23 @@ https://lostinbitcoin.jp/
 ## フォーマット
 ### 記事
 拡張子mdのMarkdown形式に対応します。
-コンテンツの作成・提案にあたっては、Wikiに掲載のテンプレートをご利用ください。
+コンテンツの作成・提案にあたっては、[Wiki](https://github.com/lostinbitcoin/categories/wiki)に掲載のテンプレートをご利用ください。
 
 ### 画像
 対応拡張子: png, jpg, jpeg, gif, webp
 
 
 ## サイト改善にご協力ください
-- 新規コンテンツ（記事）を提案したい - Wikiに掲載のテンプレートを使ってMarkdownファイルを作成し、Pull Requestを投稿してください
+
+*GitHubの使い方やPull Requestの投稿方法は[こちら](https://lostinbitcoin.jp/other/pr-how-to/)をご参照ください。*
+
+- 新規コンテンツ（記事）を提案したい - [Wiki](https://github.com/lostinbitcoin/categories/wiki)に掲載のテンプレートを使ってMarkdownファイルを作成し、Pull Requestを投稿してください
 - 新規コンテンツ（記事以外）を提案したい - Issueにて内容をご案内ください
 - 既存コンテンツ（記事）を修正したい - Pull Requestを投稿してください
 - 既存コンテンツ（記事以外）を修正したい - Issueにて内容をご指摘ください
 - 機能追加を要望したい - Issueを投稿してください
 - その他 - Issueを投稿してください
 
-詳しくはWiki(TENTATIVE)をご参照ください。
+詳しくは[Wiki](https://github.com/lostinbitcoin/categories/wiki)(TENTATIVE)をご参照ください。
 
 

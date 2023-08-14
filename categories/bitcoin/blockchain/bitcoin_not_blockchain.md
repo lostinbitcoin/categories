@@ -14,10 +14,8 @@ taxonomy:
 |  ![Category](/_images/category.png)  |  ブロックチェーンはバズワード、ビットコインの基礎知識  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  22分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-<div class="text-reader">
-    <span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください。</span><br>
-    <button id="btn-readAloud" onclick="readAloud();">読み上げ開始 &#x25B6</button><button id="btn-deleteQueue" onclick="deleteQueue();">停止 &#x23F9</button>
-</div>
+<span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください</span>
+<table class="text-reader sticky"><tr><td class="td-btn1"><button id="btn-readAloud" onclick="readAloud();">読み上げ開始 ▶</button></td><td class="td-btn2"><button id="btn-deleteQueue" onclick="deleteQueue();">停止 ⏹</button></td><td><form name="form"><span>速度：</span><input type="range" name="rate" max="30" min="0" step="2.5" list="scale" value="10"><datalist id="scale"><option value="0"></option><option value="10"></option><option value="20"></option><option value="30"></option></datalist></form></td></tr></table>
 
 _本記事は [Unchained Capital](https://unchained.com/) の事業開発担当 [Parker Lewis](https://twitter.com/parkeralewis) 氏著「[Bitcoin, Not Blockchain](https://unchained.com/blog/bitcoin-not-blockchain/)」（2019年9月6日公開）を [@akipponn](https://twitter.com/akipponn) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。_
 

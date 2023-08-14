@@ -14,7 +14,7 @@ taxonomy:
 
 エルサルバドルがビットコインを法定通貨に採用する契機にもなったビットコイン循環経済実証実験 PJ ビットコインビーチの公式ウォレットを開発するGaloy。開発中は現地に住み、ユーザーのニーズとペインを直に吸い上げながら最適化したウォレットはコミュニティにしっかり定着。これまで銀行口座を開設できなかった住民に、ウォレットを介してさまざまな金融サービスを提供しています。
 
-*本記事は [@TerukoNeriki](https://twitter.com/TerukoNeriki) が2022年4月に[ビットコイン研究所](https://lounge.dmm.com/detail/828/)に寄稿、 [CoinPost](https://coinpost.jp/) に掲載されたものです。*
+*本記事は [@TerukoNeriki](https://twitter.com/TerukoNeriki) が2022年4月に[ビットコイン研究所](https://coinkeninfo.com/)に寄稿、 [CoinPost](https://coinpost.jp/) に掲載されたものです。*
 
 [![ビットコインが法定通貨になったエルサルバドルへ行ってみた｜体験記寄稿4 - CoinPost](/_images/galoy_interview.png)](https://coinpost.jp/?p=346521)
 
