@@ -5,12 +5,14 @@ taxonomy:
         - how-to
         - wallet
     post_tag:
-        - beginner
+        - intermediate
 ---
 
-## COLDCARD 初心者向けガイド
+## COLDCARD ユーザーガイド
 
-|  ![Category](/_images/category.png)  | LedgerやTrezorからのCOLDCARDへの移行 |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  10分  |
+<button class="zap-button" data-npub="npub1uyf6ghmjy8p8mnt8jhutgh4jtjvzn7euwjf4yvpwuzwan5jl8xysnvsmuw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+
+|  ![Category](/_images/category.png)  | LedgerやTrezorからのCOLDCARDへの移行 |  ![Tag](/_images/tag.png)  |  中級  | ![Time](/_images/timer.png)  |  20分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は [Coldcard 公式サイト](https://coldcard.com/)「[Migrate from Ledger or Trezor to COLDCARD](https://coldcard.com/docs/migrate-wallet)」を [@katakoto](https://twitter.com/katakoto)が翻訳、一部加筆したものです。*
@@ -23,11 +25,11 @@ taxonomy:
 
 **はじめに**
 
-コールドストレージをレベルアップして**COLDCARD®**に移行しよう！
+コールドストレージをレベルアップして **COLDCARD®**に移行しよう！
 
-このチュートリアルでは、Ledger または Trezor ハードウェアウォレット（移行元ウォレット）で生成されたウォレットのシードを、空の COLDCARD（移行先ウォレット）に保存する方法を説明します。
+このチュートリアルでは、Ledger または Trezor [ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)（移行元ウォレット）で生成された[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallets)の[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)を、空の COLDCARD（移行先ウォレット）に保存する方法を説明します。
 
-使用しているデバイスや、相談している相手によっては、ウォレットのシードの単語のことをリカバリーフレーズや、リカバリーシード、シードフレーズ、ニモニック、バックアップフレーズなどと呼んでいるかもしれません。そうしたシードの単語リストが、これからあなたのCOLDCARDに転送されるものです。
+使用しているデバイスや、相談している相手によっては、ウォレットのシードの単語のことをリカバリーフレーズや、リカバリーシード、シードフレーズ、[ニモニック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#mnemonic)、バックアップフレーズなどと呼んでいるかもしれません。そうしたシードの単語リストが、これからあなたのCOLDCARDに転送されるものです。
 
 **アルトコインはサポート対象外**
 
@@ -106,7 +108,7 @@ COLDCARDへの移行後、既存の[パスフレーズ](https://coldcard.com/doc
 
 COLDCARDのシードが設定されると、メインメニューのオプションが変更されます。
 
-PINが設定されていない新しいCOLDCARDをお持ちの場合は、[クイックスタートガイド](https://coldcard.com/docs/quick)の初期PINセクションまで従ってください。新しいウォレット(New Wallet)またはインポートセクション(Import Existing)に到達したら、このチュートリアルに戻ってください。新しいシードワードを選択*しないでください。*
+PINが設定されていない新しいCOLDCARDをお持ちの場合は、[クイックスタートガイド](https://coldcard.com/docs/quick)の初期PINセクションまで従ってください。新しいウォレット(New Wallet)またはインポートセクション(Import Existing)に到達したら、このチュートリアルに戻ってください。新しいシードワードを選択 *しないでください。*
 
 ### **シードワードリストを確認してください**
 
@@ -254,7 +256,7 @@ Sparrow Walletが初めての方は、[この記事を参考](https://lostinbitc
 
 ここでも見慣れないアドレス形式名が使われており困惑しますが、先ほどの表内の別名に注目すると自分のアドレスは**P2SH-P2WPKH**であることがわかります。
 
-**Nested Segwit (P2SH-P2WPKH)** を選択し、処理を進めるとウォレットが復元され、過去のトランザクション履歴やBitcoin残高も正しく表示されるようになるはずです。
+**Nested Segwit (P2SH-P2WPKH)** を選択し、処理を進めるとウォレットが復元され、過去の[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)履歴やBitcoin残高も正しく表示されるようになるはずです。
 
 Sparrow Walletを利用して、このままこのウォレットで送金のための署名を行うこともできます。
 
@@ -286,7 +288,7 @@ Sparrow Walletを利用して、このままこのウォレットで送金のた
 
 
 ![ColdCardMigrationGuide_5.jpg](/_images/ColdCardMigrationGuide_5.jpg)
-<figcaption>"おごらず謙虚に、Satoshiを積み重ねよ。" -MAT ODELL-</figcaption>
+<figcaption>"おごらず謙虚に、[Satoshi](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#satoshi)を積み重ねよ。" -MAT ODELL-</figcaption>
 
 
 
