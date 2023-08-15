@@ -27,7 +27,7 @@ taxonomy:
 
 コールドストレージをレベルアップして **COLDCARD®**に移行しよう！
 
-このチュートリアルでは、Ledger または Trezor [ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)（移行元ウォレット）で生成された[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallets)の[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)を、空の COLDCARD（移行先ウォレット）に保存する方法を説明します。
+このチュートリアルでは、Ledger または Trezor [ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)（移行元ウォレット）で生成された[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)の[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)を、空の COLDCARD（移行先ウォレット）に保存する方法を説明します。
 
 使用しているデバイスや、相談している相手によっては、ウォレットのシードの単語のことをリカバリーフレーズや、リカバリーシード、シードフレーズ、[ニモニック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#mnemonic)、バックアップフレーズなどと呼んでいるかもしれません。そうしたシードの単語リストが、これからあなたのCOLDCARDに転送されるものです。
 
@@ -244,7 +244,7 @@ COLDCARDが初めての場合は、簡単なトランザクションを試すに
 
 この記事内の**シードワードを入力する**を参考にCOLDCARDにシードワードを入力後、デバイスをSparrow Walletに接続します。
 
-Sparrow Walletが初めての方は、[この記事を参考](https://lostinbitcoin.jp/how-to/coldcardguide03-9/)に設定してください。
+Sparrow Walletが初めての方は、[この記事を参考](http://lostinbitcoin.jp.testrs/staging/how-to/coldcardguide03/)に設定してください。
 
 **“Import Keystore”** まで進んだ所で、アドレス形式を指定してあげます。▼をクリックすると3種類のアドレス形式が表示されます。
 
