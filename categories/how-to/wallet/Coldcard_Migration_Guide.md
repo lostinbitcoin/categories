@@ -244,7 +244,7 @@ COLDCARDが初めての場合は、簡単なトランザクションを試すに
 
 この記事内の**シードワードを入力する**を参考にCOLDCARDにシードワードを入力後、デバイスをSparrow Walletに接続します。
 
-Sparrow Walletが初めての方は、[この記事を参考](http://lostinbitcoin.jp.testrs/staging/how-to/coldcardguide03/)に設定してください。
+Sparrow Walletが初めての方は、[この記事を参考](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide03/)に設定してください。
 
 **“Import Keystore”** まで進んだ所で、アドレス形式を指定してあげます。▼をクリックすると3種類のアドレス形式が表示されます。
 
