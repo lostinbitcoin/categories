@@ -222,7 +222,7 @@ COLDCARDが初めての場合は、簡単なトランザクションを試すに
 
 実際、自分が使用していたTrezor Model Oneのデフォルトアドレスは、「３」から始まるレガシーSegwitという形式であったため、Coldcard移行後に正常に表示されない状況となりました。
 
-また解説記事内ではElectrumを利用した確認方法が解説されていますが、これまでの[lostinbitcoinでの解説記事](https://lostinbitcoin.jp/how-to/coldcardguide03/)を参考にしてColdcardを利用している方には、Sparrow Walletを利用した方がより簡単です。
+また解説記事内ではElectrumを利用した確認方法が解説されていますが、これまでの[lostinbitcoinでの解説記事](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide03/)を参考にしてColdcardを利用している方には、Sparrow Walletを利用した方がより簡単です。
 
 では、実際にやってみましょう。
 
