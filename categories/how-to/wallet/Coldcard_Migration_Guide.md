@@ -288,7 +288,7 @@ Sparrow Walletを利用して、このままこのウォレットで送金のた
 
 
 ![ColdCardMigrationGuide_5.jpg](/_images/ColdCardMigrationGuide_5.jpg)
-<figcaption>"おごらず謙虚に、[Satoshi](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#satoshi)を積み重ねよ。" -MAT ODELL-</figcaption>
+<figcaption>"おごらず謙虚に、[Satoshi](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#satoshi) を積み重ねよ。" -MAT ODELL-</figcaption>
 
 
 
