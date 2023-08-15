@@ -7,12 +7,12 @@ taxonomy:
         - beginner
 ---
 
-## [用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の翻訳・修正提案を例に、GitHubでプルリクエストを送る手順を解説
+## [用語集](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-index/)の翻訳・修正提案を例に、GitHubでプルリクエストを送る手順を解説
 ---
 （[@akipponn](https://twitter.com/akipponn) さん、ガイド作成ありがとうございます。）
 
 <!--- コンテンツの意図や要約文（省略可） --->
-[用語集](https://lostinbitcoin.jp/glossary/glossary-index/)の用語の訳文の変更履歴の管理には、プログラムのソースコードのバージョン管理に利用されることの多いGitHubを利用しています。本記事では、GitHub上で翻訳・修正提案を作成し、送信する方法を説明します。
+[用語集](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-index/)の用語の訳文の変更履歴の管理には、プログラムのソースコードのバージョン管理に利用されることの多いGitHubを利用しています。本記事では、GitHub上で翻訳・修正提案を作成し、送信する方法を説明します。
 
 ## 用語の説明
 はじめに、Git/GitHubの用語を説明します。
