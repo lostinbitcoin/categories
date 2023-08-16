@@ -1,5 +1,5 @@
 ---
-title: LedgerやTrezorからのCOLDCARDへの移行
+title: LedgerやTrezorからのCOLDCARDへの移行方法
 taxonomy:
     category:
         - how-to
@@ -8,20 +8,15 @@ taxonomy:
         - intermediate
 ---
 
-## COLDCARD ユーザーガイド
+## LedgerやTrezorからCOLDCARDに安全に確実に残高を移行するためのステップ バイ ステップ・ガイド
 
 <button class="zap-button" data-npub="npub1uyf6ghmjy8p8mnt8jhutgh4jtjvzn7euwjf4yvpwuzwan5jl8xysnvsmuw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
 
-|  ![Category](/_images/category.png)  | LedgerやTrezorからのCOLDCARDへの移行 |  ![Tag](/_images/tag.png)  |  中級  | ![Time](/_images/timer.png)  |  20分  |
+|  ![Category](/_images/category.png)  | ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  中級  | ![Time](/_images/timer.png)  |  20分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は [Coldcard 公式サイト](https://coldcard.com/)「[Migrate from Ledger or Trezor to COLDCARD](https://coldcard.com/docs/migrate-wallet)」を [@katakoto](https://twitter.com/katakoto)が翻訳、一部加筆したものです。*
 
-# ユーザーガイド
-
-## **LedgerやTrezorからのCOLDCARDへの移行**
-
-![ColdCardMigrationGuide_1.jpg](/_images/ColdCardMigrationGuide_1.jpg)
 
 **はじめに**
 
