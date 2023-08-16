@@ -1,5 +1,5 @@
 ---
-title: LedgerやTrezorからのCOLDCARDへの移行方法
+title: Ledger、TrezorからCOLDCARDへの移行方法
 taxonomy:
     category:
         - how-to
