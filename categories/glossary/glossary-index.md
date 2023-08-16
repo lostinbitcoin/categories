@@ -23,9 +23,9 @@ taxonomy:
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#address)|[イニシャル・ブロック・ダウンロード (IBD)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#ibd)|[インフレーション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#inflation)|
-|インフレーションヘッジ|ウォッチタワー|[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)|
-|オーファン (孤立) ブロック|[オフチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#off_chain)|[オンチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#on_chain)||
-|オラクル問題|||
+|[インフレーションヘッジ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#inflation_hedge)|[ウォッチタワー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#watchtower)|[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)|
+|[オーファン (孤立) ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#orphan_block)|[オフチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#off_chain)|[オンチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#on_chain)||
+|[オラクル問題](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#oracle_problem)|||
 
 ### <a id="ka"></a>[か](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#ka)
 |<!-- -->|<!-- -->|<!-- -->|
@@ -53,7 +53,7 @@ taxonomy:
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[耐久性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#durability)|代替性|大統領令6102号|
-|タイムロック|ダスト|ダスト攻撃|
+|タイムロック|[ダスト](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#dust)|ダスト攻撃|
 |タップルート|チェンジ・アウトプット|チェーン分析|
 |[匿名性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#anonymity)|導出パス|[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)|
 |[トランザクションID（TXID）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#txid)|||
@@ -114,9 +114,9 @@ taxonomy:
 |HODL|Howeyテスト|HTLC (ハッシュタイムロックコントラクト)|
 |Liquidネットワーク|LNURL|M-of-N|
 |MuSig|PTLC (ポイントタイムロックコントラクト)|RBF (Replace-By-Fee)|
-|SegWit|SHA-256|SPV|
-|UASF| [UTXO](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#utxo)|UTXOセット|
-|vByte|||
+|[Sat (Sats)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#sat)|SegWit|SHA-256|
+|SPV|UASF| [UTXO](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#utxo)|
+|UTXOセット|vByte||
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
