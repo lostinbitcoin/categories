@@ -8,6 +8,7 @@ taxonomy:
 ---
 
 ## Block社（旧Square）のTBDが発表した Web5 は、単なるWeb3のディスりなのか、それともガチの提案なのか？
+<button class="zap-button" data-npub="npub1xkym0yaewlz0qfghtt7hjtnu28fxaa5rk3wtcek9d3x3ft2ns3lq775few" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
 
 |  ![Category](/_images/category.png)  |  事例  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  10分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
