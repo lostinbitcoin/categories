@@ -18,10 +18,6 @@ taxonomy:
 <span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください</span>
 <table class="text-reader sticky"><tr><td class="td-btn1"><button id="btn-readAloud" onclick="readAloud();">読み上げ開始 ▶</button></td><td class="td-btn2"><button id="btn-deleteQueue" onclick="deleteQueue();">停止 ⏹</button></td><td><form name="form"><span>速度：</span><input type="range" name="rate" max="30" min="0" step="2.5" list="scale" value="10"><datalist id="scale"><option value="0"></option><option value="10"></option><option value="20"></option><option value="30"></option></datalist></form></td></tr></table>
 
-<!--- Zap Me ボタンの設置 --->
-<!--- data-npub="～" の値をコンテンツクリエイターのnostr pubkeyに置き換えてください --->
-<!--- data-relays="～" の箇所は削除しないでください --->
-<!--- コンテンツクリエイターが複数いる場合は、1人につき1行を追加してください --->
 <button class="zap-button" data-npub="npub15f24f0q5vcgfw2j6dmukgvjg2x3yg99t5kaepqxsq5zywcy72k7sd8x05m" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
 
 *本記事は2022年8月6日に[Lyn Alden](https://twitter.com/LynAldenContact) 氏が発表した「[A Look At the Lightning Network](https://www.swanbitcoin.com/a-look-at-the-lightning-network/)」を[@slashweb3_mk](https://twitter.com/slashweb3_mk) さんが翻訳、[@Haruko_Maruyama](https://twitter.com/Haruko_Maruyama) さんが一部加筆修正したものです。*
