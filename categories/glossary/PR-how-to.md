@@ -10,10 +10,6 @@ taxonomy:
 ## [用語集](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-index/)の翻訳・修正提案を例に、GitHubでプルリクエストを送る手順を解説
 ---
 
-<!--- Zap Me ボタンの設置 --->
-<!--- data-npub="～" の値をコンテンツクリエイターのnostr pubkeyに置き換えてください --->
-<!--- data-relays="～" の箇所は削除しないでください --->
-<!--- コンテンツクリエイターが複数いる場合は、1人につき1行を追加してください --->
 <button class="zap-button" data-npub="npub17d7ham6ucsm2yxuwa9k9th49d44lfa50uk2fq0v2p0jxs2npnyxsaxxt59" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
 
 （[@akipponn](https://twitter.com/akipponn) さん、ガイド作成ありがとうございます。）
