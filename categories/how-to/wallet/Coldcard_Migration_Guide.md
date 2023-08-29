@@ -1,5 +1,5 @@
 ---
-title: LedgerやTrezorからのCOLDCARDへの移行
+title: Ledger、TrezorからCOLDCARDへの移行方法
 taxonomy:
     category:
         - how-to
@@ -8,26 +8,21 @@ taxonomy:
         - intermediate
 ---
 
-## COLDCARD ユーザーガイド
+## LedgerやTrezorからCOLDCARDに安全に確実に残高を移行するためのステップ バイ ステップ・ガイド
 
 <button class="zap-button" data-npub="npub1uyf6ghmjy8p8mnt8jhutgh4jtjvzn7euwjf4yvpwuzwan5jl8xysnvsmuw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
 
-|  ![Category](/_images/category.png)  | LedgerやTrezorからのCOLDCARDへの移行 |  ![Tag](/_images/tag.png)  |  中級  | ![Time](/_images/timer.png)  |  20分  |
+|  ![Category](/_images/category.png)  | ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  中級  | ![Time](/_images/timer.png)  |  20分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は [Coldcard 公式サイト](https://coldcard.com/)「[Migrate from Ledger or Trezor to COLDCARD](https://coldcard.com/docs/migrate-wallet)」を [@katakoto](https://twitter.com/katakoto)が翻訳、一部加筆したものです。*
 
-# ユーザーガイド
-
-## **LedgerやTrezorからのCOLDCARDへの移行**
-
-![ColdCardMigrationGuide_1.jpg](/_images/ColdCardMigrationGuide_1.jpg)
 
 **はじめに**
 
 コールドストレージをレベルアップして **COLDCARD®**に移行しよう！
 
-このチュートリアルでは、Ledger または Trezor [ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)（移行元ウォレット）で生成された[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallets)の[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)を、空の COLDCARD（移行先ウォレット）に保存する方法を説明します。
+このチュートリアルでは、Ledger または Trezor [ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)（移行元ウォレット）で生成された[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)の[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)を、空の COLDCARD（移行先ウォレット）に保存する方法を説明します。
 
 使用しているデバイスや、相談している相手によっては、ウォレットのシードの単語のことをリカバリーフレーズや、リカバリーシード、シードフレーズ、[ニモニック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#mnemonic)、バックアップフレーズなどと呼んでいるかもしれません。そうしたシードの単語リストが、これからあなたのCOLDCARDに転送されるものです。
 
@@ -222,7 +217,7 @@ COLDCARDが初めての場合は、簡単なトランザクションを試すに
 
 実際、自分が使用していたTrezor Model Oneのデフォルトアドレスは、「３」から始まるレガシーSegwitという形式であったため、Coldcard移行後に正常に表示されない状況となりました。
 
-また解説記事内ではElectrumを利用した確認方法が解説されていますが、これまでの[lostinbitcoinでの解説記事](https://lostinbitcoin.jp/how-to/coldcardguide03/)を参考にしてColdcardを利用している方には、Sparrow Walletを利用した方がより簡単です。
+また解説記事内ではElectrumを利用した確認方法が解説されていますが、これまでの[lostinbitcoinでの解説記事](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide03/)を参考にしてColdcardを利用している方には、Sparrow Walletを利用した方がより簡単です。
 
 では、実際にやってみましょう。
 
@@ -244,7 +239,7 @@ COLDCARDが初めての場合は、簡単なトランザクションを試すに
 
 この記事内の**シードワードを入力する**を参考にCOLDCARDにシードワードを入力後、デバイスをSparrow Walletに接続します。
 
-Sparrow Walletが初めての方は、[この記事を参考](https://lostinbitcoin.jp/how-to/coldcardguide03-9/)に設定してください。
+Sparrow Walletが初めての方は、[この記事を参考](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide03/)に設定してください。
 
 **“Import Keystore”** まで進んだ所で、アドレス形式を指定してあげます。▼をクリックすると3種類のアドレス形式が表示されます。
 
