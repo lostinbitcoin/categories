@@ -1,5 +1,5 @@
 ---
-title: ビットコインマイニング基礎講座④〜ビットコインが温室効果ガス、メタンの排出量を削減？？
+title: ビットコインマイニング基礎講座④〜ビットコインが温室効果ガス、メタンの排出量を削減？
 taxonomy:
     category:
         - bitcoin
@@ -16,9 +16,9 @@ taxonomy:
 |  ![Category](/_images/category.png)  |  ビットコインとエネルギー・環境問題、ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  1分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本記事は [@Dennis_Porter_](https://twitter.com/Dennis_Porter_) 氏著「 [How Can Bitcoin Mining Reduce Methane　Emissions?](https://www.satoshiaction.io/post/how-can-bitcoin-mining-reduce-methane-emissions) 」（2022年12月5日公開）を [@fuuuumin](https://twitter.com/fuuuumin314) さんが翻訳、  [@TerukoNeriki](https://twitter.com/TerukoNeriki) が 一部加筆修正したものです。*
+*本記事は [@Dennis_Porter_](https://twitter.com/Dennis_Porter_) 氏著「 [How Can Bitcoin Mining Reduce Methane Emissions?](https://www.satoshiaction.io/post/how-can-bitcoin-mining-reduce-methane-emissions) 」（2022年12月5日公開）を [@fuuuumin](https://twitter.com/fuuuumin314) さんが翻訳、  [@TerukoNeriki](https://twitter.com/TerukoNeriki) が 一部加筆修正したものです。*
 
-[ビットコインマイニング](https://lostinbitcoin.jp/glossary/glossary-ma/#mining)は、大量の電力を消費するプロセスです。実際、ビットコインマイニング事業者の経費の約90%が電気代です。このため、ビットコインマイナーは常に最安電力を探しています。メタンは貴重なエネルギー資源でありながら、輸送インフラ構築などのコストに見合わないために有効活用されていません。ビットコインマイナーは、座礁資源と化したメタンで発電すれば、電気代を著しく削減できる可能性があります。また、通常メタンはフレアリングと呼ばれる燃焼工程を経て大気中に放出されますが、これにはコストがかかる上、メタン排出削減効果は十分でなく、環境負荷が懸念されています。
+[ビットコインマイニング](https://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ma/#mining)は、大量の電力を消費するプロセスです。実際、ビットコインマイニング事業者の経費の約90%が電気代です。このため、ビットコインマイナーは常に最安電力を探しています。メタンは貴重なエネルギー資源でありながら、輸送インフラ構築などのコストに見合わないために有効活用されていません。ビットコインマイナーは、座礁資源と化したメタンで発電すれば、電気代を著しく削減できる可能性があります。また、通常メタンはフレアリングと呼ばれる燃焼工程を経て大気中に放出されますが、これにはコストがかかる上、メタン排出削減効果は十分でなく、環境負荷が懸念されています。
 
 メタンは、主に農畜産、化石燃料、ゴミ・排水処理など廃棄物などの産業で排出される強力な温室効果ガスです。大気中に放出されたメタンは、地球の放熱を妨げ、地球温暖化や気候変動を引き起こします。大気中のメタン平均濃度は、工業化の進行で加速度的に上昇しました。メタン排出量の削減は、気候変動問題に対処する上で非常に重要です。また、放出されたメタンが地中に浸透すると、地下水を汚染する可能性もあります。
 
