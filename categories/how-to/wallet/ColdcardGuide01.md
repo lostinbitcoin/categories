@@ -29,7 +29,7 @@ SATOSHILABS社の[Trezor](https://trezor.io/)？それともフランスLedger�
 
 ![](/_images/ColdcardGuide01_2.jpg)
 
-同社が作る製品の中には、元Twitter社CEOのジャック・ドーシー氏の米SNS公聴会動画の背後に写り込んでいて有名になった[Blockclock](https://blockclockmini.com/)（リアルタイムにビットコイン価格や[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block)高などを表示するビットコイン時計）などもあります。
+同社が作る製品の中には、元Twitter社CEOのジャック・ドーシー氏の米SNS公聴会動画の背後に写り込んでいて有名になった[Blockclock](https://blockclockmini.com/)（リアルタイムにビットコイン価格や[ブロック高](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_height)などを表示するビットコイン時計）などもあります。
 
 ![](/_images/ColdcardGuide01_3.png)
 
