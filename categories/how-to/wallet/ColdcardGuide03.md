@@ -17,9 +17,9 @@ taxonomy:
 
 ![ColdCardGuide03_1.JPG](/_images/ColdCardGuide03_1.jpg)
 
-さあ前回の[購入編](https://lostinbitcoin.jp/how-to/coldcardguide02/)を経て、皆さまの手元に無事COLDCARDが届きましたでしょうか。
+さあ前回の[購入編](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide02/)を経て、皆さまの手元に無事COLDCARDが届きましたでしょうか。
 
-今回は実際にCOLDCARDをセットアップして、ビットコインの受け取り、送金までを解説したいと思います。
+今回は実際にCOLDCARDをセットアップして、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)の受け取り、送金までを解説したいと思います。
 
 COLDCARDの一番の売りとして、日常的な操作において本体をパソコンやインターネットに直接接続することなく利用できる**”エアギャップ”運用**がありますが、今回の記事では、一番手軽なUSB-Cケーブルを用いた方法で説明します。Mk4では下記の4通りの方法での外界との接続が可能ですので、興味のある方はぜひ挑戦してみてください。
 
@@ -48,7 +48,7 @@ COLDCARDは味気ないほどの簡易包装であなたの元に届いたかと
 ![ColdCardGuide03_4.jpg](/_images/ColdCardGuide03_4.jpg)
 
 - COLDCARD本体＋プラスチック・カバー
-- ウォレットバックアップカード
+- [ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)バックアップカード
 - ステッカー×２
 
 この他に、出荷直前に袋から切り離して同梱されたプラスチック袋の切れ端が入っているはずです。ここに印刷されているシリアルナンバーが、袋表面に表示してあるシリアルナンバーと同じであることを確認してください。（この番号は、あとでまた本体の確認でも使います。）よりパラノイドな人は、袋と切れ端のミシン目が一致するのを確かめると良いそうです。
@@ -88,7 +88,7 @@ USB-タイプCケーブルをCOLDCARD上部に接続し、USB側をパソコン�
 
 ### ファームウェア・アップグレード
 
-次は、ファームウェアのアップグレードを行います。COLDCARDに限らずハードウェアウォレットの購入直後には、必ず行うことを推奨します。万が一、入手経路段階でファームウェアにマルウェアなどを仕込まれていた場合でも、公式から最新版のファームウェアを取得しアップグレードすることで、クラッカーによる攻撃を無効化することができます。
+次は、ファームウェアのアップグレードを行います。COLDCARDに限らず[ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)の購入直後には、必ず行うことを推奨します。万が一、入手経路段階でファームウェアにマルウェアなどを仕込まれていた場合でも、公式から最新版のファームウェアを取得しアップグレードすることで、クラッカーによる攻撃を無効化することができます。
 
 また、製品出荷後に発見された脆弱性などにもバグフィックスがなされている場合も多いので、面倒くさがらずに行いましょう。
 
@@ -197,7 +197,7 @@ PINの設定が終わり、ついに待ちに待ったBitcoinウォレットの�
 
 この時点でCOLDCARDはまだ空っぽで、ウォレットとしては機能していません。
 
-つまりPINとアンチ・フィッシングワードは、この後にウォレットを作成するために登場する**24個の英単語（シードフレーズ）**とは、一切何の関係もない独立した情報であるのを頭に入れておいてください。
+つまりPINとアンチ・フィッシングワードは、この後にウォレットを作成するために登場する**24個の英単語（[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)フレーズ）**とは、一切何の関係もない独立した情報であるのを頭に入れておいてください。
 
 では、始めましょう。
 
@@ -239,7 +239,7 @@ PINの設定が終わり、ついに待ちに待ったBitcoinウォレットの�
 
 お気づきでしょうか。この時点まであなたのCOLDCARDはまだ一度もインターネットに触れていないことに。Bitcoinのウォレットを使い始めるのには、Bitcoinネットワークどころかインターネットにすら接続する必要がないのです。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「ユーザーのウォレット内のデジタルキーは、ビットコインのプロトコルから完全に独立しており、ソフトウェアによりブロックチェーンやネットへのアクセスなしに生成、管理が可能である。」<a href="[https://t.co/HxCJ6G5YzI](https://t.co/HxCJ6G5YzI)">[https://t.co/HxCJ6G5YzI](https://t.co/HxCJ6G5YzI)</a> <a href="[https://t.co/Djr0V4WCzl](https://t.co/Djr0V4WCzl)">[pic.twitter.com/Djr0V4WCzl](http://pic.twitter.com/Djr0V4WCzl)</a></p>— aantonop_quotes (@AantonopQuotes) <a href="[https://twitter.com/AantonopQuotes/status/1335446800363220994?ref_src=twsrc^tfw](https://twitter.com/AantonopQuotes/status/1335446800363220994?ref_src=twsrc%5Etfw)">December 6, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「ユーザーのウォレット内のデジタルキーは、ビットコインの[プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#protocol)から完全に独立しており、ソフトウェアにより[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#blockchain)やネットへのアクセスなしに生成、管理が可能である。」<a href="[https://t.co/HxCJ6G5YzI](https://t.co/HxCJ6G5YzI)">[https://t.co/HxCJ6G5YzI](https://t.co/HxCJ6G5YzI)</a> <a href="[https://t.co/Djr0V4WCzl](https://t.co/Djr0V4WCzl)">[pic.twitter.com/Djr0V4WCzl](http://pic.twitter.com/Djr0V4WCzl)</a></p>— aantonop_quotes (@AantonopQuotes) <a href="[https://twitter.com/AantonopQuotes/status/1335446800363220994?ref_src=twsrc^tfw](https://twitter.com/AantonopQuotes/status/1335446800363220994?ref_src=twsrc%5Etfw)">December 6, 2020</a></blockquote>
 
 実際、Bitcoinを受け取るだけであれば、COLDCARDに表示したQRコードを相手にスキャンしてもらうだけで済みます。それでもやはり実際にBitcoinを送金したり、ウォレット内の残高確認にはネットワークに接続する必要があり、そのためのインターフェースとしてBitcoinエコシステムにはCOLDCARDに対応した様々なソフトウェアが存在しています。
 
@@ -265,7 +265,7 @@ PINの設定が終わり、ついに待ちに待ったBitcoinウォレットの�
 ここから先の数画面では、Bitcoinネットワークへどのようにして接続するかの説明がなされています。これも自身のレベルやプライバシー要求に合わせて選びましょう。選択できるのは下記、3つのオプションからです。下に行くほど自分の情報を外部に漏らさない、プライバシー優先の選択になります。
 
 - パブリック・サーバー・・・企業・団体が公開しているサーバー
-- ビットコイン・コアノード・・・自分が運用してるBitcoin Coreノード
+- ビットコイン・コアノード・・・自分が運用してるBitcoin Core[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#node)
 - プライベートElectrumサーバー・・・自分が運用しているElectrumサーバー
 
 **“Next”**を押して説明画面を先に進めていきましょう。
@@ -308,7 +308,7 @@ COLDCARDがスキャンされ、情報の読み込みが正しく完了すると
 
 **“Apply”**（適用する）をクリックして、COLDCARDから情報を取り込みましょう。
 
-※この際に取り込まれるのは**XPUB**と呼ばれる情報のみです。秘密鍵は一切、外部に伝わることはないので安心してください。
+※この際に取り込まれるのは**XPUB**と呼ばれる情報のみです。[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#private_key)は一切、外部に伝わることはないので安心してください。
 
 ![ColdCardGuide03_34.png](/_images/ColdCardGuide03_34.png)
 
@@ -322,7 +322,7 @@ Sparrow Walletのデフォルトでは、米ドルでビットコインの目安
 
 ### ビットコインを受け取る
 
-今後ビットコインを受け取るには、もうこの段階からCOLDCARDをSparrow Walletに接続する必要はありません。これから一生かかっても使いきれないであろう無限のビットコインアドレスが既にあなたのものです。”無限”は言い過ぎました。86億個のビットコインアドレスが今やあなたのものになりました。
+今後ビットコインを受け取るには、もうこの段階からCOLDCARDをSparrow Walletに接続する必要はありません。これから一生かかっても使いきれないであろう無限のビットコイン[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#address)が既にあなたのものです。”無限”は言い過ぎました。86億個のビットコインアドレスが今やあなたのものになりました。
 
 あらゆる取引が全て公開台帳に記録されるビットコイン・ネットワークにおいて、アドレスの使いまわしはプライバシーの観点から推奨されません。毎回、思う存分新しいアドレスを使って取引を行いましょう。
 
@@ -338,7 +338,7 @@ Sparrow Walletのデフォルトでは、米ドルでビットコインの目安
 
 ### ビットコインを送金する
 
-受け取る時と違って、ビットコインを他のアドレス宛に送金する際には、毎回COLDCARDの接続が必要になります。なぜならビットコインの送金には、必ずそのトランザクションにGOサインを出すための”署名”が必要であり、その”署名”には秘密鍵が必要になるからです。
+受け取る時と違って、ビットコインを他のアドレス宛に送金する際には、毎回COLDCARDの接続が必要になります。なぜならビットコインの送金には、必ずその[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)にGOサインを出すための”署名”が必要であり、その”署名”には秘密鍵が必要になるからです。
 
 そしてCOLDCARDにおいて秘密鍵は、本体の機密情報保護チップ内に保存されており、ユーザーが意図的に漏らさない限り、外の世界に知られることはありません。
 
@@ -358,7 +358,7 @@ Sparrow Walletのデフォルトでは、米ドルでビットコインの目安
 - ”Label”に記録用のラベル名
 - ”Amount”に送金金額
 
-をそれぞれ入力します。Bitcoinの単位はBTCかSats（1 sats=0.00000001 BTC）から選択できます。
+をそれぞれ入力します。Bitcoinの単位はBTCか[Sat](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#sat)（1 sats=0.00000001 BTC）から選択できます。
 
 ちょうどこの記事の執筆中に、ビットコインのプロジェクト開発者として有名な[**Joe Miyamoto**](https://twitter.com/joemphilips)氏が、昭和のかほり感じさせる替え歌でドネーションを欲してらっしゃいましたので、さっそくこのアドレス宛にビットコインを送り付けてみましょう。
 
@@ -368,7 +368,7 @@ Web3、NFT、DAO、そんな空虚なバズワードを掲げていれば、見�
 
 ![ColdCardGuide03_40.png](/_images/ColdCardGuide03_40.png)
 
-送金にかかる費用を設定する**Fee**（手数料）項目では、Rangeをスライドさせて手動で費用を設定できます。最近のビットコインネットワークはあまり混雑することなく空いているので、時間に余裕がある方は、ぜひ最小設定の1stas送金を試してみてください。この例では送金手数料約4.58円にて、1時間以内には着金しています。
+送金にかかる費用を設定する**Fee**（手数料）項目では、Rangeをスライドさせて手動で費用を設定できます。最近のビットコインネットワークはあまり混雑することなく空いているので、時間に余裕がある方は、ぜひ最小設定の1stas送金を試してみてください。この例では[送金手数料](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#transaction_fee)約4.58円にて、1時間以内には着金しています。
 
 **“Create Transaction”**（トランザクションの作成）をクリックして次に進みます。
 
@@ -398,7 +398,7 @@ Web3、NFT、DAO、そんな空虚なバズワードを掲げていれば、見�
 
 おめでとうございます。あなたの送金トランザクションが無事、ビットコインネットワークに送信されました。
 
-**Txid**（トランザクションID）をブロック・エクスプローラーにコピペして検索すれば、現在の送金ステータスを確認することが可能です。
+**Txid**（[トランザクションID](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#txid)）を[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block)・エクスプローラーにコピペして検索すれば、現在の送金ステータスを確認することが可能です。
 
 ![ColdCardGuide03_46.png](/_images/ColdCardGuide03_46.png)
 
@@ -418,9 +418,9 @@ Web3、NFT、DAO、そんな空虚なバズワードを掲げていれば、見�
 万が一COLDCARDが盗まれた or 壊れた場合、私のビットコインはどうなるの？
 
 
-次回は、この辺りの不安を徹底的に解消すべく[「COLDCARDバックアップ・リカバリ編」](https://lostinbitcoin.jp/how-to/coldcardguide04/)をお届けします。あなたのビットコインのセキュリティをもうワンレイヤーアップさせる"パスフレーズ"に関してもお話します。
+次回は、この辺りの不安を徹底的に解消すべく[「COLDCARDバックアップ・リカバリ編」](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide04/)をお届けします。あなたのビットコインのセキュリティをもうワンレイヤーアップさせる"パスフレーズ"に関してもお話します。
 
 ![ColdCardGuide03_49.jpg](/_images/ColdCardGuide03_49.jpg)
 
 ***
-[利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
+[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa)
