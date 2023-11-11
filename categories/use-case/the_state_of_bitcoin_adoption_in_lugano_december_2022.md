@@ -12,7 +12,7 @@ taxonomy:
 
 <button class="zap-button" data-npub="npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
 
-|  ![ライトニング 事例](/_images/category.png)  | 事例、ライトニング |  ![初級](/_images/tag.png)  | 初級 | ![12](/_images/timer.png)  | 16分  |
+|  ![Category](/_images/category.png)  | 事例、ライトニング |  ![Tag](/_images/tag.png)  | 初級 | ![Time](/_images/timer.png)  | 16分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 *本記事は [@Mars](https://twitter.com/Il_Mars_) 氏が執筆した "[The State of Bitcoin Adoption in Lugano — December 2022](https://medium.com/@Il_Mars_/the-state-of-bitcoin-adoption-in-lugano-december-2022-ce30aec530a6)" (2021年12月14日公開) を  [@yutaro](https://twitter.com/yutaro21jp) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
