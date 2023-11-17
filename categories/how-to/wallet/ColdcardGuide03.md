@@ -10,6 +10,8 @@ taxonomy:
 
 ## COLDCARDをセットアップして基本的な使い方を覚えよう！
 
+<button class="zap-button" data-npub="npub1uyf6ghmjy8p8mnt8jhutgh4jtjvzn7euwjf4yvpwuzwan5jl8xysnvsmuw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  25分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
@@ -420,7 +422,7 @@ Web3、NFT、DAO、そんな空虚なバズワードを掲げていれば、見�
 
 次回は、この辺りの不安を徹底的に解消すべく[「COLDCARDバックアップ・リカバリ編」](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide04/)をお届けします。あなたのビットコインのセキュリティをもうワンレイヤーアップさせる"パスフレーズ"に関してもお話します。
 
-![ColdCardGuide03_49.jpg](/_images/ColdCardGuide03_49.jpg)
+![ColdcardGuide04_12](/_images/ColdcardGuide04_12.jpg)
 
 ***
 [利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa)

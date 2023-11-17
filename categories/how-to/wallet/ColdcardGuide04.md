@@ -10,6 +10,8 @@ taxonomy:
 
 ## COLDCARDをセットアップして基本的な使い方を覚えよう！
 
+<button class="zap-button" data-npub="npub1uyf6ghmjy8p8mnt8jhutgh4jtjvzn7euwjf4yvpwuzwan5jl8xysnvsmuw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  25分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
@@ -366,6 +368,9 @@ Source：[https://www.sendaitansu.jp/SHOP/kc108.html](https://www.sendaitansu.jp
 Bitcoinによる革新は、仲介者を排除し、人と人とを直接結び付けた価値交換を可能にした点にあります。その革新を巻き戻して再度、あなたと私の間に入り込もうとする人々・サービスを、それこそ容易にトラストしないようにしましょう。彼らは、そもそも、必要がない。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「(クリプトの)自己保管を試みた人の99％が、資産を失うことになるという発言は、相対的リスクに対する重大で無責任な誤った決めつけである。<br><br>自分の富を知恵や専門知識と勘違いするのはやめて頂きたい。」<a href="https://twitter.com/hashtag/NotYourKeysNotYourCoins?src=hash&amp;ref_src=twsrc%5Etfw">#NotYourKeysNotYourCoins</a> <a href="https://t.co/W0d9lnCQAy">https://t.co/W0d9lnCQAy</a></p>&mdash; aantonop_quotes (@AantonopQuotes) <a href="https://twitter.com/AantonopQuotes/status/1603593132066902016?ref_src=twsrc%5Etfw">December 16, 2022</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">俺これ本人が「悪意ある切り取り。文脈を加味して」とか言ってるから、聞きたくもないのにAMA全部聞いたからな<br><br>ズレなく&quot;99%&quot;言ってるからな<br><br>もっと言うなら「NFTの将来性は？」に<br><br>「将来なんかもっとすごい事に使える。今はJPEGを売るだけだけど」<br><br>みたいな日本の情報商材屋と同じレベルだからな <a href="https://t.co/WESnbPISz4">https://t.co/WESnbPISz4</a></p>&mdash; katakoto (@katakoto) <a href="https://twitter.com/katakoto/status/1603979874414530560?ref_src=twsrc%5Etfw">December 17, 2022</a></blockquote>
+
 
 通算4回に渡ってCOLDCARDの魅力をお伝えしてきたこの連載も、とりあえず今回でおしまいです。
 
