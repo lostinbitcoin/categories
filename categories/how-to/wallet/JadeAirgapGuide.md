@@ -202,12 +202,12 @@ Jade本体で承認（☑を選択）すると、本体は自動的にアップ�
 - パスフレーズを設定するかどうかの確認画面です。設定する場合は「Yes」を選択。
 
 > Add BIP39 passphrase? You will need this to access your funds.
-[BIP39](https://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#bip39)パスフレーズを追加しますか？自身の資金にアクセスする際に必要になります。
+[BIP39](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#bip39)パスフレーズを追加しますか？自身の資金にアクセスする際に必要になります。
 >
 
 現状では、QRコードを他の誰かにスキャンされてしまうとあなたの資金はすぐに盗まれてしまう状態にありますが、「パスフレーズ」を設定することでそうした事態を防ぐことができます。
 
-パスフレーズに関する詳しい解説は、過去の[こちらの記事](https://lostinbitcoin.jp/how-to/coldcardguide04/)をお読みください。
+パスフレーズに関する詳しい解説は、過去の[こちらの記事](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide04/)をお読みください。
 
 ![JadeAirgapGuide_021](/_images/JadeAirgapGuide_021.png)
 
@@ -421,7 +421,7 @@ Bitcoinの受け取りはとても簡単です。ウォレット名をクリッ�
 
 毎回、同じ結論になりますが、Jadeを利用したビットコイン保管においても、初期設定時にメモした12単語(シードフレーズ)の保管方法が、資産防衛のための最重要ポイントになります。
 
-あわせて読みたい：[ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう④～バックアップ＆リカバリ編～](https://lostinbitcoin.jp/how-to/coldcardguide04/)
+あわせて読みたい：[ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう④～バックアップ＆リカバリ編～](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide04/)
 
 このセットアップでは、秘密鍵自体が一切デバイスに残らないため、このシードフレーズのオフライン管理は、なおのこと重要になります。
 
