@@ -65,13 +65,13 @@ BlockFi: 暗号通貨レンディング大手。2022年11月20日に米国で破
 
 ## BlockStream社製ハードウェウォレット「Jade」
 
-BlockStream社の創業者アダム・バック博士は、その後のサトシ・ナカモトによるBitcoinの[ホワイトペーパー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#whitepaper)にも引用されているHashcashの発案者として有名な暗号学者であり、同社は[Bitcoin Core](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin_core)への多大な貢献でも知られているBitcoin企業です。
+BlockStream社の創業者アダム・バック博士は、サトシ・ナカモトによるBitcoinの[ホワイトペーパー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#whitepaper)にも引用されているHashcashの発案者として有名な暗号学者であり、同社は[Bitcoin Core](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin_core)への多大な貢献でも知られているBitcoin企業です。
 
-そんな同社が開発したBitcoin用ハードウェウォレット「Jade」は、セキュリティと使いやすさにも定評がある上に、ソフトウェアは完全にオープンソース化されており、世界中のビットコイナーの目が常に **”Dont’ trust, verify.”**(信用するな、検証しろ)の目を光らせています。
+そんな同社が開発したBitcoin用ハードウェウォレット「Jade」は、セキュリティと使いやすさにも定評がある上に、ソフトウェアは完全にオープンソース化されており、世界中のビットコイナーが常に **”Dont’ trust, verify.”**(信用するな、検証しろ)の目を光らせています。
 
 デバイスは、小さいながらもカラー液晶ディスプレイとQRスキャン用カメラを備えているのが特徴で、今回の記事で紹介する **「Jade完全エアギャップBitcoin[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)」** も、この内蔵カメラをフル活用した方法となっています。
 
-このガイドでは、海外のビットコインエデュケーターとして著名な@BTC Sessions/Ben氏のご快諾の元、解説動画「[Unlocking ULTIMATE Security: Air-Gapped Bitcoin Transactions with Blockstream Jade!](https://youtu.be/XVKsaPCe260?si=4Zd0jl_HC-_iJr0H)」を参考に、サムネ画像入りで詳しく解説していきます。
+このガイドでは、海外のビットコインエデュケーターとして著名な[@BTC Sessions/Ben](https://twitter.com/BTCsessions)氏のご快諾の元、解説動画「[Unlocking ULTIMATE Security: Air-Gapped Bitcoin Transactions with Blockstream Jade!](https://youtu.be/XVKsaPCe260?si=4Zd0jl_HC-_iJr0H)」を参考に、サムネ画像入りで詳しく解説していきます。
 
 ![JadeAirgapGuide_001](/_images/JadeAirgapGuide_001.png)
 
@@ -314,7 +314,23 @@ Jade本体で承認（☑を選択）すると、本体は自動的にアップ�
 
 ![JadeAirgapGuide_043](/_images/JadeAirgapGuide_043.png)
 
-Bitcoinの受け取りはとても簡単です。ウォレット名をクリックすれば、いつでもウォレットに紐づく新たなアドレスが表示されます。
+Bitcoinの受け取りはとても簡単です。
+
+![JadeAirgapGuide_061](/_images/JadeAirgapGuide_061.png)
+
+ウォレット名をクリックして「Recieve」(受け取り)をクリックすれば、いつでもウォレットに紐づく新たなアドレスが表示されます。
+
+アドレスが本当にこのシードフレーズから生成されたものなのか心配で確認したい方はJadeを使ってVerify(検証)することもできます。
+
+![JadeAirgapGuide_062](/_images/JadeAirgapGuide_062.png)
+
+ウォレットにログインしている状態で「Scan QR」を選択して、確認したいアドレスのQRをスキャンしてください。
+
+![JadeAirgapGuide_063](/_images/JadeAirgapGuide_063.png)
+
+アドレスが表示されるので☑を選択すれば「Adress verified」(アドレス検証済)と表示され、自身のアドレスであることが確認できます。
+
+
 
 ## エアギャップ・トランザクションによるBitcoin送金
 
