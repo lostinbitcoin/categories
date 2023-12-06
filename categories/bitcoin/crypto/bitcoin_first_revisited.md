@@ -1,5 +1,5 @@
 ---
-title: ビットコイン・ファースト 再検証
+title: ビットコイン・ファースト 再検証 \[オーディオ記事\]
 taxonomy:
     category:
         - bitcoin
@@ -18,12 +18,15 @@ taxonomy:
 |  ![Category](/_images/category.png)  | ビットコイン ≠ クリプト |  ![Tag](/_images/tag.png)  | 初級、経済 | ![Time](/_images/timer.png)  | 30分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
+<span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください</span>
+<table class="text-reader sticky"><tr><td class="td-btn1"><button id="btn-readAloud" onclick="readAloud();">読み上げ開始 ▶</button></td><td class="td-btn2"><button id="btn-deleteQueue" onclick="deleteQueue();">停止 ⏹</button></td><td><form name="form"><span>速度：</span><input type="range" name="rate" max="30" min="0" step="2.5" list="scale" value="10"><datalist id="scale"><option value="0"></option><option value="10"></option><option value="20"></option><option value="30"></option></datalist></form></td></tr></table>
+
 *本レポートは2023年9月にFidelity Digital Assets社が公開した「 [Bitcoin First Revisited](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited) 」を[@btceth37](https://twitter.com/btceth37) さんが翻訳、[@TerukoNeriki](https://twitter.com/TerukoNeriki) が一部加筆修正したものです。*
 
 
 ### 背景
 
-弊社[Fidelity](https://www.fidelity.com/)は[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)が他の暗号資産と根本的に異なる理由、そして投資家がビットコインを別格と捉えるべき理由について、2022年1月に公開した「[BItcoin FIrst](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first)」で解説しました。それから1年半以上の間、ビットコイン以外の暗号資産に逆風が吹く中、ビットコインはアダプションと暗号通貨市場のシェアを着実に拡大してきました。他の暗号資産にはないビットコインの独自の価値提案については、ぜひ「[BItcoin First](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first)」をご覧ください。本レポートでは、前レポート以後のビットコインの進化と現在の暗号資産市場における位置付けを踏まえ、他の暗号資産に対するビットコインの根本的な優位性を再び考察します。
+弊社[Fidelity](https://www.fidelity.com/)は[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)が他の暗号資産と根本的に異なる理由、そして投資家がビットコインを別格と捉えるべき理由について、2022年1月に公開した「[BItcoin First](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first)」で解説しました。それから1年半以上の間、ビットコイン以外の暗号資産に逆風が吹く中、ビットコインはアダプションと暗号通貨市場のシェアを着実に拡大してきました。他の暗号資産にはないビットコインの独自の価値提案については、ぜひ「[BItcoin First](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first)」をご覧ください。本レポートでは、前レポート以後のビットコインの進化と現在の暗号資産市場における位置付けを踏まえ、他の暗号資産に対するビットコインの根本的な優位性を再び考察します。
 
 
 ### エグゼクティブ・サマリー
