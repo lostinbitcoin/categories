@@ -26,7 +26,7 @@ taxonomy:
 
 ### 背景
 
-弊社[Fidelity](https://www.fidelity.com/)は[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)が他の暗号資産と根本的に異なる理由、そして投資家がビットコインを別格と捉えるべき理由について、2022年1月に公開した「[BItcoin First](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first)」で解説しました。それから1年半以上の間、ビットコイン以外の暗号資産に逆風が吹く中、ビットコインはアダプションと暗号通貨市場のシェアを着実に拡大してきました。他の暗号資産にはないビットコインの独自の価値提案については、ぜひ「[BItcoin First](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first)」をご覧ください。本レポートでは、前レポート以後のビットコインの進化と現在の暗号資産市場における位置付けを踏まえ、他の暗号資産に対するビットコインの根本的な優位性を再び考察します。
+弊社[Fidelity](https://www.fidelity.com/)は[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)が他の暗号資産と根本的に異なる理由、そして投資家がビットコインを別格と捉えるべき理由について、2022年1月に公開した「[Bitcoin First](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first)」で解説しました。それから1年半以上の間、ビットコイン以外の暗号資産に逆風が吹く中、ビットコインはアダプションと暗号通貨市場のシェアを着実に拡大してきました。他の暗号資産にはないビットコインの独自の価値提案については、ぜひ「[Bitcoin First](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first)」をご覧ください。本レポートでは、前レポート以後のビットコインの進化と現在の暗号資産市場における位置付けを踏まえ、他の暗号資産に対するビットコインの根本的な優位性を再び考察します。
 
 
 ### エグゼクティブ・サマリー
