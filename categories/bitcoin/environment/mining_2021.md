@@ -11,6 +11,9 @@ taxonomy:
 
 ## ビットコインは再生可能エネルギーの利用を拡大し、持続可能な社会への転換を後押しする
 
+<button class="zap-button" data-npub="npub17n53d53ql9seuxap52r6uckkvvf9nk0pg2v6ecpj7z9nnh8fwh2sl3j6ds" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+<button class="zap-button" data-npub="npub1km5zgre7f5vxr6jgf32x055xlk3gjwrj5s4aedeyjz6gr8l2yw0s8mmmlp" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+
 |  ![Category](/_images/category.png)  |  ビットコインとエネルギー・環境問題  |  ![Tag](/_images/tag.png)  |  初級、中級  | ![Time](/_images/timer.png)  |  37分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
