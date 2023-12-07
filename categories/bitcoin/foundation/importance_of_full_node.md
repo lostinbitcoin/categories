@@ -13,6 +13,9 @@ taxonomy:
 
 ## ビットコインの非中央集権性に関わるフルノードとは？
 
+<button class="zap-button" data-npub="npub17n53d53ql9seuxap52r6uckkvvf9nk0pg2v6ecpj7z9nnh8fwh2sl3j6ds" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+<button class="zap-button" data-npub="npub1km5zgre7f5vxr6jgf32x055xlk3gjwrj5s4aedeyjz6gr8l2yw0s8mmmlp" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識、ノードを運用してみよう |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  | 12分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
