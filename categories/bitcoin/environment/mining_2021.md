@@ -11,8 +11,8 @@ taxonomy:
 
 ## ビットコインは再生可能エネルギーの利用を拡大し、持続可能な社会への転換を後押しする
 
-<button class="zap-button" data-npub="npub17n53d53ql9seuxap52r6uckkvvf9nk0pg2v6ecpj7z9nnh8fwh2sl3j6ds" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
-<button class="zap-button" data-npub="npub19x0h8jm3mnwzhv4tpq62zta05er0qlyge73m0pwsp7h666khkd9qev2ree" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+<div><button class="zap-button" data-npub="npub17n53d53ql9seuxap52r6uckkvvf9nk0pg2v6ecpj7z9nnh8fwh2sl3j6ds" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/Coin_and_Peace">@Coin_and_Peace</a></div>
+<div><button class="zap-button" data-npub="npub19x0h8jm3mnwzhv4tpq62zta05er0qlyge73m0pwsp7h666khkd9qev2ree" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/TerukoNeriki">@TerukoNeriki</a></div>
 
 |  ![Category](/_images/category.png)  |  ビットコインとエネルギー・環境問題  |  ![Tag](/_images/tag.png)  |  初級、中級  | ![Time](/_images/timer.png)  |  37分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
