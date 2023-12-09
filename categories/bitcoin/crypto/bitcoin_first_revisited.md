@@ -13,7 +13,7 @@ taxonomy:
 
 ## 投資家がビットコインと他の暗号資産は別物であることを理解しておくべき理由
 
-<button class="zap-button" data-npub="npub1jpvef4gye8zgsexs5yvr8e5jawhukr5wdkfrm8njc5jgrttmhe5shfpryj" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+<div><button class="zap-button" data-npub="npub1jpvef4gye8zgsexs5yvr8e5jawhukr5wdkfrm8njc5jgrttmhe5shfpryj" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/btceth37">@btceth37</a></div>
 
 |  ![Category](/_images/category.png)  | ビットコイン ≠ クリプト |  ![Tag](/_images/tag.png)  | 初級、経済 | ![Time](/_images/timer.png)  | 30分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
