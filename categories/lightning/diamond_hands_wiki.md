@@ -11,6 +11,8 @@ taxonomy:
 
 ## ライトニングの初歩的なことからルーティングの情報を集めたWiki
 
+<div><button class="zap-button" data-npub="npub17n53d53ql9seuxap52r6uckkvvf9nk0pg2v6ecpj7z9nnh8fwh2sl3j6ds" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/Coin_and_Peace">@Coin_and_Peace</a></div>
+
 |  ![Category](/_images/category.png)  |  ライトニング、ノードを運用してみよう |  ![Tag](/_images/tag.png)  |  技術  | ![Time](/_images/timer.png)  |  NA  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
