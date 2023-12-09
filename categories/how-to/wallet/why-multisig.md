@@ -10,6 +10,8 @@ taxonomy:
 
 ## マルチシグ、シングルシグにはそれぞれメリットとデメリットがあります。それらを理解して、自分に合ったビットコイン管理法を実践しましょう。
 
+<div><button class="zap-button" data-npub="npub19eqgmmyvtpa39vq5emtydt9pcg0qt58sec9xqkvj48gjgex8chrscch374" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/cryptohinomaru">@cryptohinomaru</a></div>
+
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  7分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
