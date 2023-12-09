@@ -10,6 +10,8 @@ taxonomy:
 
 ## ビットコインは「国家と貨幣の分離」という悲願達成への唯一の希望、しかも、このプロセスはもう後戻りできないところまで来ています。
 
+<div><button class="zap-button" data-npub="npub17d7ham6ucsm2yxuwa9k9th49d44lfa50uk2fq0v2p0jxs2npnyxsaxxt59" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/akipponn">@akipponn</a></div>
+
 |  ![Category](/_images/category.png)  |  ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  8分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
