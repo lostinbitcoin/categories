@@ -13,6 +13,8 @@ taxonomy:
 
 ## ビットコインは「儲けたい」という誰もが持つ欲求に訴える NGU（価格上昇）技術を装った FGU（自由拡散）技術
 
+<div><button class="zap-button" data-npub="npub19eqgmmyvtpa39vq5emtydt9pcg0qt58sec9xqkvj48gjgex8chrscch374" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/cryptohinomaru">@cryptohinomaru</a></div>
+
 |  ![Category](/_images/category.png)  |  ビットコインは希望  |  ![Tag](/_images/tag.png)  |  初級、人権、政治、経済  | ![Time](/_images/timer.png)  |  11分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
