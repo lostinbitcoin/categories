@@ -12,6 +12,8 @@ taxonomy:
 
 ## 簡単かつ安価に際限なく発行できるお金が引き起こすさまざまな問題
 
+<div><button class="zap-button" data-npub="npub162mtqyjgtmrdhlras3zyd5nqsysdyhw9fepj242c93uvaxakthzqa7rrj8" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/btc_dakara">@btc_dakara</a></div>
+
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級、経済学、政治  | ![Time](/_images/timer.png)  |  35分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
