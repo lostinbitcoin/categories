@@ -10,6 +10,8 @@ taxonomy:
 
 ## 一人前のビットコイナーになるまでの13ステップを踏んで自由と主権を回復しましょう！
 
+<div><button class="zap-button" data-npub="npub16477vrdvula4dgwap3j0n3rqmwnyu0w9gpq3g5c33rf3a026le0sg24zx4" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/libertariman">@libertariman</a></div>
+
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  5分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
