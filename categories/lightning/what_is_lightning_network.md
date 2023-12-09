@@ -10,6 +10,8 @@ taxonomy:
 
 ## ライトニングネットワークが解決するビットコインが抱える問題とは？ライトニングネットワークとビットコインネットワークの関係は？
 
+<div><button class="zap-button" data-npub="npub18ukszjp29n8846qekqlccf4v252hat28seef9a3d2ur20zm49q3qdtnycl" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/Nayuta_ja">@Nayuta_ja</a></div>
+
 |  ![Category](/_images/category.png)  |  ライトニング |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  |  3分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
