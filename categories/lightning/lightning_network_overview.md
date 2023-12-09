@@ -10,6 +10,8 @@ taxonomy:
 
 ## ライトニングで進化するビットコインの未来 
 
+<div><button class="zap-button" data-npub="npub17n53d53ql9seuxap52r6uckkvvf9nk0pg2v6ecpj7z9nnh8fwh2sl3j6ds" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/Coin_and_Peace">@Coin_and_Peace</a></div>
+
 |  ![Category](/_images/category.png)  |  ライトニング、事例 |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  20分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
