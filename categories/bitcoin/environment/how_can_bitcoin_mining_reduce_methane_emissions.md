@@ -11,7 +11,7 @@ taxonomy:
 
 ## ビットコインがメタンをエネルギー資源として有効活用し、メタンの環境負荷を軽減する仕組み
 
-<button class="zap-button" data-npub="npub1u3rz86hzjejkh54mg04u20sxe62ps3nhtqy987n6yqv6sx52uhjsnkn4se" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+<div><button class="zap-button" data-npub="npub1u3rz86hzjejkh54mg04u20sxe62ps3nhtqy987n6yqv6sx52uhjsnkn4se" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/fuuuumin314">@fuuuumin314</a></div>
 
 |  ![Category](/_images/category.png)  |  ビットコインとエネルギー・環境問題、ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  1分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
