@@ -12,6 +12,8 @@ taxonomy:
 
 ## ニュースレターを購読して、ビットコイン開発の最新情報を仕入れよう
 
+<div><button class="zap-button" data-npub="npub1km5zgre7f5vxr6jgf32x055xlk3gjwrj5s4aedeyjz6gr8l2yw0s8mmmlp" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/techmedia_think">@techmedia_think</a></div>
+
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインコア開発に参加するには |  ![Tag](/_images/tag.png)  |  中級、上級、技術  | ![Time](/_images/timer.png)  |  NA  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 

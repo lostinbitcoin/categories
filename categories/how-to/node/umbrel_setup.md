@@ -11,6 +11,8 @@ taxonomy:
 
 ## ビットコインとライトニングのノードを誰でも簡単に立てられるUmbrelの構築手順を説明した動画のほか、買い物リストや注意点を網羅した完全マニュアル
 
+<div><button class="zap-button" data-npub="npub1u6jmfrzeprr0v8c64ja8qn2z6ac30t38hydx4xzvkk76nwupu7hsy7098a" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/nemkd12">@nemkd12</a></div>
+
 |  ![Category](/_images/category.png)  |  ハウツー、ノードを運用してみよう  |  ![Tag](/_images/tag.png)  |  初級、中級  | ![Time](/_images/timer.png)  |  15分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 

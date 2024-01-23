@@ -10,6 +10,8 @@ taxonomy:
 
 ## ビットコインマイニングの真のコストを評価するには、法定通貨制度の隠れたコスト、さらにはビットコインがエネルギー消費と引き換えに社会に提供する価値を考慮する必要がある
 
+<div><button class="zap-button" data-npub="npub1qzg2ctkyg8x0zwvtvrh8u0nsl3vrckmd09znz5axafvm97jqravqnvmdet" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/nikobitcoin">@nikobitcoin</a></div>
+
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  3分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 

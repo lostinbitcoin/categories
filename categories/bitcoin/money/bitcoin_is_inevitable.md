@@ -11,6 +11,8 @@ taxonomy:
 
 ## 今ビットコインを理解する努力を怠った人は必ず将来後悔する
 
+<div><button class="zap-button" data-npub="npub16l6p2pjduye4cn5wx7xxuuxp7l7ht6w6k3sxf8u0dy0x2522hnrsk95n8q" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/cryptographile">@cryptographile</a></div>
+
 |  ![Category](/_images/category.png)  |  ビットコインは最強のお金  |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  14分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 

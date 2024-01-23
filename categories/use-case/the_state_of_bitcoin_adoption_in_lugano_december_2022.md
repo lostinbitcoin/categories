@@ -10,7 +10,7 @@ taxonomy:
 
 ## 世界で最も豊かな先進的国家スイスで進行中の「ビットコインで経済振興する」社会実験。地元企業への聞き取り調査から、実験の進捗、成功の見込みを考察。
 
-<button class="zap-button" data-npub="npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+<div><button class="zap-button" data-npub="npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/yutaro21jp">@yutaro21jp</a></div>
 
 |  ![Category](/_images/category.png)  | 事例、ライトニング |  ![Tag](/_images/tag.png)  | 初級 | ![Time](/_images/timer.png)  | 16分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |

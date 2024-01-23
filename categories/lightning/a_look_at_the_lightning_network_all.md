@@ -12,13 +12,14 @@ taxonomy:
 
 ## ビットコインのスケーリング法および価値貯蔵手段から交換手段への進化を歴史とアルトコインの失敗を参考に考察
 
+<div><button class="zap-button" data-npub="npub15f24f0q5vcgfw2j6dmukgvjg2x3yg99t5kaepqxsq5zywcy72k7sd8x05m" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/slashweb3_mk">@slashweb3_mk</a></div>
+<div><button class="zap-button" data-npub="npub1l93vaajw92a32kc45ztmvcva0jzpf6e0gwppxf6h9lsafw3p3ruqhdxqrh" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/Haruko_Maruyama">@Haruko_Maruyama</a></div>
+
 |  ![Category](/_images/category.png)  |  ライトニング、ビットコインは最強のお金 |  ![Tag](/_images/tag.png)  |  初級、経済学  | ![Time](/_images/timer.png)  |  65分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
 <span>記事を読み上げるには「読み上げ開始」ボタンをクリックしてください</span>
 <table class="text-reader sticky"><tr><td class="td-btn1"><button id="btn-readAloud" onclick="readAloud();">読み上げ開始 ▶</button></td><td class="td-btn2"><button id="btn-deleteQueue" onclick="deleteQueue();">停止 ⏹</button></td><td><form name="form"><span>速度：</span><input type="range" name="rate" max="30" min="0" step="2.5" list="scale" value="10"><datalist id="scale"><option value="0"></option><option value="10"></option><option value="20"></option><option value="30"></option></datalist></form></td></tr></table>
-
-<button class="zap-button" data-npub="npub15f24f0q5vcgfw2j6dmukgvjg2x3yg99t5kaepqxsq5zywcy72k7sd8x05m" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
 
 *本記事は2022年8月6日に[Lyn Alden](https://twitter.com/LynAldenContact) 氏が発表した「[A Look At the Lightning Network](https://www.swanbitcoin.com/a-look-at-the-lightning-network/)」を[@slashweb3_mk](https://twitter.com/slashweb3_mk) さんが翻訳、[@Haruko_Maruyama](https://twitter.com/Haruko_Maruyama) さんが一部加筆修正したものです。*
 
@@ -642,7 +643,7 @@ DeFiと異なり、ライトニングネットワークには独自コインが�
 
 ライトニングネットワークは衛星インターネットと同様です。流動性が高いチャネルを多数持つスーパーノードは、公開ノードに限っても世界各地に多数点在しています。数あるスーパーノードのうち、どれとチャネルを開設するかは、ノード運用者に委ねられています。また、中継に衛星を使うインターネット接続とは異なり、ライトニングはソフトウェアであるため、スケーリングが格段に容易です。
 
-スーパーノードに直接接続しないというチョイスもあります。個人が運用する小規模ノードとチャネルを開設し、そのノードを介してスーパーノードや別の小規模ノードに接続することも可能です。また、チャネルの相互構築やテクニカルサポートを目的としたオンラインコミュニティが複数あり、[Plebnet](https://t.me/plebnet)のようにメンバーが6,000人を超えるものもあります（訳者注：日本にも600人超が参加する[Diamond Hands](https://www.diamondhands.community/jp)というコミュニティがあります）。多数のチャネルを有するスーパーノードが複数存在するものの、ライトニングネットワークはハブ・アンド・スポーク型には該当しません。
+スーパーノードに直接接続しないというチョイスもあります。個人が運用する小規模ノードとチャネルを開設し、そのノードを介してスーパーノードや別の小規模ノードに接続することも可能です。また、チャネルの相互構築やテクニカルサポートを目的としたオンラインコミュニティが複数あり、[Plebnet](https://t.me/plebnet)のようにメンバーが6,000人を超えるものもあります（訳者注：日本にも600人超が参加する[Diamond Hands](https://diamondhands.technology/)というコミュニティがあります）。多数のチャネルを有するスーパーノードが複数存在するものの、ライトニングネットワークはハブ・アンド・スポーク型には該当しません。
 
 しかも、ライトニングノードは供給上限をはじめとするビットコインの合意規則を執行しているわけではなく、単に送金を中継しているに過ぎません。
 

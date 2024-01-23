@@ -10,6 +10,8 @@ taxonomy:
 
 ## ビットコインの開発現場は誰がどのように運営管理しているのか？
 
+<div><button class="zap-button" data-npub="npub1uyf6ghmjy8p8mnt8jhutgh4jtjvzn7euwjf4yvpwuzwan5jl8xysnvsmuw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/katakoto">@katakoto</a></div>
+
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインコア開発に参加するには  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  17分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 

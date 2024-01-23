@@ -10,7 +10,7 @@ taxonomy:
 
 ## オフラインで生成した秘密鍵を一瞬たりともネットにさらさずBitcoinトランザクションに署名する方法
 
-<button class="zap-button" data-npub="npub1uyf6ghmjy8p8mnt8jhutgh4jtjvzn7euwjf4yvpwuzwan5jl8xysnvsmuw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+<div><button class="zap-button" data-npub="npub1uyf6ghmjy8p8mnt8jhutgh4jtjvzn7euwjf4yvpwuzwan5jl8xysnvsmuw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/katakoto">@katakoto</a></div>
 
 |  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  中級  | ![Time](/_images/timer.png)  |  30分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -202,12 +202,12 @@ Jade本体で承認（☑を選択）すると、本体は自動的にアップ�
 - パスフレーズを設定するかどうかの確認画面です。設定する場合は「Yes」を選択。
 
 > Add BIP39 passphrase? You will need this to access your funds.
-[BIP39](https://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#bip39)パスフレーズを追加しますか？自身の資金にアクセスする際に必要になります。
+[BIP39](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#bip39)パスフレーズを追加しますか？自身の資金にアクセスする際に必要になります。
 >
 
 現状では、QRコードを他の誰かにスキャンされてしまうとあなたの資金はすぐに盗まれてしまう状態にありますが、「パスフレーズ」を設定することでそうした事態を防ぐことができます。
 
-パスフレーズに関する詳しい解説は、過去の[こちらの記事](https://lostinbitcoin.jp/how-to/coldcardguide04/)をお読みください。
+パスフレーズに関する詳しい解説は、過去の[こちらの記事](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide04/)をお読みください。
 
 ![JadeAirgapGuide_021](/_images/JadeAirgapGuide_021.png)
 
@@ -334,7 +334,7 @@ Bitcoinの受け取りはとても簡単です。
 
 ## エアギャップ・トランザクションによるBitcoin送金
 
-さあ、ここからがこのゼットアップの真骨頂とも言えるエアギャップ・トランザクションによるBitcoinの送金の解説です。
+さあ、ここからがこのセットアップの真骨頂とも言えるエアギャップ・トランザクションによるBitcoinの送金の解説です。
 
 ここで、今一度確認ですが、Jadeの電源を切った時点であなたの秘密鍵は、Jade本体から消去されます。
 
@@ -437,7 +437,7 @@ Bitcoinの受け取りはとても簡単です。
 
 毎回、同じ結論になりますが、Jadeを利用したビットコイン保管においても、初期設定時にメモした12単語(シードフレーズ)の保管方法が、資産防衛のための最重要ポイントになります。
 
-あわせて読みたい：[ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう④～バックアップ＆リカバリ編～](https://lostinbitcoin.jp/how-to/coldcardguide04/)
+あわせて読みたい：[ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう④～バックアップ＆リカバリ編～](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide04/)
 
 このセットアップでは、秘密鍵自体が一切デバイスに残らないため、このシードフレーズのオフライン管理は、なおのこと重要になります。
 

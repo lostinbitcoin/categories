@@ -30,7 +30,7 @@ taxonomy:
 ### <a id="ka"></a>[か](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#ka)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|拡張公開鍵 (Xpub)|拡張秘密鍵 (Xprv)|[カストディアル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#custodial)|
+|[拡張公開鍵 (Xpub)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#xpub)|拡張秘密鍵 (Xprv)|[カストディアル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#custodial)|
 |[価値尺度](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#unit_of_account)|[価値貯蔵手段](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#sov)|[可分性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#divisibility)|
 |[カンティロン効果](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#cantillon_effect)|[希少性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#scarcity)|[グレシャムの法則](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#greshams_law)|
 |[携帯性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#portability)|軽量クライアント|[検閲耐性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ka/#censorship_resistance)|

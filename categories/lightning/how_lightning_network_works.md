@@ -10,6 +10,8 @@ taxonomy:
 
 ## ライトニングネットワークはなぜ生まれたのか、どう機能するのか？
 
+<div><button class="zap-button" data-npub="npub14v882qpqe02x3nkwy53thf8cve6q0njys5wnzna59tgd3l85x5jsuwsw9q" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/nayuta_ueno">@nayuta_ueno</a></div>
+
 |  ![Category](/_images/category.png)  |  ライトニング |  ![Tag](/_images/tag.png)  |  初級、技術  | ![Time](/_images/timer.png)  |  11分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 

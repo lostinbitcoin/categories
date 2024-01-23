@@ -10,6 +10,8 @@ taxonomy:
 
 ## これを読めばビットコインについて理解できる！
 
+<div><button class="zap-button" data-npub="npub162mtqyjgtmrdhlras3zyd5nqsysdyhw9fepj242c93uvaxakthzqa7rrj8" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/btc_dakara">@btc_dakara</a></div>
+
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  | 初級  | ![Time](/_images/timer.png)  |  12分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 

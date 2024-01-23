@@ -10,6 +10,8 @@ taxonomy:
 
 ## 貨幣と国家の分離、オープンで透明性の高い代替金融システムの構築を目指すビットコイニズムとは
 
+<div><button class="zap-button" data-npub="npub19x0h8jm3mnwzhv4tpq62zta05er0qlyge73m0pwsp7h666khkd9qev2ree" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/TerukoNeriki">@TerukoNeriki</a></div>
+
 |  ![Category](/_images/category.png)  |  ビットコインは希望、ビットコイン ≠ クリプト  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  20分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 

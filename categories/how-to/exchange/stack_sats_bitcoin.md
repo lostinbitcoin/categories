@@ -10,7 +10,7 @@ taxonomy:
 
 ## ビットコインは世界を変える。そんなビットコイン、入手するには取引所で買うしかないと思っていませんか？
 
-<button class="zap-button" data-npub="npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button>
+<div><button class="zap-button" data-npub="npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/yutaro21jp">@yutaro21jp</a></div>
 
 |  ![Category](/_images/category.png)  |  ビットコインの入手方法  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  NA  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
