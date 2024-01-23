@@ -370,7 +370,7 @@ Web3、NFT、DAO、そんな空虚なバズワードを掲げていれば、見�
 
 ![ColdCardGuide03_40.png](/_images/ColdCardGuide03_40.png)
 
-送金にかかる費用を設定する**Fee**（手数料）項目では、Rangeをスライドさせて手動で費用を設定できます。最近のビットコインネットワークはあまり混雑することなく空いているので、時間に余裕がある方は、ぜひ最小設定の1stas送金を試してみてください。この例では[送金手数料](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#transaction_fee)約4.58円にて、1時間以内には着金しています。
+送金にかかる費用を設定する**Fee**（手数料）項目では、Rangeをスライドさせて手動で費用を設定できます。
 
 **“Create Transaction”**（トランザクションの作成）をクリックして次に進みます。
 
