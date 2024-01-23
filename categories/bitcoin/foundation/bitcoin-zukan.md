@@ -15,7 +15,7 @@ taxonomy:
 |  ![Category](/_images/category.png)  |  ビットコインの基礎知識 |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  NA  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-*本サイトは [Diamond Hands](https://www.diamondhandsnode.com/) が2024年1月に公開し、同社によって維持管理されています。*
+*本サイトは [Diamond Hands](https://diamondhands.technology/) が2024年1月に公開し、同社によって維持管理されています。*
 
 [![知っとこ！ビットコイン図鑑 コンテンツ](/_images/bitcoin-zukan_2.png)](https://bitcoin-zukan.com/)
 
