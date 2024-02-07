@@ -1,0 +1,26 @@
+---
+title: ブロックヘッダー
+taxonomy:
+    category:
+        - b
+---
+
+## Block Header
+2,100 sats
+
+A block is a collection of transactions. Each block also includes some metadata which provides a summary of the block. This metadata is known as the block header. Included in the block header are several pieces of data:
+
+・Block height. The block height indicates how many blocks have come before this block.
+・Block hash. The hash of the block header serves as Proof-of-Work for this block.
+・Previous block hash. The hash of the previous block header ensures past blocks cannot be altered.
+・Timestamp. The timestamp indicates when the block was published.
+・Merkle root. A Merkle root is the hash of all the transactions included in this block.
+・Difficulty. The difficulty is encoded and called the “bits”.
+・Nonce. A nonce is a random number which helps miners satisfy the Proof-of-Work.
+
+The block header serves as an efficient summary of a block and can be sent across the network and processed more rapidly than a full block. When miners hash their block continuously, searching for a valid hash as Proof-of-Work, they are in fact hashing the block header, not the entire block.
+
+This is done for efficiency purposes, as hashing more data, including the thousands of transactions included in each block, takes more time. If miners were forced to hash the entire block, they would be incentivized to mine empty blocks in order to hash more efficiently. This would lower Bitcoin’s throughput and utility, as miners would lack incentive to process transactions.
+
+---
+コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
