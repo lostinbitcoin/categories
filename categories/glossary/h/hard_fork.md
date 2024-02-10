@@ -2,7 +2,7 @@
 title: ハードフォーク
 taxonomy:
     category:
-        - h
+        - glossary
 ---
 
 ## Hard Fork
