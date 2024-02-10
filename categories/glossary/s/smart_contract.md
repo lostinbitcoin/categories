@@ -2,7 +2,7 @@
 title: スマートコントラクト
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Smart Contract
