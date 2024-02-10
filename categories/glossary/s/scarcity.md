@@ -2,7 +2,7 @@
 title: 希少性
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Scarcity
