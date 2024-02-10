@@ -2,7 +2,7 @@
 title: ダスト
 taxonomy:
     category:
-        - d
+        - glossary
 ---
 
 ## Dust
