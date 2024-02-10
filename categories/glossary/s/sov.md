@@ -2,7 +2,7 @@
 title: 価値貯蔵手段
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Store of Value (SOV)
