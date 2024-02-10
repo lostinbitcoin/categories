@@ -2,7 +2,7 @@
 title: 半減期
 taxonomy:
     category:
-        - h
+        - glossary
 ---
 
 ## Halving
