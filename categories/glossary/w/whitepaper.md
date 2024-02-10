@@ -2,7 +2,7 @@
 title: ホワイトペーパー
 taxonomy:
     category:
-        - w
+        - glossary
 ---
 
 ## Whitepaper
