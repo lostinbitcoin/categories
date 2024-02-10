@@ -2,7 +2,7 @@
 title: ニュートリノ
 taxonomy:
     category:
-        - n
+        - glossary
 ---
 
 ## Neutrino
