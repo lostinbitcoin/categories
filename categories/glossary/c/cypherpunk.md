@@ -2,7 +2,7 @@
 title: サイファーパンク
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Cypherpunk
