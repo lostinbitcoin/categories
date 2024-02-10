@@ -2,7 +2,7 @@
 title: ビットコインコア
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Bitcoin Core
