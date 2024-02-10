@@ -2,7 +2,7 @@
 title: 検証性
 taxonomy:
     category:
-        - v
+        - glossary
 ---
 
 ## Verifiability
