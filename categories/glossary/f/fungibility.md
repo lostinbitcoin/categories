@@ -2,7 +2,7 @@
 title: 代替性
 taxonomy:
     category:
-        - f
+        - glossary
 ---
 
 ## Fungibility
