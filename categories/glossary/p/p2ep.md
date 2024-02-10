@@ -2,7 +2,7 @@
 title: ペイジョイン (P2EP)
 taxonomy:
     category:
-        - p
+        - glossary
 ---
 
 ## PayJoin (P2EP)
