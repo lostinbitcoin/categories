@@ -2,7 +2,7 @@
 title: ビットコインスクリプト
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Bitcoin Script
