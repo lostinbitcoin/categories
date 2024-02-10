@@ -2,7 +2,7 @@
 title: カストディアル
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Custodial
