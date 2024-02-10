@@ -2,7 +2,7 @@
 title: シード
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Seed
