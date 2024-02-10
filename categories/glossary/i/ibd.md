@@ -2,7 +2,7 @@
 title: イニシャル・ブロック・ダウンロード (IBD)
 taxonomy:
     category:
-        - i
+        - glossary
 ---
 
 ## Initial Block Download (IBD)
