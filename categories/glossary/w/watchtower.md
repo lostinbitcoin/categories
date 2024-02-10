@@ -2,7 +2,7 @@
 title: ウォッチタワー
 taxonomy:
     category:
-        - w
+        - glossary
 ---
 
 ## Watchtower
