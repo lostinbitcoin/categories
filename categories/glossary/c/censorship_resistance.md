@@ -2,7 +2,7 @@
 title: 検閲耐性
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Censorship Resistance
