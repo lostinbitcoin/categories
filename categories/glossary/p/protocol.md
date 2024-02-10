@@ -2,7 +2,7 @@
 title: プロトコル
 taxonomy:
     category:
-        - p
+        - glossary
 ---
 
 ## Protocol
