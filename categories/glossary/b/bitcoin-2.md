@@ -2,7 +2,7 @@
 title: ビットコイン
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Bitcoin
