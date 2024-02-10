@@ -2,7 +2,7 @@
 title: 二重支払い
 taxonomy:
     category:
-        - d
+        - glossary
 ---
 
 ## Double Spend
