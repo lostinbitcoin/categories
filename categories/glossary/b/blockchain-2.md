@@ -2,7 +2,7 @@
 title: ブロックチェーン
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Blockchain
