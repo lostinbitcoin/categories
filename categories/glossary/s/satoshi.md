@@ -2,7 +2,7 @@
 title: サトシ
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Satoshi
