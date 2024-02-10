@@ -2,7 +2,7 @@
 title: 拡張公開鍵 (Xpub)
 taxonomy:
     category:
-        - x
+        - glossary
 ---
 
 ## Extended Public Key (Xpub)
