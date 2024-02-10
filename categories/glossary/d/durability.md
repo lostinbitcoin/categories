@@ -2,7 +2,7 @@
 title: 耐久性
 taxonomy:
     category:
-        - d
+        - glossary
 ---
 
 ## Durability
