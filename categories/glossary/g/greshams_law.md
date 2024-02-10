@@ -2,7 +2,7 @@
 title: グレシャムの法則
 taxonomy:
     category:
-        - g
+        - glossary
 ---
 
 ## Gresham's Law
