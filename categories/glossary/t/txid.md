@@ -2,7 +2,7 @@
 title: トランザクションID (TXID)
 taxonomy:
     category:
-        - t
+        - glossary
 ---
 
 ## Transaction ID (txid)
