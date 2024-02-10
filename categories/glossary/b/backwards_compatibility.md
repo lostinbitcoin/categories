@@ -2,7 +2,7 @@
 title: 後方互換性
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Backwards Compatibility
