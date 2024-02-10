@@ -2,7 +2,7 @@
 title: ビットコインノード
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Bitcoin Node
