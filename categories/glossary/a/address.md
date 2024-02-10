@@ -2,7 +2,7 @@
 title: アドレス
 taxonomy:
     category:
-        - a
+        - glossary
 ---
 
 ## Address
