@@ -2,7 +2,7 @@
 title: オーファン (孤立) ブロック
 taxonomy:
     category:
-        - o
+        - glossary
 ---
 
 ## Orphan Block
