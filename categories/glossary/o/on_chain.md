@@ -2,7 +2,7 @@
 title: オンチェーン
 taxonomy:
     category:
-        - o
+        - glossary
 ---
 
 ## On-Chain
