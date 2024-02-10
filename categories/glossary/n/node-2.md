@@ -2,7 +2,7 @@
 title: ノード
 taxonomy:
     category:
-        - n
+        - glossary
 ---
 
 ## Node
