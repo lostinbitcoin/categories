@@ -2,7 +2,7 @@
 title: サトシ・ナカモト
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Satoshi Nakamoto
