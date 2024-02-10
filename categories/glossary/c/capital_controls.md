@@ -2,7 +2,7 @@
 title: 資本規制
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Capital Controls
