@@ -2,7 +2,7 @@
 title: 法定通貨
 taxonomy:
     category:
-        - f
+        - glossary
 ---
 
 ## Fiat Currency
