@@ -2,7 +2,7 @@
 title: ブロックサイズ
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Block Size
