@@ -2,7 +2,7 @@
 title: シビル攻撃
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Sybil Attack
