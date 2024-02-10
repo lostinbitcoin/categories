@@ -2,7 +2,7 @@
 title: ハッシュレート
 taxonomy:
     category:
-        - h
+        - glossary
 ---
 
 ## Hash Rate
