@@ -2,7 +2,7 @@
 title: ペイメントレール
 taxonomy:
     category:
-        - p
+        - glossary
 ---
 
 ## Payment Rail
