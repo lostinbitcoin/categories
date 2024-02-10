@@ -2,7 +2,7 @@
 title: 秘密鍵
 taxonomy:
     category:
-        - p
+        - glossary
 ---
 
 ## Private Key
