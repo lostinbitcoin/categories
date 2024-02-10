@@ -2,7 +2,7 @@
 title: 承認
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Confirmation
