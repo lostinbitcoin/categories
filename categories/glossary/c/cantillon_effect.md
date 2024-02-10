@@ -2,7 +2,7 @@
 title: カンティロン効果
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Cantillon Effect
