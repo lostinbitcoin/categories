@@ -2,7 +2,7 @@
 title: 導出パス
 taxonomy:
     category:
-        - d
+        - glossary
 ---
 
 ## Derivation Path
