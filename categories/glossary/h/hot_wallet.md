@@ -2,7 +2,7 @@
 title: ホットウォレット
 taxonomy:
     category:
-        - h
+        - glossary
 ---
 
 ## Hot Wallet
