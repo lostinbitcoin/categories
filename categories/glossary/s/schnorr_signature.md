@@ -2,7 +2,7 @@
 title: シュノア署名
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Schnorr Signature
