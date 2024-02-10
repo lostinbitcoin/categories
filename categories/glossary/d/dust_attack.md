@@ -2,7 +2,7 @@
 title: ダスト攻撃
 taxonomy:
     category:
-        - d
+        - glossary
 ---
 
 ## Dust Attack
