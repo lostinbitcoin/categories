@@ -2,7 +2,7 @@
 title: ウォレット
 taxonomy:
     category:
-        - w
+        - glossary
 ---
 
 ## Wallet
