@@ -2,7 +2,7 @@
 title: インフレーションヘッジ
 taxonomy:
     category:
-        - i
+        - glossary
 ---
 
 ## Inflation Hedge
