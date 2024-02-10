@@ -2,7 +2,7 @@
 title: 不変性
 taxonomy:
     category:
-        - i
+        - glossary
 ---
 
 ## Immutability
