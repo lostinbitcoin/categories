@@ -2,7 +2,7 @@
 title: ニモニック
 taxonomy:
     category:
-        - m
+        - glossary
 ---
 
 ## Mnemonic
