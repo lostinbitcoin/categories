@@ -2,7 +2,7 @@
 title: ブロック高
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Block Height
