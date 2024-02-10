@@ -2,7 +2,7 @@
 title: 交換手段
 taxonomy:
     category:
-        - m
+        - glossary
 ---
 
 ## Medium of Exchange
