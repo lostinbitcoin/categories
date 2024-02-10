@@ -2,7 +2,7 @@
 title: コインジョイン
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## CoinJoin
