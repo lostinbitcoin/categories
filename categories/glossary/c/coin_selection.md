@@ -2,7 +2,7 @@
 title: コインセレクション
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Coin Selection
