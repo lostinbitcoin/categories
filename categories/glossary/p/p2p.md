@@ -2,7 +2,7 @@
 title: ピアツーピア (P2P)
 taxonomy:
     category:
-        - p
+        - glossary
 ---
 
 ## Peer-to-Peer (P2P)
