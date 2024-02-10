@@ -2,7 +2,7 @@
 title: ビザンチン将軍問題
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Byzantine Generals Problem
