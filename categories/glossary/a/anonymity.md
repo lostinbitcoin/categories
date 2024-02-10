@@ -3,7 +3,6 @@ title: 匿名性
 taxonomy:
     category:
         - glossary
-        - a
 ---
 
 ## Anonymity
