@@ -2,7 +2,7 @@
 title: ハードウェアウォレット
 taxonomy:
     category:
-        - h
+        - glossary
 ---
 
 ## Hardware Wallet
