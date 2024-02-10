@@ -2,7 +2,7 @@
 title: ビットコイン実装
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Bitcoin Implementations
