@@ -2,7 +2,7 @@
 title: ブロックエクスプローラ
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Block Explorer
