@@ -2,7 +2,7 @@
 title: ペナルティトランザクション
 taxonomy:
     category:
-        - p
+        - glossary
 ---
 
 ## Penalty Transaction
