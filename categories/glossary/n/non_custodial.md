@@ -2,7 +2,7 @@
 title: ノンカストディアル
 taxonomy:
     category:
-        - n
+        - glossary
 ---
 
 ## Non-Custodial
