@@ -2,7 +2,7 @@
 title: ブロック
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Block
