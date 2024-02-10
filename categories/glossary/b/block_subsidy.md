@@ -2,7 +2,7 @@
 title: ブロック報酬
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Block Subsidy
