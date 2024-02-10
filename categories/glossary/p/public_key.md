@@ -2,7 +2,7 @@
 title: 公開鍵
 taxonomy:
     category:
-        - p
+        - glossary
 ---
 
 ## Public Key
