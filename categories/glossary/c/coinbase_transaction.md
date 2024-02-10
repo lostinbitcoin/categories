@@ -2,7 +2,7 @@
 title: コインベース・トランザクション
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Coinbase Transaction
