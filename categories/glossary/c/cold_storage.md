@@ -2,7 +2,7 @@
 title: コールドストレージ
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Cold Storage
