@@ -3,6 +3,7 @@ title: 51%攻撃
 taxonomy:
     category:
         - glossary
+        - 0-9
 ---
 
 ## 51% Attack
