@@ -2,7 +2,7 @@
 title: プリイメージ
 taxonomy:
     category:
-        - p
+        - glossary
 ---
 
 ## Preimage
