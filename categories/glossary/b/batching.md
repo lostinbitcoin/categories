@@ -2,7 +2,7 @@
 title: バッチ
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Batching
