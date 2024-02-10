@@ -2,7 +2,7 @@
 title: サイドチェーン
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Sidechain
