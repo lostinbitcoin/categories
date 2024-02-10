@@ -2,7 +2,7 @@
 title: 送金手数料
 taxonomy:
     category:
-        - t
+        - glossary
 ---
 
 ## Transaction Fee
