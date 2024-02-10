@@ -2,7 +2,7 @@
 title: フォーク
 taxonomy:
     category:
-        - f
+        - glossary
 ---
 
 ## Fork
