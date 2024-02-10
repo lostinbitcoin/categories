@@ -2,7 +2,7 @@
 title: タップルート
 taxonomy:
     category:
-        - t
+        - glossary
 ---
 
 ## Taproot
