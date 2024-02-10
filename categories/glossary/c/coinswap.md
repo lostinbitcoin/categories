@@ -2,7 +2,7 @@
 title: コインスワップ
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## CoinSwap
