@@ -2,7 +2,7 @@
 title: トランザクション
 taxonomy:
     category:
-        - t
+        - glossary
 ---
 
 ## Transaction
