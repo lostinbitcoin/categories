@@ -2,7 +2,7 @@
 title: プルーフオブワーク (PoW)
 taxonomy:
     category:
-        - p
+        - glossary
 ---
 
 ## Proof-of-Work (PoW)
