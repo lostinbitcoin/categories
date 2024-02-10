@@ -3,6 +3,7 @@ title: マネーロンダリング対策 (AML)
 taxonomy:
     category:
         - glossary
+        - a
 ---
 
 ## Anti-Money Laundering (AML)
