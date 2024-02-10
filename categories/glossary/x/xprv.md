@@ -2,7 +2,7 @@
 title: 拡張秘密鍵 (Xprv)
 taxonomy:
     category:
-        - x
+        - glossary
 ---
 
 ## Extended Private Key (Xprv)
