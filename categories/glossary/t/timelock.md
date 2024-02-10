@@ -2,7 +2,7 @@
 title: タイムロック
 taxonomy:
     category:
-        - t
+        - glossary
 ---
 
 ## Timelock
