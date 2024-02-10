@@ -2,7 +2,7 @@
 title: ストック・フロー比率
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Stock-to-Flow (S2F)
