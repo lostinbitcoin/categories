@@ -2,7 +2,7 @@
 title: コンセンサス
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Consensus
