@@ -2,7 +2,7 @@
 title: 大統領令6102号
 taxonomy:
     category:
-        - e
+        - glossary
 ---
 
 ## Executive Order 6102
