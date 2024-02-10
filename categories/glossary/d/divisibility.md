@@ -2,7 +2,7 @@
 title: 可分性
 taxonomy:
     category:
-        - d
+        - glossary
 ---
 
 ## Divisibility
