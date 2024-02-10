@@ -2,7 +2,7 @@
 title: 部分準備銀行制度
 taxonomy:
     category:
-        - f
+        - glossary
 ---
 
 ## Fractional Reserve Banking
