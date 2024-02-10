@@ -2,7 +2,7 @@
 title: ボルト (BOLT)
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Basis of Lightning Technology (BOLT)
