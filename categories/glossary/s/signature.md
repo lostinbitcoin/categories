@@ -2,7 +2,7 @@
 title: 署名
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Signature
