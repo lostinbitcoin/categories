@@ -2,7 +2,7 @@
 title: 軽量クライアント
 taxonomy:
     category:
-        - l
+        - glossary
 ---
 
 ## Light Client
