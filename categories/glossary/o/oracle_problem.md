@@ -2,7 +2,7 @@
 title: オラクル問題
 taxonomy:
     category:
-        - o
+        - glossary
 ---
 
 ## Oracle Problem
