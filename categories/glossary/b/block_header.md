@@ -2,7 +2,7 @@
 title: ブロックヘッダー
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Block Header
