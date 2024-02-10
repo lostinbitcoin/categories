@@ -2,7 +2,7 @@
 title: ビットコイン改善提案 (BIP)
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Bitcoin Improvement Proposal (BIP)
