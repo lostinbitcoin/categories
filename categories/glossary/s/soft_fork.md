@@ -2,7 +2,7 @@
 title: ソフトフォーク
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Soft Fork
