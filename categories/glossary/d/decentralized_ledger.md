@@ -2,7 +2,7 @@
 title: 分散台帳
 taxonomy:
     category:
-        - d
+        - glossary
 ---
 
 ## Decentralized Ledger
