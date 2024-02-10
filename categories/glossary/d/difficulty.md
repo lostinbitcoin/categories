@@ -2,7 +2,7 @@
 title: 難易度
 taxonomy:
     category:
-        - d
+        - glossary
 ---
 
 ## Difficulty
