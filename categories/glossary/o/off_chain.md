@@ -2,7 +2,7 @@
 title: オフチェーン
 taxonomy:
     category:
-        - o
+        - glossary
 ---
 
 ## Off-Chain
