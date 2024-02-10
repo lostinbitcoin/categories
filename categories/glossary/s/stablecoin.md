@@ -2,7 +2,7 @@
 title: ステーブルコイン
 taxonomy:
     category:
-        - s
+        - glossary
 ---
 
 ## Stablecoin
