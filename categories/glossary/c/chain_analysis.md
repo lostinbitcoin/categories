@@ -2,7 +2,7 @@
 title: チェーン分析
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Chain Analysis
