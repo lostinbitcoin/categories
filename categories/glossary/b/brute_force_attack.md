@@ -2,7 +2,7 @@
 title: 総当たり攻撃
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Brute Force Attack
