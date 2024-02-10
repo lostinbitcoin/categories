@@ -2,7 +2,7 @@
 title: ハードキャップ
 taxonomy:
     category:
-        - h
+        - glossary
 ---
 
 ## Hard Cap
