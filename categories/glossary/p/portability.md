@@ -2,7 +2,7 @@
 title: 携帯性
 taxonomy:
     category:
-        - p
+        - glossary
 ---
 
 ## Portability
