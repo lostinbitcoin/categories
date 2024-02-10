@@ -2,7 +2,7 @@
 title: ハッシュ関数
 taxonomy:
     category:
-        - h
+        - glossary
 ---
 
 ## Hash Function
