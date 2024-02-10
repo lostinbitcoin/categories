@@ -2,7 +2,7 @@
 title: チェンジ・アウトプット
 taxonomy:
     category:
-        - c
+        - glossary
 ---
 
 ## Change Output
