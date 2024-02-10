@@ -2,7 +2,7 @@
 title: ジェネシス・ブロック
 taxonomy:
     category:
-        - g
+        - glossary
 ---
 
 ## Genesis Block
