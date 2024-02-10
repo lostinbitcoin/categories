@@ -2,7 +2,7 @@
 title: 時間選好
 taxonomy:
     category:
-        - t
+        - glossary
 ---
 
 ## Time Preference
