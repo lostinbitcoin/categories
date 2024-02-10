@@ -2,7 +2,7 @@
 title: 価値尺度
 taxonomy:
     category:
-        - u
+        - glossary
 ---
 
 ## Unit of Account
