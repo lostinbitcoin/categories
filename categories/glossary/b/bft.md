@@ -2,7 +2,7 @@
 title: ビザンチン障害耐性
 taxonomy:
     category:
-        - b
+        - glossary
 ---
 
 ## Byzantine Fault Tolerance (BFT)
