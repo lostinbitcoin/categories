@@ -2,7 +2,7 @@
 title: インフレーション
 taxonomy:
     category:
-        - i
+        - glossary
 ---
 
 ## Inflation
