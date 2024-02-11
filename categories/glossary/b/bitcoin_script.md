@@ -19,7 +19,7 @@ Although SegWit script types—P2WPKH and P2WSH—offer savings on transaction f
 
 ![](/_images/glossary-ha_1.png)
 
-Source: Clark Moody's Dashboard
+Source: [Clark Moody's Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
