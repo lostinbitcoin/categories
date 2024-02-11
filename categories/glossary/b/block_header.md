@@ -10,12 +10,12 @@ taxonomy:
 
 A block is a collection of transactions. Each block also includes some metadata which provides a summary of the block. This metadata is known as the block header. Included in the block header are several pieces of data:
 
-・Block height. The block height indicates how many blocks have come before this block.
-・Block hash. The hash of the block header serves as Proof-of-Work for this block.
-・Previous block hash. The hash of the previous block header ensures past blocks cannot be altered.
-・Timestamp. The timestamp indicates when the block was published.
-・Merkle root. A Merkle root is the hash of all the transactions included in this block.
-・Difficulty. The difficulty is encoded and called the “bits”.
+・Block height. The block height indicates how many blocks have come before this block.<br>
+・Block hash. The hash of the block header serves as Proof-of-Work for this block.<br>
+・Previous block hash. The hash of the previous block header ensures past blocks cannot be altered.<br>
+・Timestamp. The timestamp indicates when the block was published.<br>
+・Merkle root. A Merkle root is the hash of all the transactions included in this block.<br>
+・Difficulty. The difficulty is encoded and called the “bits”.<br>
 ・Nonce. A nonce is a random number which helps miners satisfy the Proof-of-Work.
 
 The block header serves as an efficient summary of a block and can be sent across the network and processed more rapidly than a full block. When miners hash their block continuously, searching for a valid hash as Proof-of-Work, they are in fact hashing the block header, not the entire block.
