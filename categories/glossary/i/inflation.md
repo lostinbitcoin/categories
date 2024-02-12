@@ -8,6 +8,8 @@ taxonomy:
 ## Inflation
 2,100 sats
 
+<div><button class="zap-button" data-npub="npub17d7ham6ucsm2yxuwa9k9th49d44lfa50uk2fq0v2p0jxs2npnyxsaxxt59" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/akipponn">@akipponn</a></div>
+
 インフレーション（インフレ）は、ある経済圏の物価全般が時間の経過とともに上昇する現象で、その国の通貨の購買力を低下させます。インフレは近代経済学の当然の帰結で、主に政府や中央銀行による恒常的な通貨供給量の拡大が引き金になります。
 
 インフレはモノやサービスの価格で測られますが、通常は消費者物価指数（CPI）として知られる多種多様な商品の加重平均市場価格の変動で表されます。
