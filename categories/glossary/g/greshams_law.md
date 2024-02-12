@@ -8,6 +8,8 @@ taxonomy:
 ## Gresham's Law
 2,100 sats
 
+<div><button class="zap-button" data-npub="npub1u3rz86hzjejkh54mg04u20sxe62ps3nhtqy987n6yqv6sx52uhjsnkn4se" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/fuuuumin314">@fuuuumin314</a></div>
+
 グレシャムの法則は、「悪貨は良貨を駆逐する」ことを指します。つまり、2つの通貨が併存する社会に暮らす人は、減価し続ける悪貨を先に使い、価値を維持する良貨を手元に残します。したがって、市場に流通するのは日常の取引に使われる悪貨が圧倒的で、良貨は貯蓄や長期投資の手段として退蔵されます。
 
 ビットコインと米ドルの両方を保有する人で考えてみましょう。モノやサービスの購入には、減価し続けているドルを使うべきです。ビットコインを使ってしまうと、将来ビットコイン価格が上昇したときに、購買力上昇の恩恵を受けられなくなるからです。ビットコインが交換手段としてよりも先に価値貯蔵手段として普及したのは、このためです。
