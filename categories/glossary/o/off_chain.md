@@ -8,6 +8,8 @@ taxonomy:
 ## Off-Chain
 2,100 sats
 
+<div><button class="zap-button" data-npub="npub1x3x7spzvt6yflg4l825agplakkyv8h62h5jsl9qq7ghxlcr490wqz4qfw6" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/sishamo_moyashi">@sishamo_moyashi</a></div>
+
 オフチェーンはビットコインブロックチェーンに登録されていないデータを表す用語です。オフチェーンデータには、ブロックチェーンに登録される前の未承認のビットコイントランザクション、ライトニングネットワーク上のデータ、またはサイドチェーンなどの他のブロックチェーン上のデータなどがあります。
 
 ---
