@@ -8,6 +8,8 @@ taxonomy:
 ## Verifiability
 2,100 sats
 
+<div><button class="zap-button" data-npub="npub1u3rz86hzjejkh54mg04u20sxe62ps3nhtqy987n6yqv6sx52uhjsnkn4se" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/fuuuumin314">@fuuuumin314</a></div>
+
 検証性とは模造品や偽造品と正規品を簡単に識別できる財の性質です。財の価値を保つには検証性が不可欠です。検証性がない財は不要にリスクが高いため、市場での信頼を得られません。
 
 政府は物理的な有形財に関しては著作権法や詐欺罪の適用など法規制により、法定通貨に関しては紙幣に透かしを入れるなどして検証性を担保しようとしていますが、偽造防止効果は限られています。紙幣については、視覚的、物理的、あるいは手間はかかりますが化学的な方法での真贋判定も可能です。
