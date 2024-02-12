@@ -8,6 +8,8 @@ taxonomy:
 ## Censorship Resistance
 2,100 sats
 
+<div><button class="zap-button" data-npub="npub1u3rz86hzjejkh54mg04u20sxe62ps3nhtqy987n6yqv6sx52uhjsnkn4se" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/fuuuumin314">@fuuuumin314</a></div>
+
 ビットコインの送金を取り消したり、特定のウォレットやアドレスを凍結することは誰にもできません。この意味で、ビットコインには検閲耐性があります。トランザクションのブロードキャストやブロックへの取り込みはノードとマイナーに一任されているため、第三者が検閲することは実質的に不可能です。
 
 ビットコインネットワークにブロードキャストされたトランザクションは、ノードからノードに次々と伝播されます。ノードは受信したトランザクションをメンプール（mempool、メモリープール）と呼ばれる未承認トランザクションのデータベースに格納します。マイナーはブロックチェーンに追加するブロックに含めるトランザクションをメンプールから選びます。マイナーがブロックのマイニングに成功すると、ブロックに含まれるトランザクションはメンプールから削除され、承認されます。
