@@ -8,6 +8,8 @@ taxonomy:
 ## Cantillon Effect
 2,100 sats
 
+<div><button class="zap-button" data-npub="npub1u3rz86hzjejkh54mg04u20sxe62ps3nhtqy987n6yqv6sx52uhjsnkn4se" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/fuuuumin314">@fuuuumin314</a></div>
+
 カンティロン効果は、インフレが社会に与える影響が一様でないことを指摘するものです。社会的経済的地位や産業、事業規模によって、通貨供給拡大、つまり通貨膨張（＝インフレ）によって受ける影響の度合い、時期に差があります。
 
 他の条件が一定だとすると、通貨膨張により、モノやサービスなど財の価格は上がります。ただ、価格調整は瞬時ではなく徐々に進みます。カンティロン効果は、新規に発行された通貨を最初に受け取る層、すなわち通貨の独裁発行権を持つ中央銀行や信用創造で通貨供給を増やせる銀行に近い人々は、価格が上昇する前に消費できる裁定機会を与えられます。無から通貨を作り出す銀行とその周囲の人々は、他の人たちよりも割安に財を入手できます。
