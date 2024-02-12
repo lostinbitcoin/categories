@@ -8,6 +8,8 @@ taxonomy:
 ## Scarcity
 2,100 sats
 
+<div><button class="zap-button" data-npub="npub1u3rz86hzjejkh54mg04u20sxe62ps3nhtqy987n6yqv6sx52uhjsnkn4se" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/fuuuumin314">@fuuuumin314</a></div>
+
 希少性は生産コストが高い財だけが持つ性質です。供給が限られている財には希少性があるというのは誤解で、希少性を決めるのは、あくまでも生産コストの高さです。
 
 ある財が貨幣として機能するためには、多くの人に財を行き渡らせる必要があります。社会に広く通用させられない財は経済活動の基盤とはなり得ず、貨幣の役目を果たせません。一方で、貨幣となる財は容易に生産または発見できるものであってななりません。容易に生産可能な財、すなわち、希少性が低い財が貨幣となった場合、貨幣の価値、貨幣に対する信頼は時間とともに低下します。
