@@ -8,6 +8,8 @@ taxonomy:
 ## Watchtower
 2,100 sats
 
+<div><button class="zap-button" data-npub="npub17d7ham6ucsm2yxuwa9k9th49d44lfa50uk2fq0v2p0jxs2npnyxsaxxt59" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/akipponn">@akipponn</a></div>
+
 信頼関係にない2者が運用するライトニングノード間に構築されたペイメントチャネルから成るライトニングネットワークには、二重支払いの問題があります。ウォッチタワーは二重支払い防止を目的に、特定チャネルを監視するサービスです。ウォッチタワーを請け負う第3者への信用が求められますが、ライトニングノード運用者はウォッチタワーを利用することで、チャネルパートナーによる二重支払いを防ぐことができます。
 
 ライトニングネットワークは資金移動に未承認トランザクションを使うため、二重支払い問題を完全に解消することはできません。チャネルを開いた相手が悪意ある攻撃者であれば、過去のライトニング決済を無効にすべく、古い未承認トランザクションをブロードキャストして、二重支払いを試みるかもしれません。
