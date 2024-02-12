@@ -8,6 +8,8 @@ taxonomy:
 ## Address
 2,100 sats
 
+<div><button class="zap-button" data-npub="npub1x3x7spzvt6yflg4l825agplakkyv8h62h5jsl9qq7ghxlcr490wqz4qfw6" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/sishamo_moyashi">@sishamo_moyashi</a></div>
+
 アドレスはビットコインを受け取るために使用され、英数字から成る文字列として表されます。公開鍵とアドレスはしばしば混同されますが、アドレスは公開鍵のハッシュであり、ビットコインを受け取るには公開鍵ではなくアドレスが使用されます。厳密に言うと、アドレスは単なる公開鍵のハッシュというわけではありませんが、技術的な話なので割愛します。
 
 ビットコインウォレットを使用すると、ユーザーは必要な数だけアドレスを生成できるだけでなく、指定したアドレスにビットコインを送信できます。アドレスに送られたビットコインは、そのアドレスを導出した秘密鍵の所有者のみが使用できます。
