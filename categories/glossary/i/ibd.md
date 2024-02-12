@@ -8,6 +8,8 @@ taxonomy:
 ## Initial Block Download (IBD)
 2,100 sats
 
+<div><button class="zap-button" data-npub="npub1x3x7spzvt6yflg4l825agplakkyv8h62h5jsl9qq7ghxlcr490wqz4qfw6" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/sishamo_moyashi">@sishamo_moyashi</a></div>
+
 イニシャル・ブロック・ダウンロード（IBD）は、完全なビットコインブロックチェーンをゼロから構築するプロセスです。新しいノードをセットアップしてビットコインネットワークに参加すると、他のノードに接続してブロックをリクエストします。新しいノードは過去に生成された全てのブロックをダウンロードおよび検証してブロックチェーンを構築し、ネットワークと同期します。
 
 ブロックは個別ノードから得ますが、異なるノードからのデータとクロスチェックできること、さらにはプルーフオブワーク・ブロックチェーンの性質から、IBDはトラストレスなプロセスです。IBDの速さはインターネットの帯域幅とコンピューターの仕様で異なり、場合によっては数日、数週間かかります。
