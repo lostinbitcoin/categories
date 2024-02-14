@@ -17,7 +17,7 @@ taxonomy:
 
 *本記事は[@katakoto](https://twitter.com/katakoto) が制作、2022年7月に公開したものです。*
 
-皆さんは大切な[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)を管理するのに、どんな[ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)を使っていますか？
+皆さんは大切な[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)を管理するのに、どんな[ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hardware_wallet/)を使っていますか？
 
 SATOSHILABS社の[Trezor](https://trezor.io/)？それともフランスLedger社の[Ledger](https://www.ledger.com/)？
 
@@ -31,7 +31,7 @@ SATOSHILABS社の[Trezor](https://trezor.io/)？それともフランスLedger�
 
 ![](/_images/ColdcardGuide01_2.jpg)
 
-同社が作る製品の中には、元Twitter社CEOのジャック・ドーシー氏の米SNS公聴会動画の背後に写り込んでいて有名になった[Blockclock](https://blockclockmini.com/)（リアルタイムにビットコイン価格や[ブロック高](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block_height)などを表示するビットコイン時計）などもあります。
+同社が作る製品の中には、元Twitter社CEOのジャック・ドーシー氏の米SNS公聴会動画の背後に写り込んでいて有名になった[Blockclock](https://blockclockmini.com/)（リアルタイムにビットコイン価格や[ブロック高](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block_height/)などを表示するビットコイン時計）などもあります。
 
 ![](/_images/ColdcardGuide01_3.png)
 
@@ -53,7 +53,7 @@ SATOSHILABS社の[Trezor](https://trezor.io/)？それともフランスLedger�
 
 ### Trezorに5分内にシードが抜かれるパッチ不可能な脆弱性（2019年7月）
 
-ライバル社Ledgerのセキュリティ・チームによって報告されたTrezorウォレットの”修復不可能”な脆弱性。Trezor社の製品には、ハードウェアウォレットが物理的に盗まれてしまった場合、攻撃者が高度なエンジニアリングの知識を有し、100万円以上もする高価なデバイスを駆使すれば、[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)フレーズが抜かれてしまう可能性があることがそれまでにも知られていたが、今回のこの報告では、身近な電気屋で1万円ほどで手に入る材料と、電子工作の基礎的な知識があれば、誰でも5分以内にシードを抜き取れてしまう方法であったことから大きな波紋を呼んだ。（Ledgerのセキュリティチームは、広範囲への影響を考え、攻撃手法の詳細に関しては非公開としている。）またこの脆弱性はTrezor[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)のハードウェア設計に起因するため、今後のファームウェア・アップデートなどにより防ぎようがなかったことも、利用者への衝撃をさらに大きくした。Trezor社は、ハードウェアのデザイン上、改善のしようがない問題としてユーザーにも周知しており、この攻撃に対する唯一の防御策として、利用者に「パスフレーズ」の設定を強く推奨する旨の [公式発表](https://blog.trezor.io/our-response-to-ledgers-mitbitcoinexpo-findings-194f1b0a97d4) を行っている。
+ライバル社Ledgerのセキュリティ・チームによって報告されたTrezorウォレットの”修復不可能”な脆弱性。Trezor社の製品には、ハードウェアウォレットが物理的に盗まれてしまった場合、攻撃者が高度なエンジニアリングの知識を有し、100万円以上もする高価なデバイスを駆使すれば、[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/seed/)フレーズが抜かれてしまう可能性があることがそれまでにも知られていたが、今回のこの報告では、身近な電気屋で1万円ほどで手に入る材料と、電子工作の基礎的な知識があれば、誰でも5分以内にシードを抜き取れてしまう方法であったことから大きな波紋を呼んだ。（Ledgerのセキュリティチームは、広範囲への影響を考え、攻撃手法の詳細に関しては非公開としている。）またこの脆弱性はTrezor[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)のハードウェア設計に起因するため、今後のファームウェア・アップデートなどにより防ぎようがなかったことも、利用者への衝撃をさらに大きくした。Trezor社は、ハードウェアのデザイン上、改善のしようがない問題としてユーザーにも周知しており、この攻撃に対する唯一の防御策として、利用者に「パスフレーズ」の設定を強く推奨する旨の [公式発表](https://blog.trezor.io/our-response-to-ledgers-mitbitcoinexpo-findings-194f1b0a97d4) を行っている。
 
 
 
@@ -65,7 +65,7 @@ Ledger社の顧客データベースがハッキングされ、同社でハー�
 
 これら２つの事件は、ハードウェアウォレットそのもののみならず、それを提供する会社のセキュリティ意識への信頼性をも、ユーザーに深く考えさせる契機となった大きな事件でした。
 
-その点、Coinkite社のセキュリティへの意識とその取り組みは他社を大きく先行しています。例えば、注文時に必要な個人情報の扱いに関しては、法的に保管が必要な120日が経過後、自動的に削除されることを早くから公言していますし、最新モデルのMK4では、多くのハードウェアウォレットにたいてい一つだけ実装されているセキュアエレメント（[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#private_key)が保存されるチップ）が、贅沢にも2つ使われており、外部からの解析攻撃がほぼ不可能な設計になっています。しかもそれぞれあえて違うメーカーのものを搭載し、メーカー固有のバグにも備える徹底ぶりです。
+その点、Coinkite社のセキュリティへの意識とその取り組みは他社を大きく先行しています。例えば、注文時に必要な個人情報の扱いに関しては、法的に保管が必要な120日が経過後、自動的に削除されることを早くから公言していますし、最新モデルのMK4では、多くのハードウェアウォレットにたいてい一つだけ実装されているセキュアエレメント（[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/private_key/)が保存されるチップ）が、贅沢にも2つ使われており、外部からの解析攻撃がほぼ不可能な設計になっています。しかもそれぞれあえて違うメーカーのものを搭載し、メーカー固有のバグにも備える徹底ぶりです。
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Starting today customer records will be blanked after 120 days of activity auto-magicaly🧙‍♂️ (i.e. since shipping)<br><br>It&#39;s a very big DB, we don&#39;t want to be marked as spammers so the email notification roll-out will take a couple weeks<br><br>Subject: Protecting Your Privacy: Data Blanked <a href="https://t.co/Rr7mV4nhhr">pic.twitter.com/Rr7mV4nhhr</a></p>&mdash; COLDCARD (@COLDCARDwallet) <a href="https://twitter.com/COLDCARDwallet/status/1341073190815207424?ref_src=twsrc%5Etfw">December 21, 2020</a></blockquote>
 
@@ -75,8 +75,8 @@ Ledger社の顧客データベースがハッキングされ、同社でハー�
 ![](/_images/ColdcardGuide01_4.jpg)
 
 - USB-Cコネクタ
-- 無制限メモリ、ビットコイン[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)サイズ無制限
-- あらゆるデータタイプ、PSBT、[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#address)などがNFCタップで利用可
+- 無制限メモリ、ビットコイン[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)サイズ無制限
+- あらゆるデータタイプ、PSBT、[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/address/)などがNFCタップで利用可
 - スライド式カバーで表示画面を保護
 - さらなるセキュリティ：デュアルSE（セキュア・エレメント）
     - 拡張されたデュアレスPIN機能
@@ -116,7 +116,7 @@ Ledger社の顧客データベースがハッキングされ、同社でハー�
 - Coldcardへのログインを13回連続で失敗すると、デバイスが破壊され二度と使用できなくなる
 
 
-最後のなんか、自分はいつから007の主人公に？といった趣きのやり過ぎ感すらあります。それでも、彼らがここまでするのは、何よりビットコインを生んだ思想の源流とも言える[サイファーパンク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#cypherpunk)的価値観を、ハードウェアウォレットと言うツールを通じてこの世界に体現しようとしているからに他なりません。
+最後のなんか、自分はいつから007の主人公に？といった趣きのやり過ぎ感すらあります。それでも、彼らがここまでするのは、何よりビットコインを生んだ思想の源流とも言える[サイファーパンク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/cypherpunk/)的価値観を、ハードウェアウォレットと言うツールを通じてこの世界に体現しようとしているからに他なりません。
 
 ![](/_images/ColdcardGuide01_7.jpg)
 
