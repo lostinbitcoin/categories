@@ -20,14 +20,14 @@ taxonomy:
 
 さあ、[前回の記事](https://lostinbitcoin.jp/how-to/coldcardguide01/)を読んでCOLDCARD購入の意志は固まりましたでしょうか。
 
-昨今の円安の影響もあって配送料込みで3万円もする[ハードウェア・ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)の購入は、決して安い買い物ではありません。買って後悔することがないよう、COLDCARDが本当に今の自分に必要なものかどうか、事前チェックリストを用意しました。あなたの回答がひとつでも”YES”に当てはまる方は、悪いことは言いません。これまでのことは全て忘れてLedgerかTrezorを買った方がより幸せになれると思います。
+昨今の円安の影響もあって配送料込みで3万円もする[ハードウェア・ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hardware_wallet/)の購入は、決して安い買い物ではありません。買って後悔することがないよう、COLDCARDが本当に今の自分に必要なものかどうか、事前チェックリストを用意しました。あなたの回答がひとつでも”YES”に当てはまる方は、悪いことは言いません。これまでのことは全て忘れてLedgerかTrezorを買った方がより幸せになれると思います。
 
 ☑暗号通貨は自分で管理するより取引所に預けていた方が安全だ。
 ☑今話題のNFTを購入、安全に保管したい。
 ☑今話題のDAOトークンを購入、新時代のガバナンスに参加したい。
 ☑ちょっと前に話題だったDeFiでイールドファーミングしたい。
 ☑その前に話題だったICOで今なお一獲千金を狙いたい。
-☑次なる[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)は○○だ。（○○がビットコイン以外の場合はYES）
+☑次なる[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)は○○だ。（○○がビットコイン以外の場合はYES）
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「これは学ぶべき必要が来た時に学ぶべきレッスン。得られる結果は脆弱なシステムに競合する堅牢なシステム。インフレによって価値が下がる通貨と下がらない通貨。検閲される通貨とされない通貨。何人かの人は正しい選択をし何人かはしない。それで良いのだ。誰もが必要なわけではまだないのだから。」 <a href="https://t.co/wrUOoamxqq">pic.twitter.com/wrUOoamxqq</a></p>&mdash; aantonop_quotes (@AantonopQuotes) <a href="https://twitter.com/AantonopQuotes/status/1326045271101370368?ref_src=twsrc%5Etfw">November 10, 2020</a></blockquote>
 
@@ -207,7 +207,7 @@ $499以上のお買い上げは配送料が無料になるようです。この�
 
 Coinkiteはビットコインオンリーの製品を取り扱う会社、もちろん支払いにはビットコイン払いも選べます。
 
-残念ながら、[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ra/#lightning_network)にはまだ対応しておらず、[オンチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#on_chain)のみとなっていますが、前述の通りビットコインで支払うと下記のメリットがあるので、挑戦する価値はあるやもしれません。
+残念ながら、[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)にはまだ対応しておらず、[オンチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/on_chain/)のみとなっていますが、前述の通りビットコインで支払うと下記のメリットがあるので、挑戦する価値はあるやもしれません。
 
 1. **クーポンの適用で５％オフで購入できる**
 2. **最安配送サービスを利用できる（ただし追跡サービスなし）**
@@ -230,11 +230,11 @@ Coinkiteはビットコインオンリーの製品を取り扱う会社、もち
 
 ![](/_images/ColdcardGuide02_23.png)
 
-お使いのモバイル[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)などでQRコードを読み込むと、宛先[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#address)および支払い価格が表示されるはずです。確認後、支払いしましょう。
+お使いのモバイル[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)などでQRコードを読み込むと、宛先[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/address/)および支払い価格が表示されるはずです。確認後、支払いしましょう。
 
 この支払い情報およびQRコードは30分で無効になります。
 
-ご存じのように、ビットコインのオンチェーン支払いは、マイナーによって[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block)に取り込まれるまで平均10分かかります。場合によっては30分以上かかる場合もあるため、自分の支払いが通ったのか心配になるかもしれませんが、実際にはビットコインネットワークに支払い情報が伝わった時点で、受付済みになるので、それほどナーバスになる必要はありません。
+ご存じのように、ビットコインのオンチェーン支払いは、マイナーによって[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)に取り込まれるまで平均10分かかります。場合によっては30分以上かかる場合もあるため、自分の支払いが通ったのか心配になるかもしれませんが、実際にはビットコインネットワークに支払い情報が伝わった時点で、受付済みになるので、それほどナーバスになる必要はありません。
 
 登録時のメールにも、その旨、案内が届くはずです。
 
@@ -247,7 +247,7 @@ Bitcoinでの支払いをパブリックネットワークで確認済みです�
 支払いが完了次第、別途メールにてお知らせします。
 >
 
-マイナーによって、あなたの支払い[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)がブロックに取り込まれ、５コンファメーションほど待てば、支払いが確実に[承認](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#confirmation)され、あとは商品が届くのを待つだけの状態になります。
+マイナーによって、あなたの支払い[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)がブロックに取り込まれ、５コンファメーションほど待てば、支払いが確実に[承認](http://lostinbitcoin.jp.testrs.jp/staging/glossary/confirmation/)され、あとは商品が届くのを待つだけの状態になります。
 
 送金後表示されるトランザクション番号と注文番号があれば、不安な点があっても後ほど問い合わせが可能です。
 
