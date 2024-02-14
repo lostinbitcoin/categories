@@ -21,15 +21,15 @@ taxonomy:
 
 [前回の記事](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide03/)で、COLDCARDの開封からセットアップ、Sparrow Walletを利用したBitcoinの受け取り・送金の方法を一通り解説しました。
 
-皆さんの大事なBitcoinも、ビットコイナーいち押しの[ハードウェア・ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)COLDCARDに保管され、まずは一安心といった所でしょうか。
+皆さんの大事なBitcoinも、ビットコイナーいち押しの[ハードウェア・ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hardware_wallet/)COLDCARDに保管され、まずは一安心といった所でしょうか。
 
 だが、この世界にはそんなビットコイナーの心の平穏をかき乱すひとりのもじゃもじゃアフロがいた…
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is going to be the greatest finance movie ever made <a href="https://t.co/ltVnQSPq0p">pic.twitter.com/ltVnQSPq0p</a></p>&mdash; LilMoonLambo (@LilMoonLambo) <a href="https://twitter.com/LilMoonLambo/status/1595279597238734848?ref_src=twsrc%5Etfw">November 23, 2022</a></blockquote>
 
-すでにAmazonでの映像化が決定している業界騒然のFTX崩壊事件を経て、**”Not your keys, Not your Bitcoin.”（自分の[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#private_key)でないなら、それは自分のBitcoinではない）**の機運が、これまでで一番の盛り上がりを見せています。
+すでにAmazonでの映像化が決定している業界騒然のFTX崩壊事件を経て、**”Not your keys, Not your Bitcoin.”（自分の[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/private_key/)でないなら、それは自分のBitcoinではない）**の機運が、これまでで一番の盛り上がりを見せています。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">1月3日は <a href="https://twitter.com/hashtag/%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#ビットコイン</a> の最初の[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#block)が生成された記念日。アンドレアスさんの有名なこの台詞に字幕を付けましたので、この大事なルールを今一度、皆で思い出しましょう！<a href="https://twitter.com/hashtag/NotYourKey?src=hash&amp;ref_src=twsrc%5Etfw">#NotYourKey</a> <a href="https://twitter.com/hashtag/NotYourBitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#NotYourBitcoin</a>　<a href="https://twitter.com/hashtag/HappyGenesisDay?src=hash&amp;ref_src=twsrc%5Etfw">#HappyGenesisDay</a> <a href="https://t.co/1C1rLrZRmh">pic.twitter.com/1C1rLrZRmh</a></p>&mdash; katakoto (@katakoto) <a href="https://twitter.com/katakoto/status/1212918529587961856?ref_src=twsrc%5Etfw">January 3, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">1月3日は <a href="https://twitter.com/hashtag/%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#ビットコイン</a> の最初の[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)が生成された記念日。アンドレアスさんの有名なこの台詞に字幕を付けましたので、この大事なルールを今一度、皆で思い出しましょう！<a href="https://twitter.com/hashtag/NotYourKey?src=hash&amp;ref_src=twsrc%5Etfw">#NotYourKey</a> <a href="https://twitter.com/hashtag/NotYourBitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#NotYourBitcoin</a>　<a href="https://twitter.com/hashtag/HappyGenesisDay?src=hash&amp;ref_src=twsrc%5Etfw">#HappyGenesisDay</a> <a href="https://t.co/1C1rLrZRmh">pic.twitter.com/1C1rLrZRmh</a></p>&mdash; katakoto (@katakoto) <a href="https://twitter.com/katakoto/status/1212918529587961856?ref_src=twsrc%5Etfw">January 3, 2020</a></blockquote>
 
 ですが、この連載においてBitcoinの**セルフ・カストディ（自己管理）**において最も重要なポイントが、いまだカバーされておりませんでした。そうそれは
 
@@ -37,7 +37,7 @@ taxonomy:
 
 ![ColdCardGuide04_1.jpg](/_images/ColdCardGuide04_1.jpg)
 
-今回はCOLDCARDのセットアップ時に、言われるがままに書き留めたこの24単語(もしくは12単語)、[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)フレーズの扱い方、正しい保管方法とそのリカバリについてのお話です。
+今回はCOLDCARDのセットアップ時に、言われるがままに書き留めたこの24単語(もしくは12単語)、[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/seed/)フレーズの扱い方、正しい保管方法とそのリカバリについてのお話です。
 
 Bitcoinの世界では、今まで聞いたことのないような新しい用語の数々であふれています。
 
@@ -70,7 +70,7 @@ Bitcoinの世界では、今まで聞いたことのないような新しい用�
 
 これまでシードフレーズを24個の英単語と言ってみたり、12個と言ってみたりどっちつかずの言い方をしてきましたが、これもどれぐらいの大きさの数字の中から、一つ選んでくるかというお話であり、別のたとえで言うなら、コインを256回投げて乱数を作るか、それとも半分の128回投げるかの違いになります。
 
-そして現代の暗号化技術・情報セキュリティの考え方では、たとえ[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)作成時に12英単語のシードフレーズ(128bit エントロピー)を選んでも、その安全性には何ら問題ないとされています。
+そして現代の暗号化技術・情報セキュリティの考え方では、たとえ[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)作成時に12英単語のシードフレーズ(128bit エントロピー)を選んでも、その安全性には何ら問題ないとされています。
 
 この円安の最中、けして安くはないハードウェア・ウォレットをわざわざ海外から輸入して、我々がやっている事は、言ってしまえばこのバカでかい数字を誰にも知られないように一生懸命守っているのに過ぎないのです。
 
@@ -80,7 +80,7 @@ Bitcoinの世界では、今まで聞いたことのないような新しい用�
 - **極力デジタルデータ（Cloudに保存、デジカメ撮影 etc.）にしてはいけない**
 - **WEBサイトに軽々しく入力してはいけない**
 
-とよく言われるのはなぜでしょうか。それは、**シード（種）**フレーズの名前が表しているように、このフレーズを手にした人は誰でも、本来あなたに属するBitcoin[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#address)を全て復元できてしまうからです。それはすなわち、他人にあなたのBitcoinを自由にコントロールされてしまうことを意味します。
+とよく言われるのはなぜでしょうか。それは、**シード（種）**フレーズの名前が表しているように、このフレーズを手にした人は誰でも、本来あなたに属するBitcoin[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/address/)を全て復元できてしまうからです。それはすなわち、他人にあなたのBitcoinを自由にコントロールされてしまうことを意味します。
 
 このあたりを優しく説明したくて、著者は以前、次のようなポエムを詠んだことがあります。
 
@@ -90,7 +90,7 @@ Bitcoinには、我々になじみが深い銀行口座番号のような、生�
 
 その無数の受け取りアドレスを生み出す種となるのがシードフレーズ。
 
-一見何の関連もないバラバラのアドレス上にあるBitcoinのかけら達も、元をたどれば必ず一つの種、シードフレーズにたどり着きます。Bitcoinウォレットは、この[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#blockchain)上に無数に散らばったBitcoinが、すべてあなたに紐づく資産であることを一括表示する役割と、各アドレス上のBitcoinの利用を許可する署名を行う機能を持つものです。
+一見何の関連もないバラバラのアドレス上にあるBitcoinのかけら達も、元をたどれば必ず一つの種、シードフレーズにたどり着きます。Bitcoinウォレットは、この[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain/)上に無数に散らばったBitcoinが、すべてあなたに紐づく資産であることを一括表示する役割と、各アドレス上のBitcoinの利用を許可する署名を行う機能を持つものです。
 
 **一個の種から、一本の大きな木。その全部があなたのBitcoin。**
 
@@ -106,7 +106,7 @@ Source: [https://trezor.io/learn/a/what-are-bips-slips](https://trezor.io/learn/
 
 ここでは、シードフレーズのイメージとその重要性が以前より少しでもクリアに伝わったなら幸いです。
 
-最近のメジャーなBitcoinウォレットは、ほとんどが**[BIP39](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#bip39)**および**[BIP32](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-number/#bip32)**と呼ばれる業界標準に則って作成されているので、理論的に言えばBIP39&BIP32対応のハードウェア・ウォレットで作ったシードフレーズなら、復元時にはどのメーカーのものを使おうとも復元は可能です。（メーカー毎の復元時の差異に注意。巻末に復旧時に役立つサイトへのリンク集を用意しました。）
+最近のメジャーなBitcoinウォレットは、ほとんどが**[BIP39](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip39/)**および**[BIP32](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip32/)**と呼ばれる業界標準に則って作成されているので、理論的に言えばBIP39&BIP32対応のハードウェア・ウォレットで作ったシードフレーズなら、復元時にはどのメーカーのものを使おうとも復元は可能です。（メーカー毎の復元時の差異に注意。巻末に復旧時に役立つサイトへのリンク集を用意しました。）
 
 復元はハードウェア・ウォレットである必要もありません。BIP39&BIP32対応ソフトウェア上からの復元も可能です。（前回の記事でインストールした[Sparrow Wallet](https://sparrowwallet.com/)を使って復元することもできます。）
 
@@ -130,7 +130,7 @@ Source: [SeedPlate by Coinkite](https://bitcoinseedbackup.com/)
 
 Source: [Hodlr Disks Bitcoin by hodlr.swiss](https://hodlr.swiss/products/seed-metal-backup-hodlr-disks-bitcoin)
 
-どの製品を選んでも、ただの紙で保存するよりは格段に[耐久性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#durability)があがります。とことんまで耐久性を見極めたい方は、Bitcoin Maxiとして有名な[サイファーパンク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#cypherpunk)Jameson Lopp師匠がとことんまでメタルウォレットを苛め抜く[「メタル・’ビットコインシードストレージ・ストレステスト」](https://blog.lopp.net/metal-bitcoin-seed-storage-stress-tests-round-v/)シリーズをご確認ください。
+どの製品を選んでも、ただの紙で保存するよりは格段に[耐久性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/durability/)があがります。とことんまで耐久性を見極めたい方は、Bitcoin Maxiとして有名な[サイファーパンク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/cypherpunk/)Jameson Lopp師匠がとことんまでメタルウォレットを苛め抜く[「メタル・’ビットコインシードストレージ・ストレステスト」](https://blog.lopp.net/metal-bitcoin-seed-storage-stress-tests-round-v/)シリーズをご確認ください。
 
 ![ColdcardGuide04_7.jpg](/_images/ColdcardGuide04_7.jpg)
 
