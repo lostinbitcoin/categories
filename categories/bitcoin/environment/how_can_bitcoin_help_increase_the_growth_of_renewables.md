@@ -26,7 +26,7 @@ taxonomy:
 
 さらに、[ビットコインマイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining/)を通じて余剰電力を収益化することで、再生可能エネルギー事業の投資収益率(ROI)が改善します。出力制限は収益機会の損失で、ROIを低下させます。[ビットコインマイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining/)で余剰電力を収益化すれば、収益とROIの改善が期待できます。
 
-このように、[ビットコインマイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining/)は、再生可能エネルギー発電が抱える余剰電力問題を解決します。出力制限で収益機会を逸する代わりに、余剰電力を収益化して、再生可能エネルギー事業のROIを改善し、再生可能エネルギーの普及を後押しします。また、再生可能エネルギー発電施設の送電系統への接続をより効率的で持続可能なものにします。[ビットコインマイニング](https://lostinbitcoin.jp/glossary.testrs.jp/staging/glossary-ma/#mining)は、再生可能エネルギーを主電源とした持続可能な社会への移行を加速します。
+このように、[ビットコインマイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining/)は、再生可能エネルギー発電が抱える余剰電力問題を解決します。出力制限で収益機会を逸する代わりに、余剰電力を収益化して、再生可能エネルギー事業のROIを改善し、再生可能エネルギーの普及を後押しします。また、再生可能エネルギー発電施設の送電系統への接続をより効率的で持続可能なものにします。[ビットコインマイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining)は、再生可能エネルギーを主電源とした持続可能な社会への移行を加速します。
 
 ### 著作権等について
 [利用規約 A](https://lostinbitcoin.jp/copyright/#uaa)
