@@ -20,7 +20,7 @@ taxonomy:
 
 ### イントロダクション
 
-[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#bitcoin)は、進化のペースが速く広大なコミュニティです。
+[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)は、進化のペースが速く広大なコミュニティです。
 
 とりわけ初めて暗号通貨を使う際には、常に何か新しいことが出てきたり、理解し難い専門用語の羅列に出会ったりすることがあります。
 
@@ -28,16 +28,16 @@ taxonomy:
 
 [Coldcard](https://coldcard.com/)は、セキュリティの面で最高の製品であり、**非常にたくさん**の機能を備えています！あまりに多くの先進的なトピックやセキュリティ機能があるため、ビットコイン初心者には、時に混乱したり近寄りがたく感じてしまうかもしれません。
 
-Coldcardには、たくさんの高度なセキュリティ機能がありますが、それらは全て追加的なものです。基本的なことからスタートして、自分の[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)をあなたと共に成長させることができます。もうセキュリティの必要性に応じて、新たな[ハードウェア・ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)を買い続ける必要はないのです！
+Coldcardには、たくさんの高度なセキュリティ機能がありますが、それらは全て追加的なものです。基本的なことからスタートして、自分の[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)をあなたと共に成長させることができます。もうセキュリティの必要性に応じて、新たな[ハードウェア・ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hardware_wallet/)を買い続ける必要はないのです！
 
 このガイドは、Coldcardの基本機能を紹介し、あなたの知識をそこから広げていくためのものです。
 
 
 ### ウォレットって何？
 
-ハードウェア・ウォレットとしても知られるColdcardは、あなたのビットコインを安全に保管するための優れた方法です。インターネットに接続した[ソフトウェア・ウォレット](https://coldcard.com/docs/glossary#software-wallet)は、本来決して知られるべきではない[シードフレーズ](https://coldcard.com/docs/glossary#seed-words)と、それに紐付く[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#private_key)を保管するために作られています。
+ハードウェア・ウォレットとしても知られるColdcardは、あなたのビットコインを安全に保管するための優れた方法です。インターネットに接続した[ソフトウェア・ウォレット](https://coldcard.com/docs/glossary#software-wallet)は、本来決して知られるべきではない[シードフレーズ](https://coldcard.com/docs/glossary#seed-words)と、それに紐付く[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/private_key/)を保管するために作られています。
 
-Coldcardは、ソフトウェア・ウォレットと連動してあなたのビットコインを安全に保管します。ソフトウェア・ウォレットは、全ての[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)を表示したり、あなたのウォレットにビットコインを送るための[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#address)を作成したり、あなたのウォレットから他の人にビットコインを送るためのトランザクションを作成するためのツールです。
+Coldcardは、ソフトウェア・ウォレットと連動してあなたのビットコインを安全に保管します。ソフトウェア・ウォレットは、全ての[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)を表示したり、あなたのウォレットにビットコインを送るための[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/address/)を作成したり、あなたのウォレットから他の人にビットコインを送るためのトランザクションを作成するためのツールです。
 
 ソフトウェア・ウォレットがColdcardと連帯する際には、送信される各トランザクションにColdcardによる「署名」が必須となります。トランザクションへの「署名」は、ウォレットに関連付けられたColdcardへアクセスできる人だけが行うことができます。
 
@@ -46,7 +46,7 @@ Coldcardは、ソフトウェア・ウォレットと連動してあなたのビ
 
 ### シードフレーズはとても大切
 
-あなたの[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)フレーズは、他人から知られないようにすべき最も大切な情報です。もしあなたのシードフレーズが他人の手に渡ってしまったなら、彼らはいとも簡単にあなたの全てのビットコインを盗み出してしまえます。
+あなたの[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/seed/)フレーズは、他人から知られないようにすべき最も大切な情報です。もしあなたのシードフレーズが他人の手に渡ってしまったなら、彼らはいとも簡単にあなたの全てのビットコインを盗み出してしまえます。
 
 
 ### Coldcardのセットアップ
@@ -139,7 +139,7 @@ MicroSDカードにElectrumのスケルトンウォレットファイルが保�
 - MicroSDカードをColdcardに移動します。
 - Coldcard のメインメニューから 「Ready to Sign」を選択します。
 - 作成したPSBT ファイルを一覧から選択します。 (カードに複数のファイルがある場合)
-- トランザクションを[承認](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#confirmation)します。
+- トランザクションを[承認](http://lostinbitcoin.jp.testrs.jp/staging/glossary/confirmation/)します。
 - 作成されたトランザクションはMicroSDカードに保存され、同じファイル名に新しい末尾（-final.txn）が付けられます。
 - Electrumまたはパブリックサービスを使って、そのファイルから16進エンコードされたトランザクションをプッシュします。
 - 例えば、Electrumの場合、「Tools」→「Load transaction」→「From File」を選択します。
