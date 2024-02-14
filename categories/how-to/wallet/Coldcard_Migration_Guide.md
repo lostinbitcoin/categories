@@ -22,9 +22,9 @@ taxonomy:
 
 コールドストレージをレベルアップして **COLDCARD®**に移行しよう！
 
-このチュートリアルでは、Ledger または Trezor [ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ha/#hardware_wallet)（移行元ウォレット）で生成された[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-a/#wallet)の[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-sa/#seed)を、空の COLDCARD（移行先ウォレット）に保存する方法を説明します。
+このチュートリアルでは、Ledger または Trezor [ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hardware_wallet/)（移行元ウォレット）で生成された[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)の[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/seed/)を、空の COLDCARD（移行先ウォレット）に保存する方法を説明します。
 
-使用しているデバイスや、相談している相手によっては、ウォレットのシードの単語のことをリカバリーフレーズや、リカバリーシード、シードフレーズ、[ニモニック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-na/#mnemonic)、バックアップフレーズなどと呼んでいるかもしれません。そうしたシードの単語リストが、これからあなたのCOLDCARDに転送されるものです。
+使用しているデバイスや、相談している相手によっては、ウォレットのシードの単語のことをリカバリーフレーズや、リカバリーシード、シードフレーズ、[ニモニック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mnemonic/)、バックアップフレーズなどと呼んでいるかもしれません。そうしたシードの単語リストが、これからあなたのCOLDCARDに転送されるものです。
 
 **アルトコインはサポート対象外**
 
@@ -251,7 +251,7 @@ Sparrow Walletが初めての方は、[この記事を参考](http://lostinbitco
 
 ここでも見慣れないアドレス形式名が使われており困惑しますが、先ほどの表内の別名に注目すると自分のアドレスは**P2SH-P2WPKH**であることがわかります。
 
-**Nested Segwit (P2SH-P2WPKH)** を選択し、処理を進めるとウォレットが復元され、過去の[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/glossary-ta/#transaction)履歴やBitcoin残高も正しく表示されるようになるはずです。
+**Nested Segwit (P2SH-P2WPKH)** を選択し、処理を進めるとウォレットが復元され、過去の[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)履歴やBitcoin残高も正しく表示されるようになるはずです。
 
 Sparrow Walletを利用して、このままこのウォレットで送金のための署名を行うこともできます。
 
