@@ -7,7 +7,7 @@ taxonomy:
         - yarpp_exclude
 ---
 
-### 日本一充実したビットコイン用語集を作りたい！
+## 日本一充実したビットコイン用語集を作りたい！
 
 [River Financial の Bitcoin Glossary](https://river.com/learn/terms/) をベースに、日本語のビットコイン用語集を構築中です。用語集作りに参加して、**ビットコイン**を稼ぎませんか？
 
