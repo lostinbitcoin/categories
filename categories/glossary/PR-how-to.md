@@ -27,7 +27,7 @@ taxonomy:
 
 ## 初回作業の流れ
 1. <b>GitHubアカウントの作成:</b> [GitHub](https://github.com/)のアカウントを持っていない場合は、GitHubでアカウントを作成します。
-1. <b>プロジェクトのリポジトリを開く:</b> GitHub上にある[ロストイン・ビットコインのリポジトリ]( https://github.com/lostinbitcoin/categories/)を開きます。
+1. <b>プロジェクトのリポジトリを開く:</b> GitHub上にある[ロストイン・ビットコインのリポジトリ](https://github.com/lostinbitcoin/categories/)を開きます。
 1. <b>フォークの作成:</b> リポジトリのページの右上にある「Fork」ボタンをクリックすると、自分のアカウントの下にロストイン・ビットコインのリポジトリのフォークが作成されます。
 ![](/_images/PR_how_to-fork.png)
 1. <b>リポジトリの選択:</b>自分のリポジトリのリスト（https://github.com/<GitHubのユーザー名>?tab=repositories）から、前のステップでフォークしたリポジトリ（https://github.com/<GitHubのユーザー名>/categories）を選びます。
