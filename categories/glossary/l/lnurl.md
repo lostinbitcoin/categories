@@ -8,23 +8,23 @@ taxonomy:
 ## LNURL
 2,100 sats
 
-LNURL makes communication between Lightning wallets and other applications easier through QR codes. LNURL enables a better user experience on Lightning by abstracting away payment flow complexities such as exchanging full-length LN invoices with counterparties.
-Technically, “LNURL” is a collection of open-source protocols that work to coordinate payments on the Lightning Network by leveraging HTTP.
+LNURLは、QRコードを通じてライトニング[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)（以下、LNウォレット）と他のアプリケーションとの通信をより容易にします。LNURLは、取引先との完全な長さの[ライトニング・インボイス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_invoice/)（以下、LNインボイス）の交換など、複雑な支払いフローを抽象化することで、ライトニングでのより良いユーザー体験を実現します。<br>
+技術的には、「LNURL」はオープンソースの[プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/protocol/)の集まりで、HTTPを活用して[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)上での支払いを調整するために機能します。
 
-Users are able to login with a lightning wallet to services that support LNURL, as well as send and receive payments by utilizing static payment codes, typically in the form of a QR code. At the time of writing, LNURL has 20 features that can be implemented in applications.
+ユーザーは、LNURLをサポートするサービスにLNウォレットでログインできるほか、通常はQRコードの形をした静的な支払いコードを利用して支払いを送受信できます。本稿執筆時点で、LNURLにはアプリケーションに実装可能な20の機能があります。
 
-The most popular features are:
+最も人気のある機能は次の通りです：
 
-・[LNURL-pay](https://github.com/lnurl/luds/blob/luds/06.md): A user scans an LNURL-pay QR code with their wallet, which then requests a Lightning invoice for the payer. This invoice can be a fixed amount or a range; the payer can also leave a message.<br>
-　・[LNURL-pay-to-Lightning-Address](https://github.com/lnurl/luds/blob/luds/16.md): Users are able to pay to a static, human-readable internet identifier that looks like an email address (satoshi@your.domain). This identifier is called a [Lightning Address](https://lightningaddress.com/). Note that services who wish to offer this feature can support pay-to-lightning-address, receive-to-lightning-address, or both.<br>
-・[LNURL-withdraw](https://github.com/lnurl/luds/blob/luds/03.md): An LN service generates an LNURL “endpoint”—or destination from which funds will be sent—encoded as a QR code. A user scans this QR code, and receives information like the minimum and maximum amount of funds available for withdrawal, once specified, the wallet returns the LN invoice to the service and awaits payment.<br>
-・[LNURL-auth](https://github.com/lnurl/luds/blob/luds/04.md): This feature allows users to login to to services that support LNURL by signing a “login” message (presented as a QR code or text string invoice) with their LN wallet’s public key.
+・[LNURL-pay](https://github.com/lnurl/luds/blob/luds/06.md): ユーザーがLNURL-payのQRコードをウォレットでスキャンすると、支払者にLNインボイスが発行されます。このインボイスは金額を固定にするか範囲指定が可能で、支払い者はメッセージを残すこともできます。<br>
+　・[LNURL-pay-to-Lightning-Address](https://github.com/lnurl/luds/blob/luds/16.md): ユーザーは、satoshi@your.domain のような電子メールアドレスのように見える、静的で人間が読めるインターネット識別子に対して支払いを行うことができます。この識別子は[ライトニング・アドレス](https://lightningaddress.com/)と呼ばれます。この機能を提供したいサービスは、pay-to-lightning-address、receive-to-lightning-address、またはその両方をサポートすることができることを覚えておいてください。<br>
+・[LNURL-withdraw](https://github.com/lnurl/luds/blob/luds/03.md): LNサービスは、LNURLの「エンドポイント」（あるいは送金先）をQRコードで生成します。ユーザーはこのQRコードをスキャンし、引き出し可能な資金の最小額と最大額などの情報を受け取ります。金額が指定されると、ウォレットはLNインボイスをサービスに返し、支払いを待ちます。<br>
+・[LNURL-auth](https://github.com/lnurl/luds/blob/luds/04.md): この機能により、ユーザーはLNウォレットの公開鍵で「ログイン」メッセージ（QRコードまたはテキスト文字列の請求書として提示）に署名することで、LNURLをサポートするサービスにログインできます。
 
 ![](/_images/glossary-number_1.png)
 
-Example: [stacker.news](https://stacker.news/) has LNURL-auth enabled for their login process.
+例：[stacker.news](https://stacker.news/) はログインプロセスでLNURL-authを有効にしています。
 
-Resources to learn more about LNURL:
+LNURLについてもっと知るためのリソース:
 
 ・[bolt.fun LNURL Guide](https://bolt.fun/guide/web-services/lnurl)<br>
 ・[bitcoin.design Payment Request Formats Guide](https://bitcoin.design/guide/how-it-works/payment-request-formats/#lnurl)<br>
