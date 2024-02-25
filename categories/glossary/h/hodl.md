@@ -8,7 +8,15 @@ taxonomy:
 ## HODL
 2,100 sats
 
-HODL is an adage native to the Bitcoin community, derived simply from a misspelling of the word “hold”. It advises bitcoiners to remain stoic and avoid selling in the face of the extreme price volatility Bitcoin often experiences. Bitcoiners believe bitcoin to be the future global reserve asset, and thus, its gains should be astronomical, even relative to current prices. Thus, while trading could potentially offer short term gains, hodling is the safer alternative in that a hodler can never find themself with fewer bitcoin than they started with. The term HODL finds its origins in a post on the BitcoinTalk forum from an inebriated bitcoiner during a price crash.
+HODLは[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)コミュニティーで生まれた格言で、単に "hold" という単語のスペルミスに由来します。
+
+その言葉は、ビットコインがしばしば経験する極端な価格変動に直面しても、ストイックな姿勢を崩さず、売りを避けるようビットコイナー達に勧めています。
+
+ビットコイナー達は、ビットコインが将来の世界的な基軸資産になり、その利益が現在の価格と比較しても天文学的なものになるはずだ、と信じています。
+
+したがってビットコインのトレードは短期的な利益をもたらす可能性がある一方で、HODLすることはそれを始める時点よりもビットコインが少なくなることがないという点で、より安全な選択肢です。
+
+HODLという用語は、価格暴落時にある一人のビットコイナーがBitcoinTalkフォーラムに酔っぱらって投稿したのが始まりです。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
