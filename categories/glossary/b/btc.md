@@ -8,7 +8,9 @@ taxonomy:
 ## BTC
 2,100 sats
 
-BTC is the ticker symbol for Bitcoin. One bitcoin is denoted as 1 BTC, just as one U.S. dollar is denoted as 1 USD or one share of Apple Inc. is denoted by 1 AAPL. One BTC is divisible into 100,000,000 units, called satoshis or sats.
+BTC は[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)の市場銘柄コードです。1 米ドルが 1 USD、アップル社の1株が 1 AAPL と表記されるように、1 ビットコインは 1 BTC と表記されます。
+
+1 BTC は 1億分の1 (1/100,000,000) 単位に分割することができ、分割後の単位は [サトシ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi/) または [Sats](http://lostinbitcoin.jp.testrs.jp/staging/glossary/sat/) と呼ばれます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
