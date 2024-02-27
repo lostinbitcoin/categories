@@ -23,6 +23,7 @@ taxonomy:
 
 ### <a id="a"></a>あ
 <div class="table_a"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[アドレス<br>Address](http://lostinbitcoin.jp.testrs.jp/staging/glossary/address/)|[イニシャル・ブロック・ダウンロード (IBD)<br>Initial Block Download (IBD)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/ibd/)|[インフレーション<br>Inflation](http://lostinbitcoin.jp.testrs.jp/staging/glossary/inflation/)|
