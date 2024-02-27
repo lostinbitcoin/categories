@@ -33,6 +33,7 @@ taxonomy:
 
 ### <a id="ka"></a>か
 <div class="table_ka"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[拡張公開鍵 (Xpub)<br>Extended Public Key (Xpub)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/xpub/)|[拡張秘密鍵 (Xprv)<br>Extended Private Key (Xprv)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/xprv/)|[カストディアル<br>Custodial](http://lostinbitcoin.jp.testrs.jp/staging/glossary/custodial/)|
@@ -46,6 +47,7 @@ taxonomy:
 
 ### <a id="sa"></a>さ
 <div class="table_sa"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[サイドチェーン<br>Sidechain](http://lostinbitcoin.jp.testrs.jp/staging/glossary/sidechain/)|[サイファーパンク<br>Cypherpunk](http://lostinbitcoin.jp.testrs.jp/staging/glossary/cypherpunk/)|[サトシ<br>Satoshi](http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi/)|
@@ -57,6 +59,7 @@ taxonomy:
 
 ### <a id="ta"></a>た
 <div class="table_ta"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[耐久性<br>Durability](http://lostinbitcoin.jp.testrs.jp/staging/glossary/durability/)|[代替性<br>Fungibility](http://lostinbitcoin.jp.testrs.jp/staging/glossary/fungibility/)|[大統領令6102号<br>Executive Order 6102](http://lostinbitcoin.jp.testrs.jp/staging/glossary/executive_order_6102/)|
@@ -67,6 +70,7 @@ taxonomy:
 
 ### <a id="na"></a>な
 <div class="table_na"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[難易度<br>Difficulty](http://lostinbitcoin.jp.testrs.jp/staging/glossary/difficulty/)|[二重支払い<br>Double Spend](http://lostinbitcoin.jp.testrs.jp/staging/glossary/double_spend/)|[ニモニック<br>Mnemonic](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mnemonic/)|
@@ -74,6 +78,7 @@ taxonomy:
 
 ### <a id="ha"></a>は
 <div class="table_ha"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[ハッシュ関数<br>Hash Function](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hash_function/)|[ハッシュレート<br>Hash Rate](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hash_rate/)|[バッチ<br>Batching](http://lostinbitcoin.jp.testrs.jp/staging/glossary/batching/)|
@@ -92,6 +97,7 @@ taxonomy:
 
 ### <a id="ma"></a>ま
 <div class="table_ma"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[マイニング<br>Mining](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining/)|[マイニングプール<br>Mining Pool](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining_pool/)|[マイニング報酬<br>Block Reward](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block_reward/)|
@@ -102,11 +108,13 @@ taxonomy:
 
 ### <a id="ya"></a>や
 <div class="table_ya"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 
 ### <a id="ra"></a>ら
 <div class="table_ra"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[ライトニング・インボイス<br>Lightning Invoice](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_invoice/)|[ライトニング実装<br>Lightning Implementations](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_implementations/)|[ライトニング・チャネル<br>Lightning Channel](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_channel/)|
@@ -114,11 +122,13 @@ taxonomy:
 
 ### <a id="wa"></a>わ
 <div class="table_wa"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 
 ### <a id="number"></a>英数字
 <div class="table_num"></div>
+
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
 |[51%攻撃<br>51% Attack](http://lostinbitcoin.jp.testrs.jp/staging/glossary/51_attack/)|[ASIC (特定用途向け集積回路)<br>Application-Specific Integrated Circuit (ASIC)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/asic/)|[BIP 125 (RBF)<br>BIP 125 (Replace-by-Fee)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip125/)|
