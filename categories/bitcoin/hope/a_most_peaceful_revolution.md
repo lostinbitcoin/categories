@@ -76,7 +76,7 @@ _本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パート�
 
 例えば、ベネズエラでは、通貨ボリバルの非公式レート（市場レート）の発信が違法とされている。政府は為替レートを都合よく操作することで利益を得ているからだ。ベネズエラで最も人気がある為替レート情報サイト、DolarToday（アメリカのマイアミが運営拠点）は、ボリバルの対ドルレートをLocalBitcoins（ビットコインのP2P取引所）の取引情報を参考に算出している。
 
-![](/_images/a_most_peaceful_revolution_4.png)
+![](/_images/a_most_peaceful_revolution_4.jpeg)
 出典：[https://dolartoday.com/](https://dolartoday.com/)
 
 ビットコインのP2P取引が盛んな市場が資本規制採用国、ハイパーインフレ国、政情不安定国に集中している事実は驚くことではない。LocalBitcoinsのデータを使った[Matt Ahlborg](https://medium.com/@mattahlborg)の[分析](https://medium.com/@mattahlborg/nuanced-analysis-of-localbitcoins-data-suggests-bitcoin-is-working-as-satoshi-intended-d8b04d3ac7b2)では、国民一人当たりのビットコイン取引が多い国として、ロシア、ベネズエラ、コロンビア、ナイジェリア、ケニア、ペルーが挙げられている。
@@ -193,7 +193,7 @@ _本記事は [CASTLE ISLAND VENTURES](https://www.castleisland.vc/) パート�
 
 それまで、そのシステムは淡々と動き続ける。
 
-![](/_images/a_most_peaceful_revolution_6.png)
+![](/_images/a_most_peaceful_revolution_6.jpeg)
 
 
 ### 著作権等について
