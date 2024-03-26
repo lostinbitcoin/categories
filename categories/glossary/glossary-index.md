@@ -73,7 +73,7 @@ taxonomy:
 
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|[難易度<br>Difficulty](http://lostinbitcoin.jp.testrs.jp/staging/glossary/difficulty/)|[二重支払い<br>Double Spend](http://lostinbitcoin.jp.testrs.jp/staging/glossary/double_spend/)|[ニモニック<br>Mnemonic](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mnemonic/)|
+|[難易度<br>Difficulty](http://lostinbitcoin.jp.testrs.jp/staging/glossary/difficulty/)|[二重支払い<br>Double Spend](http://lostinbitcoin.jp.testrs.jp/staging/glossary/double_spend/)|[ニーモニック<br>Mnemonic](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mnemonic/)|
 |[ニュートリノ<br>Neutrino](http://lostinbitcoin.jp.testrs.jp/staging/glossary/neutrino/)|[ノード<br>Node](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node/)|[ノンカストディアル<br>Non-Custodial](http://lostinbitcoin.jp.testrs.jp/staging/glossary/non_custodial/)|
 
 ### <a id="ha"></a>は
@@ -133,7 +133,7 @@ taxonomy:
 | ---- | ---- | ---- |
 |[51%攻撃<br>51% Attack](http://lostinbitcoin.jp.testrs.jp/staging/glossary/51_attack/)|[ASIC (特定用途向け集積回路)<br>Application-Specific Integrated Circuit (ASIC)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/asic/)|[BIP 125 (RBF)<br>BIP 125 (Replace-by-Fee)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip125/)|
 |[BIP 174 (PSBT)<br>BIP 174 (PSBT)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip174/)|[BIP 32 (階層型決定性ウォレット)<br>BIP 32 (Hierarchical Deterministic Wallets)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip32/)|[BIP 340 (シュノア署名)<br>BIP 340 (Schnorr Signatures)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip340/)|
-|[BIP 39 (ニモニックフレーズ)<br>BIP 39 (Mnemonic Phrases)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip39/)|[BTC<br>BTC](http://lostinbitcoin.jp.testrs.jp/staging/glossary/btc/)|[CPFP<br>Child-Pays-for-Parent (CPFP)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/cpfp/)|
+|[BIP 39 (ニーモニックフレーズ)<br>BIP 39 (Mnemonic Phrases)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip39/)|[BTC<br>BTC](http://lostinbitcoin.jp.testrs.jp/staging/glossary/btc/)|[CPFP<br>Child-Pays-for-Parent (CPFP)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/cpfp/)|
 |[DEX (分散型取引所)<br>Decentralized Exchange (DEX)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/dex/)|[ECDSA<br>ECDSA](http://lostinbitcoin.jp.testrs.jp/staging/glossary/ecdsa/)|[Eltoo<br>Eltoo](http://lostinbitcoin.jp.testrs.jp/staging/glossary/eltoo/)|
 |[HODL<br>HODL](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hodl/)|[Howeyテスト<br>Howey Test](http://lostinbitcoin.jp.testrs.jp/staging/glossary/howey_test/)|[HTLC (ハッシュタイムロックコントラクト)<br>Hashed Time Locked Contract (HTLC)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/htlc/)|
 |[Liquidネットワーク<br>Liquid Network](http://lostinbitcoin.jp.testrs.jp/staging/glossary/liquid_network/)|[LNURL<br>LNURL](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lnurl/)|[M-of-N<br>M-of-N](http://lostinbitcoin.jp.testrs.jp/staging/glossary/m_of_n/)|
