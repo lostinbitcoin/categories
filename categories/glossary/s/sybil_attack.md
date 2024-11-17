@@ -5,15 +5,14 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Sybil Attack
 2,100 sats
 
-A sybil attack targets a network of peer-to-peer nodes by flooding the network with nodes which are all controlled by the same entity. These malicious nodes attempt to form a dominant majority of the network and convince honest nodes of dishonest facts. For example, a vendor on eBay may flood their competition with negative reviews to trick customers. Bitcoin is not a majority-rule system. Instead, Bitcoin is run by Nakamoto consensus, wherein every node runs exactly the code and ruleset they wish to run. Those who run the code form a network, while those who do not are excluded. Critically, the method for determining the valid state of the blockchain is objective, and does not rely on the opinions of other nodes. Thus, a sybil attack on Bitcoin is far more difficult to execute because controlling a simple or even supermajority of nodes will not allow an attacker to alter the ruleset used by honest nodes.
+シビル攻撃は、ピアツーピアネットワークを対象に、同一の主体によってコントロールされた大量のノードを送り込むことで、ネットワークを攻撃する手法です。これら攻撃者の管理するノードがネットワーク内で大勢を占めることで、他のノードに正しくない情報を信じ込ませようとします。例えば、eBayの出品者が競合相手に大量の否定的なレビューを送り込み、顧客を欺くような行為が考えられます。
+
+ビットコインは、多数決のシステムでなく「ナカモト・コンセンサス」によって運営されており、このコンセンサスでは、各ノードが自身が使いたいと思うコードとルールセットを実行します。そして、このコードを実行する人々同士でネットワークが形成され、一方で実行しない人々はそのネットワークから排除されます。
+
+特に重要なのはブロックチェーンの有効な状態を決定する方法が客観的であり、特定のノードの意見に依存しないという点です。したがって、仮に過半数もしくは圧倒的多数のノードを攻撃者が制御できたとしても、攻撃者は他のノードが使用しているルールセットを変更することはできないため、ビットコインに対してシビル攻撃を実行するのは非常に困難と言えます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
