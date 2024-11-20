@@ -87,7 +87,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/genesis_block/">ジェネシス・ブロック<br />Genesis Block<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/time_preference/">時間選好<br />Time Preference<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/seed/">シード<br />Seed</a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/sybil_attack/">シビル攻撃<br />Sybil Attack<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/sybil_attack/">シビル攻撃<br />Sybil Attack</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/schnorr_signature/">シュノア署名<br />Schnorr Signature<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/capital_controls/">資本規制<br />Capital Controls<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/confirmation/">承認<br />Confirmation</a></li>
