@@ -5,15 +5,18 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## CoinJoin
 2,100 sats
 
-A CoinJoin is a large Bitcoin transaction which takes inputs from many different users and returns many outputs of identical amounts, so that an observer cannot easily determine which outputs belong to which of the participants. CoinJoin provides increased privacy for owners of bitcoin by breaking the heuristics used by chain analysis companies. CoinJoin transactions obscure ownership of specific pieces of bitcoin (UTXOs). CoinJoin is distinct from mixing services in that CoinJoin operators never take custody of any funds. Users maintain control of their bitcoin at all times. Check out an example of a CoinJoin transaction on the blockchain here. In order to construct a CoinJoin transaction, users cooperatively contribute inputs to a transaction and receive the same amounts of bitcoin as outputs, all in uniform amounts. For example, if 5 users input amounts of 1, 2, 3, 4, and 5 BTC, there will be five inputs totalling 15 BTC, and there will be 15 outputs, each worth 1 BTC. Since each input is of exactly the same amount, it is impossible to tell which 1 BTC outputs belong to which user.
+コインジョインは多数のユーザーが合同で実行する大口のトランザクションです。各ユーザーから集めたインプットのビットコイン合計数量を均一に分割し、複数のアウトプットに送り返すことによって、ユーザーとアウトプットの紐づけを難しくします。
+
+コインジョインはブロックチェーン分析企業が用いるヒューリスティクスを無効にし、ビットコイン所有者のプライバシーを強化します。
+
+コインジョインでビットコインを送受信すると、UTXOの所有者を不明瞭にすることができます。
+
+また、カストディアル型のミキシングとは異なり、コインジョインは運営事業者がビットコインを管理するのではなく、ユーザーが自己管理します。
+
+ブロックチェーン上で実際に行われている取引例を見てみましょう。まず、複数のユーザーがそれぞれインプットを拠出し、それらのインプットを混ぜ合わせて1つのトランザクションを作成します。そして、複数のユーザーが均一額に分割されたアウトプットを受け取ります。たとえば、5名のユーザーがそれぞれ1BTC、2BTC、3BTC、4BTC、5BTCのインプットを拠出した場合、5つのインプットの合計は15BTCです。この15BTCを1BTCずつ15のアウトプットに分割します。そのように複数のユーザーが同じ額のアウトプットを受け取ることで、各アウトプットの所有者を特定できなくします。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
