@@ -13,11 +13,11 @@ taxonomy:
 ## Decentralized Ledger
 2,100 sats
 
-A decentralized ledger is a record of all transactions on a network. This ledger is maintained and updated by many independent nodes, who collaborate based on a ruleset established by the protocol. Bitcoin uses a blockchain and a Proof-of-Work mechanism to organize the network and maintain its decentralized ledger.
+分散型台帳とは、あるネットワークにおける全ての[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)が記録されたものを指します。この台帳は、[プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/protocol/)によって定められたルールに基づいて、多くの独立した[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node-2/)によって維持・更新されます。[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin-2/)では、[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)と[プルーフ・オブ・ワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/pow/)メカニズムを活用してネットワークが組織され、分散型台帳を維持管理しています。
 
-Traditional banks use centralized ledgers to track balances. Each bank branch periodically updates this central ledger, but this ledger is neither public nor auditable. The Bitcoin protocol changes this paradigm by allowing anyone to read and write directly to the ledger. Anyone is capable of publishing a Bitcoin transaction. Miners will add that transaction to the blockchain, and anyone can query the blockchain to check their balances and transaction history.
+従来の銀行では、中央集権型の台帳を用いて残高を追跡します。各支店が定期的にこの中央台帳を更新しますが、この台帳は公開されておらず、監査も困難です。一方、ビットコインプロトコルはこの仕組みを変革し、誰でも台帳を直接読み書きすることができ、ビットコイン取引を公開することも可能にしました。マイナーがその取引をブロックチェーンに追加し、誰でもブロックチェーンを参照して残高や取引履歴を確認できます。
 
-All nodes in the Bitcoin network keep and validate identical copies of the ledger so that there exists no central point of failure or fraud. Whereas executives at a traditional bank can conspire to arbitrarily change the ledger at their own bank, no one is capable of dishonestly altering the Bitcoin blockchain. This gives Bitcoin ultimate security and trustworthiness.
+ビットコインネットワーク上のすべてのノードは、同一の台帳を保持し、検証を行います。この仕組みにより、中央集権的な障害点や不正が存在しない状態が保たれます。従来の銀行では、経営者が共謀して台帳を不正に操作する可能性がありますが、ビットコインのブロックチェーンを不正に改ざんすることは不可能です。この特性がビットコインに究極のセキュリティと信頼性をもたらしています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
