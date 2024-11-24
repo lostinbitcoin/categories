@@ -5,19 +5,16 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Satoshi Nakamoto
 2,100 sats
 
-Satoshi Nakamoto is the anonymous creator(s) of Bitcoin who published the whitepaper on October 31, 2008 and mined the first Bitcoin block on January 3, 2009. Satoshi mined over 1 million BTC and developed the project in its early years before withdrawing and ultimately disappearing. Ever since, Satoshi has not moved any of this bitcoin.
 
-Satoshi's disappearance left Bitcoin without a central leader who could dictate the direction of the project, a source of strength in the eyes of most Bitcoiners.
+サトシ・ナカモトは、2008年10月31日に[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin-2/)の[ホワイトペーパー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/whitepaper/)を公開し、2009年1月3日に最初のビットコイン[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)を[マイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining/)した匿名の創設者（達）です。
+サトシは100万[BTC](http://lostinbitcoin.jp.testrs.jp/staging/glossary/btc/)以上をマイニングし、プロジェクトの初期開発を手掛けた後徐々に姿を消し、最終的には完全に消息を絶ちました。それ以降、サトシはこれらのビットコインを一切動かしていません。
 
-The atomic unit of Bitcoin is the satoshi, in honor of Bitcoin's founder.
+サトシが姿を消したことで、ビットコインはプロジェクトの方向性を指示できる中心的なリーダーを持たない状態になりました。この点は、多くのビットコイナーにとって、ビットコインの強さの源泉とされています。
+
+ビットコインの最小単位であるサトシ（satoshi）は、ビットコインの創設者に敬意を表して名付けられたものです。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
