@@ -68,7 +68,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/verifiability/">検証性<br />Verifiability</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/public_key/">公開鍵<br />Public Key</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/medium_of_exchange/">交換手段<br />Medium of Exchange</a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/coinjoin/">コインジョイン<br />CoinJoin<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/coinjoin/">コインジョイン<br />CoinJoin</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/coinswap/">コインスワップ<br />CoinSwap<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/coin_selection/">コインセレクション<br />Coin Selection<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/coinbase_transaction/">コインベース・トランザクション<br />Coinbase Transaction</a></li>
