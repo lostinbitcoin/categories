@@ -5,15 +5,14 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Application-Specific Integrated Circuit (ASIC)
 2,100 sats
 
-An Application-Specific Integrated Circuit (ASIC) is a special microchip built for exactly one purpose. Bitcoin ASIC miners, the hardware devices that contain these chips, are designed solely to hash blocks in order to find a valid Proof-of-Work. Essentially, the only function these microchips perform is the SHA-256 hash function on a block header. Because mining has become such a large industry, the difficulty has risen to the point where using a CPU or GPU to mine is no longer profitable. Having a single purpose affords ASIC miners critical efficiency gains in an industry where the tiniest efficiency improvement can give a miner the edge. The rapid innovation around Bitcoin ASICs has partially driven the explosion of hash rate over the last decade, bolstering Bitcoin’s security.
+特定用途向け集積回路（ASIC）は、特定の目的のためだけに設計された特殊なマイクロチップです。[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin-2/)ASICマイナーは、これらのチップを搭載したハードウェアデバイスであり、 [プルーフ・オブ・ワーク（PoW）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/pow/)を通じて有効なハッシュ値を見つけ出せるよう、ブロックをハッシュするためだけに設計されています。具体的には、このマイクロチップはブロックヘッダーに対する[ハッシュ関数](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hash_function/)[SHA-256](http://lostinbitcoin.jp.testrs.jp/staging/glossary/sha_256/)の計算のみを実行します。
+
+[マイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining/)が大規模な産業となった現在では、採掘の[難易度](http://lostinbitcoin.jp.testrs.jp/staging/glossary/difficulty/)が上昇し、CPUやGPUを使用してのマイニングはもはや採算が取れなくなっています。ごくわずかな効率の差が優位性をもたらすこの業界において、ASICは単一目的に特化することでマイナーに決定的な効率性の向上をもたらしています。
+
+ビットコインASICに関連する急速な技術革新は、過去10年間における[ハッシュレート](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hash_rate/)の急上昇を部分的に後押ししており、ビットコインのセキュリティを強化する要因ともなっています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

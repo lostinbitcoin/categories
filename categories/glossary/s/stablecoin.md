@@ -5,15 +5,14 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Stablecoin
 2,100 sats
 
-A stablecoin is a cryptocurrency intended and designed to be stable in price. This property is achieved by pegging its value to a fiat currency, cryptocurrency, or less commonly, to a commodity. This peg and the issuance of the stablecoin are managed by a centralized party, typically a company, which also maintains the stablecoin. Their business model is to lend and invest with part of the assets that are backing the stablecoin. Stablecoins are typically issued as an asset on top of a blockchain that has its own native asset. This gives stablecoins the benefits of speed and global access of a blockchain, and the programmability of cryptocurrency, all while maintaining a relatively stable value and being less subject to regulation than fiat currencies. With that said, it is important to note that the centralized party that maintains the stablecoin has full control over all the assets. The most popular stablecoins today are Tether (USDT), USD Coin (USDC) and Binance USD (BUSD). They are frequently used by traders to rapidly move in and out of cryptocurrencies and to move their wealth between exchanges to take advantage of arbitrage opportunities. Stablecoins are also gaining in popularity as a store of value in countries with high inflation, where people may struggle to obtain physical dollars and cannot hold them through their banking services.
+ステーブルコインは、暗号通貨の価格変動の大きさを問題と捉え、価格変動リスクを排除するために設計された暗号通貨です。価格を[法定通貨](http://lostinbitcoin.jp.testrs.jp/staging/glossary/fiat_currency/)、暗号通貨、または稀に商品（コモディティ）にペグ(連動)させることで、ペグした資産に対して価格を一定に保ちます。ステーブルコインの発行と価格のペグは、通常、企業などの集権的組織によって管理されています。これら企業はステーブルコインの裏付け資産の一部を貸付や投資に回すことで収益を得ています。
+
+ステーブルコインは独自のネイティブトークンを持つ[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)で発行されたトークンであるため、暗号通貨の利点とされる高速トランザクション、グローバルアクセス、プログラマビリティに加えて、価格の安定性も享受できます。また、現時点では法定通貨よりも規制の影響を受けにくいという事情もあります。ただし、ステーブルコインおよび担保資産の管理権限は、ステーブルコインを発行・管理する集権的組織が完全掌握している点には注意が必要です。
+
+現在最も人気のあるステーブルコインには、テザー（USDT）、USDコイン（USDC）、バイナンスUSD（BUSD）があります。これらは暗号通貨を迅速に取引したいというトレーダーのニーズを満たすだけでなく、取引所間の資産移転を伴う裁定取引で多用されています。また、ステーブルコインは高い[インフレ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/inflation/)率に苦しむ国々でも[価値貯蔵手段](http://lostinbitcoin.jp.testrs.jp/staging/glossary/sov/)として人気を集めています。こうした国々では往々にして、ドル紙幣の入手や銀行にドル預金口座を開設することが難しいためです。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
