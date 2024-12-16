@@ -83,8 +83,8 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/sidechain/">サイドチェーン<br />Sidechain</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/cypherpunk/">サイファーパンク<br />Cypherpunk</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi/">サトシ<br />Satoshi</a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi_nakamoto/">サトシ・ナカモト<br />Satoshi Nakamoto<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/genesis_block/">ジェネシス・ブロック<br />Genesis Block<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi_nakamoto/">サトシ・ナカモト<br />Satoshi Nakamoto</a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/genesis_block/">ジェネシス・ブロック<br />Genesis Block</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/time_preference/">時間選好<br />Time Preference<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/seed/">シード<br />Seed</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/sybil_attack/">シビル攻撃<br />Sybil Attack</a></li>
@@ -92,9 +92,9 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/capital_controls/">資本規制<br />Capital Controls<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/confirmation/">承認<br />Confirmation</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/signature/">署名<br />Signature<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/stablecoin/">ステーブルコイン<br />Stablecoin<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/stablecoin/">ステーブルコイン<br />Stablecoin</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/s2f/">ストック・フロー比率<br />Stock-to-Flow (S2F)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/smart_contract/">スマートコントラクト<br />Smart Contract<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/smart_contract/">スマートコントラクト<br />Smart Contract</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/brute_force_attack/">総当たり攻撃<br />Brute Force Attack<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction_fee/">送金手数料<br />Transaction Fee</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/soft_fork/">ソフトフォーク<br />Soft Fork<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
@@ -104,7 +104,7 @@ taxonomy:
 	<h3>た</h3>
 	<ul class="word-container">
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/durability/">耐久性<br />Durability</a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/fungibility/">代替性<br />Fungibility<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/fungibility/">代替性<br />Fungibility</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/executive_order_6102/">大統領令6102号<br />Executive Order 6102<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/timelock/">タイムロック<br />Timelock<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/dust/">ダスト<br />Dust</a></li>
@@ -162,7 +162,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/block_subsidy/">ブロック報酬<br />Block Subsidy</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/protocol/">プロトコル<br />Protocol</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/immutability/">不変性<br />Immutability</a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/decentralized_ledger/">分散台帳<br />Decentralized Ledger<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/decentralized_ledger/">分散台帳<br />Decentralized Ledger</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/p2ep/">ペイジョイン (P2EP)<br />PayJoin (P2EP)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/payment_rail/">ペイメントレール<br />Payment Rail<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/penalty_transaction/">ペナルティトランザクション<br />Penalty Transaction<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
@@ -215,7 +215,7 @@ taxonomy:
 	<h3>英数字</h3>
 	<ul class="word-container">
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/51_attack/">51%攻撃<br />51% Attack</a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/asic/">ASIC (特定用途向け集積回路)<br />Application-Specific Integrated Circuit (ASIC)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/asic/">ASIC (特定用途向け集積回路)<br />Application-Specific Integrated Circuit (ASIC)</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip125/">BIP 125 (RBF)<br />BIP 125 (Replace-by-Fee)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip174/">BIP 174 (PSBT)<br />BIP 174 (PSBT)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip32/">BIP 32 (階層型決定性ウォレット)<br />BIP 32 (Hierarchical Deterministic Wallets)</a></li>
@@ -223,7 +223,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip39/">BIP 39 (ニーモニックフレーズ)<br />BIP 39 (Mnemonic Phrases)</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/btc/">BTC<br />BTC</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/cpfp/">CPFP<br />Child-Pays-for-Parent (CPFP)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/dex/">DEX (分散型取引所)<br />Decentralized Exchange (DEX)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/dex/">DEX (分散型取引所)<br />Decentralized Exchange (DEX)</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/ecdsa/">ECDSA<br />ECDSA<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/eltoo/">Eltoo<br />Eltoo<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/hodl/">HODL<br />HODL</a></li>
