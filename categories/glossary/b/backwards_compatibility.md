@@ -1,23 +1,15 @@
 ---
 title: 後方互換性
-taxonomy:
-    category:
-        - glossary
 ---
-
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
 
 ## Backwards Compatibility
 2,100 sats
 
-An upgrade to a system is backwards compatible if the upgrade does not render the old version of the system unusable. Backwards compatibility is present when an upgrade makes previously invalid behavior valid, but not when an upgrade makes previously invalid behavior valid. Backwards compatibility allows users to choose whether and when they want to upgrade, and is highly preferable in decentralized, consensus-based systems. When an upgrade is backwards compatible, it is called a soft fork, while non-backwards compatible upgrades are called hard forks.
+後方互換性とは、システム更新後も古いバージョンが引き続き利用できることを指します。後方互換性がある場合、更新以前に無効だった動作が有効になることはありますが、有効だった動作が無効になることはありません。後方互換性があることで、システムを更新するか否か、するならいつかをユーザーが自由に選択できます。これは[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)のような[コンセンサス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/consensus/)に基づき稼働する分散型システムにおいて特に重要です。後方互換性を持つ更新は「[ソフトフォーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/soft_fork/)」、後方互換性を持たないアップグレードは「[ハードフォーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hard_fork/)」と呼ばれます。
 
-For example, LED light bulbs offer an improvement on traditional filament light bulbs. However, LED light bulbs can be screwed into the exact same sockets as traditional bulbs. Upgrading a home to LED bulbs therefore does not render traditional bulbs useless.
+後方互換性のある更新の例としては、LED電球があります。従来のフィラメント電球の改良版であるLED電球は、従来の電球と同じソケット（受け口）に取り付けられます。そのため、家庭の電球をLED電球に更新しても、従来の電球が使えなくなるわけではありません。
 
-When introducing changes to Bitcoin, developers always attempt to achieve backwards compatibility in order to avoid forcing users to upgrade. While introducing the SegWit upgrade, developers created “wrapped” SegWit, a P2SH transaction which allowed wallets to send to SegWit addresses without upgrading to SegWit itself.
+ビットコインの開発者はソフトウェアに変更を加える際、ユーザーに更新を強制しないよう、常に後方互換性の担保に努めます。[SegWit](http://lostinbitcoin.jp.testrs.jp/staging/glossary/segwit/)導入の際は、「ラップド（ラップされた）」SegWitなるP2SH[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)を考案しました。これにより、SegWitに未対応の[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)からも、SegWitアドレスへの送信を可能とし、後方互換性を確保しました。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
