@@ -5,21 +5,16 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Signature
 2,100 sats
 
-A digital signature is similar to a physical signature in theory, yet far more secure and trustworthy. Like its physical counterpart, a digital signature indicates approval of the data being signed. Unlike a physical signature, a digital signature cannot be copy-pasted because a signature is unique for each piece of data being signed.
+デジタル署名は理論的には物理的な署名と似ていますが、はるかに安全で信頼性があります。物理的な署名と同様に、デジタル署名は署名対象のデータに対する承認を示します。しかし、物理的な署名とは異なり、デジタル署名はコピー＆ペーストが不可能です。なぜなら、デジタル署名は署名対象のデータごとに固有だからです。
 
-For example, if you create a signature for the text “Hello”, this signature is invalid for the text “Hey”. This trait allows digital signatures to be publicized without risk of fraud.
+たとえば、「Hello」というテキストに対して作成された署名は、「Hey」というテキストには無効です。この特性により、デジタル署名は詐欺のリスクなしに公開することができます。
 
-There are three parts to a digital signature: the data being signed, the public key of the signer, and the signature itself. The data can be anything digital, including text, an image, an audio file, and more. The public key is a pseudonymous form of identity, informing the public that the owner of the corresponding private key has signed this message. Lastly the signature is mathematical proof that the owner of the public key and the corresponding private key signed the exact data provided.
+デジタル署名には次の3つの要素があります：署名対象のデータ、署名者の[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/public_key/)、そして署名そのものです。データはテキスト、画像、音声ファイルなど、デジタルなものであれば何でも構いません。公開鍵は仮名形式で身元を示すものであり、対応する[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/private_key/)の所有者がこのメッセージに署名したことを公に伝えます。署名そのものは、公開鍵とそれに対応する秘密鍵の所有者が提供されたデータに正確に署名したことを数学的に証明するものです。
 
-The magic here is that the private key is required to create the signature, but not required to verify it. Anyone can verify that the signature is valid using only the public key. Furthermore, since the signature is generated using the hash of the data it is signing, verifiers can be sure that the data provided is unaltered since it was signed.
+ここでの重要なポイントは、署名を作成するためには秘密鍵が必要ですが、署名の検証には秘密鍵が不要であるということです。誰でも公開鍵だけで署名が有効であることを検証できます。さらに、署名は署名対象データのハッシュを使用して生成されるため、検証者はデータが署名後に改ざんされていないことを確認することができます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
