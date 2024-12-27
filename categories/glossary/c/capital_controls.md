@@ -5,17 +5,12 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Capital Controls
 2,100 sats
 
-Capital controls are any regulations that restrict the way residents can move money in or out of a country. This could be a tax or tariff on foreign transactions, or an outright limit on how much money can be moved in a certain direction. These policies are normally implemented by a government of a central bank. The most common application is propping up a failing currency by restricting capital outflows.
+資本規制とは、住民が資金を国の内外に移動する方法を制限するあらゆる規制を指します。これには、国外取引に対する税金や関税、または特定の方向へ移動させる資金の金額に対する完全な上限といったものがあり、これらの政策は通常、政府や中央銀行によって実施されます。最も一般的な適用例としては、資本流出を制限することで値下がりした通貨の価値を下支えすることです。
 
-Capital controls are most common in developing or unstable economies with unsound money. The regulations help maintain a steady balance of imports and exports and also prevent runs on domestic banks. However, capital controls can be detrimental to residents who have restrictions on their financial transactions. Assets such as Bitcoin, which are subject to less government regulation, are commonly used to bypass capital controls.
+資本規制は、主に発展途上もしくは不安定な経済下で、不安定な通貨を使用している国で最も一般的です。このような規制は、輸出入のバランスを安定的に保ち、国内銀行への取り付け騒ぎを防ぐ役割を果たします。しかし、資本規制は、金融取引が制限される住民にとっては不利益となる場合があります。[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin-2/)のような政府の規制を受けにくい資産は、資本規制を回避する手段として一般的に利用されています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
