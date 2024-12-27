@@ -72,7 +72,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/coinswap/">コインスワップ<br />CoinSwap<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/coin_selection/">コインセレクション<br />Coin Selection<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/coinbase_transaction/">コインベース・トランザクション<br />Coinbase Transaction</a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/backwards_compatibility/">後方互換性<br />Backwards Compatibility<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/backwards_compatibility/">後方互換性<br />Backwards Compatibility</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/cold_storage/">コールドストレージ<br />Cold Storage</a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/consensus/">コンセンサス<br />Consensus<br /><span class="untranslated">邦訳して 2100 sats GET!</span></a></li>
 	</ul>
