@@ -5,15 +5,14 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Difficulty
 2,100 sats
 
-The difficulty is a measure of how hard it is to mine a block. In order to mine a block, miners must provide Proof-of-Work in the form of a valid hash of the block they intend to publish. A hash is essentially a large number, and for a hash to be valid, it must be smaller than a defined target number. This target number determines the difficulty of mining and is set by Bitcoin’s ruleset. This difficulty is dynamic: it updates every 2016 blocks—roughly 2 weeks—to ensure Bitcoin blocks come in roughly every 10 minutes. If more miners join the network and mine blocks at a faster rate, difficulty will rise. If miners stop mining, and blocks arrive slower than every 10 minutes, difficulty will fall. The difficulty therefore directly follows the trend in hash rate of the network. In a technical sense, the Bitcoin network sets the target rather than the difficulty. All valid Proofs-of-Work must be below this target. The difficulty then, is simply the inverse of the target. If the target is raised, this makes it easier for miners to find a hash below the target, so the difficulty has been lowered. Likewise, if the target is lowered, the difficulty has been raised. The target is encoded as a part of each block header and is called the ‘bits’ of a block. This allows nodes to directly verify whether the Proof-of-Work provided for a block is lower than the target.
+難易度とは、[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)を[マイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining/)する際の困難さを示す指標です。ブロックをマイニングするためには、マイナーは発行しようとするブロックの有効なハッシュという[プルーフオブワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/pow/)を示す必要があります。ハッシュは基本的に大きな数値であり、有効なハッシュとされるためには、あらかじめ定められた目標値よりも小さい値でなければなりません。この目標値がマイニングの難易度を決定し、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin-2/)のルールセットによって設定されます。
+
+難易度は動的に変化し、2016ブロック（約2週間）ごとに調整されます。これはビットコインのブロック生成が平均して約10分ごとに行われるようにするためです。もしネットワークに参加するマイナーが増加しブロック生成速度が速くなれば、難易度は上昇します。逆にマイナーが減少しブロック生成が10分より遅くなれば、難易度は低下します。したがって、難易度はネットワーク全体の[ハッシュレート](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hash_rate/)の変動に直接対応しています。
+
+技術的にはより正確には、ビットコインネットワークは難易度ではなく目標値を設定しています。すべての有効なプルーフオブワークはこの目標値未満でなければならず、その点で難易度は単に目標値の逆数であると言えます。目標値が高く設定されると、マイナーがその値未満のハッシュを見つけやすくなるため、難易度は低下します。同様に目標値が低く設定されると、難易度は上昇します。この目標値は各[ブロックヘッダー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block_header/)にエンコードされ、「bits」と呼ばれます。これにより、各[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node-2/)は提供されたプルーフオブワークが目標値未満であるかどうかを直接検証することができます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
