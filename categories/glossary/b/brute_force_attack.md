@@ -5,21 +5,16 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Brute Force Attack
 2,100 sats
 
-A brute force attack is a method of attempting to crack a password or decrypt data simply by guessing every possible password or decryption key. Brute force is highly inefficient, so a brute force attack is usually used as a last resort against a system which is impervious to other, more efficient attack methods.
+総当たり攻撃とは、パスワードを解読したりデータを復号化したりする際、可能な限り全てのパスワードや復号鍵を順に試す方法です。総当たり攻撃は非常に非効率的であるため、通常他のより効率的な攻撃手段が通用しない場合の最後の手段として使用されます。
 
-Most systems that require passwords ask users to include uppercase letters, numbers, and special characters in order to decrease the efficacy of brute force attacks. This works because the greater the number of possible passwords, the harder it is to brute force.
+ほとんどのシステムでは、ユーザーに大文字や数字、特殊文字を含めるよう求めることで、総当たり攻撃の効果を低減しています。これは可能なパスワードの数が増えるほど、総当たり攻撃を成功させるのが難しくなるためです。
 
-The difficulty of a brute force can be calculated simply by taking the number of valid values—usually just one—and dividing it by the number of possible values. For example, a Bitcoin private key is usually 256 bits long. In order to brute force a specific Bitcoin private key, an attacker would have to guess each of the 256 bits correctly, and since each bit has two possible values (1 or 0), the attacker must guess from a range of 2^256 (roughly 10^77) possible values. Comparatively, a credit card number of 16 digits plus a 3 digit security code has a range of 10^19 possibilities. Brute forcing a social security number is even easier, since it is only 9 digits long. This is what makes Bitcoin vastly more secure than traditional financial systems.
+総当たり攻撃の難易度は、通常、有効な値の数（1つの場合がほとんど）を、ありうる値の総数で割ることで簡単に計算できます。たとえば、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin-2/)の[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/private_key/)は通常256ビットの長さがあります。特定のビットコイン秘密鍵を総当たりで解読するには、攻撃者は256ビットそれぞれを正確に当てる必要があります。各ビットには2つの値の可能性（1または0）があるため、攻撃者は2の256乗（およそ10の77乗に相当）の値の可能性の範囲から試行しなければなりません。
 
-In the context of cryptography, a problem or calculation is considered “hard” if the best possible method of solving it is a brute force attack. This is because a brute force attack is usually only used when no algorithm or other method can solve the problem.
+これに比べて、16桁のクレジットカード番号と3桁のセキュリティコードの組み合わせでは、値の可能性の範囲は10の19乗に過ぎません。さらに、社会保障番号（SSN）の場合は9桁のため、総当たり攻撃はさらに簡単です。これこそが、伝統的金融システムと比較してビットコインがはるかに安全であることの理由です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
