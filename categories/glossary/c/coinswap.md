@@ -13,8 +13,7 @@ taxonomy:
 ## CoinSwap
 2,100 sats
 
-CoinSwap is a proposed method for making Bitcoin transactions more private. Currently, chain analysis relies heavily on the assumption that if Alice sends an entire UTXO to an address, she is sending the transaction to herself. CoinSwap undermines this assumption by allowing two parties to send entire UTXOs to new addresses which are not their own. In doing so, parties will swap UTXOs and break the chain of custody for both coins.
-While a CoinSwap is composed of on-chain transactions, CoinSwap is an off-chain coordination protocol, and it would not require any changes to Bitcoin’s protocol. All interactions between the two parties would take place over the internet, and normal Bitcoin transactions would be posted to the Bitcoin blockchain. However, CoinSwap is still in its nascent phase, and has not been widely implemented or adopted.
+コインスワップとは、ビットコイン取引のプライバシーを強化することを目的として提案された方法です。現在のチェーン分析は、例えばあるユーザー（アリス）が未使用トランザクションアウトプット（UTXO）全体を一つのアドレスに送信した場合、「その送信先がアリス自身である」と推測することを前提としています。コインスワップは、アリスやボブなどの2者が、それぞれ自分が所有しない新しいアドレスにUTXO全体を送信することで、この前提を崩します。これにより、双方がUTXOを交換し、両者のコインの所有履歴を断ち切ることが可能になります。コインスワップはオンチェーン取引で構成されていますが、調整はオフチェーンで行われるプロトコルです。そのため、ビットコインのプロトコルを改変する必要はありません。2者間のやり取りはすべてインターネット上で行われ、最終的には通常のビットコイン取引としてブロックチェーンに記録されます。ただし、コインスワップはまだ初期段階にあり、広く実装され普及するには至っていないのが現状です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
