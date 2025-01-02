@@ -13,19 +13,17 @@ taxonomy:
 ## Executive Order 6102
 2,100 sats
 
-The Emergency Banking Relief Act of 1933 and Executive Order 6102 authorized U.S. President Franklin Delano Roosevelt to force American citizens to relinquish their gold under penalty of the law.
+1933年の大統領令6102号と緊急銀行救済法によって、フランクリン・ルーズベルト米大統領は、法的罰則を伴う形で米国民に金（ゴールド）を放棄させました。
 
-Executive Order 6102 was implemented so the U.S. government could devalue the dollar more aggressively to stimulate the economy during the Great Depression. So long as citizens had the opportunity to preserve their wealth in gold, such economic stimulus would result in obvious, high inflation.
+大統領令6102号は、アメリカ政府が大恐慌中に経済を刺激するため、より積極的にドルを切り下げる目的で実施されました。市民が金を通じて富を維持する手段を持つ限り、このような景気刺激策は明らかな高インフレを引き起こすリスクがありました。
 
-The executive order compensated owners $20.67 for each troy ounce of gold.
+この大統領令に基づき、金1トロイオンス（約31グラム）につき20.67ドルの補償が行われました。
 
-Warning: In fact, soon after Executive Order. 6102, President Roosevelt raised the price of gold from $20.67 to $35 per ounce, devaluing the dollar by 58% in one day.ies.
+警告：ルーズベルト大統領は、大統領令6102号の発布後すぐに金の価格を1トロイオンスにつき20.67ドルから35ドルに引き上げ、1日で米ドルの価値を58％切り下げました。
 
-In fact, soon after Executive Order. 6102, President Roosevelt raised the price of gold from $20.67 to $35 per ounce, devaluing the dollar by 58% in one day.
+大統領令6102号は、歴史的に見ても特異な出来事ではありません。金の大規模な没収は、何千年にもわたり世界中で繰り返されてきました。共産主義の中国やソビエト連邦、さらにはイギリスでも金が一斉に没収された歴史があります。
 
-Executive Order 6102 was not a unique event in history. Mass gold confiscations have occurred around the world for thousands of years. Gold was confiscated en masse in Communist China, the United Kingdom, and the Soviet Union.
-
-Gold is susceptible to mass confiscations because it is physically difficult to hide, secure, or transport. These inconveniences incentivize gold owners to store their gold with centralized custodians, usually banks. These banks are susceptible to government coercion. Whereas it would be extraordinarily costly to confiscate gold from millions of private homes, looting the far more limited number of banks is relatively efficient.
+金は、隠匿、保管、輸送が物理的に難しいため、大規模な没収の対象になりやすい資産です。こうした特性から、金の所有者は通常は銀行といった中央集権的な保管機関に金を預ける傾向があります。これらの銀行は政府の強制に対して脆弱です。個人宅に保管されている金の没収には莫大なコストがかかりますが、銀行から没収する方がはるかに効率的です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
