@@ -13,8 +13,7 @@ taxonomy:
 ## UTXO Set
 2,100 sats
 
-The UTXO set is the comprehensive set of all UTXOs existing at a given point in time. The sum of the amounts of each UTXO in this set is the total supply of existing bitcoin at that point of time. Bitcoin is special as a money in that anyone can verify the total supply at any time in a trustless manner. All nodes maintain identical copies of the UTXO set. When a new block is created, the UTXO set is updated as some UTXOs were spent and new ones were created. The UTXO set is also important because it allows all nodes in the Bitcoin network to detect and reject attempted double spends, wherein someone attempts to spend the same bitcoin twice. Nodes must store the entire UTXO at all times in order to determine which bitcoin exist, and thus can be spent, at any given point in time.
-
+UTXOセットは、特定の時点で存在するすべてのUTXO（未使用トランザクションアウトプット）を網羅した集合体です。このセット内の各UTXOの金額の合計が、その時点で存在するビットコインの総供給量となります。ビットコインは、誰でも信頼を必要とせずにいつでも総供給量を検証できるという点で、貨幣として特別な存在です。すべてのノードはUTXOセットの同一のコピーを保持します。新しいブロックが作成されると、一部のUTXOが消費され新たなUTXOが生成されるため、UTXOセットは更新されます。UTXOセットは、ビットコインネットワークのすべてのノードが同じビットコインを2回使用しようとする二重支払い（ダブルスペンド）を検出して拒否するためにも重要です。ノードは、任意の時点で使用可能なビットコインを確認するために、常にUTXOの全データを保持しておく必要があります。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
