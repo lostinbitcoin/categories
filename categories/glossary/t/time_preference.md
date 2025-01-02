@@ -13,7 +13,7 @@ taxonomy:
 ## Time Preference
 2,100 sats
 
-Time preference refers to an individual’s preference to own an asset at an earlier date as opposed to a later one. Higher time preference indicates that time-to-ownership is more important. Time preferences for consumption leads consumers to borrow money to purchase goods before they earn enough money to pay for them upfront. For example, when people buy houses with mortgages they are borrowing because they want to start living in the house right away. Financially, it is almost always superior to have ownership of goods or assets as soon as possible. However, this may not be the case for assets that are difficult or expensive to store. Time preferences are highly related to the interest rates lenders charge borrowers. Time preferences affect the way investors weigh monetary payoffs. Cash flows in the far future are discounted more heavily than cash flows which will occur sooner.
+時間選好とは、資産をより早く所有したいという個人の選好です。時間選好が高い人にとっては、資産の所有までに要する時間を短縮することが非常に重要になります。消費における時間選好によって、消費者は商品を購入する際、十分な資金を前もって用意する代わりに、お金を借りる選択をするようになります。例えば、住宅ローンはその典型例です。ローンを組む理由は、お金が貯まる前にすぐに家に住み始めたいからです。経済的には、金利を無視すれば財や資産をできるだけ早く所有する方が通常は有利とされています。ただし、保管が困難な資産や、保管費用が高額な資産には必ずしも当てはまりません。時間選好は、お金の貸し手が借り手に課す金利水準と密接に関係しています。また、時間選好は投資家が金銭的なリターンを評価する基準にも影響を与えます。遠い将来のキャッシュフローは、近い将来のキャッシュフローに比べ、現在価値に換算する際により大きく割り引かれる傾向があります。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
