@@ -13,11 +13,11 @@ taxonomy:
 ## Anti-Money Laundering (AML)
 2,100 sats
 
-Anti-Money Laundering (AML) is a category of laws and regulations that are intended to prevent money laundering, terrorist financing, tax evasion, and other illicit activities.
+マネーロンダリング対策（AML）とは、資金洗浄やテロ資金供与、脱税などの不正行為を防ぐための法律や規制の総称です。
 
-Most AML laws place requirements on financial institutions for keeping detailed records of their customers’ transactions and interactions so as to enable authorities to track the financial history of any customer.Additionally, financial institutions must often take a variety of steps to prevent illicit money transfers ahead of time. One such requirement of AML is Know Your Customer (KYC) laws, which require a financial institution to verify the identities of their customers.
+ほとんどのマネロン対策法では、当局が顧客の金融履歴を追跡できるよう、金融機関に対し顧客の取引ややり取りの詳細な記録を保持することを義務付けています。さらに、金融機関は多くの場合、事前に不正な送金を防止するための措置を講じなければなりません。そのようなマネロン対策法の1つに、金融機関に対して顧客の身元確認を義務付けるKnow Your Customer（KYC）法があります。
 
-Bitcoin brokerages and exchanges which take custody of user funds are subject to AML compliance in order to prevent money from being laundered between Bitcoin and other currencies. However, AML compliance varies significantly across jurisdictions.
+ユーザーの資金を預かるビットコイン証券会社や取引所は、ビットコインと他の通貨との間で資金洗浄が行われるのを防ぐため、マネロン対策のコンプライアンス要件を満たす必要があります。しかし、マネロン対策に関するコンプライアンスは国や地域ごとに大きく異なります。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
