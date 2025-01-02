@@ -13,7 +13,7 @@ taxonomy:
 ## Chain Analysis
 2,100 sats
 
-Chain analysis uses heuristics to analyse the blockchain and trace the ownership of bitcoin across transactions. Several companies exist solely to track and deanonymize individuals and their bitcoin using these heuristics. These companies sell their analysis to financial institutions and governments who are attempting to prevent fraud, money laundering, and other illegal activities. Chain analysis is a broad term, and should not be confused with the company called Chainalysis.
+チェーン分析とは、ブロックチェーンを分析し、複数の取引を通じてビットコインの所有権を追跡するための手法です。この手法では、ヒューリスティック（仮定や経験則に基づいた思考法）が用いられます。チェーン分析を活用して、個人とそのビットコインを追跡し匿名性を解除することを専門とする企業も存在します。これらの企業は、詐欺やマネーロンダリング、その他の違法行為を防止しようとする金融機関や政府に対して分析結果を販売しています。チェーン分析は幅広い概念を指す用語であり、”Chainalysis”という名前の企業と混同すべきではありません。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
