@@ -13,9 +13,9 @@ taxonomy:
 ## Mainnet
 2,100 sats
 
-Mainnet is the term for the real Bitcoin blockchain and network, and is used in contrast with testnet, signet, and regtest networks. Unlike the other networks, which are used for testing purposes, mainnet coins (BTC) have monetary value. When people refer to the Bitcoin network, they are usually referring to mainnet.
+メインネットとは、実際のビットコインのブロックチェーンおよびネットワークを指す用語です。これはテストネット、シグネット、レグテストネットワークと対比されて使用されます。テスト目的で使用される他のネットワークとは異なり、メインネットのコイン（BTC）は金銭的価値を持つ実際の資産です。人々がビットコインネットワークについて話す場合、通常はメインネットのことを指します。
 
-Each network has its own blockchain, and its own token. Additionally, addresses have different prefixes for each network. Mainnet addresses begin with ‘1’, ‘3’, or ‘bc1’, while testnet addresses begin with ‘2’, ‘m’, ‘n’, or ‘tb1’. Coins cannot be sent between networks. If mainnet bitcoin is sent to a testnet address, it is destroyed and unrecoverable. The same fate applies to testnet coins sent to mainnet addresses.
+各ネットワークはそれぞれ独自のブロックチェーンとトークンを持ち、さらにアドレスにはネットワークごとに異なる接頭辞が使用されています。メインネットのアドレスは'1'、'3'、'bc1'で始まり、テストネットのアドレスは'2'、'm'、'n'、'tb1'で始まります。コインはネットワーク間で送信することはできません。メインネットのビットコインがテストネットのアドレスに送信された場合、そのコインは失われ、回復することはできません。テストネットのコインがメインネットのアドレスに送られた場合も同様で、永遠に失われます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
