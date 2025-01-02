@@ -13,9 +13,9 @@ taxonomy:
 ## Capital Controls
 2,100 sats
 
-Capital controls are any regulations that restrict the way residents can move money in or out of a country. This could be a tax or tariff on foreign transactions, or an outright limit on how much money can be moved in a certain direction. These policies are normally implemented by a government of a central bank. The most common application is propping up a failing currency by restricting capital outflows.
+資本規制とは、ある国の内外における住民の資金移動を制限するあらゆる規制のことを指します。具体的には、海外取引に対する税金や関税、（制裁国への送金などの）特定の方向への資金の移動量に対する明示的な制限が挙げられます。これらの政策は通常、中央銀行の政府によって実施されます。最も一般的な用途は、資本の流出を抑えることで、価値が下がりつつある通貨を支えることです。
 
-Capital controls are most common in developing or unstable economies with unsound money. The regulations help maintain a steady balance of imports and exports and also prevent runs on domestic banks. However, capital controls can be detrimental to residents who have restrictions on their financial transactions. Assets such as Bitcoin, which are subject to less government regulation, are commonly used to bypass capital controls.
+資本規制は、信用力の低い通貨を持つ開発途上国や不安定な経済で広く行われています。資本規制は輸出入の安定したバランスを維持し、国内銀行への取り付け騒ぎを防ぐのに役立ちます。しかし、金融取引を制限されている居住者にとっては不利益となる可能性があります。政府の規制が少ないビットコインなどの資産は、資本規制を回避するためによく用いられます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
