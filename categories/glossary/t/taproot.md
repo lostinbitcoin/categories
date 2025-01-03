@@ -13,7 +13,7 @@ taxonomy:
 ## Taproot
 2,100 sats
 
-Taproot is currently a proposed upgrade to Bitcoin which would introduce several new features. The Taproot upgrade is described in BIPs 340, 341, and 342, and introduces the Schnorr signature scheme, Taproot, and Tapscript. Together, these upgrades introduce new, more efficient, flexible, and private ways of transferring bitcoin.The Schnorr signature scheme is more efficient, secure, and quicker to verify than Bitcoin’s original digital signature scheme, ECDSA. Additionally, Schnorr signatures enable MuSig, a more efficient form of multisignature which would greatly increase the privacy and fee rate paid by multisig transactions.Taproot will enable sending to and spending from Schnorr public keys as well as enabling bitcoin to be sent to multiple scripts at once. In order to achieve this, a new type of ScriptPubKey called Pay-to-Taproot (P2TR) will be defined. The addresses for these scripts will use SegWit v1 and Bech32 encoding.
+タップルートは、ビットコインに新機能を導入するために提案されたアップグレードです。このアップグレードはビットコイン改善提案（BIP） 340、341、342で定義されており、シュノア署名、タップルート、タップスクリプトという新しい技術を導入するものです。これらを組み合わせることで、ビットコイン取引をより効率的で柔軟かつプライバシー保護に優れた形に進化させます。シュノア署名は、従来のデジタル署名方式であるECDSA（楕円曲線デジタル署名アルゴリズム）と比べて、効率が良く、安全性が高く、検証速度が速いという特長があります。さらに、シュノア署名はMuSigと呼ばれる新しいマルチシグネチャ方式を可能にします。これにより、複数人で署名するマルチシグ取引のプライバシーが大幅に向上し、取引手数料の削減も期待できます。タップルートは、シュノア公開鍵への送金やその公開鍵からの支払いだけでなく、複数のスクリプトへの送金を一度に行うことも可能にします。この機能を実現するために、Pay-to-Taproot（P2TR）と呼ばれる新しいScriptPubKeyの形式が定義されます。これらのアドレスは、SegWit v1形式とBech32エンコーディングを採用します。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
