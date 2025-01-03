@@ -13,11 +13,11 @@ taxonomy:
 ## Neutrino
 2,100 sats
 
-Neutrino is a proposed light client protocol which offers privacy and efficiency improvements over existing light client designs, notably Simplified Payment Verification (SPV).
+ニュートリノはライトクライアント向けのプロトコルの一種で、既存の簡易支払い検証（SPV）方式を改良し、プライバシーと効率性を向上させることを目的としています。
 
-A typical light client requests data about transactions and blocks in which it is interested from either a central server or other nodes in the Bitcoin network. Often, when a light client requests such information, they leak their addresses and transactions to the server, sacrificing privacy. Several schemes have been proposed and implemented by different wallets. So far, none have emerged as a standard.
+従来のライトクライアントは、中央サーバーやビットコインネットワーク内の他のノードから関心のあるトランザクションやブロックに関するデータを要求します。この際リクエストしたアドレスやトランザクションが相手に漏れるため、プライバシーが損なわれるという問題がありました。これを回避するためにいくつかの手法が提案され、さまざまなウォレットで実装されていますが、いまだ標準化された手法はありません。
 
-In order to preserve a light client’s privacy, the Neutrino protocol has the server send all transaction outputs in a block to the light client, leaving the light client to decide whether there are any transactions of interest. If there are such transactions, the light client requests the full block to be sent, in order to trustlessly verify that the transaction of interest was included in the block. This scheme preserves privacy better but requires significantly more bandwidth and compute power than the existing SPV scheme.
+ニュートリノプロトコルは、ライトクライアントのプライバシーを保護するためにサーバーからブロック内のすべてのトランザクション出力をライトクライアントに送信させます。その後、ライトクライアントが必要な取引が含まれているかを自身で判断します。もし対象となるトランザクションが存在する場合、ライトクライアントはそのトランザクションが含まれるブロック全体を要求し、それを検証してトランザクションが正しく含まれていることを確認します。この方式はプライバシーを大幅に向上させる一方で、既存のSPV方式に比べて通信データ容量と計算負荷を大幅に増加させるというトレードオフの関係にあります。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
