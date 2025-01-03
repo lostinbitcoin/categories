@@ -13,11 +13,11 @@ taxonomy:
 ## Multi-Path Payment (MPP)
 2,100 sats
 
-A multipath payment (MPP) is a type of Lightning payment which is executed as an atomic set of smaller payments. These smaller payments are more reliable and easier to execute; they also offer privacy advantages, as a set of multipath payments is harder to track than a single payment. Multipath payments are atomic, meaning they must all succeed, or they all fail. This is done to avoid the confusion of partial payments.
+マルチパスペイメント（MPP）はライトニング・ネットワークにおける支払い方法の一つで、一つの支払いを複数の小さな支払いに分割して実行する仕組みを指します。この方法は信頼性が高く、実行が容易であるだけでなく、プライバシーの向上にも寄与します。なぜなら、複数の経路に分割された支払いは単一の支払いに比べて追跡が難しいからです。また、マルチパスペイメントはアトミック（不可分）の特性を持ち、分割払いが全て成功するか、失敗するかのどちらかになります。これによって、一部の分割払いだけが成功することによる混乱を未然に防ぎます。
 
-Multipath payments solve a few issues faced by the Lightning Network. When a Lightning channel is established, it has a defined capacity. Each user can send only as much bitcoin as they have committed to the channel. Thus, larger payments strain the capacity of channels and can fail if capacity is insufficient. This problem is especially salient for routed payments, which traverse several channels to get from sender to receiver. In order to reduce the strain of large payments, Lightning implementations allow users or their Lightning wallets to break the payment up into smaller payments. Each payment can be routed across a different path, distributing the strain across many different channels.
+マルチパスペイメントは、ライトニング・ネットワークが抱えるいくつかの課題を解決します。ライトニングチャネルには容量制限があり、ユーザーはチャネルに割り当てたビットコインの範囲内でしか送金できません。そのため、大規模な支払いはチャネルの容量を圧迫し、容量不足の場合には送金が失敗することがあります。これは複数のチャネルを経由するルーティング支払いにおいて特に顕著です。マルチパスペイメントでは支払いを複数の小さな単位に分割し、それぞれを異なる経路で送金することで、負荷を複数のチャネルに分散させる仕組みを提供します。
 
-The term multipath payment is a general term, and MPP is not fully implemented on the Lightning Network. There exist different proposals and implementations of this concept across the different Lightning implementations, including Basic MPP and Atomic Multipath Payments (AMP). These different versions attempt to solve several security and reliability issues with the basic concept of multipath payments.
+なお、マルチパスペイメントという概念は一般的な用語であり、現在のライトニング・ネットワーク上で完全に実装されているわけではありません。現在、いくつかの異なる提案や実装が進められており、その中には「ベーシック」マルチパスペイメントや「アトミック」マルチパスペイメント（AMP）と呼ばれるものがあります。これらの提案は、マルチパスペイメントのセキュリティや信頼性に関する課題を解決することを目的としています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
