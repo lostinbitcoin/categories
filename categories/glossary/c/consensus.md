@@ -13,11 +13,11 @@ taxonomy:
 ## Consensus
 2,100 sats
 
-Consensus is an ideal and the method of coordination between individuals in a decentralized system such as Bitcoin or other open source projects. Consensus is not a form of democracy: there are no forms of voting, representation, credentials, or gatekeeping involved in a consensus-based system. Nor does consensus require 100% agreement. Consensus is an ideal in the sense that, in most cases, there is no absolute agreement between all parties involved.
+コンセンサス（合意形成）は、ビットコインや他のオープンソースプロジェクトのように中央集権ではない分散型システムにおいて、参加者が協力して行動するための理想的な「目標」、およびその「方法」を指します。コンセンサスは民主主義ではなく、投票、代表者、資格証明、または管理者も必要とせず、また満場一致（100%の合意）を求めるものでもありません。なぜなら、すべての参加者の意見の完全一致はほとんど不可能であるためです。
 
-Consensus is required at multiple levels of Bitcoin: consensus must be achieved in maintaining the Bitcoin source code, and it must be maintained between all nodes storing and validating the blockchain. At the source code level, consensus is achieved by allowing anyone to propose, review, and comment on changes. This process is usually slower than centralized projects because discussion and review is applied intensively to any change before it is implemented. However, this process ensures that no special interests are served over others, and no private parties are capable of dictating Bitcoin’s future for their own gain.
+ビットコインでは、複数のレベルでコンセンサスが必要とされます。例えば、ビットコインのソースコードを維持するために参加者の誰もが変更を提案、レビュー、コメントできます。このプロセスは中央集権型のプロジェクトよりも時間がかかる傾向にありますが、特定の団体や個人が私利私欲のためにビットコインの未来を操作することを防ぎます。
 
-At the blockchain level, consensus must be maintained by all nodes running compatible code. All nodes must agree on core parameters such as how many new bitcoin are created per block and what blocks and transactions are valid. Additionally, nodes must agree on the exact state of the network—which blocks comprise the blockchain and which transactions are included therein. If nodes disagree on these parameters, the network will fracture and the blockchain will splinter into several chains. Reconciliation between competing chains is extremely difficult, so maintaining consensus is of utmost importance.
+ブロックチェーンレベルでビットコインのソースコードを維持するためには、すべてのノードが互換性のあるコードを実行し、共通のパラメータ（例：ブロックごとに生成される新しいビットコインの数、ブロックやトランザクションの有効性）に合意する必要があります。また、ネットワークの状態（ブロックチェーンを構成するブロックやトランザクション）が正確であることにも合意する必要があります。この合意（コンセンサス）が崩れると、ネットワークが分裂し、複数のブロックチェーンに分岐する可能性があります。競合するチェーン間の調整は極めて困難であるため、コンセンサス維持は極めて重要です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
