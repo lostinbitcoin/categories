@@ -13,8 +13,7 @@ taxonomy:
 ## User-Activated Soft Fork (UASF)
 2,100 sats
 
-A User-Activated Soft Fork (UASF) is an update or change to the Bitcoin network’s protocol initiated by users or nodes, who integrate new code into their Bitcoin implementations and demonstrate their acceptance of the change so that miners and other users can implement the same changes knowing they will maintain consensus. Since the update is a soft fork, updating is not required because the changes to the protocol are backwards compatible. If a node does not update, they are not harmed at all.
-
+ユーザーアクティベートソフトフォーク（UASF）とは、ユーザーやノードが主導して行うビットコインネットワークのプロトコル変更や更新を指します。ユーザーやノードは、自分たちが利用するビットコインソフトウェアに新しいコードを統合し、その変更を受け入れる意思を示します。この意思表示により、マイナーや他のユーザーは、変更を実装してもコンセンサスが維持されることを確認した上で、同じ変更を取り入れることが可能になります。このアップデートはソフトフォークであり、プロトコルの変更が後方互換性を持つため、全てのノードがアップデートを行う必要はありません。仮に特定のノードがアップデートを行わなくても、そのノードが何らかの不利益を被ることはありません。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
