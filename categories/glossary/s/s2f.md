@@ -13,7 +13,7 @@ taxonomy:
 ## Stock-to-Flow (S2F)
 2,100 sats
 
-Stock-to-flow (S2F) is a measure of the new supply of an asset that is being created over time, relative to the existing supply. This ratio can be expressed in several ways, including the percentage of the supply being added annually, or the number of years the supply would take to double at the current rate of production. Stock-to-flow is a commonly cited metric in Bitcoin markets. Bitcoin’s stock-to-flow will continue decreasing indefinitely as the supply increases, and the Bitcoin halving lowers the rate of production in a stepwise fashion every four years. Currently, Bitcoin has a similar stock-to-flow ratio to gold. However, Bitcoin’s ratio will decline continuously in the coming years, whereas gold’s will not. Bitcoin’s stock-to-flow ratio is also much more predictable and precisely auditable at any point in time.
+ストック・フロー比率は、既存の供給量に対して、時間の経過とともに新たに創出される資産の供給量を比較する指標です。この比率は、いくつかの方法で表現できます。例えば、毎年追加される供給量の割合や、現在の生産速度で供給量が2倍になるのに必要な年数などです。ストック・フロー比率は、ビットコイン市場でよく引用される重要な指標の一つです。ビットコインのストック・フロー比率は、供給量が増加するにつれて無限に減少し続けます。これは、ビットコインの半減期によって、4年ごとに生産速度が段階的に低下するためです。現在のビットコインのストック・フロー比率はゴールド（金）とほぼ同等です。ただし、ビットコインの比率は今後も継続的に低下するのに対し、ゴールドの比率は変化しないと予想されています。また、ビットコインのストック・フロー比率は予測可能であり、どの時点でも正確に検証可能です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
