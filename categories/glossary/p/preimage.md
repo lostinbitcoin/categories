@@ -13,13 +13,13 @@ taxonomy:
 ## Preimage
 2,100 sats
 
-A preimage is the data that is input into a hash function to calculate a hash. Since a hash function is a one-way function, the output, the hash, cannot be used to reveal the input, the preimage.
+プリイメージとは、ハッシュ関数（特定のデータを固定長の値に変換する関数）に入力される元データのことを指します。ハッシュ関数は一方向性で設計されているため、計算結果であるハッシュ値から元のデータ（プリイメージ）を逆算することはできません。
 
-Any piece of data can be used as a preimage. For example, addresses are created by taking the hash of a public key. Likewise, a block header is the preimage for a block’s Proof-of-Work, which is a hash.
+プリイメージにはあらゆるデータを利用できます。例えば、ビットコインのアドレスは公開鍵をハッシュ化して生成されます。同様に、ブロックヘッダーはブロックの作業証明（Proof-of-Work）のプリイメージとして機能します。
 
-Hashes are often used as commitments to preimages, because the commitment to the preimage can be published without revealing the preimage. For example, if bitcoin is sent to a P2PKH address, which is the hash of a public key, that bitcoin is committed to a certain public key even though the public key is not known by anyone but the owner, who we will call Alice. When Alice wishes to spend the bitcoin, she publishes the preimage, the public key, along with a signature, proving their control of the corresponding private key. With those two pieces of information, anyone validating the blockchain can verify that the bitcoin actually belonged to that public key, and that Alice controls that public key.
+ハッシュは、プリイメージへのコミットメント（特定のデータが存在する約束）として利用されます。これは、プリイメージを公開せずにコミットメントを示すことが可能なためです。例えば、ビットコインがP2PKH（公開鍵ハッシュ）アドレスに送金される場合、そのビットコインは特定の公開鍵にコミットされますが、その公開鍵は所有者以外には知られていません。この所有者がビットコインを使用したい場合、公開鍵（プリイメージ）と署名を公開し、それらによって対応する秘密鍵を管理していることを証明します。この情報を基に、ブロックチェーンを検証する誰もが、ビットコインが実際にその公開鍵に属していたことを確認できます。
 
-The Lightning Network also uses preimages as proof that a Lightning invoice has been paid. In this context, the hashed time locked contract (HTLC) serves as the commitment, promising to pay a routing node a fee in exchange for routing the desired payment, while the preimage, the (unhashed) time-locked contract, is the proof that the commitment has been satisfied. HTLCs are sent from the payer node to the routing node, to the receiving node, who returns the preimage of the HTLC to the routing node, who uses the preimage to claim the fee they were promised.
+ライトニングネットワークでも、プレイメージはライトニング請求書が支払われたことを証明するために使用されます。この場合、ハッシュタイムロック契約（HTLC）がコミットメントとして機能し、ルーティングノードが支払いのための手数料を受け取ることを約束します。一方、プリイメージ（未ハッシュのタイムロックコントラクト）は、その約束が実行されたことを証明する役割を果たします。HTLCは支払い元のノードからルーティングノード、受取人のノードへと送信され、受取人はHTLCのプリイメージを返送することで、ルーティングノードが約束された手数料を受け取れるようにします。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
