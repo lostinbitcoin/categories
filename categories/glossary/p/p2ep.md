@@ -13,11 +13,11 @@ taxonomy:
 ## PayJoin (P2EP)
 2,100 sats
 
-PayJoin, also known as Pay-to-Endpoint (P2EP), is a special type of Bitcoin transaction where both the sender and receiver contribute inputs in order to break the common input ownership heuristic, an assumption used to strip privacy from bitcoin users.
+ペイジョインはPay-to-Endpoint（P2EP）と呼ばれる特殊なタイプのビットコイントランザクションで、送信者と受信者の両者がトランザクションの入力に資金を提供する仕組みを指します。これによって、ビットコインユーザーのプライバシーを損なう原因となる「共通入力所有者ヒューリスティック」（＝チェーン分析で用いられるビットコイン所有者の推測手法）を破ることができます。
 
-The common input ownership heuristic is one of the most commonly used heuristics used in chain analysis. It assumes that, in a given transaction, all inputs were signed by the same entity. Until now, this has been a relatively safe assumption, as multisig usage remains low. The P2EP proposal was created in order to break this assumption and improve Bitcoin privacy.
+「共通入力所有者ヒューリスティック」とはチェーン分析でよく使われる仮定の一つで、トランザクション内のすべての入力が同じ主体によって署名されていると推測するものです。これはマルチシグ（複数署名）の利用率が低いこともあって、比較的信頼できる推測とされてきました。ペイジョインはこの前提を破り、ビットコインのプライバシーを向上させることを目的としています。
 
-Although P2EP’s syntax resembles Bitcoin’s many script types, P2EP is not a script. Rather, it is a protocol which allows two bitcoin users to transact in a privacy preserving manner. Using a peer-to-peer channel, such as an onion address, a sender and a receiver can exchange information about the UTXOs they would like to use as inputs in a transaction. They can then cooperatively construct and sign the transaction using the partially signed Bitcoin transaction (PSBT) standard defined in BIP 174. The resulting transaction will simply resemble a typical transaction with multiple inputs and multiple outputs.
+ペイジョインの構文はビットコインの多くのスクリプト形式と似ていますが、スクリプトそのものではありません。むしろ、プライバシーを保ちながら2人のビットコインユーザーが取引できるプロトコルです。送信者と受信者は匿名性の高いTorネットワークで使用されるオニオンアドレスのようなピアツーピアチャネルを利用して、トランザクションの入力に使用するUTXOの情報を交換します。その後、BIP（ビットコイン改善提案） 174で定義された部分署名ビットコイントランザクション（PSBT）標準を使用して、協力してトランザクションを構築し署名します。最終的なトランザクションは、複数の入力と出力を持つ通常のトランザクションと外見上は区別がつきません。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
