@@ -13,12 +13,11 @@ taxonomy:
 ## MuSig
 2,100 sats
 
-MuSig is a protocol for creating Taproot multisig public keys and signatures. MuSig makes use of Schnorr signature and public key aggregation, and thus will only be possible with the activation of the Taproot upgrade.
+MuSig（ミューシグ）は、タップルートを活用してマルチシグ（複数署名）に対応する公開鍵と署名を作成するためのプロトコルです。この技術は、シュノア署名と公開鍵の集約技術を使用しており、タップルートのアップグレードが有効化されることで利用可能になります。
 
-MuSig is special in that a resulting multisig transaction is no longer discernible from a single signature transaction. This is because MuSig combines the individual public keys of each party to create a single public key. When bitcoin is spent from this public key, the spenders are not forced to reveal their individual public keys. Instead, they collectively create a single signature valid for the public key they created earlier. This is not the case for typical multisig transactions, which use P2SH scripts and force the signatures and public keys of each signer to be revealed on the blockchain.
+MuSigの最大の特徴は、マルチシグトランザクションが単一署名のトランザクションと区別がつかなくなる点です。従来のマルチシグでは、P2SH（Pay-to-Script-Hash）スクリプトを使用して各参加者の公開鍵や署名を記録する必要がありましたが、MuSigではこれが不要になります。MuSigでは各参加者の公開鍵を1つの公開鍵に統合し、その公開鍵に対して全員で1つの署名を作成するためです。この結果、ブロックチェーン上では単一署名のトランザクションと見分けがつきません。
 
-MuSig presents a significant privacy improvement over the current multisig implementation, and not just for MuSig users. MuSig will undermine many heuristics currently used for chain analysis by removing any differentiation between single signature and multi signature transactions.
-
+この特性によって、MuSigはプライバシーを大幅に向上させます。たとえば、従来のP2SHスクリプトを使用する場合、マルチシグトランザクションではすべての署名と公開鍵がブロックチェーン上に公開され、誰が取引に関与しているかが分かる場合がありました。しかし、MuSigを使用すると、単一署名トランザクションと区別がつかなくなるため、チェーン分析で利用される多くの推論手法（ヒューリスティック）が無効化されます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
