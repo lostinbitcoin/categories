@@ -13,10 +13,9 @@ taxonomy:
 ## Simplified Payment Verification (SPV)
 2,100 sats
 
-Simplified Payment Verification (SPV) is a term used to describe software which queries other nodes for new blocks and transactions but does not store the blockchain itself, like a node. An SPV client is a form of light client described by Satoshi Nakamoto in the whitepaper.
+SPVとは、「他のノードに新しいブロックやトランザクションを問い合わせるが、ブロックチェーン全体を保存しないソフトウェア」を指します。これは、サトシ・ナカモトがホワイトペーパーで述べたライトクライアント（軽量型ソフトウェア）の一種です。
 
-The purpose of SPV is to afford users a trust-minimized way of examining the blockchain without the inconvenience of running a node. SPV clients do trust the nodes through which they query the blockchain, but the ability to abuse this trust is extremely limited thanks to the cryptographic security of Merkle trees and the presence of other nodes.
-
+SPVの目的は、ユーザーがノードを実行する手間を省きつつ、ユーザー自らがブロックチェーンを検証できる方法を提供することです。SPVクライアントは、ブロックチェーンを照会するために使用するノードを信頼しますが、メルクルツリー（ブロックチェーン技術において使用されるデータ構造）の暗号セキュリティや他のノードの存在により、この信頼が悪用される可能性は極めて低くなっています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
