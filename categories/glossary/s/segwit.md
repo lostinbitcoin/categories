@@ -13,16 +13,15 @@ taxonomy:
 ## SegWit
 2,100 sats
 
-Segregated Witness (SegWit) is a soft-fork upgrade to Bitcoin which was activated in 2017. SegWit fixed the problem of transaction malleability, wherein a transaction could have several possible txids. This upgrade paved the way for the implementation of the Lightning Network, and will open the door for several future upgrades, including Taproot.
+SegWit（セグウィット：Segregated Witness）は、2017年にビットコインで実施されたソフトフォークのアップグレードで、さまざまな重要な改善をもたらしました。一例としては、トランザクションのマレアビリティ問題を解決しました。これは1つのトランザクションが複数の有効なトランザクションID（txid）を持つ可能性があった問題で、このアップグレードによってtxidが一意となり、ライトニング・ネットワークやTaprootなどの新たなイノベーションが可能になりました。
 
-SegWit also allowed more transactions to be included in a single block, which eased fee pressure and provided a partial scaling solution.
+SegWitはまた、1つのブロックにより多くのトランザクションを含めることを可能にし、手数料の負担を軽減するとともに、スケーリング（処理能力向上）に関する部分的なソリューションを提供しました。
 
-One of the most noticeable changes introduced by SegWit was the switch from using Base58 encoding to Bech32 encoding.
+SegWitによる特筆すべき変更の一つは、Base58エンコーディングからBech32エンコーディングへの移行です。
 
-SegWit eliminated transaction malleability by moving the ScriptSig—the transaction signature and the malleable part of the transaction—from the main body of the transaction into the Script Witness, which resides in the Witness section. The Witness of each transaction is still stored on the blockchain, but only by nodes whose version includes SegWit.
+技術的にはトランザクション本体に含まれていた署名部分であるScriptSigをトランザクションの別セクションであるWitnessセクションに移動することで、SegWitはマレアビリティを排除しました。このWitnessセクションは依然としてブロックチェーン上に保存されますが、SegWitを有効化したノードだけが利用します。
 
-Because the Witness is not included in the main body of a transaction, it does not affect the txid. However, in order to ensure that the Witness of a transaction cannot be altered after its inclusion in a block, a separate Witness txid (wtxid) is calculated. This wtxid includes the Witness and a Merkle tree of wtxids are recorded in an output of each block’s coinbase transaction.
-
+トランザクションID（txid）に影響を与えないように、Witness部分はトランザクション本体から分離されていますが、ブロックに含まれるWitnessが改ざんされないよう、Witness専用のトランザクションID（wtxid）が計算されます。このwtxidは、各ブロックのコインベーストランザクションの出力に記録されるマークルツリーに含まれます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
