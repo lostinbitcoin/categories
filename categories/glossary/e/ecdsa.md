@@ -13,7 +13,11 @@ taxonomy:
 ## ECDSA
 2,100 sats
 
-The Elliptic Curve Digital Signature Algorithm or ECDSA is a cryptographic scheme for producing digital signatures using public and private keys. All Bitcoin keys and signatures are currently generated using ECDSA. An ECDSA signature allows someone to publish a public key and then create a signature of some data with their private key, such that anyone can verify that the signature was created by the owner of this public key. However, no one is capable of deriving the private key from the public key or the signature. Nor can this signature be used to forge a signature for other data. ECDSA signatures are used to sign all Bitcoin transactions thanks to these strong security features. An elliptic curve is a defined mathematical function of the general format y^2 = x^3 + ax + b. For Bitcoin, this curve has the specific equation y^2 = x^3 + 7, as a = 0 and b = 7. Any point on this elliptic curve, called secp256k1, is a valid Bitcoin public key. In order to generate a public key, a user must generate a private key, which is simply a large number. Next, this private key is multiplied by a defined point called the Generator Point, to produce the public key. This multiplication is point multiplication, which behaves differently than normal multiplication. Critically, point division is incalculable, meaning a public key cannot currently be used to derive a private key, giving the ECDSA scheme its security.
+ECDSA（楕円曲線デジタル署名アルゴリズム）は、公開鍵と秘密鍵を使用してデジタル署名を生成する暗号化方式の一つです。すべてのビットコインの鍵と署名はECDSAを使用して生成されています（※訳者注：Taprootアップグレード後はシュノア署名が正式にビットコインプロトコルに統合）。ECDSA署名は、ある人物が公開鍵を公開し、その秘密鍵でデータに署名することで、そのデータが公開鍵の所有者によって署名されたことを誰もが検証できる仕組みです。一方で公開鍵や署名から秘密鍵を導き出すことは不可能であり、署名を使用して他のデータの署名を偽造できません。
+
+ビットコインのすべてのトランザクションは、この強力なセキュリティ機能を利用して署名されています。楕円曲線は、y^2 = x^3 + ax + bの形式で表される数学の関数です。ビットコインの場合、特定の曲線であるy^2 = x^3 + 7（a = 0, b = 7）を使用します。この楕円曲線上の点は、すべて有効なビットコインの公開鍵として機能します。
+
+公開鍵を生成するには、ユーザーがランダムな大きな数値を秘密鍵として作成します。この秘密鍵に「ジェネレータポイント」と呼ばれる定義済みの点を「点乗算」して公開鍵を計算します。点乗算は通常の掛け算とは異なり、公開鍵から秘密鍵を逆算すること（点除算）は不可能です。この仕組みがECDSAのセキュリティの基盤となっています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
