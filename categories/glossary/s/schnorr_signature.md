@@ -13,13 +13,13 @@ taxonomy:
 ## Schnorr Signature
 2,100 sats
 
-Schnorr is a type of digital signature scheme similar to the ECDSA scheme used by Bitcoin since its inception. The Schnorr scheme presents several advantages over ECDSA, and is thus currently in the process of being implemented in Bitcoin via the Taproot upgrade.
+シュノア署名は、ビットコインで初期から使用されているECDSA（楕円曲線デジタル署名アルゴリズム）に似たデジタル署名方式です。シュノア署名はECDSAと比較していくつかの利点を持ち、現在はタップルート（アップグレード）を通じてビットコインへの実装が進められています。
 
-Firstly, the Schnorr scheme is provably secure and non-malleable, two improvements over ECDSA. Secondly, compared to ECDSA signatures, Schnorr signatures take less time to verify. Schnorr signatures and public keys can be aggregated, meaning that multiple parties with unique private keys can sign the same message with much greater efficiency. Thanks to this feature, Schnorr signatures can be verified in batches instead of individually, further speeding up verification.
+シュノア署名の主な利点の一つは、安全性が証明されており、さらに非改ざん性を備えている点です。これらはECDSAに対する重要な改良点とされています。さらに、シュノア署名はECDSA署名に比べて検証時間が短く、効率的です。また、シュノア署名では複数の秘密鍵を持つ当事者が1つのメッセージに対して効率的に署名を作成することが可能です。この特性により、シュノア署名は複数の署名を一括で検証する「バッチ検証」が可能となり、検証プロセスがさらに高速化します。
 
-Key and signature aggregation also enable privacy gains by obscuring the number of signatures present on a transaction. Finally, Schnorr signatures are also smaller than ECDSA signatures, offering savings on fees for those spending Schnorr outputs.
+署名と公開鍵の集約機能は、プライバシーの向上にも寄与します。シュノア署名を使用することで、取引に含まれる署名数を隠すことができ、トランザクションの匿名性が高まります。さらに、シュノア署名はECDSA署名よりもサイズが小さいため、手数料削減も可能です。
 
-When Bitcoin was invented, the Schnorr scheme was still patent-protected, and thus Satoshi Nakamoto decided to use ECDSA as the signature scheme for Bitcoin. The Schnorr patent has since expired, and Schnorr is currently in the process of being implemented in Bitcoin.
+ビットコインが開発された当初、シュノア署名方式は特許で保護されていました。そのため、サトシ・ナカモトはECDSAをビットコインの署名方式として採用しました。しかし、その後シュノア署名の特許が失効し、現在ではビットコインへの実装が進められています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
