@@ -13,17 +13,11 @@ taxonomy:
 ## Payment Rail
 2,100 sats
 
-A payment rail is a network or platform that facilitates digital transactions. Payment rails are measured in terms of transaction security, volume, and settlement time. Credit rails, ACH rails, and Bitcoin rails are common forms of payment rails.
+ペイメントレールとは、デジタルトランザクションを実現するためのネットワーク、またはプラットフォームのことを指します。ペイメントレールの主な評価基準は、取引のセキュリティ、処理量、決済時間です。クレジットカードのレール、ACH（電子決済ネットワーク）レール、ビットコインレールなどが代表的なペイメントレールの例です。ペイメントレールは、資産を相手方に送るためのインフラや技術、経路を提供する役割を果たします。このため、鉄道のレール（線路）になぞらえて命名されました。
 
-Like other railways, a payment rail is the infrastructure, pathway, or technology enabling the transmission of assets to a counterparty.
+歴史的には取引の当事者は現金や硬貨を手渡しで簡単に直接交換できたため、デジタルのペイメントレールを必要としませんでした。しかし、現在では政府がクレジットレールやACHレールを通じた現金取引を監視しており、1万ドルを超える取引は金融犯罪取締ネットワーク（FinCEN）や外国資産管理局（OFAC）による追加の監視を受けます。さらにペイメントレールの分析技術が発展した結果、支払いデータは商品化されています。企業は自社のペイメントレール上で行われる取引のパターン、金額、物理的な位置を監視しています。
 
-Info: Historically, transacting parties did not require a digital payment rail because they could physically exchange cash or coin with ease.
-
-Historically, transacting parties did not require a digital payment rail because they could physically exchange cash or coin with ease.
-
-Today, governments surveil cash payments on credit and ACH rails - transactions exceeding a value of $10,000 garner additional scrutiny from the Financial Crimes Enforcement Network (FinCEN) and the Office of Foreign Assets Control (OFAC). The onset of payment rail analytics has caused payment data to become commoditized. Corporations monitor the patterns, amounts, and physical location of transactions on their payment rails.
-
-Blockchain rails offer greater privacy, stronger security, and faster settlement times than legacy payment rails.
+これに対し、ブロックチェーンレールは従来のペイメントレールと比べてプライバシー保護やセキュリティ、迅速な決済が可能である点で注目されています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
