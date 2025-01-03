@@ -13,14 +13,15 @@ taxonomy:
 ## Bitcoin Script
 2,100 sats
 
-Bitcoin’s scripting language is simply called Script. All Bitcoin scripts are written in Script. It is a simple language that is not Turing complete, meaning it lacks several logical functions, including loops. This is done to ensure that no Bitcoin script can consume inordinate computing power and harm nodes on the network.
-Script is used almost exclusively to lock and unlock bitcoin, not to build applications or run programs. Script’s simplicity also gives Bitcoin security and makes it easier for developers to avoid losing money while designing wallets or applications on top of Bitcoin.
+ビットコインのスクリプト言語は単にスクリプト（Script）と呼ばれ、ビットコインは全てスクリプトで書かれています。このスクリプトは非常にシンプルで、ループを含むいくつかの論理機能を欠いているためチューリング完全ではありません。つまり、理論上あらゆる計算を実行できる能力を持たない設計となっています。ループなど一部の論理機能を敢えて省いている理由は、スクリプトが過剰な計算リソースを消費してネットワーク全体に過剰な負荷をかけないようにするためです。
 
-All Bitcoin transactions use Script to define how outputs can be spent. In other words, the script of a Bitcoin transaction determines to whom the bitcoin was sent. Bitcoin has a few different scripts, with Pay-to-Public-Key-Hash (P2PKH) being the most popular. P2PKH is a simple script which pays bitcoin to an address.
+スクリプトは主にビットコインのロック（送金時の条件設定）およびアンロック（着金後の条件解除）に使用され、アプリケーションやプログラムを構築するために使われることはほとんどありません。このシンプルさはビットコインのセキュリティを高め、開発者がウォレットやビットコイン関連アプリを設計する際に、資金を失うリスクを最小限に抑える助けとなります。
 
-Other scripts can achieve more complex setups, such as creating multisig addresses. Bitcoin sent to a multisig address requires multiple signatures from multiple private keys to be spent.
+ビットコインのすべてのトランザクションにおいてスクリプトは出力条件を決定するために使用され、ビットコインが誰に送られるかを決定する役割を果たしています。最も一般的なスクリプト形式はPay-to-Public-Key-Hash（P2PKH）であり、これはビットコインをアドレスに送るシンプルなスクリプトです。
 
-Although SegWit script types—P2WPKH and P2WSH—offer savings on transaction fees, adoption of these new script types has been slow. As of April 2021, almost four years after SegWit’s activation, P2PKH scripts are used by over 70% of UTXOs.
+その他のスクリプトでは、マルチシグ（複数署名）アドレスの作成など、より複雑な設定を実現できます。マルチシグアドレスに送られたビットコインを使用するには、複数の秘密鍵による署名が必要です。
+
+SegWitのスクリプトタイプ（P2WPKHおよびP2WSH）は取引手数料を削減できる一方で、このスクリプトタイプの採用は遅れています。SegWitが有効化されてから約4年が経過しましたが、2021年4月時点では70%以上のUTXOで依然としてP2PKHスクリプトが使用されています。
 
 ![](/_images/glossary-ha_1.png)
 
