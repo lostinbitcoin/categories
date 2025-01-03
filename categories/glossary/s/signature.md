@@ -13,13 +13,13 @@ taxonomy:
 ## Signature
 2,100 sats
 
-A digital signature is similar to a physical signature in theory, yet far more secure and trustworthy. Like its physical counterpart, a digital signature indicates approval of the data being signed. Unlike a physical signature, a digital signature cannot be copy-pasted because a signature is unique for each piece of data being signed.
+デジタル署名は物理的な署名（サイン）に似ていますが、はるかに安全で信頼性が高いです。手書きのサインと同様に、デジタル署名は署名対象のデータへの承認を示します。しかし、デジタル署名はコピーや貼り付けが不可能です。なぜなら、デジタル署名は署名される各データに対して一意であり、異なるデータには同じ署名を使用できないからです。
 
-For example, if you create a signature for the text “Hello”, this signature is invalid for the text “Hey”. This trait allows digital signatures to be publicized without risk of fraud.
+例えば、「Hello」というテキストに対して作成された署名は、「Hey」というテキストには無効です。この特性により、デジタル署名は公開されても詐欺のリスクがありません。
 
-There are three parts to a digital signature: the data being signed, the public key of the signer, and the signature itself. The data can be anything digital, including text, an image, an audio file, and more. The public key is a pseudonymous form of identity, informing the public that the owner of the corresponding private key has signed this message. Lastly the signature is mathematical proof that the owner of the public key and the corresponding private key signed the exact data provided.
+デジタル署名は、署名対象のデータ、署名者の公開鍵、署名そのものという3つの要素で構成されています。署名対象のデータは、テキスト、画像、音声ファイルなど、デジタル形式のものであれば何でも可能です。公開鍵は署名者を疑似的に識別するもので、対応する秘密鍵を所有する人物がそのデータに署名したことを示します。署名そのものは、公開鍵の所有者が特定のデータに署名したことを数学的に証明します。
 
-The magic here is that the private key is required to create the signature, but not required to verify it. Anyone can verify that the signature is valid using only the public key. Furthermore, since the signature is generated using the hash of the data it is signing, verifiers can be sure that the data provided is unaltered since it was signed.
+この仕組みで重要なのは、署名を作成するには秘密鍵が必要である一方、署名の有効性を確認するには公開鍵だけで十分であるという点です。また、署名はデータのハッシュ値（データを圧縮して得られる固有の値）に基づいて生成されるため、検証者は署名対象のデータが改ざんされていないことを確信できます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
