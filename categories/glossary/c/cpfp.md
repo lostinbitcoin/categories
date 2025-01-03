@@ -13,9 +13,9 @@ taxonomy:
 ## Child-Pays-for-Parent (CPFP)
 2,100 sats
 
-Child-Pays-for-Parent is a transaction mechanism with a similar purpose as Replace-by-Fee (RBF). While RBF allows the sender to speed up a transaction’s confirmation, Child-Pays-for-Parent allows the recipient to speed up the transaction’s confirmation.
+CPFPは、トランザクションの速度を高める手法のことを指します。RBF（Replace-by-Fee）と似た目的を持ちますが、RBFが送信者によってトランザクションの確認速度を向上させるのに対し、CPFPでは受信者がトランザクションの確認速度を向上させることができます。
 
-In case a transaction is sent with a low fee and is not being confirmed fast enough for the recipient’s liking, the recipient may create a new transaction spending the bitcoin they received in the previous transaction (even though it is still unconfirmed in the mempool). This second transaction will pay a higher fee and signal to miners that they must mine the first transaction first in order to mine the second transaction. In this way, the recipient will receive their funds faster despite the low fee paid by the sender.
+もし送信者が低い手数料でトランザクションを送信し、そのトランザクションが十分な速さで確認されない場合、受信者は、未確認の状態でそのトランザクションのビットコインを使用する新しいトランザクションを作成できます。この2番目のトランザクション（子トランザクション）は高い手数料を支払い、マイナーに対して「最初のトランザクション（親トランザクション）をマイニングすることで子トランザクションもマイニングできる」と伝えます。この仕組みにより、送信者が低い手数料を設定していても、受信者がトランザクションの確認を早めることができます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
