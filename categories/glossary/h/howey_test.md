@@ -13,14 +13,15 @@ taxonomy:
 ## Howey Test
 2,100 sats
 
-Courts use the Howey test from 1946 to assess which offerings qualify as securities. In SEC v. W.J. Howey Co., the court held that the sale of land within a common enterprise was an investment contract, which is subject to the Securities Act of 1933 and other Securities and Exchange Commission (SEC) regulations. A common enterprise is a business in which external investors contribute to the same pool of funds as the party offering the investment.
+Howeyテストは、1946年のアメリカの裁判で確立された基準で、ある取引が証券に該当するかを判断するために使用されています。この基準は、米国証券取引委員会（SEC）対 W.J. Howey社間の裁判において、土地の販売が投資契約に該当し、1933年証券法およびSECの規制の対象になると判断されたことに由来します。以下の文章の「共通事業」とは、投資家が同じ資金プールに資金を拠出し、提供者と共同で利益を追求する事業形態を指します。
 
-**An investment contract exists when there is the investment of money in a common enterprise with a reasonable expectation of profits to be derived from the efforts of others**<br>
-– [The SEC's framework for investment contract analysis.](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets)
+**投資契約は、資金が「共通事業」に投資され、その利益が他者の努力に基づいて得られるという合理的な期待がある場合に成立する**<br>
+– [SECの投資契約分析フレームワーク]
+(https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets)
 
-Today, courts use the Howey test to disambiguate whether a particular transaction or offering meets the requirements to be an investment contract. When one party invests with the reasonable expectation that the investment will yield some return, an investment contract has been formed. In other words, the test seeks to establish detrimental reliance or promissory estoppel to protect the investor.
+現代では、裁判所はHoweyテストを用いて特定の取引が投資契約（＝法解釈上の証券）に該当するかを判断します。一方の当事者が合理的な期待を持って資金を投資し、その投資が収益を生むと期待される場合、投資契約が成立したと見做されます。この基準は投資家保護を目的として、投資における信頼関係や契約上の責任を明確にするものです。
 
-Most recently, the Howey test was used in the SEC’s action against Ripple Labs, Inc., where the court found that XRP offerings constituted an investment contract. Although it raised capital to finance the company’s business, Ripple did not register with the SEC. The subsequent SEC investigation revealed that Ripple failed to comply with SEC requirements for broad public offerings, highlighting the importance of investor protection when issuing a new virtual currency.
+直近では、HoweyテストがSECによるRipple社への措置で適用され、この裁判ではXRP（リップル）の提供が投資契約に該当すると判断されました。Ripple社は事業の資金調達を目的として資本を集めましたが、SECへの登録を怠りました。その後のSECの調査によってRippleが新しい仮想通貨を発行する際の投資家保護要件に違反していたことが明らかとなり、新しい仮想通貨を発行する際の規制遵守の重要性が浮き彫りになりました。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
