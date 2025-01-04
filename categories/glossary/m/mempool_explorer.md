@@ -13,11 +13,11 @@ taxonomy:
 ## Mempool Explorer
 2,100 sats
 
-A mempool explorer is a software application, often in the form of a website, which displays useful information about the current state of the mempool. The mempool is the collection of unconfirmed transactions, transactions which have not yet been included in a block.
+メンプールエクスプローラ（Mempool Explorer）はメンプールの現在の状態に関する情報を表示するソフトウェアで、主にウェブサイトの形式を取ります。メンプールとは、まだブロックに含まれていない未確認トランザクションの集合を指します。
 
-Mempool explorers commonly publish stats including average and median fee rates, estimated fee rates required to achieve specific confirmation times, and total data size and bitcoin volume of the mempool. All of these statistics can be useful to Bitcoin users who intend to submit new transactions to the network by informing them on how much to pay in fees, and how soon to expect their transaction to be confirmed in a block.
+メンプールエクスプローラでは、平均手数料率や中央値、承認されるまでの時間を特定の値にするために必要と推定される手数料率、メンプールの総データサイズおよびビットコイン量などの統計情報を提供します。ネットワークに新しいトランザクションを送信しようとするビットコインユーザーにとって、メンプールエクスプローラによる情報は適切な手数料を設定したり、トランザクションがブロック内で確認されるまでの時間予測を立てたりするために役立ちます。
 
-Several popular mempool explorers exist, each optimized for different uses. Mempool.Space is helpful in setting fees for Bitcoin transactions in order to optimize for fee savings or rapid confirmation. Jochen Hoenicke's Mempool Explorer is more helpful for analyzing past data on Bitcoin fee rates and visualizing mempool traffic and trends. Lastly, Blockstream includes data about unconfirmed transactions, including confirmation time estimates and highlights if a given transaction overpaid in fees.
+いくつかの有名なメンプールエクスプローラが存在し、それぞれ異なる用途に特化しています。例えば、Mempool.Spaceは手数料の節約や迅速な取引確認を実現するために、ビットコイン取引の手数料設定をサポートしています。Jochen Hoenickeのメンプールエクスプローラは、ビットコインの過去の手数料データを分析し、メンプールのトラフィックやトレンドの視覚化に優れています。また、Blockstream Explorerは未確認トランザクションのデータを提供し、取引の確認に要する時間予測や手数料の過払いを強調表示する機能を備えています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
