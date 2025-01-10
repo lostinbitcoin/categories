@@ -13,11 +13,11 @@ taxonomy:
 ## Coin Selection
 2,100 sats
 
-Coin selection is the process of choosing a subset of the UTXOs owned by a wallet in order to create and fund a transaction. When creating a transaction on behalf of a user, a wallet must select specific UTXOs as inputs in the transaction.
+コインセレクションとは、ウォレットが所有する[未使用トランザクションアウトプット（UTXO）](https://lostinbitcoin.jp/glossary/utxo/)の一部を選択して、取引を作成し資金を割り当てるプロセスのことを指します。ユーザーの代理で取引を作成する際には、ウォレットは特定のUTXOを選択して取引の資金源として使用する必要があります。
 
-For example, if Alice wishes to pay Bob 1 BTC and her wallet contains 5 BTC in various amounts, her wallet must determine which UTXOs to spend. This decision is not trivial, and depends on the priority of the user. Some coin selection methods prioritize spending smaller outputs to avoid dust accumulation while others spend large outputs to pay lower fees. Still others prioritize privacy or avoiding change outputs.
+例えば、アリスがボブに1BTCを支払いたいとします。アリスがウォレットに様々な金額のUTXOを合計で5BTC保有している場合、ウォレットはどのUTXOを使用するかを決定しなければなりません。この決定は必ずしも単純ではなく、ユーザー（アリス）の優先事項によって異なります。コインセレクションの選択肢としては、[ダスト](https://lostinbitcoin.jp/glossary/dust/)（[送金手数料](https://lostinbitcoin.jp/glossary/transaction_fee/)に満たないくらい小さな額）の蓄積を避けるために、少額のUTXOを優先的に消費する方法や、大きなUTXOを使用して手数料を抑える方法があります。またプライバシーの強化や[チェンジ・アウトプット](https://lostinbitcoin.jp/glossary/change_output/)の発生を避けることを優先させる方法もあります。
 
-Coin selection is usually dictated by an algorithm built into a wallet, but some wallets allow users to dictate their own coin selection preferences to suit their needs.
+コインセレクションは通常、[ウォレット](https://lostinbitcoin.jp/other/wallet/)に組み込まれたアルゴリズムによって制御されます。ただし、一部のウォレットではユーザー自身がコインセレクションの設定をカスタマイズして、自分のニーズに合った選択を行うことが可能です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
