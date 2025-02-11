@@ -5,16 +5,10 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## CoinSwap
 2,100 sats
 
-CoinSwap is a proposed method for making Bitcoin transactions more private. Currently, chain analysis relies heavily on the assumption that if Alice sends an entire UTXO to an address, she is sending the transaction to herself. CoinSwap undermines this assumption by allowing two parties to send entire UTXOs to new addresses which are not their own. In doing so, parties will swap UTXOs and break the chain of custody for both coins.
-While a CoinSwap is composed of on-chain transactions, CoinSwap is an off-chain coordination protocol, and it would not require any changes to Bitcoin’s protocol. All interactions between the two parties would take place over the internet, and normal Bitcoin transactions would be posted to the Bitcoin blockchain. However, CoinSwap is still in its nascent phase, and has not been widely implemented or adopted.
+コインスワップは、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)取引の[匿名性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/anonymity/)を強化する手法です。現在の[チェーン分析](http://lostinbitcoin.jp.testrs.jp/staging/glossary/chain_analysis/)は、例えばあるユーザー（アリス）が[未使用トランザクションアウトプット（UTXO）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/utxo/)全体を一つの[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/address/)に送信した場合、「その送信先がアリス自身である」と推測し、分析することを前提としています。コインスワップは、アリスやボブなどの2者がそれぞれ自身が所有しない新しいアドレスにUTXO全体を送信することでチェーン分析の前提を崩し、双方がUTXOを交換することで両者のコインの所有履歴を断ち切ることができます。コインスワップは[オンチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/on_chain/)取引で構成されていますが、調整は[オフチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/off_chain/)で行われる[プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/protocol/)です。そのため、ビットコインのプロトコル自体を改変する必要はありません。2者間のやり取りはすべてインターネット上で行われ、最終的には通常のビットコイン取引として[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)に記録されます。ただしコインスワップは未だ初期段階にあり、広く実装・普及はされていません。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
