@@ -13,11 +13,11 @@ taxonomy:
 ## Fractional Reserve Banking
 2,100 sats
 
-Fractional-reserve banking is the most popular form of commercial banking, in which the bank is permitted to lend or invest nearly all of the capital that was deposited in the institution; this means that only a tiny, fractional amount of the total deposits are actually backed by cash and available for withdrawal at a given time. The small fraction of deposits that a bank is not permitted to loan or invest, known as the reserve ratio, is mandated by the U.S. Federal Reserve System, or the central bank in other countries.
+部分準備銀行制度とは、銀行が預け入れられた資本のほぼ全てを貸し出したり投資したりすることが認められている制度のことで、最も一般的な商業銀行の形態です。このため、全預金のごく一部のみが現金で裏付けられ、いつでも引き出し可能となっています。銀行が貸し出しや投資を許可されていないこの小さな預金の割合は「準備率」として定められており、米国では連邦準備制度（FRB）、その他の国では中央銀行によって義務付けられています。
 
-A reserve ratio is mandated because commercial banks will generally lend out as much money as possible to maximize revenue through interest payments or maximize return on investment or yield. To counteract the incentive to lend and invest aggressively, governments and central banks mandate a proportion of funds that a commercial bank must maintain. In reality, required reserve ratios are now at 0% which means that banks do not have to maintain a minimum reserve ratio any longer.
+準備率が義務付けられる理由は、商業銀行が通常、利息収入や投資収益率、利回りを最大化するために、可能な限り多くの資金を貸し出す傾向があるからです。このような積極的な貸出や投資へのインセンティブを抑制するため、政府や中央銀行は商業銀行が維持しなければならない資金の割合を義務付けています。ただし、現在の準備率は0%であり、銀行は最低限の準備金を維持する必要が事実上なくなっています。
 
-Following the financial crisis of 2007-2009, the Federal Open Market Committee (FOMC), the main policymaking body of the Fed, lowered the federal funds rate target to near zero. The decision to lower the federal funds rate increased the quantity and amount of reserves held by the Fed on behalf of commercial banks. Accordingly, slight adjustments to the supply of reserves are no longer a practical or effective monetary policy for adjusting the federal funds rate. On March 15, 2020, the Federal Reserve reduced reserve requirement ratios to zero percent and transitioned to an “Ample-Reserves Regime” to eliminate the need for active management of the supply of reserves.
+2007年から2009年にかけての金融危機の後、FRBの主要政策決定機関である連邦公開市場委員会（FOMC）は、連邦基金金利の目標をほぼゼロまで引き下げました。この決定により、FRBが商業銀行のために保有する準備金の量が増加しました。その結果、準備金の供給量をわずかに調整するという金融政策は、連邦基金金利を調整する手段として実用的または効果的でなくなりました。2020年3月15日、FRBは準備率を0%に引き下げ、準備金の供給を積極的に管理する必要性をなくす「潤沢な準備金体制」に移行しました。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
