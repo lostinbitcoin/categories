@@ -5,18 +5,12 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Simplified Payment Verification (SPV)
 2,100 sats
 
-Simplified Payment Verification (SPV) is a term used to describe software which queries other nodes for new blocks and transactions but does not store the blockchain itself, like a node. An SPV client is a form of light client described by Satoshi Nakamoto in the whitepaper.
+SPV(簡易支払い検証)とは、「他の[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node-2/)に新しい[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)や[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)を問い合わせるが、フルノードのように[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)全体を保存しないソフトウェア」を指します。これは、[サトシ・ナカモト](http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi_nakamoto/)が[ホワイトペーパー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/whitepaper/)で述べた[軽量クライアント](http://lostinbitcoin.jp.testrs.jp/staging/glossary/light_client/)の一種です。
 
-The purpose of SPV is to afford users a trust-minimized way of examining the blockchain without the inconvenience of running a node. SPV clients do trust the nodes through which they query the blockchain, but the ability to abuse this trust is extremely limited thanks to the cryptographic security of Merkle trees and the presence of other nodes.
-
+SPVの目的は、ユーザーがノードを実行する手間を省きつつ、ユーザー自身でブロックチェーンを検証できる方法を提供することです。SPVクライアントは、ブロックチェーンを照会するために使用するノードを信頼しますが、[マークルツリー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/merkle_tree/)のセキュリティや他のノードの存在によって、この仕組みが悪用されるリスクは極めて低くなっています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
