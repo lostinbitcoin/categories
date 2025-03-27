@@ -5,19 +5,14 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Consensus
 2,100 sats
 
-Consensus is an ideal and the method of coordination between individuals in a decentralized system such as Bitcoin or other open source projects. Consensus is not a form of democracy: there are no forms of voting, representation, credentials, or gatekeeping involved in a consensus-based system. Nor does consensus require 100% agreement. Consensus is an ideal in the sense that, in most cases, there is no absolute agreement between all parties involved.
+コンセンサス（合意形成）は、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)や他のオープンソースプロジェクトのように中央集権ではない分散型システムにおいて、参加者が協力して行動するための理想的な「目標」、およびその「方法」を指します。コンセンサスは民主主義ではなく、投票・代表者・資格証明・管理者を必要とせず、また満場一致（100%の合意）を求めるものでもありません。なぜなら、すべての参加者の意見の完全一致はほとんど不可能だからです。
 
-Consensus is required at multiple levels of Bitcoin: consensus must be achieved in maintaining the Bitcoin source code, and it must be maintained between all nodes storing and validating the blockchain. At the source code level, consensus is achieved by allowing anyone to propose, review, and comment on changes. This process is usually slower than centralized projects because discussion and review is applied intensively to any change before it is implemented. However, this process ensures that no special interests are served over others, and no private parties are capable of dictating Bitcoin’s future for their own gain.
+ビットコインでは複数のレベルでコンセンサスが必要です。コンセンサスは、ビットコインのソースコードを維持する上で達成されなければならず、また、ブロックチェーンを保存および検証するすべてのノード間でも維持されなければなりません。ソースコードレベルでは、誰でも変更を提案、レビュー、コメントできるようにすることでコンセンサスが達成されます。このプロセスは通常、中央集権型のプロジェクトよりも時間がかかります。なぜなら、実装前にあらゆる変更に対して徹底的な議論とレビューが行われるからです。しかし、このプロセスによって、特定の利益が他の利益よりも優先されることがなくなり、いかなる私的な団体も自身の利益のためにビットコインの将来を左右することができなくなります。
 
-At the blockchain level, consensus must be maintained by all nodes running compatible code. All nodes must agree on core parameters such as how many new bitcoin are created per block and what blocks and transactions are valid. Additionally, nodes must agree on the exact state of the network—which blocks comprise the blockchain and which transactions are included therein. If nodes disagree on these parameters, the network will fracture and the blockchain will splinter into several chains. Reconciliation between competing chains is extremely difficult, so maintaining consensus is of utmost importance.
+[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)レベルでは、互換性のあるコードを実行しているすべての[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node-2/)によってコンセンサスが維持されなければなりません。すべてのノードは、コアとなるパラメータ（例：[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)ごとに生成される新しいビットコインの数、ブロックや[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)の有効性）に合意する必要があります。またノードはネットワークの正確な状態（どのブロックがブロックチェーンを構成し、どのトランザクションがそこに含まれているか）についても合意しなければなりません。これらのパラメータについてノード間で意見の不一致が生じた場合、ネットワークは分断され、ブロックチェーンはいくつかのチェーンに分岐する可能性があります。競合するチェーン間の整合性の回復は極めて困難であるため、コンセンサスの維持は極めて重要です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
