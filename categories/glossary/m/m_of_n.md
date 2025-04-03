@@ -5,18 +5,12 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## M-of-N
 2,100 sats
 
-The term m-of-n describes the precise conditions of a multisig setup, with m being the number of signatures required, and n being the number of authorized keys from which the signatures can come. A Multiple Signature (multisig) address is a Bitcoin address which requires the signatures of multiple private keys in order to be spent. While most bitcoin is controlled in a single signature setup, some Bitcoin users store their bitcoin in a multisig setup to avoid a single point of failure. If one of their keys is compromised, they do not lose their funds.
+M-of-Nとは、[マルチシグ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/multisig/)における正確な設定条件を示す表現で、Mは必要な[署名](http://lostinbitcoin.jp.testrs.jp/staging/glossary/signature/)の数を、Nは署名に使用できる[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/public_key/)の総数を表します。マルチシグアドレスは、複数の[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/private_key/)の署名が必要な特別な[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)アドレスです。 通常のシングルシグ設定（1つの秘密鍵のみを使用する設定）とは異なり、一部のビットコインユーザーは、1つの鍵が破られても資金を失わないように、このマルチシグ設定を利用します。
 
-Let’s walk through an example: Alice, Bob, and Charlie want to start a company and hold joint custody of some bitcoin. To ensure that one of them cannot steal the collective funds, Alice, Bob, and Charlie share one public key each. They also decide that they will run their company based on majority rule. Thus, any two signatures are sufficient to spend their shared bitcoin. This requirement of two signatures (m) coming from any of the three (n) public keys is translated into a script, which is hashed to yield the address to which all three partners will send their contributions to the company fund. This set up would be described as a 2-of-3 multisig.
-
+例えば、アリス、ボブ、チャーリーの3人が共同で会社を設立し、ビットコインを共同管理したいと考えているとします。この場合、1人だけで資金を不正に持ち出せないよう、それぞれが1つずつ公開鍵を提供して共有します。 また、会社の運営は多数決に基づくべきと決め、3つの公開鍵のうち2つの署名があれば資金を動かせるよう設定したと仮定します。この条件（M=2, N=3）はスクリプトとして記述され、これをハッシュ化することで、3人が会社の資金を送金するための[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/address/)が生成されます。この場合の設定は「2-of-3マルチシグ」と表します。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
