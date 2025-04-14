@@ -14,11 +14,11 @@ taxonomy:
 
 ここで重要なのは、財が貨幣として機能するには、分割後も分割前と同じ効用を提供し、価値を維持できなければならないことです。車は物理的には分割可能ですが、半分に分割された車は、もはや車としての機能を果たさないため、価値は激減します。
 
-金が貨幣の座を失った主因は可分性の低さです。金塊を分割するのは容易ではありません。法定通貨はさまざまな額面の紙幣と硬貨を発行することで、可分性、決済手段としての適性を高めています。それでも、小銭をじゃらじゃらと持ち歩くのは面倒で、有形の法定通貨の限界と言えます。
+金が貨幣の座を失った主因は可分性の低さです。金塊を分割するのは容易ではありません。[法定通貨](http://lostinbitcoin.jp.testrs.jp/staging/glossary/fiat_currency/)はさまざまな額面の紙幣と硬貨を発行することで、可分性、決済手段としての適性を高めています。それでも、小銭をじゃらじゃらと持ち歩くのは面倒で、有形の法定通貨の限界と言えます。
 
-無形のデジタルデータであるビットコインは無限に分割可能です。1ビットコインはサトシ（satoshi, sat）と呼ばれる1億分の1の小単位に分割できます。ただ、送金手数料の関係上、オンチェーンで1サトシを送金することはできません。ありがたいことに、ビットコインにはライトニング・ネットワークを含む上位のレイヤーがあり、そこでは極めて少額の送金も可能です。
+無形のデジタルデータである[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)は無限に分割可能です。1ビットコインは[サトシ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi/)（satoshi, [sat](http://lostinbitcoin.jp.testrs.jp/staging/glossary/sat/)）と呼ばれる1億分の1の小単位に分割できます。ただ、[送金手数料](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction_fee/)の関係上、[オンチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/on_chain/)で1サトシを送金することはできません。ありがたいことに、ビットコインには[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)を含む上位の[レイヤー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/layer/)があり、そこでは極めて少額の送金も可能です。
 
-法定通貨であれ、ビットコインであれ、貨幣を小単位に分割することは、通貨膨張、つまり、インフレーションには当たりません。誤解している人も多いですが、重要なポイントです。
+法定通貨であれ、ビットコインであれ、貨幣を小単位に分割することは、通貨膨張、つまり、[インフレーション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/inflation/)には当たりません。誤解している人も多いですが、重要なポイントです。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
