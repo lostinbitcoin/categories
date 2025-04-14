@@ -10,13 +10,13 @@ taxonomy:
 
 [ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)とは、[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)の集合体を指します。また、各ブロックにはブロックの概要を提供するいくつかのメタデータが含まれており、このメタデータがブロックヘッダーと呼ばれます。ブロックヘッダーには以下のデータが含まれます：
 
-	・[ブロック高](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block_height/)：このブロックの前に存在するブロックの数を示します。
-	・ブロックハッシュ：このブロックの[プルーフオブワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/pow/)を表します。
-	・前のブロックのハッシュ：過去のブロックが改ざんされないよう保証します。
-	・タイムスタンプ：ブロックが公開された日時を示します。
-	・マークルルート：このブロックに含まれるすべてのトランザクションをハッシュ化した値です。
-	・[難易度](http://lostinbitcoin.jp.testrs.jp/staging/glossary/difficulty/)（Difficulty）：難易度がエンコードされており、「bits」と呼ばれます。
-	・ナンス：プルーフオブワークを達成するためにマイナーが使用するランダムな数値です。
+- [ブロック高](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block_height/)：このブロックの前に存在するブロックの数を示します。
+- ブロックハッシュ：このブロックの[プルーフオブワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/pow/)を表します。
+- 前のブロックのハッシュ：過去のブロックが改ざんされないよう保証します。
+- タイムスタンプ：ブロックが公開された日時を示します。
+- マークルルート：このブロックに含まれるすべてのトランザクションをハッシュ化した値です。
+- [難易度](http://lostinbitcoin.jp.testrs.jp/staging/glossary/difficulty/)（Difficulty）：難易度がエンコードされており、「bits」と呼ばれます。
+- ナンス：プルーフオブワークを達成するためにマイナーが使用するランダムな数値です。
 
 ブロックヘッダーはブロックの効率的な要約として機能するため、ブロック全体よりも早く、ネットワーク上に迅速に送信され処理することができます。マイナーが有効なハッシュを探すためにブロックを継続的にプルーフオブワークする際、実際にハッシュ化しているのはブロック全体ではなくブロックヘッダーです。
 
