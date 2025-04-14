@@ -8,7 +8,7 @@ taxonomy:
 ## Block Height
 2,100 sats
 
-ブロックチェーンは、不変性のある時系列的に結びつけられたブロックをまとめたものです。起源ブロックは０で、その次のブロックも昇順に番号を付けられています。この番号はブロック高さと言います。現在のブロック高さは、単にブロックチェーンの総ブロック数から1を引いた数字になります。ブロック高さは、ブロックチェーンにある時点の参照として使えます。例えば、ビットコインの半減期は、特定のブロック高さ（210,000ブロックごと）で起こります。また、ビットコインのトランザクションを特定のブロック高さまでタイムロック（保留）できます。
+[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain/)は、[不変性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/immutability/)のある時系列的に結びつけられた[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)をまとめたものです。起源ブロックは０で、その次のブロックも昇順に番号を付けられています。この番号はブロック高と言います。現在のブロック高は、単にブロックチェーンの総ブロック数から1を引いた数字になります。ブロック高は、ブロックチェーンにある時点の参照として使えます。例えば、ビットコインの[半減期](http://lostinbitcoin.jp.testrs.jp/staging/glossary/halving/)は、特定のブロック高（210,000ブロックごと）で起こります。また、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)の[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)を特定のブロック高まで[タイムロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/timelock/)（保留）できます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
