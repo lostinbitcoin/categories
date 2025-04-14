@@ -8,9 +8,9 @@ taxonomy:
 ## Basis of Lightning Technology (BOLT)
 2,100 sats
 
-BOLT（Basis of Lightning Technology）はライトニングネットワークのコンセンサスルールおよび規格を記述した仕様です。
+BOLT（Basis of Lightning Technology）は[ライトニングネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)の[コンセンサス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/consensus/)ルールおよび規格を記述した仕様です。
 
-BOLTによって確立された規格によりLNDやc-lightningなどの異なるライトニング実装が統合され、ネットワークを形成することができます。
+BOLTによって確立された規格によりLNDやc-lightningなどの異なる[ライトニング実装](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_implementations/)が統合され、ネットワークを形成することができます。
 
 ライトニングネットワークの発展とともにBOLTは修正・改良されていきます。
 
