@@ -10,7 +10,7 @@ taxonomy:
 
 <div><button class="zap-button" data-npub="npub17d7ham6ucsm2yxuwa9k9th49d44lfa50uk2fq0v2p0jxs2npnyxsaxxt59" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/akipponn">@akipponn</a></div>
 
-拡張公開鍵とは、[階層型決定性（HD）ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip32/)が子公開鍵の生成に使う[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/public_key/)です。拡張公開鍵は[BIP](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip/)32が定義するビットコインの標準規格であり、主に公開鍵を生成するために[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)が背後で使用します。
+拡張公開鍵とは、[階層型決定性（HD）ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip32/)が子公開鍵の生成に使う[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/public_key/)です。拡張公開鍵は[BIP](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip/)32が定義する[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)の標準規格であり、主に公開鍵を生成するために[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)が背後で使用します。
 
 拡張公開鍵を信頼できる第三者と共有することで利便性は高まりますが、信頼できない事業者や個人には共有すべきではありません。共有した相手は拡張公開鍵から導出した公開鍵を追跡して、あなたの過去の[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)だけでなく、将来のトランザクションもすべて検閲できるからです。
 
