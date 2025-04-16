@@ -14,7 +14,7 @@ taxonomy:
 
 サトシが姿を消したことで、ビットコインは開発方針を決める中心的リーダーが不在となりました。この事実を、ビットコイナーの多くはビットコインの強みとみなしています。
 
-ビットコインの最小単位であるサトシ（satoshi）は、ビットコイン考案者に敬意を表して名付けられたものです。
+ビットコインの最小単位である[サトシ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi/)（satoshi）は、ビットコイン考案者に敬意を表して名付けられたものです。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
