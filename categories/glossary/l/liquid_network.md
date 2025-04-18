@@ -10,7 +10,7 @@ taxonomy:
 
 Liquidネットワークは、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain/)を基盤とした[サイドチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/sidechain/) [プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/protocol/)です。このネットワークはブロックチェーンの技術開発企業であるBlockstream社によって開発され、複数の関係者による連合体（フェデレーション）によって管理されており、運営にはオープンソースのブロックチェーンプラットフォームElementsが使用されています。Liquidネットワークは、ビットコインブロックチェーンには無い以下の機能を提供します。
 
-1. 高速決済の実現　：[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)は正確に1分ごとに追加（ビットコインの約10分と比べて短く、チェーン分岐に伴う再編成が禁止されているため、2回の確認で取引が確定）
+1. 高速決済の実現　：[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)は正確に1分ごとに追加（ビットコインの約10分と比べて短く、チェーン分岐による再編成が発生しない設計となっており、2回の確認で取引が確定）
 2. 複数資産への対応：第三者がLiquidサイドチェーン上でトークンを発行可（例：証券やステーブルコインなど）
 3. 秘密取引の実現　：[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)の金額や資産タイプを公開台帳から隠すことができ、プライバシー向上に寄与
 
