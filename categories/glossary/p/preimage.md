@@ -5,21 +5,16 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Preimage
 2,100 sats
 
-A preimage is the data that is input into a hash function to calculate a hash. Since a hash function is a one-way function, the output, the hash, cannot be used to reveal the input, the preimage.
+プリイメージとは、[ハッシュ関数](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hash_function/)（特定のデータを固定長の値に変換する関数）に入力される元データのことを指します。ハッシュ関数は一方向性で設計されているため、計算結果であるハッシュ値から元のデータ（プリイメージ）を導き出すことはできません。
 
-Any piece of data can be used as a preimage. For example, addresses are created by taking the hash of a public key. Likewise, a block header is the preimage for a block’s Proof-of-Work, which is a hash.
+プリイメージにはあらゆるデータを利用できます。例えば、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)の[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/address/)は[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/public_key/)をハッシュ化して生成されます。同様に、[ブロックヘッダー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block_header/)は[ブロック]((http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/))の[プルーフオブワーク（PoW）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/pow/)のプリイメージとして機能します。
 
-Hashes are often used as commitments to preimages, because the commitment to the preimage can be published without revealing the preimage. For example, if bitcoin is sent to a P2PKH address, which is the hash of a public key, that bitcoin is committed to a certain public key even though the public key is not known by anyone but the owner, who we will call Alice. When Alice wishes to spend the bitcoin, she publishes the preimage, the public key, along with a signature, proving their control of the corresponding private key. With those two pieces of information, anyone validating the blockchain can verify that the bitcoin actually belonged to that public key, and that Alice controls that public key.
+ハッシュは、プリイメージへのコミットメント（特定のデータが存在することの約束）として利用されます。これは、プリイメージを公開せずにコミットメントを示すことが可能であるためです。例えば、ビットコインがP2PKH（公開鍵ハッシュ）アドレスに送金される場合、そのビットコインは特定の公開鍵にコミットされますが、その公開鍵は所有者以外には知られていません。この所有者（ここではアリスと呼びます）がビットコインを使用したい場合、公開鍵（プリイメージ）と署名を公開することで、対応する[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/private_key/)を管理していることを証明します。この情報を基に、[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)を検証する誰もが、ビットコインが実際にその公開鍵に関連付けられており、アリスがその公開鍵の所有者であることを確認できます。
 
-The Lightning Network also uses preimages as proof that a Lightning invoice has been paid. In this context, the hashed time locked contract (HTLC) serves as the commitment, promising to pay a routing node a fee in exchange for routing the desired payment, while the preimage, the (unhashed) time-locked contract, is the proof that the commitment has been satisfied. HTLCs are sent from the payer node to the routing node, to the receiving node, who returns the preimage of the HTLC to the routing node, who uses the preimage to claim the fee they were promised.
+[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)でも、プリイメージは[ライトニング・インボイス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_invoice/)が支払われたことを証明するために使用されます。この場合、[ハッシュタイムロックコントラクト（HTLC）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/htlc/)がコミットメントとして機能し、ルーティングノードが支払いのための手数料を受け取ることを約束します。一方、プリイメージ（すなわち、ハッシュ化されていないタイムロックコントラクト）は、その約束が実行されたことを証明する役割を果たします。HTLCは支払い元のノードからルーティングノード、受取人の[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node-2/)へと送信され、受取人はHTLCのプリイメージを返送することで、ルーティングノードが約束された手数料を受け取れるようにします。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
