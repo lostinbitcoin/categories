@@ -93,7 +93,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/confirmation/"><h5>承認<br />Confirmation</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/signature/"><h5>署名<br />Signature</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/stablecoin/"><h5>ステーブルコイン<br />Stablecoin</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/s2f/"><h5>ストック・フロー比率<br />Stock-to-Flow (S2F)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/s2f/"><h5>ストック・フロー比率<br />Stock-to-Flow (S2F)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/smart_contract/"><h5>スマートコントラクト<br />Smart Contract</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/brute_force_attack/"><h5>総当たり攻撃<br />Brute Force Attack</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction_fee/"><h5>送金手数料<br />Transaction Fee</h5></a></li>
@@ -146,12 +146,12 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin_core/"><h5>ビットコインコア<br />Bitcoin Core</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip/"><h5>ビットコイン改善提案 (BIP)<br />Bitcoin Improvement Proposal (BIP)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin_implementations/"><h5>ビットコイン実装<br />Bitcoin Implementations</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin_script/"><h5>ビットコインスクリプト<br />Bitcoin Script<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin_script/"><h5>ビットコインスクリプト<br />Bitcoin Script</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin_node/"><h5>ビットコインノード<br />Bitcoin Node</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/private_key/"><h5>秘密鍵<br />Private Key</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/fork/"><h5>フォーク<br />Fork</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/fractional_reserve_banking/"><h5>部分準備銀行制度<br />Fractional Reserve Banking</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/preimage/"><h5>プリイメージ<br />Preimage<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/preimage/"><h5>プリイメージ<br />Preimage</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/pow/"><h5>プルーフオブワーク（PoW）<br />Proof-of-Work (PoW)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/"><h5>ブロック<br />Block</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/block_explorer/"><h5>ブロックエクスプローラ<br />Block Explorer</h5></a></li>
@@ -229,7 +229,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/hodl/"><h5>HODL<br />HODL</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/howey_test/"><h5>Howeyテスト<br />Howey Test</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/htlc/"><h5>HTLC (ハッシュタイムロックコントラクト)<br />Hashed Time Locked Contract (HTLC)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/liquid_network/"><h5>Liquidネットワーク<br />Liquid Network<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/liquid_network/"><h5>Liquidネットワーク<br />Liquid Network</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/lnurl/"><h5>LNURL<br />LNURL</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/m_of_n/"><h5>M-of-N<br />M-of-N</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/musig/"><h5>MuSig<br />MuSig<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
@@ -237,7 +237,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/rbf/"><h5>RBF (Replace-By-Fee)<br />Replace-By-Fee (RBF)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/sat/"><h5>Sat (Sats)<br />Sat (Sats)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/segwit/"><h5>SegWit<br />SegWit<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/sha_256/"><h5>SHA-256<br />SHA-256<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/sha_256/"><h5>SHA-256<br />SHA-256</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/spv/"><h5>SPV<br />Simplified Payment Verification (SPV)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/uasf/"><h5>UASF<br />User-Activated Soft Fork (UASF)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/utxo/"><h5>UTXO<br />UTXO</h5></a></li>
