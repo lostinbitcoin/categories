@@ -5,24 +5,18 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## SegWit
 2,100 sats
 
-Segregated Witness (SegWit) is a soft-fork upgrade to Bitcoin which was activated in 2017. SegWit fixed the problem of transaction malleability, wherein a transaction could have several possible txids. This upgrade paved the way for the implementation of the Lightning Network, and will open the door for several future upgrades, including Taproot.
+SegWit（セグウィット：Segregated Witness）は、2017年に[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)で実施された[ソフトフォーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/soft_fork/)のアップグレードで、さまざまな重要な改善をもたらしました。その一例として、トランザクションの[マリアビリティ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/malleability/)問題を解決しました。これは1つのトランザクションが複数の有効な[トランザクションID（txid）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/txid/)を持つ可能性があった問題で、このアップグレードによってtxidが一意となり、[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)や[タップルート](http://lostinbitcoin.jp.testrs.jp/staging/glossary/taproot/)などの新たなイノベーションが可能になりました。
 
-SegWit also allowed more transactions to be included in a single block, which eased fee pressure and provided a partial scaling solution.
+SegWitはまた、1つの[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)により多くの[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)を含めることを可能にし、手数料の負担を軽減するとともに、スケーリング（処理能力向上）に関する部分的なソリューションを提供しました。
 
-One of the most noticeable changes introduced by SegWit was the switch from using Base58 encoding to Bech32 encoding.
+SegWitによる特筆すべき変更の一つは、Base58エンコーディングからBech32エンコーディングへの移行です。
 
-SegWit eliminated transaction malleability by moving the ScriptSig—the transaction signature and the malleable part of the transaction—from the main body of the transaction into the Script Witness, which resides in the Witness section. The Witness of each transaction is still stored on the blockchain, but only by nodes whose version includes SegWit.
+技術的にはトランザクション本体に含まれていた[署名](http://lostinbitcoin.jp.testrs.jp/staging/glossary/signature/)部分であるScriptSigをトランザクションの別セクションであるWitnessセクションに移動することで、SegWitはマリアビリティを排除しています。このWitnessセクションは依然として[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)上に保存されますが、SegWitを有効化した[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node-2/)だけが利用します。
 
-Because the Witness is not included in the main body of a transaction, it does not affect the txid. However, in order to ensure that the Witness of a transaction cannot be altered after its inclusion in a block, a separate Witness txid (wtxid) is calculated. This wtxid includes the Witness and a Merkle tree of wtxids are recorded in an output of each block’s coinbase transaction.
-
+トランザクションID（txid）に影響を与えないように、Witness部分はトランザクション本体から分離されていますが、ブロックに含まれるWitnessが改ざんされないよう、Witnessを含むトランザクションID（wtxid）が計算されます。このwtxidを葉ノードとする[マークルツリー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/merkle_tree/)を構成し、そのルートハッシュが各ブロックのコインベーストランザクションに記録されます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
