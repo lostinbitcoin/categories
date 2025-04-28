@@ -14,9 +14,9 @@ SegWitはまた、1つの[ブロック](http://lostinbitcoin.jp.testrs.jp/stagin
 
 SegWitによる特筆すべき変更の一つは、Base58エンコーディングからBech32エンコーディングへの移行です。
 
-技術的にはトランザクション本体に含まれていた[署名](http://lostinbitcoin.jp.testrs.jp/staging/glossary/signature/)部分であるScriptSigをトランザクションの別セクションであるWitnessセクションに移動することで、SegWitはマリアビリティを排除しました。このWitnessセクションは依然として[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)上に保存されますが、SegWitを有効化した[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node-2/)だけが利用します。
+技術的にはトランザクション本体に含まれていた[署名](http://lostinbitcoin.jp.testrs.jp/staging/glossary/signature/)部分であるScriptSigをトランザクションの別セクションであるWitnessセクションに移動することで、SegWitはマリアビリティを排除しています。このWitnessセクションは依然として[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)上に保存されますが、SegWitを有効化した[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node-2/)だけが利用します。
 
-トランザクションID（txid）に影響を与えないように、Witness部分はトランザクション本体から分離されていますが、ブロックに含まれるWitnessが改ざんされないよう、Witness専用のトランザクションID（wtxid）が計算されます。このwtxidは、各ブロックのコインベーストランザクションの出力に記録される[マークルツリー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/merkle_tree/)に含まれます。
+トランザクションID（txid）に影響を与えないように、Witness部分はトランザクション本体から分離されていますが、ブロックに含まれるWitnessが改ざんされないよう、Witnessを含むトランザクションID（wtxid）が計算されます。このwtxidを葉ノードとする[マークルツリー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/merkle_tree/)を構成し、そのルートハッシュが各ブロックのコインベーストランザクションに記録されます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
