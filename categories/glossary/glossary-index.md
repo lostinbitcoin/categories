@@ -109,7 +109,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/timelock/"><h5>タイムロック<br />Timelock</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/dust/"><h5>ダスト<br />Dust</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/dust_attack/"><h5>ダスト攻撃<br />Dust Attack<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/taproot/"><h5>タップルート<br />Taproot<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/taproot/"><h5>タップルート<br />Taproot</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/change_output/"><h5>チェンジ・アウトプット<br />Change Output<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/chain_analysis/"><h5>チェーン分析<br />Chain Analysis</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/anonymity/"><h5>匿名性<br />Anonymity</h5></a></li>
@@ -163,8 +163,8 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/protocol/"><h5>プロトコル<br />Protocol</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/immutability/"><h5>不変性<br />Immutability</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/decentralized_ledger/"><h5>分散台帳<br />Decentralized Ledger</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/p2ep/"><h5>ペイジョイン (P2EP)<br />PayJoin (P2EP)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/payment_rail/"><h5>ペイメントレール<br />Payment Rail<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/p2ep/"><h5>ペイジョイン (P2EP)<br />PayJoin (P2EP)</h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/payment_rail/"><h5>ペイメントレール<br />Payment Rail</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/penalty_transaction/"><h5>ペナルティトランザクション<br />Penalty Transaction<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/fiat_currency/"><h5>法定通貨<br />Fiat Currency</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/hot_wallet/"><h5>ホットウォレット<br />Hot Wallet</h5></a></li>
@@ -200,9 +200,9 @@ taxonomy:
 	<ul class="word-container">
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_invoice/"><h5>ライトニング・インボイス<br />Lightning Invoice</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_implementations/"><h5>ライトニング実装<br />Lightning Implementations</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_channel/"><h5>ライトニング・チャネル<br />Lightning Channel<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_channel/"><h5>ライトニング・チャネル<br />Lightning Channel</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/"><h5>ライトニング・ネットワーク<br />Lightning Network</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network_penalty/"><h5>ライトニング・ネットワーク・ペナルティ<br />Lightning Network Penalty<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network_penalty/"><h5>ライトニング・ネットワーク・ペナルティ<br />Lightning Network Penalty</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/layer/"><h5>レイヤー<br />Layer</h5></a></li>
 	</ul>
 </div>
@@ -216,8 +216,8 @@ taxonomy:
 	<ul class="word-container">
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/51_attack/"><h5>51%攻撃<br />51% Attack</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/asic/"><h5>ASIC (特定用途向け集積回路)<br />Application-Specific Integrated Circuit (ASIC)</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip125/"><h5>BIP 125 (RBF)<br />BIP 125 (Replace-by-Fee)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip174/"><h5>BIP 174 (PSBT)<br />BIP 174 (PSBT)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip125/"><h5>BIP 125 (RBF)<br />BIP 125 (Replace-by-Fee)</h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip174/"><h5>BIP 174 (PSBT)<br />BIP 174 (PSBT)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip32/"><h5>BIP 32 (階層型決定性ウォレット)<br />BIP 32 (Hierarchical Deterministic Wallets)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip340/"><h5>BIP 340 (シュノア署名)<br />BIP 340 (Schnorr Signatures)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip39/"><h5>BIP 39 (ニーモニックフレーズ)<br />BIP 39 (Mnemonic Phrases)</h5></a></li>
@@ -236,7 +236,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/ptlc/"><h5>PTLC (ポイントタイムロックコントラクト)<br />Point Time Locked Contract (PTLC)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/rbf/"><h5>RBF (Replace-By-Fee)<br />Replace-By-Fee (RBF)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/sat/"><h5>Sat (Sats)<br />Sat (Sats)</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/segwit/"><h5>SegWit<br />SegWit<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/segwit/"><h5>SegWit<br />SegWit</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/sha_256/"><h5>SHA-256<br />SHA-256</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/spv/"><h5>SPV<br />Simplified Payment Verification (SPV)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/uasf/"><h5>UASF<br />User-Activated Soft Fork (UASF)</h5></a></li>
