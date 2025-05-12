@@ -5,15 +5,12 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Genesis Block
 2,100 sats
 
-The Genesis block is the first block in the Bitcoin blockchain. Satoshi Nakamoto, the creator of Bitcoin, mined the Genesis block on January 3, 2009 and included that day’s Financial Times headline, “Chancellor on brink of second bailout for banks” in the block as a statement of Bitcoin’s purpose: avoiding the inequity and corruption inherent in the fiat monetary system. The Genesis block is special in a few ways. Firstly, its previous hash, the part of the block which references the previous block, is empty. This is because there is no previous block to be referenced. Secondly, the first 50 BTC, created in the coinbase transaction of the Genesis block, is unspendable.
+ジェネシスブロックは、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin-2/)の[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)における最初の[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)です。ビットコインの創設者である[サトシ・ナカモト](http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi_nakamoto/)は、2009年1月3日にジェネシスブロックを[マイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining/)しました。このブロックにはその日のフィナンシャル・タイムズの見出し「大臣、銀行への2度目の救済措置へ」というメッセージが含まれており、これはビットコインの目的、つまり[法定通貨](http://lostinbitcoin.jp.testrs.jp/staging/glossary/fiat_currency/)システムに内在する不平等や腐敗を回避することを表明しています。
+
+ジェネシスブロックには、いくつか特別な点があります。1つ目は、「前のハッシュ値」（ブロック内で前のブロックを参照する部分）が空であることです。これは参照されるべき前のブロックが存在しないためです。2つ目は、ジェネシスブロックの[コインベーストランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/coinbase_transaction/)によって生成された最初の50BTCが使用不可能である点です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

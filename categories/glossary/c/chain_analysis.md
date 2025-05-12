@@ -5,15 +5,10 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Chain Analysis
 2,100 sats
 
-Chain analysis uses heuristics to analyse the blockchain and trace the ownership of bitcoin across transactions. Several companies exist solely to track and deanonymize individuals and their bitcoin using these heuristics. These companies sell their analysis to financial institutions and governments who are attempting to prevent fraud, money laundering, and other illegal activities. Chain analysis is a broad term, and should not be confused with the company called Chainalysis.
+チェーン分析とは、[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)を解析し、取引をまたいで[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)の所有権を追跡することを指します。分析時には、仮定や経験則に基づく推論（ヒューリスティック）が活用されます。チェーン分析を使って個人とビットコインの関連を追跡することで[匿名性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/anonymity/)を暴く専門企業も存在し、これらの企業は詐欺・マネーロンダリング・その他の違法行為を防ぐ目的で、金融機関や政府に分析結果を販売しています。なお、チェーン分析という用語は広い概念を指し、特定の企業名「Chainalysis」とは異なる点に注意が必要です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

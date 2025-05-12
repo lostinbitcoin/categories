@@ -5,20 +5,14 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## MuSig
 2,100 sats
 
-MuSig is a protocol for creating Taproot multisig public keys and signatures. MuSig makes use of Schnorr signature and public key aggregation, and thus will only be possible with the activation of the Taproot upgrade.
+MuSig（ミューシグ）は、[タップルート](http://lostinbitcoin.jp.testrs.jp/staging/glossary/taproot/)を活用して[マルチシグ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/multisig/)に対応する[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/public_key/)と[署名](http://lostinbitcoin.jp.testrs.jp/staging/glossary/signature/)を作成するための[プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/protocol/)です。この技術は、[シュノア署名](http://lostinbitcoin.jp.testrs.jp/staging/glossary/schnorr_signature/)と公開鍵の集約技術を使用しており、タップルートのアップグレードが有効化されることで利用可能になります。
 
-MuSig is special in that a resulting multisig transaction is no longer discernible from a single signature transaction. This is because MuSig combines the individual public keys of each party to create a single public key. When bitcoin is spent from this public key, the spenders are not forced to reveal their individual public keys. Instead, they collectively create a single signature valid for the public key they created earlier. This is not the case for typical multisig transactions, which use P2SH scripts and force the signatures and public keys of each signer to be revealed on the blockchain.
+MuSigの最大の特徴は、マルチシグトランザクションが単一署名の[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)と区別がつかなくなる点です。従来のマルチシグでは、P2SH（Pay-to-Script-Hash）スクリプトを使用して各署名者の公開鍵と署名をブロックチェーン上で開示する必要がありましたが、MuSigではこれが不要になります。MuSigでは各参加者の公開鍵を1つの公開鍵に統合し、その公開鍵に対して全員で1つの署名を作成するためです。この結果、[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)上では単一署名のトランザクションと見分けがつきません。
 
-MuSig presents a significant privacy improvement over the current multisig implementation, and not just for MuSig users. MuSig will undermine many heuristics currently used for chain analysis by removing any differentiation between single signature and multi signature transactions.
-
+この特性によって、MuSigはプライバシーを大幅に向上させます。しかもこれはMuSigユーザーに限った話ではなく、MuSigを使用することで、単一署名トランザクションと区別がつかなくなるため、[チェーン分析](http://lostinbitcoin.jp.testrs.jp/staging/glossary/chain_analysis/)で利用される多くの推論手法（ヒューリスティック）が無効化されます。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

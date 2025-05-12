@@ -5,15 +5,14 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Stock-to-Flow (S2F)
 2,100 sats
 
-Stock-to-flow (S2F) is a measure of the new supply of an asset that is being created over time, relative to the existing supply. This ratio can be expressed in several ways, including the percentage of the supply being added annually, or the number of years the supply would take to double at the current rate of production. Stock-to-flow is a commonly cited metric in Bitcoin markets. Bitcoin’s stock-to-flow will continue decreasing indefinitely as the supply increases, and the Bitcoin halving lowers the rate of production in a stepwise fashion every four years. Currently, Bitcoin has a similar stock-to-flow ratio to gold. However, Bitcoin’s ratio will decline continuously in the coming years, whereas gold’s will not. Bitcoin’s stock-to-flow ratio is also much more predictable and precisely auditable at any point in time.
+ストック・フロー比率（S2F）は、既に存在する資産の供給量に対する新規供給量を示す指標です。この比率は、年間の新規供給量が既存供給量に対してどの程度か、また現在の生産速度で供給量が2倍になるまでに何年かかるかを示す形で表されます。
+
+ストック・フロー比率は、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)市場でよく引用される重要な指標の一つです。ビットコインのストック・フロー比率は、新規供給量が減少するため、理論上は無限大に近づいていきます。これは、ビットコインの[半減期](http://lostinbitcoin.jp.testrs.jp/staging/glossary/halving/)によって、4年ごとに生産速度が段階的に低下するためです。
+
+現在のビットコインのストック・フロー比率は、ゴールド（金）の比率とほぼ同じです。ただし、ビットコインの比率は今後も継続的に低下する一方で、ゴールドの比率は変化しないと予想されています。また、ビットコインのストック・フロー比率は予測可能であり、どの時点でも正確に検証可能です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

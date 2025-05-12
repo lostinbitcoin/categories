@@ -5,21 +5,16 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Schnorr Signature
 2,100 sats
 
-Schnorr is a type of digital signature scheme similar to the ECDSA scheme used by Bitcoin since its inception. The Schnorr scheme presents several advantages over ECDSA, and is thus currently in the process of being implemented in Bitcoin via the Taproot upgrade.
+シュノア署名は、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)で初期から使用されている[ECDSA](http://lostinbitcoin.jp.testrs.jp/staging/glossary/ecdsa/)（楕円曲線デジタル署名アルゴリズム）に似たデジタル署名の方式です。シュノア署名にはECDSAと比べて複数の利点があり、現在は[タップルート](http://lostinbitcoin.jp.testrs.jp/staging/glossary/taproot/)アップグレードを通じてビットコインへの実装が進められています。
 
-Firstly, the Schnorr scheme is provably secure and non-malleable, two improvements over ECDSA. Secondly, compared to ECDSA signatures, Schnorr signatures take less time to verify. Schnorr signatures and public keys can be aggregated, meaning that multiple parties with unique private keys can sign the same message with much greater efficiency. Thanks to this feature, Schnorr signatures can be verified in batches instead of individually, further speeding up verification.
+シュノア署名の利点の一つは安全性が証明されており、非改ざん性を備えている点です。これらはECDSAに対する重要な改良点とされています。シュノア署名はECDSAに比べて検証時間が短く、効率的です。また、シュノア署名と[公開鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/public_key/)は集約することができ、これにより異なる[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/private_key/)を持つ複数の当事者が1つのメッセージに対してより効率的に署名を作成できます。この特性により、シュノア署名は複数の署名を個別ではなく一括で検証する「[バッチ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/batching/)検証」が可能となり、検証プロセスがさらに高速化します。
 
-Key and signature aggregation also enable privacy gains by obscuring the number of signatures present on a transaction. Finally, Schnorr signatures are also smaller than ECDSA signatures, offering savings on fees for those spending Schnorr outputs.
+署名と公開鍵の集約機能は、プライバシーの向上にも寄与します。シュノア署名を使用することで取引に含まれる署名数を隠すことができ、[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)の[匿名性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/anonymity/)が高まります。さらに、シュノア署名はECDSAよりもサイズが小さいため、手数料削減も可能です。
 
-When Bitcoin was invented, the Schnorr scheme was still patent-protected, and thus Satoshi Nakamoto decided to use ECDSA as the signature scheme for Bitcoin. The Schnorr patent has since expired, and Schnorr is currently in the process of being implemented in Bitcoin.
+ビットコインの開発当初、シュノア署名は特許で保護されていました。そのため、[サトシ・ナカモト](http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi_nakamoto/)はECDSAをビットコインの署名方式として採用しました。しかし、その後シュノア署名の特許が失効し、現在ではビットコインへの実装が進められています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

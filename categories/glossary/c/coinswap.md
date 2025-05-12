@@ -10,11 +10,8 @@ taxonomy:
 ## CoinSwap
 2,100 sats
 
-コインスワップは未使用トランザクションアウトプット（UTXO）の匿名性を向上させ、ブロックチェーン上の追跡を困難にするための技術です。
-現時点におけるブロックチェーンデータ分析の仕組みというのは、もしアリスがUTXOの全額を単一アドレスに送った場合、アリスはビットコインを本人宛てに送信している、という推測に基づいて分析されています。コインスワップは２人の利用者が参加し、それぞれが保有・自己管理するUTXOの全額を相手所有の新規アドレスに送信し合うことで、UTXOを交換し、取引履歴と利用者のつながりを解消します。複数のアドレスを経由させることで取引履歴の追跡をより困難にすることもできます。
-コインジョインやライトニングネットワークなどと同様にオフチェーンで動作する調整プロトコルであり、ビットコインネットワークの基本ルールを変更する必要はありません。利用者はビットコインの移動をオフチェーンで管理しますが、移動の記録は通常と何ら変わりないトランザクションとしてビットコインブロックチェーンに追加されます。
-コインスワップは使用した痕跡が残らないように設計されており、ビットコイン保有者のプライバシーを保護するツールとして実用化が期待されますが、一般ユーザー向けサービスとして実装される段階には今のところ至っていません。
-
+コインスワップは、[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)取引の[匿名性](http://lostinbitcoin.jp.testrs.jp/staging/glossary/anonymity/)を強化する手法です。現在の[チェーン分析](http://lostinbitcoin.jp.testrs.jp/staging/glossary/chain_analysis/)は、例えばあるユーザー（アリス）が[未使用トランザクションアウトプット（UTXO）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/utxo/)全体を一つの[アドレス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/address/)に送信した場合、「その送信先がアリス自身である」と推測し、分析することを前提としています。コインスワップは、アリスやボブなどの2者がそれぞれ自身が所有しない新しいアドレスにUTXO全体を送信することでチェーン分析の前提を崩し、双方がUTXOを交換することで両者のコインの所有履歴を断ち切ることができます。
+コインスワップは[オンチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/on_chain/)取引で構成されていますが、調整は[オフチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/off_chain/)で行われる[プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/protocol/)です。そのため、ビットコインのプロトコル自体を改変する必要はありません。2者間のやり取りはすべてインターネット上で行われ、最終的には通常のビットコイン取引として[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)に記録されます。ただしコインスワップは未だ初期段階にあり、広く実装・普及はされていません。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

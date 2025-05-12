@@ -5,19 +5,14 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Multi-Path Payment (MPP)
 2,100 sats
 
-A multipath payment (MPP) is a type of Lightning payment which is executed as an atomic set of smaller payments. These smaller payments are more reliable and easier to execute; they also offer privacy advantages, as a set of multipath payments is harder to track than a single payment. Multipath payments are atomic, meaning they must all succeed, or they all fail. This is done to avoid the confusion of partial payments.
+マルチパスペイメント（MPP）は[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)における支払い方法の一つで、一つの支払いを複数の支払いに分割して実行する仕組みを指します。この方法は信頼性が高く、実行が容易であることに加えて、プライバシーの向上にも寄与します。なぜなら、複数の経路に分割された支払いは、単一の支払いに比べて追跡が難しいからです。また、マルチパスペイメントはアトミック（不可分）な特性を持ち、分割されたすべての支払いは全て成功するか、全て失敗するかのいずれかになります。これにより、一部の分割払いだけが成功することによる混乱を未然に防ぎます。
 
-Multipath payments solve a few issues faced by the Lightning Network. When a Lightning channel is established, it has a defined capacity. Each user can send only as much bitcoin as they have committed to the channel. Thus, larger payments strain the capacity of channels and can fail if capacity is insufficient. This problem is especially salient for routed payments, which traverse several channels to get from sender to receiver. In order to reduce the strain of large payments, Lightning implementations allow users or their Lightning wallets to break the payment up into smaller payments. Each payment can be routed across a different path, distributing the strain across many different channels.
+マルチパスペイメントは、ライトニング・ネットワークが抱えるいくつかの課題を解決します。[ライトニング・チャネル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_channel/)にはあらかじめ決められた容量があり、ユーザーはチャネルに割り当てた[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)の範囲内でしか送金できません。そのため、大規模な支払いはチャネルの容量に負荷がかかり、容量不足の場合には送金が失敗することがあります。これは複数のチャネルを経由するルーティング支払いにおいて特に顕著です。マルチパスペイメントは支払いを複数の小さな単位に分割し、それぞれを異なる経路で送金することで、負荷を複数のチャネルに分散させる仕組みを提供します。これにより大規模な支払いでも成功しやすくなります。
 
-The term multipath payment is a general term, and MPP is not fully implemented on the Lightning Network. There exist different proposals and implementations of this concept across the different Lightning implementations, including Basic MPP and Atomic Multipath Payments (AMP). These different versions attempt to solve several security and reliability issues with the basic concept of multipath payments.
+なお、マルチパスペイメントという名称は、広く使われている一般的な用語ですが、現在のライトニング・ネットワーク上で完全に実装されているわけではありません。現在、いくつかの異なる提案や実装が進められており、その中には「ベーシック」マルチパスペイメントや「アトミック」マルチパスペイメント（AMP）と呼ばれるものがあります。これらはマルチパスペイメントのセキュリティや信頼性に関する課題を解決することを目的としています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

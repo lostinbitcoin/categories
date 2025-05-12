@@ -5,15 +5,16 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Malleability
 2,100 sats
 
-Transaction malleability is the ability of a transaction to have multiple valid IDs (txids). Malleability occurs when a part of a transaction can change after the transaction has been signed without invalidating the signature. Since a txid is a hash of the transaction, any change to the transaction will result in a change of the txid. However, changes that alter the txid and invalidate the signature are not a concern; only changes which alter the txid and do not invalidate the signature raise malleability concerns. Malleability is a problem for developers and users who want to reference a previous transaction in a spending transaction before the previous transaction has been confirmed on the blockchain. This problem arises because, in order to spend an output created by a previous transaction, the spending transaction must reference the txid of the previous transaction. If this txid can change, the reference will fail, and the spending transaction will be rendered invalid. A transaction can be malleated in two ways. First, after being signed, additional data can be added to a ScriptSig. Secondly, the signature itself, which is contained within the ScriptSig, can be changed. These options are both possible because a signature cannot sign itself.Eliminating transaction malleability was achieved by the SegWit upgrade, enabling more innovation on top of Bitcoin, including the Lightning Network and Taproot. SegWit eliminated transaction malleability by moving the ScriptSig—the transaction signature and the malleable part of the transaction—from the main body of the transaction into a separate Witness section.
+トランザクション展性（マリアビリティ）とは、1つの[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)が複数の有効な[トランザクションID（txid）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/txid/)を持つ可能性を指します。マリアビリティは、トランザクションが[署名](http://lostinbitcoin.jp.testrs.jp/staging/glossary/signature/)された後でも、その署名を無効化せずにトランザクションの一部を変更できる場合に発生します。txidはトランザクション全体のハッシュ値であるため、トランザクションが変更されるとtxidも変わります。ただし、変更によって署名が無効になる場合は問題ではありません。問題となるのは、署名が有効なままでtxidだけが変更されるケースです。
+
+マリアビリティは、[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain/)上で確認される前の以前のトランザクションを参照して支払いトランザクションを作成したい開発者やユーザーにとって問題となります。この問題は、以前のトランザクションによって作成されたアウトプットを使用するためには、支払いトランザクションが以前のトランザクションのtxidを参照する必要があるためです。もしこのtxidが変更可能であれば、参照は失敗し、支払いトランザクションは無効となります。
+
+マリアビリティが発生する理由は２つあります。一つ目は、署名後のScriptSig（トランザクションの署名スクリプト）への追加データの挿入です。二つ目は、ScriptSig内の署名自体の変更です。これらは、署名が自身を保護する仕組みを持たないために発生します。
+
+しかし、[SegWit](http://lostinbitcoin.jp.testrs.jp/staging/glossary/segwit/)アップグレードにより、トランザクションのマリアビリティは解消されました。SegWitでは、トランザクションのマリアビリティに関する部分であるScriptSigをトランザクション本体から分離し、新たに設けられたWitnessセクションに移動しました。これにより、[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)や[タップルート](http://lostinbitcoin.jp.testrs.jp/staging/glossary/taproot/)といった、Bitcoin上でのさらなる技術革新が可能となりました。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

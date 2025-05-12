@@ -5,21 +5,16 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Lightning Network Penalty
 2,100 sats
 
-The Lightning Network Penalty is a mechanism for discouraging attempts to double spend bitcoin using the Lightning Network (LN). Currently the LN Penalty confiscates the entire balance of a Lightning channel from an actor who attempts to publish an invalid state in order to steal funds.
+ライトニング・ネットワーク・ペナルティは、[ライトニング・ネットワーク（LN）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)内での不正行為、特に[二重支払い](http://lostinbitcoin.jp.testrs.jp/staging/glossary/double_spend/)を試みる行為を抑止する仕組みです。このペナルティは、過去の無効なチャネルの状態を公開して資金を盗もうとした者から、[ライトニング・チャネル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_channel/)の全額を没収することで機能します。
 
-The Lightning Network uses fully signed Bitcoin transactions to transfer bitcoin between parties. These transactions are not normally broadcast and added to the Bitcoin blockchain. However, since they are valid transactions, any of them can be broadcast to the blockchain at any time. This would close the Lightning channel and invalidate any Lightning transactions that occurred after that time.
+ライトニング・ネットワークでは、完全に[署名](http://lostinbitcoin.jp.testrs.jp/staging/glossary/signature/)された[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)を用いて当事者間で[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)を送受信します。これらのトランザクションは通常、ビットコインの[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)には公開・追加されません。しかし有効なトランザクションであるため、いつでもブロックチェーンに記録可能です。ブロックチェーンに記録した時点でライトニング・チャネルは閉じられ、その後に行われたライトニング・トランザクションは無効となります。
 
-This mechanism can be exploited to allow double spends over Lightning. For example, Alice and Bob have an open Lightning channel, in which they each control 0.25 BTC. Both parties currently hold a commitment transaction which allots each of them 0.25 BTC. Alice then sends Bob 0.05 BTC over Lightning, leaving her with 0.2 BTC while Bob has 0.3 BTC. A new commitment transaction reflects this new balance. However, Alice can now take the old commitment transaction and publish it to the blockchain. Each party would receive 0.25 BTC, which would effectively reverse the 0.05 BTC transaction Alice sent to Bob.
+この仕組みを悪用すると、ライトニング・ネットワークで二重支払いが可能になります。例えば、アリスとボブがそれぞれ0.25BTCを持つライトニング・チャネルを開設したとします。この時点で、両者の残高（0.25BTCずつ）を反映するコミットメント・トランザクションが存在します。その後アリスがボブに0.05BTCを送金すると、アリスの残高は0.20BTC、ボブの残高は0.30BTCとなり、新しいコミットメント・トランザクションがこの変更を記録します。しかし、アリスが意図的に古いコミットメント・トランザクションをブロックチェーンに記録すると、両者の残高は再び0.25BTCずつと見なされ、アリスが送金した0.05BTCが無効化されることになってしまいます。これによりアリスはボブに送金した資金を実質的に取り戻すことになり、不正な利益を得ることができます。
 
-In order to prevent this, the Lightning protocol enables Bob to publish the newer commitment transaction within a certain time period and take not just the 0.05 BTC he is owed, but the full 0.5 BTC from the channel. Bob would take Alice’s entire stake in the channel as a punishment for Alice’s attempted double spend.
+これを防ぐため、ライトニングプロトコルではボブが一定期間内に新しいコミットメント・トランザクションを公開することで、不正に送信された0.05BTCだけでなくチャネル内の全額（0.5BTC）をボブが没収できるように設計されています。このペナルティによって、アリスによる二重支払いの試みが罰せられる仕組みとなっています。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

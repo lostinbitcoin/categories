@@ -10,7 +10,7 @@ taxonomy:
 
 <div><button class="zap-button" data-npub="npub1f3maxrcsh7ep5kcfjcvu7zl85far4qdjfgk7nz83gksr3k73r9hqaelayw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/_LN_RN">@_LN_RN</a></div>
 
-LNURLは、QRコードを活用してライトニング[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)（以下、LNウォレット）と他のアプリケーションとの通信を簡素化します。通常、ビットコインを[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)上で送受金するには、[ライトニング・インボイス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_invoice/)（以下、LNインボイス）と呼ばれる長い文字列を受金者が生成して送金者に提供することが求められます。LNURLは、こうした複雑なフローを抽象化することで、送受金時のユーザー体験を改善します。<br>
+LNURLは、QRコードを活用してライトニングウォレット（以下、LNウォレット）と他のアプリケーションとの通信を簡素化します。通常、ビットコインを[ライトニング・ネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)上で送受金するには、[ライトニング・インボイス](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_invoice/)（以下、LNインボイス）と呼ばれる長い文字列を受金者が生成して送金者に提供することが求められます。LNURLは、こうした複雑なフローを抽象化することで、送受金時のユーザー体験を改善します。<br>
 「LNURL」は技術的には、HTTPを活用してライトニング・ネットワーク上の送金を調整する複数のオープンソースの[プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/protocol/)の一群を指します。
 
 LNURLを導入すれば、対応サービスにLNウォレットでログインできるほか、一度しか使えないLNインボイスと異なり繰り返し使える固定の支払いコード、あるいはそのQRコードを送受金に活用できます。本稿執筆時点で、LNURLにはアプリケーションに実装可能な20の機能があります。
