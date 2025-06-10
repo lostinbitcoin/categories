@@ -124,7 +124,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/difficulty/"><h5>難易度<br />Difficulty</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/double_spend/"><h5>二重支払い<br />Double Spend</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/mnemonic/"><h5>ニーモニック<br />Mnemonic</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/neutrino/"><h5>ニュートリノ<br />Neutrino<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/neutrino/"><h5>ニュートリノ<br />Neutrino</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/node/"><h5>ノード<br />Node</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/non_custodial/"><h5>ノンカストディアル<br />Non-Custodial</h5></a></li>
 	</ul>
@@ -165,7 +165,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/decentralized_ledger/"><h5>分散台帳<br />Decentralized Ledger</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/p2ep/"><h5>ペイジョイン (P2EP)<br />PayJoin (P2EP)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/payment_rail/"><h5>ペイメントレール<br />Payment Rail</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/penalty_transaction/"><h5>ペナルティトランザクション<br />Penalty Transaction<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/penalty_transaction/"><h5>ペナルティトランザクション<br />Penalty Transaction</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/fiat_currency/"><h5>法定通貨<br />Fiat Currency</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/hot_wallet/"><h5>ホットウォレット<br />Hot Wallet</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bolt/"><h5>ボルト (BOLT)<br />Basis of Lightning Technology (BOLT)</h5></a></li>
@@ -222,7 +222,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip340/"><h5>BIP 340 (シュノア署名)<br />BIP 340 (Schnorr Signatures)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip39/"><h5>BIP 39 (ニーモニックフレーズ)<br />BIP 39 (Mnemonic Phrases)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/btc/"><h5>BTC<br />BTC</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/cpfp/"><h5>CPFP<br />Child-Pays-for-Parent (CPFP)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/cpfp/"><h5>CPFP<br />Child-Pays-for-Parent (CPFP)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/dex/"><h5>DEX (分散型取引所)<br />Decentralized Exchange (DEX)</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/ecdsa/"><h5>ECDSA<br />ECDSA</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/eltoo/"><h5>Eltoo<br />Eltoo<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
@@ -232,7 +232,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/liquid_network/"><h5>Liquidネットワーク<br />Liquid Network</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/lnurl/"><h5>LNURL<br />LNURL</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/m_of_n/"><h5>M-of-N<br />M-of-N</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/musig/"><h5>MuSig<br />MuSig<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/musig/"><h5>MuSig<br />MuSig</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/ptlc/"><h5>PTLC (ポイントタイムロックコントラクト)<br />Point Time Locked Contract (PTLC)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/rbf/"><h5>RBF (Replace-By-Fee)<br />Replace-By-Fee (RBF)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/sat/"><h5>Sat (Sats)<br />Sat (Sats)</h5></a></li>
