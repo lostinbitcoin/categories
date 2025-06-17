@@ -108,7 +108,7 @@ taxonomy:
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/executive_order_6102/"><h5>大統領令6102号<br />Executive Order 6102</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/timelock/"><h5>タイムロック<br />Timelock</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/dust/"><h5>ダスト<br />Dust</h5></a></li>
-		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/dust_attack/"><h5>ダスト攻撃<br />Dust Attack<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/dust_attack/"><h5>ダスト攻撃<br />Dust Attack</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/taproot/"><h5>タップルート<br />Taproot</h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/change_output/"><h5>チェンジ・アウトプット<br />Change Output<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
 		<li class="word-box"><a href="http://lostinbitcoin.jp.testrs.jp/staging/glossary/chain_analysis/"><h5>チェーン分析<br />Chain Analysis</h5></a></li>
