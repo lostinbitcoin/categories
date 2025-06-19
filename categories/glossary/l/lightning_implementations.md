@@ -8,13 +8,13 @@ taxonomy:
 ## Lightning Implementations
 2,100 sats
 
-ライトニング実装とはライトニングノードを稼働させ、[ライトニングネットワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/lightning_network/)と接続することが可能なソフトウェアプログラムのことです。
+ライトニング実装とはライトニングノードを稼働させ、[ライトニングネットワーク](https://lostinbitcoin.sakuraweb.com/glossary/lightning_network/)と接続することが可能なソフトウェアプログラムのことです。
 
 ライトニング実装には様々なプログラミング言語で書かれた複数の異なる実装が存在します。
 
 最も一般的なライトニング実装は、LND、c-lightning、Electrum Lightning、Eclairなどです。
 
-各実装は微妙に異なる機能や設計を提供していますが、すべての実装は[Basis of Lightning Technology (BOLT)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bolt/) 仕様で定義された規格に準拠しています。
+各実装は微妙に異なる機能や設計を提供していますが、すべての実装は[Basis of Lightning Technology (BOLT)](https://lostinbitcoin.sakuraweb.com/glossary/bolt/) 仕様で定義された規格に準拠しています。
 
 この仕様ではあるライトニング実装が他のすべての実装と相互運用できるように必要な機能を定義しています。
 

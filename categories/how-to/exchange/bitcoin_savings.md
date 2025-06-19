@@ -18,4 +18,4 @@ taxonomy:
 [サイトに移動](https://spotlight.soy/detail?article_id=wyrsmzxgy)
 
 ### 著作権等について
-[利用規約 B](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uab) 
+[利用規約 B](https://lostinbitcoin.sakuraweb.com/copyright/#uab) 

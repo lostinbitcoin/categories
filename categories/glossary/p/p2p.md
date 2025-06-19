@@ -8,7 +8,7 @@ taxonomy:
 ## Peer-to-Peer (P2P)
 2,100 sats
 
-ピアツーピアネットワークとは、参加者が第三者の承認や仲介を必要とせず、直接データをやり取りできるネットワークを指します。[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)は相互接続した[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node/)が[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)や[ブロック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/block/)を中継するピアツーピアネットワークです。ビットコインの所有者は、所有権をピアツーピア方式で他者に直接譲渡できます。ビットコインの送金トランザクションはマイナーが処理しますが、マイナーがビットコインを預かったり、トランザクションを改変して横領することはできません。
+ピアツーピアネットワークとは、参加者が第三者の承認や仲介を必要とせず、直接データをやり取りできるネットワークを指します。[ビットコイン](https://lostinbitcoin.sakuraweb.com/glossary/bitcoin/)は相互接続した[ノード](https://lostinbitcoin.sakuraweb.com/glossary/node/)が[トランザクション](https://lostinbitcoin.sakuraweb.com/glossary/transaction/)や[ブロック](https://lostinbitcoin.sakuraweb.com/glossary/block/)を中継するピアツーピアネットワークです。ビットコインの所有者は、所有権をピアツーピア方式で他者に直接譲渡できます。ビットコインの送金トランザクションはマイナーが処理しますが、マイナーがビットコインを預かったり、トランザクションを改変して横領することはできません。
 
 ピアツーピアネットワークは検閲や不正に対する耐性が高いです。ビットコインはその典型と言えます。ビットコインネットワークに参加する数万もの人が、ノードを運用してブロックチェーンの検証やビットコインネットワークの分散性維持に貢献しています。
 

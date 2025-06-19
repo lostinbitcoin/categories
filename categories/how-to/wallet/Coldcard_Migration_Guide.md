@@ -22,9 +22,9 @@ taxonomy:
 
 コールドストレージをレベルアップして **COLDCARD®**に移行しよう！
 
-このチュートリアルでは、Ledger または Trezor [ハードウェアウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hardware_wallet/)（移行元ウォレット）で生成された[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)の[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/seed/)を、空の COLDCARD（移行先ウォレット）に保存する方法を説明します。
+このチュートリアルでは、Ledger または Trezor [ハードウェアウォレット](https://lostinbitcoin.sakuraweb.com/glossary/hardware_wallet/)（移行元ウォレット）で生成された[ウォレット](https://lostinbitcoin.sakuraweb.com/glossary/wallet/)の[シード](https://lostinbitcoin.sakuraweb.com/glossary/seed/)を、空の COLDCARD（移行先ウォレット）に保存する方法を説明します。
 
-使用しているデバイスや、相談している相手によっては、ウォレットのシードの単語のことをリカバリーフレーズや、リカバリーシード、シードフレーズ、[ニモニック](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mnemonic/)、バックアップフレーズなどと呼んでいるかもしれません。そうしたシードの単語リストが、これからあなたのCOLDCARDに転送されるものです。
+使用しているデバイスや、相談している相手によっては、ウォレットのシードの単語のことをリカバリーフレーズや、リカバリーシード、シードフレーズ、[ニモニック](https://lostinbitcoin.sakuraweb.com/glossary/mnemonic/)、バックアップフレーズなどと呼んでいるかもしれません。そうしたシードの単語リストが、これからあなたのCOLDCARDに転送されるものです。
 
 **アルトコインはサポート対象外**
 
@@ -217,7 +217,7 @@ COLDCARDが初めての場合は、簡単なトランザクションを試すに
 
 実際、自分が使用していたTrezor Model Oneのデフォルトアドレスは、「３」から始まるレガシーSegwitという形式であったため、Coldcard移行後に正常に表示されない状況となりました。
 
-また解説記事内ではElectrumを利用した確認方法が解説されていますが、これまでの[lostinbitcoinでの解説記事](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide03/)を参考にしてColdcardを利用している方には、Sparrow Walletを利用した方がより簡単です。
+また解説記事内ではElectrumを利用した確認方法が解説されていますが、これまでの[lostinbitcoinでの解説記事](https://lostinbitcoin.sakuraweb.com/how-to/coldcardguide03/)を参考にしてColdcardを利用している方には、Sparrow Walletを利用した方がより簡単です。
 
 では、実際にやってみましょう。
 
@@ -239,7 +239,7 @@ COLDCARDが初めての場合は、簡単なトランザクションを試すに
 
 この記事内の**シードワードを入力する**を参考にCOLDCARDにシードワードを入力後、デバイスをSparrow Walletに接続します。
 
-Sparrow Walletが初めての方は、[この記事を参考](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide03/)に設定してください。
+Sparrow Walletが初めての方は、[この記事を参考](https://lostinbitcoin.sakuraweb.com/how-to/coldcardguide03/)に設定してください。
 
 **“Import Keystore”** まで進んだ所で、アドレス形式を指定してあげます。▼をクリックすると3種類のアドレス形式が表示されます。
 
@@ -251,7 +251,7 @@ Sparrow Walletが初めての方は、[この記事を参考](http://lostinbitco
 
 ここでも見慣れないアドレス形式名が使われており困惑しますが、先ほどの表内の別名に注目すると自分のアドレスは**P2SH-P2WPKH**であることがわかります。
 
-**Nested Segwit (P2SH-P2WPKH)** を選択し、処理を進めるとウォレットが復元され、過去の[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)履歴やBitcoin残高も正しく表示されるようになるはずです。
+**Nested Segwit (P2SH-P2WPKH)** を選択し、処理を進めるとウォレットが復元され、過去の[トランザクション](https://lostinbitcoin.sakuraweb.com/glossary/transaction/)履歴やBitcoin残高も正しく表示されるようになるはずです。
 
 Sparrow Walletを利用して、このままこのウォレットで送金のための署名を行うこともできます。
 

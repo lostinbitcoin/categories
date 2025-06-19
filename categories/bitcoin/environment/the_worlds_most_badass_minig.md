@@ -15,7 +15,7 @@ taxonomy:
 |  ![Category](/_images/category.png)  |  事例  |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  4分  |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 
-[マイニング](http://lostinbitcoin.jp.testrs.jp/staging/glossary/mining/)は環境に悪いという通説、大規模資本集約化が加速するマイニング業界へのアンチテーゼとして、廃棄物を利用した「ゼロ・ウェイスト」マイクロマイニング施設を運営するグアテマラのKaboom Energyを訪問取材。
+[マイニング](https://lostinbitcoin.sakuraweb.com/glossary/mining/)は環境に悪いという通説、大規模資本集約化が加速するマイニング業界へのアンチテーゼとして、廃棄物を利用した「ゼロ・ウェイスト」マイクロマイニング施設を運営するグアテマラのKaboom Energyを訪問取材。
 
 *本記事は [@TerukoNeriki](https://twitter.com/TerukoNeriki) が2023年1月に[ビットコイン研究所](https://coinkeninfo.com/)に寄稿、 [CoinPost](https://coinpost.jp/) に掲載されたものです。*
 

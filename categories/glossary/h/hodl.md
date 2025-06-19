@@ -10,7 +10,7 @@ taxonomy:
 
 <div><button class="zap-button" data-npub="npub1f3maxrcsh7ep5kcfjcvu7zl85far4qdjfgk7nz83gksr3k73r9hqaelayw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/_LN_RN">@_LN_RN</a></div>
 
-HODLは[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)コミュニティーでよく使われる用語で、単に "hold" (握る、保持する) という単語のスペルミスから生まれました。
+HODLは[ビットコイン](https://lostinbitcoin.sakuraweb.com/glossary/bitcoin/)コミュニティーでよく使われる用語で、単に "hold" (握る、保持する) という単語のスペルミスから生まれました。
 
 ビットコインがしばしば経験する極端な価格変動に直面しても、狼狽して売却しないよう、ストイックな姿勢を崩さず保有し続けることを促すスローガンです。
 

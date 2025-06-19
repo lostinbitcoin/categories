@@ -13,7 +13,7 @@ taxonomy:
 ## Decentralized Ledger
 2,100 sats
 
-分散型台帳は、あるネットワークにおける全ての[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)の記録であり、[プロトコル](http://lostinbitcoin.jp.testrs.jp/staging/glossary/protocol/)が定めたルールに基づいて、多くの独立した[ノード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/node-2/)によって維持・更新されます。[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin-2/)では、ネットワークの形成と分散台帳の維持管理に[ブロックチェーン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/blockchain-2/)と[プルーフ・オブ・ワーク](http://lostinbitcoin.jp.testrs.jp/staging/glossary/pow/)メカニズムが活用されています。
+分散型台帳は、あるネットワークにおける全ての[トランザクション](https://lostinbitcoin.sakuraweb.com/glossary/transaction/)の記録であり、[プロトコル](https://lostinbitcoin.sakuraweb.com/glossary/protocol/)が定めたルールに基づいて、多くの独立した[ノード](https://lostinbitcoin.sakuraweb.com/glossary/node-2/)によって維持・更新されます。[ビットコイン](https://lostinbitcoin.sakuraweb.com/glossary/bitcoin-2/)では、ネットワークの形成と分散台帳の維持管理に[ブロックチェーン](https://lostinbitcoin.sakuraweb.com/glossary/blockchain-2/)と[プルーフ・オブ・ワーク](https://lostinbitcoin.sakuraweb.com/glossary/pow/)メカニズムが活用されています。
 
 従来の銀行では中央集権型の台帳で残高を追跡し、台帳の更新は各支店が定期的に実施しています。この台帳は顧客など外部には公開されておらず、監査は困難です。ビットコインプロトコルはこの問題を解決するために、取引記録を全て公開し、誰でも自由に台帳にアクセスできるようにしました。マイナーが新規取引を台帳に追加し、ノード運用者は各々が管理する台帳を参照して自ら発行残高や取引履歴を検証できます。
 

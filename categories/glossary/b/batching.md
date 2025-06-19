@@ -8,7 +8,7 @@ taxonomy:
 ## Batching
 2,100 sats
 
-バッチまたはバッチ処理とは、複数の送金を 1 件の[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)にまとめることを指します。[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)の[送金手数料](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction_fee/)はトランザクションのデータサイズに基づくため、複数の送金を 1 件にまとめてデータ量を削減することで手数料が抑えられます。
+バッチまたはバッチ処理とは、複数の送金を 1 件の[トランザクション](https://lostinbitcoin.sakuraweb.com/glossary/transaction/)にまとめることを指します。[ビットコイン](https://lostinbitcoin.sakuraweb.com/glossary/bitcoin/)の[送金手数料](https://lostinbitcoin.sakuraweb.com/glossary/transaction_fee/)はトランザクションのデータサイズに基づくため、複数の送金を 1 件にまとめてデータ量を削減することで手数料が抑えられます。
 
 例えば、アリスがボブに 0.5 BTC、チャーリーに 0.3 BTC、デビッドに 0.2 BTCを送金する場合、1 BTCのインプットに対して、送金先アドレスとおつりアドレスの ２ つのアウトプットを含むトランザクションを 3 件作成するより、3 つの送金先アドレスをアウトプットとする 1 件のトランザクションを作成する方が手数料を節約できます。
 

@@ -25,4 +25,4 @@ taxonomy:
 
 
 ### 著作権等について
-[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa)
+[利用規約 A](https://lostinbitcoin.sakuraweb.com/copyright/#uaa)

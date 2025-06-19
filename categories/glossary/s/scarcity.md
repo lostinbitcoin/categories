@@ -14,9 +14,9 @@ taxonomy:
 
 ある財が貨幣として機能するためには、多くの人に財を行き渡らせる必要があります。社会に広く通用させられない財は経済活動の基盤とはなり得ず、貨幣の役目を果たせません。一方で、貨幣となる財は容易に生産または発見できるものであってはなりません。容易に生産可能な財、すなわち、希少性が低い財が貨幣となった場合、貨幣の価値、貨幣に対する信頼は時間とともに低下します。
 
-紙切れ、あるいは電子データである[法定通貨](http://lostinbitcoin.jp.testrs.jp/staging/glossary/fiat_currency/)には、そもそも希少性はありません。希少性のない法定通貨に何とか希少性を持たせるため、政府は中央銀行に独占的発行権を与えています。しかし、実際には民間銀行も信用創造を通じて、ほぼノーコストで通貨供給を増やせます。
+紙切れ、あるいは電子データである[法定通貨](https://lostinbitcoin.sakuraweb.com/glossary/fiat_currency/)には、そもそも希少性はありません。希少性のない法定通貨に何とか希少性を持たせるため、政府は中央銀行に独占的発行権を与えています。しかし、実際には民間銀行も信用創造を通じて、ほぼノーコストで通貨供給を増やせます。
 
-[ビットコイン](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin/)は絶対的希少性を持つ上、供給が限られています。このような財は過去に例がありません。[難易度](http://lostinbitcoin.jp.testrs.jp/staging/glossary/difficulty/)調整アルゴリズムがビットコインの新規発行には常にコストがともなうことを保証し、ビットコイン価格はこのコストと密接に相関します。さらに、[半減期](http://lostinbitcoin.jp.testrs.jp/staging/glossary/halving/)アルゴリズムによって、ビットコインの総供給は2,100万を超えないことが保証されています。ビットコインの価値提案の根拠は、この2,100万という供給上限です。
+[ビットコイン](https://lostinbitcoin.sakuraweb.com/glossary/bitcoin/)は絶対的希少性を持つ上、供給が限られています。このような財は過去に例がありません。[難易度](https://lostinbitcoin.sakuraweb.com/glossary/difficulty/)調整アルゴリズムがビットコインの新規発行には常にコストがともなうことを保証し、ビットコイン価格はこのコストと密接に相関します。さらに、[半減期](https://lostinbitcoin.sakuraweb.com/glossary/halving/)アルゴリズムによって、ビットコインの総供給は2,100万を超えないことが保証されています。ビットコインの価値提案の根拠は、この2,100万という供給上限です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.

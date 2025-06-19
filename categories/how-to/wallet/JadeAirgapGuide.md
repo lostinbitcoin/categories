@@ -22,7 +22,7 @@ taxonomy:
 
 ### **「あなたの秘密鍵なら、あなたのビットコイン。あなたの秘密鍵でないなら、それはあなたのビットコインではない。」**
 
-ビットコインの[セルフカストディ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/non_custodial/)(自己管理)に興味を持つ人なら、今では誰でも一度は聞いたことがあるこの有名なフレーズ。ビットコインの技術的側面に興味がある人の教科書とも言える「マスタリング・ビットコイン」の著者、アンドレアス・アントノプロス氏の言葉です。
+ビットコインの[セルフカストディ](https://lostinbitcoin.sakuraweb.com/glossary/non_custodial/)(自己管理)に興味を持つ人なら、今では誰でも一度は聞いたことがあるこの有名なフレーズ。ビットコインの技術的側面に興味がある人の教科書とも言える「マスタリング・ビットコイン」の著者、アンドレアス・アントノプロス氏の言葉です。
 
 それでも彼がこのフレーズを使い始めた当初は、その言葉の真意を知る人は今ほど多くはありませんでした。
 
@@ -38,7 +38,7 @@ BlockFi: 暗号通貨レンディング大手。2022年11月20日に米国で破
 
 繰り返される数々の苦い実体験を経て、人は徐々に自分の財産を自分自身で管理することの意味とそのありがたみを理解していきます。
 
-そして自然にたどり着く[ハードウェア・ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/hardware_wallet/)という管理方法。
+そして自然にたどり着く[ハードウェア・ウォレット](https://lostinbitcoin.sakuraweb.com/glossary/hardware_wallet/)という管理方法。
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What is the best hardware device? <a href="[https://twitter.com/hashtag/BTC?src=hash&amp;ref_src=twsrc^tfw](https://twitter.com/hashtag/BTC?src=hash&amp;ref_src=twsrc%5Etfw)">#BTC</a> <a href="[https://t.co/yrrHk64V0f](https://t.co/yrrHk64V0f)">[pic.twitter.com/yrrHk64V0f](http://pic.twitter.com/yrrHk64V0f)</a></p>— The ₿itcoin Therapist (@TheBTCTherapist) <a href="[https://twitter.com/TheBTCTherapist/status/1717701802835988482?ref_src=twsrc^tfw](https://twitter.com/TheBTCTherapist/status/1717701802835988482?ref_src=twsrc%5Etfw)">October 27, 2023</a></blockquote>
 
@@ -57,7 +57,7 @@ BlockFi: 暗号通貨レンディング大手。2022年11月20日に米国で破
 
 ビットコインさんだって実はそうなのです。
 
-隙あらばあなたの[秘密鍵](http://lostinbitcoin.jp.testrs.jp/staging/glossary/private_key/)や[シード](http://lostinbitcoin.jp.testrs.jp/staging/glossary/seed/)フレーズを奪おうとしてくるスキャマーがうごめき、マルウェア、フィッィング詐欺、キーロガーなどのあらゆる脅威と日々隣合わせのネットの世界と、その保管場所をバッサリと切り離しておくことは、もっとも有効な資産防衛法のひとつです。
+隙あらばあなたの[秘密鍵](https://lostinbitcoin.sakuraweb.com/glossary/private_key/)や[シード](https://lostinbitcoin.sakuraweb.com/glossary/seed/)フレーズを奪おうとしてくるスキャマーがうごめき、マルウェア、フィッィング詐欺、キーロガーなどのあらゆる脅威と日々隣合わせのネットの世界と、その保管場所をバッサリと切り離しておくことは、もっとも有効な資産防衛法のひとつです。
 
 極論、ビットコインを日々こつこつと積み立てていく用途であるならば、自分のビットコイン = 秘密鍵を徹頭徹尾、インターネットに触れさせることなく運用することが可能です。
 
@@ -65,11 +65,11 @@ BlockFi: 暗号通貨レンディング大手。2022年11月20日に米国で破
 
 ## BlockStream社製ハードウェウォレット「Jade」
 
-BlockStream社の創業者アダム・バック博士は、サトシ・ナカモトによるBitcoinの[ホワイトペーパー](http://lostinbitcoin.jp.testrs.jp/staging/glossary/whitepaper/)にも引用されているHashcashの発案者として有名な暗号学者であり、同社は[Bitcoin Core](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bitcoin_core/)への多大な貢献でも知られているBitcoin企業です。
+BlockStream社の創業者アダム・バック博士は、サトシ・ナカモトによるBitcoinの[ホワイトペーパー](https://lostinbitcoin.sakuraweb.com/glossary/whitepaper/)にも引用されているHashcashの発案者として有名な暗号学者であり、同社は[Bitcoin Core](https://lostinbitcoin.sakuraweb.com/glossary/bitcoin_core/)への多大な貢献でも知られているBitcoin企業です。
 
 そんな同社が開発したBitcoin用ハードウェウォレット「Jade」は、セキュリティと使いやすさにも定評がある上に、ソフトウェアは完全にオープンソース化されており、世界中のビットコイナーが常に **”Dont’ trust, verify.”**(信用するな、検証しろ)の目を光らせています。
 
-デバイスは、小さいながらもカラー液晶ディスプレイとQRスキャン用カメラを備えているのが特徴で、今回の記事で紹介する **「Jade完全エアギャップBitcoin[トランザクション](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction/)」** も、この内蔵カメラをフル活用した方法となっています。
+デバイスは、小さいながらもカラー液晶ディスプレイとQRスキャン用カメラを備えているのが特徴で、今回の記事で紹介する **「Jade完全エアギャップBitcoin[トランザクション](https://lostinbitcoin.sakuraweb.com/glossary/transaction/)」** も、この内蔵カメラをフル活用した方法となっています。
 
 このガイドでは、海外のビットコインエデュケーターとして著名な[@BTC Sessions/Ben](https://twitter.com/BTCsessions)氏のご快諾の元、解説動画「[Unlocking ULTIMATE Security: Air-Gapped Bitcoin Transactions with Blockstream Jade!](https://youtu.be/XVKsaPCe260?si=4Zd0jl_HC-_iJr0H)」を参考に、サムネ画像入りで詳しく解説していきます。
 
@@ -202,12 +202,12 @@ Jade本体で承認（☑を選択）すると、本体は自動的にアップ�
 - パスフレーズを設定するかどうかの確認画面です。設定する場合は「Yes」を選択。
 
 > Add BIP39 passphrase? You will need this to access your funds.
-[BIP39](http://lostinbitcoin.jp.testrs.jp/staging/glossary/bip39/)パスフレーズを追加しますか？自身の資金にアクセスする際に必要になります。
+[BIP39](https://lostinbitcoin.sakuraweb.com/glossary/bip39/)パスフレーズを追加しますか？自身の資金にアクセスする際に必要になります。
 >
 
 現状では、QRコードを他の誰かにスキャンされてしまうとあなたの資金はすぐに盗まれてしまう状態にありますが、「パスフレーズ」を設定することでそうした事態を防ぐことができます。
 
-パスフレーズに関する詳しい解説は、過去の[こちらの記事](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide04/)をお読みください。
+パスフレーズに関する詳しい解説は、過去の[こちらの記事](https://lostinbitcoin.sakuraweb.com/how-to/coldcardguide04/)をお読みください。
 
 ![JadeAirgapGuide_021](/_images/JadeAirgapGuide_021.png)
 
@@ -306,7 +306,7 @@ Jade本体で承認（☑を選択）すると、本体は自動的にアップ�
 
 - この画面では、ウォレット設定のバックアップ画面ですが、今回のセットアップでは必要ありませんので「I'll do this later」(あとでやります）を選んでOKです。
 
-※[マルチシグ](http://lostinbitcoin.jp.testrs.jp/staging/glossary/multisig/)・ウォレットを作成するような場合は、このバックアップが後の復元時に非常に重要になります。
+※[マルチシグ](https://lostinbitcoin.sakuraweb.com/glossary/multisig/)・ウォレットを作成するような場合は、このバックアップが後の復元時に非常に重要になります。
 
 ![JadeAirgapGuide_042](/_images/JadeAirgapGuide_042.png)
 
@@ -412,7 +412,7 @@ Bitcoinの受け取りはとても簡単です。
 
 ![JadeAirgapGuide_056](/_images/JadeAirgapGuide_056.png)
 
-- Fee([送金手数料](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction_fee/))を確認し、問題なければ☑を選択します。
+- Fee([送金手数料](https://lostinbitcoin.sakuraweb.com/glossary/transaction_fee/))を確認し、問題なければ☑を選択します。
 - QRコードが表示されているJade側の電源は切らずにそのままにしておきます。
 
 ※この時点でJadeによる署名は完了していますが、まだ送金手続きは完了していません。今度はNunchuk側で、この署名されたトランザクションを取り込む作業を行います。
@@ -437,7 +437,7 @@ Bitcoinの受け取りはとても簡単です。
 
 毎回、同じ結論になりますが、Jadeを利用したビットコイン保管においても、初期設定時にメモした12単語(シードフレーズ)の保管方法が、資産防衛のための最重要ポイントになります。
 
-あわせて読みたい：[ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう④～バックアップ＆リカバリ編～](http://lostinbitcoin.jp.testrs.jp/staging/how-to/coldcardguide04/)
+あわせて読みたい：[ハードウェアウォレットCOLDCARDで大事なビットコインを守ろう④～バックアップ＆リカバリ編～](https://lostinbitcoin.sakuraweb.com/how-to/coldcardguide04/)
 
 このセットアップでは、秘密鍵自体が一切デバイスに残らないため、このシードフレーズのオフライン管理は、なおのこと重要になります。
 
@@ -464,4 +464,4 @@ Bitcoinの受け取りはとても簡単です。
 
 
 ***
-[利用規約 A](http://lostinbitcoin.jp.testrs.jp/staging/copyright/#uaa)
+[利用規約 A](https://lostinbitcoin.sakuraweb.com/copyright/#uaa)

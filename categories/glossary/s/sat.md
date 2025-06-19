@@ -8,7 +8,7 @@ taxonomy:
 ## Sat (Sats)
 2,100 sats
 
-[サトシ（Satoshi)](http://lostinbitcoin.jp.testrs.jp/staging/glossary/satoshi/)
+[サトシ（Satoshi)](https://lostinbitcoin.sakuraweb.com/glossary/satoshi/)
 
 
 ---

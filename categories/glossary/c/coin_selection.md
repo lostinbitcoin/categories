@@ -13,9 +13,9 @@ taxonomy:
 ## Coin Selection
 2,100 sats
 
-コインセレクションとは、[ウォレット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/wallet/)が所有する[未使用トランザクションアウトプット（UTXO）](http://lostinbitcoin.jp.testrs.jp/staging/glossary/utxo/)の一部を選択して、取引を作成し資金を割り当てるプロセスのことを指します。ユーザーの代理で取引を作成する際には、ウォレットは特定のUTXOを選択して取引の資金源として使用する必要があります。
+コインセレクションとは、[ウォレット](https://lostinbitcoin.sakuraweb.com/glossary/wallet/)が所有する[未使用トランザクションアウトプット（UTXO）](https://lostinbitcoin.sakuraweb.com/glossary/utxo/)の一部を選択して、取引を作成し資金を割り当てるプロセスのことを指します。ユーザーの代理で取引を作成する際には、ウォレットは特定のUTXOを選択して取引の資金源として使用する必要があります。
 
-例えば、アリスがボブに1BTCを支払いたいとします。アリスがウォレットに様々な金額のUTXOを合計で5BTC保有している場合、ウォレットはどのUTXOを使用するかを決定しなければなりません。この決定は必ずしも単純ではなく、ユーザー（アリス）の優先事項によって異なります。コインセレクションの選択肢としては、[ダスト](http://lostinbitcoin.jp.testrs.jp/staging/glossary/dust/)（[送金手数料](http://lostinbitcoin.jp.testrs.jp/staging/glossary/transaction_fee/)に満たないくらい小さな額）の蓄積を避けるために、少額のUTXOを優先的に消費する方法や、大きなUTXOを使用して手数料を抑える方法があります。またプライバシーの強化や[チェンジ・アウトプット](http://lostinbitcoin.jp.testrs.jp/staging/glossary/change_output/)の発生を避けることを優先させる方法もあります。
+例えば、アリスがボブに1BTCを支払いたいとします。アリスがウォレットに様々な金額のUTXOを合計で5BTC保有している場合、ウォレットはどのUTXOを使用するかを決定しなければなりません。この決定は必ずしも単純ではなく、ユーザー（アリス）の優先事項によって異なります。コインセレクションの選択肢としては、[ダスト](https://lostinbitcoin.sakuraweb.com/glossary/dust/)（[送金手数料](https://lostinbitcoin.sakuraweb.com/glossary/transaction_fee/)に満たないくらい小さな額）の蓄積を避けるために、少額のUTXOを優先的に消費する方法や、大きなUTXOを使用して手数料を抑える方法があります。またプライバシーの強化や[チェンジ・アウトプット](https://lostinbitcoin.sakuraweb.com/glossary/change_output/)の発生を避けることを優先させる方法もあります。
 
 コインセレクションは通常、ウォレットに組み込まれたアルゴリズムによって制御されます。ただし、一部のウォレットではユーザー自身がコインセレクションの設定をカスタマイズして、自分のニーズに合った選択を行うことが可能です。
 
