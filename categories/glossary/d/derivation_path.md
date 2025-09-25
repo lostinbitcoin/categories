@@ -13,14 +13,14 @@ taxonomy:
 ## Derivation Path
 2,100 sats
 
-A derivation path is a piece of data which tells a Hierarchical Deterministic (HD) wallet how to derive a specific key within a tree of keys. Derivation paths are used as a Bitcoin standard and were introduced with HD wallets as a part of BIP 32.
-Each key in the tree of a HD wallet can be described by its derivation path, which contains information about a key’s depth and index—where it resides within the tree structure. The master key is simply refered to as ’m'.
+導出パスとは、階層的決定性（HD）ウォレットが、鍵の木構造の中からどのように特定の鍵を導出するかを示すデータです。導出パスはビットコインのスタンダードとして使われており、HDウォレットとともに BIP32 の一部として導入されました。HDウォレットの木構造にある各鍵は導出パスで表せます。導出パスには、その鍵が木のどこに位置するのかを示す深さ（depth）とインデックス（index）の情報が含まれています。最上位のマスターキーは単に「m」と表記されます。
 
-For example, the first child of the master key has a derivation path of “m/0”, and the fifth child of that child key has a derivation path of “m/0/4”. The depth of each child is given by the number of levels—each separated by a slash—between itself and the master key, and the index of each child is its number at that level, starting with zero. The key at “m/0/4” has a depth of 2 and an index of 4.
+たとえば、マスターキーの最初の子鍵は 「m/0」、さらにその5番目は 「m/0/4」 となります。各子鍵の深さは、マスターキーから見た階層の段数（スラッシュで区切られるレベル数）で表され、各子鍵のインデックスはその階層での番号で 0 から始まります。したがって 「m/0/4」 の鍵は 深さ 2、インデックス 4 ということになります。
 
-Bitcoin Improvement Proposal 32 allows for 2^32 children keys to be derived by each parent key. Children numbered 0-2^31 - 1 are considered unhardened, meaning a parent public key can derive child public keys. However, for children numbered 2^31-2^32 - 1, parent public keys are incapable of deriving children. Only the parent private key is capable of deriving a child private key, which can then be used to derive the child public key. This specification allows for flexbility within the HD wallet standard. When a key is hardened, it is denoted with a prime symbol ‘.
+BIP32 では、各親鍵から 2^32 個の子鍵を導出できると定められています。インデックス 0～2^31−1 の子鍵は非ハード化（unhardened）で、親の公開鍵から子の公開鍵を導出できます。一方、2^31～2^32−1 の子鍵はハード化（hardened）で、親の公開鍵では子を導出できません。この場合は 親の秘密鍵だけが子の秘密鍵を導出でき、その子鍵の秘密鍵から公開鍵を導出します。こうした仕様により、HDウォレット標準に柔軟性がもたらされています。鍵がハード化されていることはプライム記号（'）で示します。
 
-For example, the first hardened child of the master key has a derivation path of “m/0’”, and that key’s fifth unhardened child has a derivation path of “m/0'/4”.
+たとえば、マスターキーの最初のハード化された子鍵は 「m/0'」 で、その鍵の 5 番目の非ハード化の子鍵は 「m/0'/4」となります。
 
+ミニ図（位置関係のイメ
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
