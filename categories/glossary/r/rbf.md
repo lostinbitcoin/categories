@@ -5,15 +5,10 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Replace-By-Fee (RBF)
 2,100 sats
 
-In Bitcoin, RBF stands for Replace-by-Fee. A Bitcoin transaction can be designated as RBF in order to allow the sender to replace this transaction with another similar transaction which pays a higher fee. This mechanism exists to allow users to respond if the network becomes congested and fees rise unexpectedly. If a user sends a transaction with a low fee, and finds that it is taking too long to confirm, the user can raise the fee they pay to confirm their transaction faster. RBF only works while the transaction is in the mempool. As soon as a transaction enters a block, it cannot be replaced by fee. Additionally, when a transaction is first sent, it must specify that it is available to be replaced by fee. This is achieved by setting the nSequence, a small part of each transaction, to any value below 0xfffffffe. The nSequence of a transaction is intended to allow a transaction to be updated after it has been broadcast. Also see [BIP 125 (RBF)](https://lostinbitcoin.sakuraweb.com/glossary/bip125/)
+ビットコインにおいて、RBFは「Replace-by-Fee（手数料による置き換え）」の略です。ビットコインのトランザクションはRBFとして指定することができ、その場合、送信者はより高い手数料を支払う同様のトランザクションで当該トランザクションを置き換えられます。この仕組みは、ネットワークが混雑して手数料が予想外に上昇したときでも、ユーザーが対応できるようにするために存在します。もしユーザーが低い手数料でトランザクションを送信し、確定までに時間がかかりすぎると感じた場合、手数料を引き上げてトランザクションの承認を早めることができます。RBFが機能するのは、そのトランザクションが[メンプール](https://lostinbitcoin.sakuraweb.com/glossary/mempool/)に存在している間だけです。いったん[トランザクション](https://lostinbitcoin.sakuraweb.com/transaction/)が[ブロック](https://lostinbitcoin.sakuraweb.com/glossary/block/)に取り込まれると、手数料による置き換えはできません。RBFを使うには、最初に送る時点で「置き換えできるよ」という合図を入れておく必要があります。具体的には、各入力（input）に付いている小さな数値フィールド「nSequence」のうち、少なくとも1つを 0xfffffffe 未満の値に設定して送ります。これで「このトランザクションは、あとからより高い手数料のトランザクションに置き換えてOK」という意思表示になります。nSequenceはもともと、ブロードキャスト後にトランザクションを更新できるようにするための仕組みの一部です。[BIP 125 (RBF)](https://lostinbitcoin.sakuraweb.com/glossary/bip125/)も参照してください。
 
 
 ---
