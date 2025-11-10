@@ -228,13 +228,13 @@ taxonomy:
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/eltoo/"><h5>Eltoo<br />Eltoo<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/hodl/"><h5>HODL<br />HODL</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/howey_test/"><h5>Howeyテスト<br />Howey Test</h5></a></li>
-		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/htlc/"><h5>HTLC (ハッシュタイムロックコントラクト)<br />Hashed Time Locked Contract (HTLC)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/htlc/"><h5>HTLC (ハッシュタイムロックコントラクト)<br />Hashed Time Locked Contract (HTLC)</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/liquid_network/"><h5>Liquidネットワーク<br />Liquid Network</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/lnurl/"><h5>LNURL<br />LNURL</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/m_of_n/"><h5>M-of-N<br />M-of-N</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/musig/"><h5>MuSig<br />MuSig</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/ptlc/"><h5>PTLC (ポイントタイムロックコントラクト)<br />Point Time Locked Contract (PTLC)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
-		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/rbf/"><h5>RBF (Replace-By-Fee)<br />Replace-By-Fee (RBF)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/rbf/"><h5>RBF (Replace-By-Fee)<br />Replace-By-Fee (RBF)</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/sat/"><h5>Sat (Sats)<br />Sat (Sats)</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/segwit/"><h5>SegWit<br />SegWit</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/sha_256/"><h5>SHA-256<br />SHA-256</h5></a></li>
