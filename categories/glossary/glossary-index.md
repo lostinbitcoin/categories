@@ -110,7 +110,7 @@ taxonomy:
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/dust/"><h5>ダスト<br />Dust</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/dust_attack/"><h5>ダスト攻撃<br />Dust Attack</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/taproot/"><h5>タップルート<br />Taproot</h5></a></li>
-		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/change_output/"><h5>チェンジ・アウトプット<br />Change Output<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/change_output/"><h5>チェンジ・アウトプット<br />Change Output</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/chain_analysis/"><h5>チェーン分析<br />Chain Analysis</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/anonymity/"><h5>匿名性<br />Anonymity</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/derivation_path/"><h5>導出パス<br />Derivation Path<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
