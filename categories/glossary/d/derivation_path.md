@@ -5,22 +5,18 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Derivation Path
 2,100 sats
 
-A derivation path is a piece of data which tells a Hierarchical Deterministic (HD) wallet how to derive a specific key within a tree of keys. Derivation paths are used as a Bitcoin standard and were introduced with HD wallets as a part of BIP 32.
-Each key in the tree of a HD wallet can be described by its derivation path, which contains information about a key’s depth and index—where it resides within the tree structure. The master key is simply refered to as ’m'.
+導出パスとは、[階層型決定性ウォレット](https://lostinbitcoin.sakuraweb.com/glossary/bip32/)に対して、鍵のツリー内にある特定の鍵をどのように導出するかを示すデータです。導出パスはビットコインの標準として用いられており、HDウォレットとともに[BIP32](https://lostinbitcoin.sakuraweb.com/glossary/bip32/)の一部として導入されました。
 
-For example, the first child of the master key has a derivation path of “m/0”, and the fifth child of that child key has a derivation path of “m/0/4”. The depth of each child is given by the number of levels—each separated by a slash—between itself and the master key, and the index of each child is its number at that level, starting with zero. The key at “m/0/4” has a depth of 2 and an index of 4.
+HDウォレットのツリー内にある各鍵は、その導出パスによって表すことができ、導出パスには、ツリー構造の中でどこに位置しているかを示す鍵の深度とインデックスに関する情報が含まれます。マスターキーは単に「m」と表記されます。
 
-Bitcoin Improvement Proposal 32 allows for 2^32 children keys to be derived by each parent key. Children numbered 0-2^31 - 1 are considered unhardened, meaning a parent public key can derive child public keys. However, for children numbered 2^31-2^32 - 1, parent public keys are incapable of deriving children. Only the parent private key is capable of deriving a child private key, which can then be used to derive the child public key. This specification allows for flexbility within the HD wallet standard. When a key is hardened, it is denoted with a prime symbol ‘.
+たとえば、マスターキーの最初の子鍵の導出パスは「m/0」であり、その子鍵の5番目の子鍵の導出パスは「m/0/4」です。各子鍵の深度は、自身とマスターキーとの間にある階層の数（スラッシュで区切られたレベルの数）によって示され、各子鍵のインデックスは、その階層における番号で、ゼロから始まります。「m/0/4」にある鍵は、深度が2、インデックスが4です。
 
-For example, the first hardened child of the master key has a derivation path of “m/0’”, and that key’s fifth unhardened child has a derivation path of “m/0'/4”.
+[ビットコイン改善提案](https://lostinbitcoin.sakuraweb.com/glossary/bip/)BIP32では、各親鍵から2^32個の子鍵を導出できるように定められています。番号が0から2^31-1の子鍵は非ハード化と見なされ、親の[公開鍵](https://lostinbitcoin.sakuraweb.com/glossary/public_key/)から子の公開鍵を導出できます。しかし、番号が2^31から2^32-1の子鍵については、親の公開鍵から子鍵を導出することはできません。子の[秘密鍵](https://lostinbitcoin.sakuraweb.com/glossary/private_key/)を導出できるのは親の秘密鍵のみであり、その子の秘密鍵から子の公開鍵を導出することができます。この仕様により、HD ウォレット標準の中で柔軟性が確保されています。鍵がハード化されている場合は、プライム記号「’」を付けて表記されます。
+
+たとえば、マスターキーの最初のハード化子鍵の導出パスは「m/0’」であり、その鍵の5番目の非ハード化子鍵の導出パスは「m/0’/4」です。
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
