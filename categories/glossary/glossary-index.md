@@ -113,7 +113,7 @@ taxonomy:
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/change_output/"><h5>チェンジ・アウトプット<br />Change Output</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/chain_analysis/"><h5>チェーン分析<br />Chain Analysis</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/anonymity/"><h5>匿名性<br />Anonymity</h5></a></li>
-		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/derivation_path/"><h5>導出パス<br />Derivation Path<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/derivation_path/"><h5>導出パス<br />Derivation Path</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/transaction/"><h5>トランザクション<br />Transaction</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/txid/"><h5>トランザクションID（TXID）<br />Transaction ID (txid)</h5></a></li>
 	</ul>
