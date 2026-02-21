@@ -14,19 +14,18 @@ taxonomy:
 ## Eltoo
 2,100 sats
 
-Eltoo—pronounced as “L2”—is a proposed upgrade to Bitcoin whose main goal is to improve layer two solutions, most importantly, the Lightning Network.
+Eltoo（「L2」と発音）は、主に[レイヤー](https://lostinbitcoin.sakuraweb.com/glossary/layer/)2ソリューション、特に[ライトニング・ネットワーク](https://lostinbitcoin.sakuraweb.com/glossary/lightning_network/)を改善することを目的とした、[ビットコイン](https://lostinbitcoin.sakuraweb.com/glossary//bitcoin-2/)に対する提案中のアップグレードです。
 
-Eltoo would implement these upgrades by introducing a new sighash flag called SIGHASH_NOINPUT to the Bitcoin protocol. The new sighash flag would allow a Bitcoin signature to commit to a transaction without specifying the txid of the input.
+Eltooは、SIGHASH_NOINPUTと呼ばれる新しいサイハッシュフラグを [プロトコル](https://lostinbitcoin.sakuraweb.com/glossary/protocol/)に導入することで、これらのアップグレードを実装します。この新しいサイハッシュフラグにより、入力の[トランザクションID（TXID）](https://lostinbitcoin.sakuraweb.com/glossary/txid/)を指定することなく、ビットコインの[署名](https://lostinbitcoin.sakuraweb.com/glossary/signature/)を[トランザクション](https://lostinbitcoin.sakuraweb.com/glossary/transaction/)にコミットできるようになります。
 
-Leaving the txid unspecified enables greater flexibility for transactions. It means descendant transactions can be signed before their ancestors are published to the blockchain.
+txidを指定しないことで、トランザクションにより大きな柔軟性がもたらされます。これは、親トランザクションが[ブロックチェーン](https://lostinbitcoin.sakuraweb.com/glossary/blockchain-2/) に公開される前に、子孫トランザクションへ署名できることを意味します。
 
-For example, if Alice and Bob open a Lightning channel, they first sign a funding transaction, which sends bitcoin to a 2-of-2 multisig address. Once the channel is open, Alice and Bob make a series of update transactions, which spend the funds in the 2-of-2 multisig address. When Alice and Bob wish to close the channel, they must sign a settlement transaction to do so.
+たとえば、アリスとボブが[ライトニング・チャネル](https://lostinbitcoin.sakuraweb.com/glossary/lightning_channel/)を開く場合、まずビットコインを[2-of-2](https://lostinbitcoin.sakuraweb.com/glossary/m_of_n/)の[マルチシグ](https://lostinbitcoin.sakuraweb.com/glossary/multisig/)アドレスへ送る資金調達トランザクションに署名します。チャネルが開かれた後、アリスとボブは一連の更新トランザクションを作成し、2-of-2マルチシグアドレス内の資金を使用します。アリスとボブがチャネルを閉じたい場合には、決済トランザクションに署名する必要があります。
 
-Without eltoo, each transaction in this process can only be signed once the previous one has been created. With eltoo, the settlement transaction can be signed at the same time as the funding transaction. This eliminates the need for the Lightning Network penalty, significantly simplifying the Lightning Network’s double spend protection.
+Eltooがない場合、この一連の処理における各トランザクションは、直前のトランザクションが作成されてからでなければ署名できません。Eltooを用いると、資金調達トランザクションと同時に決済トランザクションへ署名することが可能になります。これにより[ライトニング・ネットワーク・ペナルティ](https://lostinbitcoin.sakuraweb.com/glossary/lightning_network_penalty/)が不要となり、ライトニングネットワークにおける[二重支払い](https://lostinbitcoin.sakuraweb.com/glossary/double_spend/)保護が大幅に簡素化されます。
 
-Key Fact: Because eltoo would introduce a new sighash flag, it is a change to the consensus protocol, and would require a soft fork.
+重要な事実：Eltooは新しいサイハッシュフラグを導入するため、[コンセンサス](https://lostinbitcoin.sakuraweb.com/glossary/consensus/)プロトコルの変更となり、ソフトフォークが必要になります。
 
-Because eltoo would introduce a new sighash flag, it is a change to the consensus protocol, and would require a soft fork.
 
 ---
 コンテンツの著作権は [River Financial](https://river.com/) に帰属します。二次利用の可否は権利者にご確認ください。 / All rights reserved to River Financial.
