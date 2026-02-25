@@ -178,7 +178,7 @@ taxonomy:
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/mining/"><h5>マイニング<br />Mining</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/mining_pool/"><h5>マイニングプール<br />Mining Pool</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/block_reward/"><h5>マイニング報酬<br />Block Reward</h5></a></li>
-		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/merkle_tree/"><h5>マークルツリー<br />Merkle Tree<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/merkle_tree/"><h5>マークルツリー<br />Merkle Tree</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/aml/"><h5>マネーロンダリング対策 (AML)<br />Anti-Money Laundering (AML)</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/malleability/"><h5>マリアビリティ<br />Malleability</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/multisig/"><h5>マルチシグ<br />Multisig</h5></a></li>
@@ -225,7 +225,7 @@ taxonomy:
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/cpfp/"><h5>CPFP<br />Child-Pays-for-Parent (CPFP)</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/dex/"><h5>DEX (分散型取引所)<br />Decentralized Exchange (DEX)</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/ecdsa/"><h5>ECDSA<br />ECDSA</h5></a></li>
-		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/eltoo/"><h5>Eltoo<br />Eltoo<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/eltoo/"><h5>Eltoo<br />Eltoo</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/hodl/"><h5>HODL<br />HODL</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/howey_test/"><h5>Howeyテスト<br />Howey Test</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/htlc/"><h5>HTLC (ハッシュタイムロックコントラクト)<br />Hashed Time Locked Contract (HTLC)</h5></a></li>
