@@ -5,17 +5,14 @@ taxonomy:
         - glossary
 ---
 
-以下の英語の用語と説明を日本語にしてください。忠実な翻訳でなくて構いません。AI翻訳にかけて内容を理解した上で、ご自身の言葉で説明してください。
-
-日本語の提案はGitHubでプルリクエストとして受付中。プルリクエストがマージされたら、報酬をライトニング⚡️送金します。
-提案手順は[こちら](https://github.com/lostinbitcoin/categories/wiki)の「2. 用語集の用語説明の提案手順」をご参照ください。
-
 ## Point Time Locked Contract (PTLC)
 2,100 sats
 
-A Point Time Locked Contract (PTLC) is a Bitcoin transaction which locks bitcoin to a point on Bitcoin’s elliptic curve. The outputs created by this transaction type are also time locked, meaning they cannot be spent before a certain time, as denominated in UTC time or block height. PTLCs are similar to Hashed Time Locked Contracts (HTLCs), but offer privacy gains as well as fee savings. For this reason, PTLCs may replace HTLCs as the driving contract behind the Lightning Network and other off-chain protocols.
+ポイントタイムロックコントラクト(PTLC) とは、[ビットコイン](https://lostinbitcoin.sakuraweb.com/glossary/bitcoin/)の楕円曲線上のある点にビットコインをロックする[トランザクション](https://lostinbitcoin.sakuraweb.com/glossary/transaction/)です。このトランザクションタイプによって作成されるアウトプットは [タイムロック](https://lostinbitcoin.sakuraweb.com/glossary/timelock/)もされており、UTC時間または[ブロック高](https://lostinbitcoin.sakuraweb.com/glossary/block_height/)で指定された特定の時刻より前に使用することはできません。PTLCは[HTLCハッシュタイムロックコントラクト)](https://lostinbitcoin.sakuraweb.com/glossary/htlc/)に似ていますが、プライバシーの向上と[送金手数料](https://lostinbitcoin.sakuraweb.com/glossary/transaction_fee/)の節約という利点を提供します。このため、PTLCは[ライトニング・ネットワーク](https://lostinbitcoin.sakuraweb.com/glossary/lightning_network/)やその他の[オフチェーン](https://lostinbitcoin.sakuraweb.com/glossary/off_chain/)プロトコルにおける中核的なコントラクトとして、HTLCに取って代わる可能性があります。
 
-Point Time Locked Contracts will become most accessible after Schnorr signatures have been implemented on Bitcoin, which will occur when the Taproot upgrade is activated.
+ポイントタイムロックコントラクトは、[シュノア署名](https://lostinbitcoin.sakuraweb.com/glossary/schnorr_signature/)がビットコインに実装された後に最も利用しやすくなりますが、これは[タップルート](https://lostinbitcoin.sakuraweb.com/glossary/taproot/)アップグレードが有効化された際に実現します。
+
+
 
 
 ---
