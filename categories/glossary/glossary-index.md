@@ -233,7 +233,7 @@ taxonomy:
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/lnurl/"><h5>LNURL<br />LNURL</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/m_of_n/"><h5>M-of-N<br />M-of-N</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/musig/"><h5>MuSig<br />MuSig</h5></a></li>
-		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/ptlc/"><h5>PTLC (ポイントタイムロックコントラクト)<br />Point Time Locked Contract (PTLC)<br /><span class="untranslated">邦訳して 2100 sats GET!</span></h5></a></li>
+		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/ptlc/"><h5>PTLC (ポイントタイムロックコントラクト)<br />Point Time Locked Contract (PTLC)</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/rbf/"><h5>RBF (Replace-By-Fee)<br />Replace-By-Fee (RBF)</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/sat/"><h5>Sat (Sats)<br />Sat (Sats)</h5></a></li>
 		<li class="word-box"><a href="https://lostinbitcoin.sakuraweb.com/glossary/segwit/"><h5>SegWit<br />SegWit</h5></a></li>
