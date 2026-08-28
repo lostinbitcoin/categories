@@ -7,6 +7,16 @@ taxonomy:
     post_tag:
         - beginner
 ---
+
+## COLDCARDをセットアップして基本的な使い方を覚えよう！
+
+<div><button class="zap-button" data-npub="npub1uyf6ghmjy8p8mnt8jhutgh4jtjvzn7euwjf4yvpwuzwan5jl8xysnvsmuw" data-relays="wss://relay.damus.io,wss://relay.snort.social,wss://nostr.wine,wss://relay.nostr.band">Zap Me ⚡</button><a href="https://twitter.com/katakoto">@katakoto</a></div>
+
+|  ![Category](/_images/category.png)  |  ハウツー、ビットコインを安全に管理するには |  ![Tag](/_images/tag.png)  |  初級  | ![Time](/_images/timer.png)  |  25分  |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+
+*本記事は[@katakoto](https://twitter.com/katakoto) が制作、2022年9月に公開したものです。*
+
 # 🔴 いま取るべき対応(2026年8月22日現在)
 
 この記事を読んで Coldcard を購入し、セルフカストディを始めた方へ。
